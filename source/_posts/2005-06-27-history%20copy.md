@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Library announces publication of oral history, exhibit, and reception celebrating Cowell Press"
+author: Scott Rappaport
+images:
+  -
+    - file: http://currents.ucsc.edu/04-05/art/hist.05-06-27.jpg
+    - caption: "From left, Jasper Rose, William Everson, and Jack Stauffacher at a reception in the University Library's Special Collections in 1976. Photo: Andrew Neuhart"
+  -
+    - file: http://currents.ucsc.edu/04-05/art/rice.05-06-27.jpg
+    - caption: "Former UCSC student Felicia Ricein 1998 with her publication Codex Espangliensis: from Columbus to the Border Patrol Photo: Tony Grant"
+---
+
+The University Library's Regional History Project has announced the publication of _The Cowell Press and Its Legacy: 1973-2004._
+
+This oral history, conducted and edited by book-arts scholar and UCSC alumnus Gregory Graalfs, focuses on the history and impact of the legendary Cowell College press at UCSC.  
+
+The Cowell Press helped shape the careers and creative lives of many UCSC students throughout its 30-year history.   
+
+"Far more than a letterpress print shop where students could make pretty books, the press was a laboratory to explore the history of tangible words--whether printed, cut in stone, or calligraphed," noted Irene Reti, director of the Regional History Project.
+
+"In addition, the influence of 20th-century literature and visual art on typography was considered, as well as how typography was concerned with design principles that can be applied to film, architecture, and information design."  
+
+The new publication features interviews with fine printers Jack Stauffacher and George Kane, who taught at the press, as well as former students Aaron Johnson, Peggy Gotthold, Felicia Rice, and Tom Killion.   
+
+"The Cowell Press is a legacy of the unique and experimental quality of the UC Santa Cruz campus--characterized by its early use of evaluations rather than grades, the emphasis on close teacher and student contact, and the Farm & Garden project," Reti observed. "The study of bookmaking--of how thoughts and knowledge are communicated through the vital medium of a book--fit well within the parameters of such a teaching structure and the concept of the university envisioned by founders Clark Kerr and Dean McHenry."  
+
+Selected works from the Cowell Press will be on exhibit at Special Collections in UCSC's McHenry Library this summer. A reception for the oral history publication will also be held at Special Collections on Friday, July 15, from 3:30 to 5 p.m. Admission is free and open to the public. For more information about the reception or exhibit, call (831) 459-2547.  
+
+Copies of the oral history may be ordered from the Regional History Project by contacting Reti at (831) 459-2847 or [ihreti@ucsc.edu.][1] The publication is also available online at[ library.ucsc.edu/reg-hist/index.html][2] and is available for viewing at Special Collections.  
+  
+
+![][3][Email this story][4]  
+![][3][Printer-friendly version  
+][5]![][3][Return to Front Page][6]
+
+[1]: mailto:ihreti@ucsc.edu
+[2]: http://library.ucsc.edu/reg-hist/index.html
+[3]: ../../images/bulletarrow.gif
+[4]: javascript:url();document.f1.submit();
+[5]: javascript:popUp();
+[6]: http://currents.ucsc.edu/
+
+[source](http://www1.ucsc.edu/currents/04-05/06-27/06-27/history%20copy.asp "Permalink to history%20copy")

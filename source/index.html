@@ -1,0 +1,51 @@
+---
+layout: default
+title: "UCSC News archives: 1993-2002"
+---
+  
+<h1>{{ page.title }}</h1>
+
+<div class="pagination">
+<ul>
+  {% if paginator.previous_page %}
+  <li class="page-prev">
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Previous</a>
+    {% else %}
+    <a href="/page/{{paginator.previous_page}}"> Previous</a>
+    {% endif %}
+  </li>
+  {% endif %}
+
+  {% for count in (2..paginator.total_pages) %}
+  <li>
+    {% if count == paginator.page %}
+    <span class="current-page">{{count}}</span>
+    {% else %}
+    <a href="/page/{{count}}">{{count}}</a>
+    {% endif %}
+  </li>
+  {% endfor %}
+
+  {% if paginator.next_page %}
+  <li class="next-page">
+    <a href="/page/{{paginator.next_page}}">Next</a>
+  </li>
+  {% endif %}
+
+</div>
+
+<hr>
+ 
+<article class="type-system-serif">
+<ul>
+  {% for post in paginator.posts %}
+  <li>
+  <span class="date">{{ post.date | date: "%d %B %Y" }}</span> - <a href="{{ post.url }}">{{ post.title }}</a> 
+      {% if post.author %}
+      - <span class="author">{{ post.author }}</span>
+      {% endif %}
+  </li>
+{% endfor %}
+</ul>
+</article>

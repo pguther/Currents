@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Accolades"
+author: Public Information Office
+images:
+  -
+    - file: ../art/cunniffe_pass.400.JPG
+    - caption: "Slugs (left-right in white jerseys) Erin Cunniffe, Gail Readdie, and Jenny Vasil on the attack in a 3-2 win over Cal Lutheran earlier this season"
+---
+
+#### Margaret Gibson
+
+Margaret Gibson, professor of education and anthropology, has been elected to the Board of Directors of the Council on Anthropology and Education, a subsection of the American Anthropological Association (AAA), for a three-year term as member at large, beginning this month.  
+  
+Gibson joins UCSC faculty members Donald Brenneis, the new president of the AAA, and Patricia Zavella, a new member of the organization's Executive Board. The AAA is the world's largest organization of individuals interested in anthropology. Its membership exceeds 10,000, and annual meetings draw more than 5,000 people.
+
+####
+
+#### Women's soccer
+
+  
+The women's soccer team, coached for the fourth year by Paul Lester, made UCSC history again this year with a best-ever 16-2 season record. They finished the season ranked third in the West Region and 15th in the nation.  
+  
+For the first time, the women's soccer team was selected to participate in the NCAA Division III Women's Soccer National Championship Tournament. Six teams from the West Region were among those named to the 45-team tournament. The Slugs lost their first game on Saturday, November 6, in San Diego against the University of Puget Sound and are out of the tournament.
+
+####
+
+  
+![ ][1]
+
+[1]: ../../images/trans.gif
+
+[source](http://www1.ucsc.edu/currents/99-00/11-08/accolades.html "Permalink to accolades")

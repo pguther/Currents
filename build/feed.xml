@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UCSC News Archives</title>
+    <description></description>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Feb 2016 15:03:31 -0800</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 15:03:31 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+    
+      <item>
+        <title>Search</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Aug 2001 00:00:00 -0700</pubDate>
+        <link>//2001/08/search/</link>
+        <guid isPermaLink="true">//2001/08/search/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mello</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Aug 2001 00:00:00 -0700</pubDate>
+        <link>//2001/08/mello/</link>
+        <guid isPermaLink="true">//2001/08/mello/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Makenews</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Aug 2001 00:00:00 -0700</pubDate>
+        <link>//2001/08/makenews/</link>
+        <guid isPermaLink="true">//2001/08/makenews/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Macbeth</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Aug 2001 00:00:00 -0700</pubDate>
+        <link>//2001/08/macbeth/</link>
+        <guid isPermaLink="true">//2001/08/macbeth/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Budget</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Aug 2001 00:00:00 -0700</pubDate>
+        <link>//2001/08/budget/</link>
+        <guid isPermaLink="true">//2001/08/budget/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Budget</title>
+        <description>
+</description>
+        <pubDate>Tue, 31 Jul 2001 00:00:00 -0700</pubDate>
+        <link>//2001/07/budget/</link>
+        <guid isPermaLink="true">//2001/07/budget/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Workshop</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Jul 2001 00:00:00 -0700</pubDate>
+        <link>//2001/07/workshop/</link>
+        <guid isPermaLink="true">//2001/07/workshop/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Teachers</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Jul 2001 00:00:00 -0700</pubDate>
+        <link>//2001/07/teachers/</link>
+        <guid isPermaLink="true">//2001/07/teachers/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Takenote</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Jul 2001 00:00:00 -0700</pubDate>
+        <link>//2001/07/takenote/</link>
+        <guid isPermaLink="true">//2001/07/takenote/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Makenews</title>
+        <description>
+</description>
+        <pubDate>Mon, 23 Jul 2001 00:00:00 -0700</pubDate>
+        <link>//2001/07/makenews/</link>
+        <guid isPermaLink="true">//2001/07/makenews/</guid>
+        
+        
+      </item>
+    
+  
+  </channel>
+</rss>
