@@ -2,32 +2,35 @@
 layout: post
 title: "Retirements"
 author: Public Information Office
+post_id: 244
 images:
 ---
 
-The following individuals retired during the period from October 2000 through March 2001. They are listed with their position prior to retirement, their department, and their years of service (rounded to the nearest year).  
-  
-**Diane Arias,** assistant, History Department, 11 years  
-**Rolf Augustine,** associate librarian, McHenry Library, 36 years  
-**Laurie Burnham**, fiscal manager, CREDE, 19 years  
-**Carol Champion**, library assistant, McHenry Library, 30 years  
-**Donna Crook**, cashier, Bay Tree Bookstore, 10 years  
-**Lourdes Curutan**, senior custodian, Physical Plant, 12 years  
-**Lucinda English**, human resources assistant, Social Sciences Division, 12 years  
-**James Hagler,** director, Physical Plant, 28 years  
-**Peggy Hathcock**, divisional resource analyst, Natural Sciences Division, 22 years  
-**Jane King**, senior word processor, Biology Department, 9 years  
-**David Kirk,** media specialist, McHenry Library, 27 years  
-**Gaile Knarr,** program representative, University Extension, 16 years  
-**Dorothy Kukla**, clinic nurse, Cowell Student Health Center, 9 years  
-**Sharon Little**, administrative assistant, University Extension, 17 years  
-**Judith McCarrick,** assistant dean, University Extension, 17 years  
-**Linda Olson**, administrative assistant, University Extension, 11 years  
-**Arlyn Osborne,** residential life coordinator, Kresge College, 14 years  
-**George Owens,** superintendent, mechanical shop, UCO/Lick Observatory, 29 years  
-**Ann Rauen**, sales assistant, TAPS, 5 years  
-**Nora Rogers,** publications coordinator, Institute for Particle Physics, 15 years  
-**Walter Schillinger**, instrument specialist, Earth Sciences Department, 14 years  
-**Sadie Sweed**, senior custodian, Physical Plant, 15 years  
-**Frits Van Dyk,** associate development engineer, Natural Sciences Division, 32 years  
+<p>
+  The following individuals retired during the period from October 2000 through March 2001. They are listed with their position prior to retirement, their department, and their years of service (rounded to the nearest year).<br>
+  <br>
+  <b>Diane Arias,</b> assistant, History Department, 11 years<br>
+  <b>Rolf Augustine,</b> associate librarian, McHenry Library, 36 years<br>
+  <b>Laurie Burnham</b>, fiscal manager, CREDE, 19 years<br>
+  <b>Carol Champion</b>, library assistant, McHenry Library, 30 years<br>
+  <b>Donna Crook</b>, cashier, Bay Tree Bookstore, 10 years<br>
+  <b>Lourdes Curutan</b>, senior custodian, Physical Plant, 12 years<br>
+  <b>Lucinda English</b>, human resources assistant, Social Sciences Division, 12 years<br>
+  <b>James Hagler,</b> director, Physical Plant, 28 years<br>
+  <b>Peggy Hathcock</b>, divisional resource analyst, Natural Sciences Division, 22 years<br>
+  <b>Jane King</b>, senior word processor, Biology Department, 9 years<br>
+  <b>David Kirk,</b> media specialist, McHenry Library, 27 years<br>
+  <b>Gaile Knarr,</b> program representative, University Extension, 16 years<br>
+  <b>Dorothy Kukla</b>, clinic nurse, Cowell Student Health Center, 9 years<br>
+  <b>Sharon Little</b>, administrative assistant, University Extension, 17 years<br>
+  <b>Judith McCarrick,</b> assistant dean, University Extension, 17 years<br>
+  <b>Linda Olson</b>, administrative assistant, University Extension, 11 years<br>
+  <b>Arlyn Osborne,</b> residential life coordinator, Kresge College, 14 years<br>
+  <b>George Owens,</b> superintendent, mechanical shop, UCO/Lick Observatory, 29 years<br>
+  <b>Ann Rauen</b>, sales assistant, TAPS, 5 years<br>
+  <b>Nora Rogers,</b> publications coordinator, Institute for Particle Physics, 15 years<br>
+  <b>Walter Schillinger</b>, instrument specialist, Earth Sciences Department, 14 years<br>
+  <b>Sadie Sweed</b>, senior custodian, Physical Plant, 15 years<br>
+  <b>Frits Van Dyk,</b> associate development engineer, Natural Sciences Division, 32 years<br>
+  </p>
 [source](http://www1.ucsc.edu/currents/00-01/04-02/retirements.html "Permalink to retirements")

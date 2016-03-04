@@ -2,205 +2,215 @@
 layout: post
 title: "Student Achievement Awards"
 author: Public Information Office
+post_id: 415
 images:
 ---
 
-### Awards & Scholarships
+<h3>
+  <font color="#0000AA">Awards &amp; Scholarships</font>
+</h3>
+<p>
+  <b>Deans' &amp; Chancellor's Awards<br></b>These awards recognize outstanding achievements by undergraduate students within an academic division (Arts, Engineering, Humanities, Natural Sciences, Social Sciences). Ten Deans' Awards are awarded to students within each division. Of those students, three are selected to receive a Chancellor's Award. (See <b>recipients</b>, below.)<br>
+  <br>
+  <b>Steck Award<br></b>This award honors the finest senior thesis completed during an academic year. The award, which includes a $1,000 prize, is open to all academic divisions, and the winner is chosen from the Chancellor's Award candidates. (Recipient: <b>Sarah Cashman</b>; faculty mentor, Campbell Leaper)<br>
+  <br>
+  <b>Donald A. Strauss Scholarship<br></b>The Strauss Foundation awards scholarships to students from selected four-year California colleges and universities, who have demonstrated an interest in public service, have outstanding leadership potential, and are in the upper one-third of their class. (Recipient: <b>Nickie Bazell</b>)<br>
+  <br>
+  <b>Goldwater Scholarship<br></b>The Goldwater Scholarship supports and encourages excellence in education. Winners must have outstanding potential and must intend to pursue careers in mathematics, the natural sciences, or engineering. (Recipients: <b>Arend van der Zand</b> and <b>Krishna Roskin</b>)<br>
+  <br>
+  <b>Andrew Mellon Fellowship<br></b>The Mellon Fellowships are designed to help exceptionally promising students prepare for careers of teaching and scholarship in humanistic disciplines. (Recipient: <b>Anastasia Graf</b>)
+</p>
+<p>
+  <b>Huffman Prize</b><br>
+  This award, honoring the memory of David A. Huffman, founding UCSC faculty member in computer science, is given to a student for general excellence in computer engineering or computer science. (Recipient: <b>Robert Gramacy</b>)
+</p>
+<h3>
+  <font color="#0000AA">Deans' &amp; Chancellor's Award Winners</font>
+</h3>
+<p>
+  Each student received invaluable guidance from a UCSC faculty mentor. These mentors are listed in parentheses after the name of the student's project.<br>
+  (Chancellor's Award winners are listed in italics.)
+</p>
+<p>
+  <font color="#770000"><b>Division of the Arts</b></font>
+</p>
+<p>
+  <b>Kacy Boccumini</b>. The Movement of Noir from a Style to a Genre (Shelley Stamp)<br>
+  <br>
+  <b><i>Michael Boyadjian</i></b><i>.</i> Psalm CL. Composition (Hi Kyung Kim)<br>
+  <br>
+  <b>Melissa Buckley</b>. How to Make the Best Use of a Small Space: A 595 Square Foot Apartment (Virginia Jansen)<br>
+  <br>
+  <b>Elisabeth Cernadas</b>. Performing and Reprising in SSC's "Cinderella" (Paul Whitworth)<br>
+  <br>
+  <b><i>Robert Chang</i></b><i>.</i> The Work of Xu Bing: Signification in Chinese Avant-Garde Art or Productions of Chinese-ness (Jennifer Gonzalez)<br>
+  <br>
+  <b>Jamila Dunn</b>. (1) Don't Forget to Write, and (2) Le Retour a l'ordre in French Clothing, 1919-1939 (Norman Locks &amp; Donna Hunter)<br>
+  <br>
+  <b>Aron Ford</b>. Feminine Desire and Identification Cinema (Amelie Hastie)<br>
+  <br>
+  <b>Sarah Goldstein</b>. Cultural Absorption (Janet Hess)<br>
+  <br>
+  <b>Katerina Lanfranco</b>. The Interaction of Context, Viewing Rituals, and Sign Systems in the Work of Joseph Kosuth (Joyce Brodsky)<br>
+  <br>
+  <b>Lindsay Marsak</b>. Quit (Shelley Stamp)<br>
+  <br>
+  <b><i>Roberto Carlos Mendez</i></b><i>.</i> En la Calle, Bajo el Puente / On the Street, Under the Bridge (Norman Locks)<br>
+  <br>
+  <b>Angela Primavera</b>. Terminals (Jennie McDade)<br>
+  <br>
+  <b>Jordan Rose</b>. Fact and Fiction: The Vesuvian Cities, le Gout Grec, and Imitation in the Advancement of Neoclassical Theory (Donna Hunter)<br>
+  <br>
+  <b>Eric Schneeman</b>. Kyrie, Christe, and Agnus Dei (Hi Kyung Kim)<br>
+  <br>
+  <b>Radha Weaver</b>. Costume design for theater arts production "Translations" (Megs Booker)
+</p>
+<p>
+  <font color="#770000"><b>Jack Baskin School of Engineering</b></font>
+</p>
+<p>
+  <b>Alexandra Carey</b>. The Happy Assembly Class: Computer Engineering 12C/L Reader (Richard Hughey)<br>
+  <br>
+  <b>Sandra Chu</b>. The Columns Game (Linda L. Werner)<br>
+  <br>
+  <b>Alberto G. Fitting</b>. Transient Response of Thin Film SIGe Micro Coolers (Ali Shakouri)<br>
+  <br>
+  <b><i>Robert B. Gramacy</i></b><i>.</i> Shortest Paths and Network Flow Algorithms for Electrostatic Discharge Analysis (David Helmbold)<br>
+  <br>
+  <b>Mark Kendrick</b>. Kestrel Controller - Hardware Design of the Next Generation Kestrel Controller (Richard Hughey)<br>
+  <br>
+  <b><i>Brian Parker</i></b><i>.</i> Dr. Mario Pill Placement Design (Martine Schlag)<br>
+  <br>
+  <b>Krishna M. Roskin</b>. Topology Preserving Data Compression (Suresh K. Lodha)<br>
+  <br>
+  <b>Fred (Ricky) Shults III</b>. The Columns Game (Linda L. Werner)<br>
+  <br>
+  <b>Nathan Thompson-Amato</b>. The Columns Game (Linda L. Werner)<br>
+  <br>
+  <b><i>Ryan Weber</i></b><i>.</i> Perceptrons with Kernels for Secondary Protein Structure Prediction (Kevin Karplus &amp; Manfred Warmuth)<br>
+  <br>
+  <b>Bryan Wells</b>. The Columns Game (Linda L. Werner)
+</p>
+<p>
+  <font color="#770000"><b>Division of the Humanities</b></font>
+</p>
+<p>
+  <b>Jessica Victoria Brice</b>. News Writing Portfolio--A Compilation of Articles Representing a Variety of Different Formats Appearing in the News (Conn Hallinan)<br>
+  <br>
+  <b>Jacob Daly</b>. Hume and Utilitarianism (Daniel Guevara)<br>
+  <br>
+  <b>Kevin Delapp</b>. Anti-Supererogationism: The Moral Mandate for Exemplary Moral Action (Ellen Suckiel)<br>
+  <br>
+  <b><i>Leah Hirsch</i></b><i>.</i> Just Say No to C.R.A.C.K.!: Reproductive Rights on the Front Lines of the Drug War (Dana Frank)<br>
+  <br>
+  <b>Jessica May Howell</b>. Seeing Blind (Peter Gizzi)<br>
+  <br>
+  <b>Blake Johnson</b>. William Blake's Early Prophetic Writings and the Age of Revolution (Jonathan Beecher)<br>
+  <br>
+  <b>Maeve Miller</b>. Behold the Image of Death: The Black Death and the Failure of the Medieval Church (Cynthia L. Polecritti)<br>
+  <br>
+  <b>Juno (Rheana) Parrenas</b>. Masochism and Sadism of Las Filipinas in Jose Rizal's "Noli Me Tangere" (Carla Freccero)<br>
+  <br>
+  <b>Sonya Julene Romanoff</b>. Persistent Pathologies: From Nineteenth Century Sexology to Twentieth Century AIDS (Radhika Mongia)<br>
+  <br>
+  <b><i>Sarah Simmons</i></b><i>.</i> The Cinema of Julio Medem (Paco Ramirez)
+</p>
+<p>
+  <font color="#770000"><b>Division of Natural Sciences</b></font>
+</p>
+<p>
+  <b>Robin Ball</b>. Inactivation of the Proteolipid Subunits of Vacuolar H+-ATPase in <i>Neurospora crassa</i> (Barry Bowman)<br>
+  <br>
+  <b><i>Sasha Carter</i></b><i>.</i> West Antarctic Ice Stream Till Eroded from the Trans-Antarctic Mountains: Geochemical Evidence from a Decade of Drill Cores (Slawek Tulaczyk)<br>
+  <br>
+  <b>Yu-Ting Chen</b>. Generation and Analysis of Chemoreceptor Mutant: TlpB (Karen Ottemann)<br>
+  <br>
+  <b>Ian Dobbs-Dixon</b>. Axi-Symmetric Accretion Disks: The Magnetic Field Structure and Consequences (Gary Glatzmaier)<br>
+  <br>
+  <b>Robin Dunkin</b>. A Comparison of the Thermal Features of Sea Otter, River Otter, and Mink Pelage: Differential Effect of Salt Water and Fresh Water Immersion (Terrie Williams)<br>
+  <br>
+  <b><i>Katherine Hayden</i></b><i>.</i> Plasticity in Cyanogenesis of Trifolium repens L: Inducibility, Fitness Costs, and Variable Expression (Ingrid Parker)<br>
+  <br>
+  <b>Amanda Mayes</b>. Impacts of Climate Changes on California's Water Resources: Stream Flow and Precipitation (Lisa Sloan)<br>
+  <br>
+  <b>Ian Rowen</b>. A Tour of the Hyperreals: An Introduction to Nonstandard Analysis (Debra Lewis)<br>
+  <br>
+  <b>Joel Silver</b>. Synthesis of an Acid-Cleavable Linder Molecule (Bakthan Singaram)<br>
+  <br>
+  <b><i>Shelley Wright</i></b><i>.</i> An Optical SETI Detector for Lick Observatory (Remington Stone)
+</p>
+<p>
+  <font color="#770000"><b>Division of Social Sciences</b></font>
+</p>
+<p>
+  <b>Peter Adeney</b>. Forgetting the Body: The Impossible Dream of the Information Age (Melanie DuPuis)<br>
+  <br>
+  <b><i>Sarah Cashman</i></b><i>.</i> Predictors of Friendship Quality and Supportive Communication Among Young Adults (Campbell Leaper)<br>
+  <br>
+  <b><i>Juli Chamberlin</i></b><i>.</i> A Personal and Political Ethnography of Place: The Story of Gray Whale Ranch (Anna Tsing)<br>
+  <br>
+  <b>C. Philip Coffin</b>. A Nature Guide to Berkeley Tuolumne Camp (Jennifer Anderson)<br>
+  <br>
+  <b>Brad Epperly</b>. The Strategic Defense Initiative and Deterrence (Michael Urban)<br>
+  <br>
+  <b>Sean Fox</b>. The Impact of Asymmetric Benefit Distributions on the Provision Rate of Public Goods (Daniel Friedman)<br>
+  <br>
+  <b><i>Janet Inouye</i></b><i>.</i> Plowing Ahead: Working Social Concerns into the Roots of the Sustainable Agriculture Movement (John Borrego)<br>
+  <br>
+  <b>Paul Myers</b>. Social Journalism: Six Photographic Essays with Supporting Documents (Nancy Chen)<br>
+  <br>
+  <b>Kathryn Owen</b>. Bicultural Friends: When Group Membership Salience Matters (Stephen Wright)<br>
+  <br>
+  <b><i>Monica Rudestam</i></b><i>.</i> A Personal and Political Ethnography of Place: The Story of Gray Whale Ranch (Anna Tsing)<br>
+  <br>
+  <b>Delcianna Winders</b>. Confronting the Privatization of Public Forums: Free Speech, State Action, and Private Property (Jeremy Elkins)
+</p>
+<h3>
+  <font color="#0000AA">Other Awards</font>
+</h3>
+<p>
+  The following is a listing of other awards and scholarships won by the UCSC students:<i><br>
+  <br></i>AAUC Research Award<br>
+  ArtsBridge Special Merit Scholarship<br>
+  Holly Day Barnett Memorial Scholarship<br>
+  California Mineralogical Scholarship<br>
+  C.DELSI (Center for Dynamics and Evolution of the Land-Sea Interface) Research Award<br>
+  James Stuart Chanley Scholarship<br>
+  CODEP (Center for Origin, Dynamics and Evolution of Planets) Travel &amp; Research Grant<br>
+  Richard Cooley Award<br>
+  Grosvenor Cooper Memorial Scholarship<br>
+  CUIP (Chancellor's Undergraduate Internship Program)<br>
+  Dante Essay Prize<br>
+  Draznin Memorial Scholarship<br>
+  Eltinge Music Endowment<br>
+  Fridley Scholarship<br>
+  Terence Freitas Award<br>
+  Gates Millennium Award<br>
+  Geoscientist's Outstanding Woman Geologist<br>
+  HUGRA (Humanities Undergraduate Research Award)<br>
+  Kretschmer Music &amp; String Competition<br>
+  Kretschmer Music Scholarship<br>
+  Blanche Mackenzie Scholarship<br>
+  Kathryn Merriam Education Scholarship<br>
+  Priscilla Newton Fellowship<br>
+  Nancy Pascal Field-Study Scholarship<br>
+  Karl S. Pister LOA (Leadership Opportunity Award)<br>
+  Porter College Scholarship<br>
+  PUF (President's Undergraduate Fellowship)<br>
+  Regents Scholar<br>
+  Skolnick Scholarship<br>
+  Amy Beth Snader Memorial Scholarship<br>
+  Surfrider/Skye Ksander Memorial Scholarship<br>
+  Laurie Switzer Memorial Music Scholarship<br>
+  Kenneth &amp; Ann Thimann Scholarship<br>
+  UCSC Endowment for Classical Music<br>
+  UCSC Music Department String Competition<br>
+  Weber/Holt Scholarship<br>
+  J.W.T. Youngs Mathematics Prize
+</p>
+<p>
+  <br>
+  <br>
 
-**Deans' & Chancellor's Awards  
-**These awards recognize outstanding achievements by undergraduate students within an academic division (Arts, Engineering, Humanities, Natural Sciences, Social Sciences). Ten Deans' Awards are awarded to students within each division. Of those students, three are selected to receive a Chancellor's Award. (See **recipients**, below.)  
-  
-**Steck Award  
-**This award honors the finest senior thesis completed during an academic year. The award, which includes a $1,000 prize, is open to all academic divisions, and the winner is chosen from the Chancellor's Award candidates. (Recipient: **Sarah Cashman**; faculty mentor, Campbell Leaper)  
-  
-**Donald A. Strauss Scholarship  
-**The Strauss Foundation awards scholarships to students from selected four-year California colleges and universities, who have demonstrated an interest in public service, have outstanding leadership potential, and are in the upper one-third of their class. (Recipient: **Nickie Bazell**)  
-  
-**Goldwater Scholarship  
-**The Goldwater Scholarship supports and encourages excellence in education. Winners must have outstanding potential and must intend to pursue careers in mathematics, the natural sciences, or engineering. (Recipients: **Arend van der Zand** and **Krishna Roskin**)  
-  
-**Andrew Mellon Fellowship  
-**The Mellon Fellowships are designed to help exceptionally promising students prepare for careers of teaching and scholarship in humanistic disciplines. (Recipient: **Anastasia Graf**)
-
-**Huffman Prize**  
-This award, honoring the memory of David A. Huffman, founding UCSC faculty member in computer science, is given to a student for general excellence in computer engineering or computer science. (Recipient: **Robert Gramacy**)
-
-### Deans' & Chancellor's Award Winners
-
-Each student received invaluable guidance from a UCSC faculty mentor. These mentors are listed in parentheses after the name of the student's project.  
-(Chancellor's Award winners are listed in italics.)
-
-**Division of the Arts**
-
-**Kacy Boccumini**. The Movement of Noir from a Style to a Genre (Shelley Stamp)  
-  
-**_Michael Boyadjian_**_._ Psalm CL. Composition (Hi Kyung Kim)  
-  
-**Melissa Buckley**. How to Make the Best Use of a Small Space: A 595 Square Foot Apartment (Virginia Jansen)  
-  
-**Elisabeth Cernadas**. Performing and Reprising in SSC's "Cinderella" (Paul Whitworth)  
-  
-**_Robert Chang_**_._ The Work of Xu Bing: Signification in Chinese Avant-Garde Art or Productions of Chinese-ness (Jennifer Gonzalez)  
-  
-**Jamila Dunn**. (1) Don't Forget to Write, and (2) Le Retour a l'ordre in French Clothing, 1919-1939 (Norman Locks & Donna Hunter)  
-  
-**Aron Ford**. Feminine Desire and Identification Cinema (Amelie Hastie)  
-  
-**Sarah Goldstein**. Cultural Absorption (Janet Hess)  
-  
-**Katerina Lanfranco**. The Interaction of Context, Viewing Rituals, and Sign Systems in the Work of Joseph Kosuth (Joyce Brodsky)  
-  
-**Lindsay Marsak**. Quit (Shelley Stamp)  
-  
-**_Roberto Carlos Mendez_**_._ En la Calle, Bajo el Puente / On the Street, Under the Bridge (Norman Locks)  
-  
-**Angela Primavera**. Terminals (Jennie McDade)  
-  
-**Jordan Rose**. Fact and Fiction: The Vesuvian Cities, le Gout Grec, and Imitation in the Advancement of Neoclassical Theory (Donna Hunter)  
-  
-**Eric Schneeman**. Kyrie, Christe, and Agnus Dei (Hi Kyung Kim)  
-  
-**Radha Weaver**. Costume design for theater arts production "Translations" (Megs Booker)
-
-**Jack Baskin School of Engineering**
-
-**Alexandra Carey**. The Happy Assembly Class: Computer Engineering 12C/L Reader (Richard Hughey)  
-  
-**Sandra Chu**. The Columns Game (Linda L. Werner)  
-  
-**Alberto G. Fitting**. Transient Response of Thin Film SIGe Micro Coolers (Ali Shakouri)  
-  
-**_Robert B. Gramacy_**_._ Shortest Paths and Network Flow Algorithms for Electrostatic Discharge Analysis (David Helmbold)  
-  
-**Mark Kendrick**. Kestrel Controller - Hardware Design of the Next Generation Kestrel Controller (Richard Hughey)  
-  
-**_Brian Parker_**_._ Dr. Mario Pill Placement Design (Martine Schlag)  
-  
-**Krishna M. Roskin**. Topology Preserving Data Compression (Suresh K. Lodha)  
-  
-**Fred (Ricky) Shults III**. The Columns Game (Linda L. Werner)  
-  
-**Nathan Thompson-Amato**. The Columns Game (Linda L. Werner)  
-  
-**_Ryan Weber_**_._ Perceptrons with Kernels for Secondary Protein Structure Prediction (Kevin Karplus & Manfred Warmuth)  
-  
-**Bryan Wells**. The Columns Game (Linda L. Werner)
-
-**Division of the Humanities**
-
-**Jessica Victoria Brice**. News Writing Portfolio--A Compilation of Articles Representing a Variety of Different Formats Appearing in the News (Conn Hallinan)  
-  
-**Jacob Daly**. Hume and Utilitarianism (Daniel Guevara)  
-  
-**Kevin Delapp**. Anti-Supererogationism: The Moral Mandate for Exemplary Moral Action (Ellen Suckiel)  
-  
-**_Leah Hirsch_**_._ Just Say No to C.R.A.C.K.!: Reproductive Rights on the Front Lines of the Drug War (Dana Frank)  
-  
-**Jessica May Howell**. Seeing Blind (Peter Gizzi)  
-  
-**Blake Johnson**. William Blake's Early Prophetic Writings and the Age of Revolution (Jonathan Beecher)  
-  
-**Maeve Miller**. Behold the Image of Death: The Black Death and the Failure of the Medieval Church (Cynthia L. Polecritti)  
-  
-**Juno (Rheana) Parrenas**. Masochism and Sadism of Las Filipinas in Jose Rizal's "Noli Me Tangere" (Carla Freccero)  
-  
-**Sonya Julene Romanoff**. Persistent Pathologies: From Nineteenth Century Sexology to Twentieth Century AIDS (Radhika Mongia)  
-  
-**_Sarah Simmons_**_._ The Cinema of Julio Medem (Paco Ramirez)
-
-**Division of Natural Sciences**
-
-**Robin Ball**. Inactivation of the Proteolipid Subunits of Vacuolar H -ATPase in _Neurospora crassa_ (Barry Bowman)  
-  
-**_Sasha Carter_**_._ West Antarctic Ice Stream Till Eroded from the Trans-Antarctic Mountains: Geochemical Evidence from a Decade of Drill Cores (Slawek Tulaczyk)  
-  
-**Yu-Ting Chen**. Generation and Analysis of Chemoreceptor Mutant: TlpB (Karen Ottemann)  
-  
-**Ian Dobbs-Dixon**. Axi-Symmetric Accretion Disks: The Magnetic Field Structure and Consequences (Gary Glatzmaier)  
-  
-**Robin Dunkin**. A Comparison of the Thermal Features of Sea Otter, River Otter, and Mink Pelage: Differential Effect of Salt Water and Fresh Water Immersion (Terrie Williams)  
-  
-**_Katherine Hayden_**_._ Plasticity in Cyanogenesis of Trifolium repens L: Inducibility, Fitness Costs, and Variable Expression (Ingrid Parker)  
-  
-**Amanda Mayes**. Impacts of Climate Changes on California's Water Resources: Stream Flow and Precipitation (Lisa Sloan)  
-  
-**Ian Rowen**. A Tour of the Hyperreals: An Introduction to Nonstandard Analysis (Debra Lewis)  
-  
-**Joel Silver**. Synthesis of an Acid-Cleavable Linder Molecule (Bakthan Singaram)  
-  
-**_Shelley Wright_**_._ An Optical SETI Detector for Lick Observatory (Remington Stone)
-
-**Division of Social Sciences**
-
-**Peter Adeney**. Forgetting the Body: The Impossible Dream of the Information Age (Melanie DuPuis)  
-  
-**_Sarah Cashman_**_._ Predictors of Friendship Quality and Supportive Communication Among Young Adults (Campbell Leaper)  
-  
-**_Juli Chamberlin_**_. _A Personal and Political Ethnography of Place: The Story of Gray Whale Ranch (Anna Tsing)  
-  
-**C. Philip Coffin**. A Nature Guide to Berkeley Tuolumne Camp (Jennifer Anderson)  
-  
-**Brad Epperly**. The Strategic Defense Initiative and Deterrence (Michael Urban)  
-  
-**Sean Fox**. The Impact of Asymmetric Benefit Distributions on the Provision Rate of Public Goods (Daniel Friedman)  
-  
-**_Janet Inouye_**_._ Plowing Ahead: Working Social Concerns into the Roots of the Sustainable Agriculture Movement (John Borrego)  
-  
-**Paul Myers**. Social Journalism: Six Photographic Essays with Supporting Documents (Nancy Chen)  
-  
-**Kathryn Owen**. Bicultural Friends: When Group Membership Salience Matters (Stephen Wright)  
-  
-**_Monica Rudestam_**_._ A Personal and Political Ethnography of Place: The Story of Gray Whale Ranch (Anna Tsing)  
-  
-**Delcianna Winders**. Confronting the Privatization of Public Forums: Free Speech, State Action, and Private Property (Jeremy Elkins)
-
-### Other Awards
-
-The following is a listing of other awards and scholarships won by the UCSC students:_  
-  
-_AAUC Research Award  
-ArtsBridge Special Merit Scholarship  
-Holly Day Barnett Memorial Scholarship  
-California Mineralogical Scholarship  
-C.DELSI (Center for Dynamics and Evolution of the Land-Sea Interface) Research Award  
-James Stuart Chanley Scholarship  
-CODEP (Center for Origin, Dynamics and Evolution of Planets) Travel & Research Grant  
-Richard Cooley Award  
-Grosvenor Cooper Memorial Scholarship  
-CUIP (Chancellor's Undergraduate Internship Program)  
-Dante Essay Prize  
-Draznin Memorial Scholarship  
-Eltinge Music Endowment  
-Fridley Scholarship  
-Terence Freitas Award  
-Gates Millennium Award  
-Geoscientist's Outstanding Woman Geologist  
-HUGRA (Humanities Undergraduate Research Award)  
-Kretschmer Music & String Competition  
-Kretschmer Music Scholarship  
-Blanche Mackenzie Scholarship  
-Kathryn Merriam Education Scholarship  
-Priscilla Newton Fellowship  
-Nancy Pascal Field-Study Scholarship  
-Karl S. Pister LOA (Leadership Opportunity Award)  
-Porter College Scholarship  
-PUF (President's Undergraduate Fellowship)  
-Regents Scholar  
-Skolnick Scholarship  
-Amy Beth Snader Memorial Scholarship  
-Surfrider/Skye Ksander Memorial Scholarship  
-Laurie Switzer Memorial Music Scholarship  
-Kenneth & Ann Thimann Scholarship  
-UCSC Endowment for Classical Music  
-UCSC Music Department String Competition  
-Weber/Holt Scholarship  
-J.W.T. Youngs Mathematics Prize
-
-  
-  
-[Return to Front Page][1] ![ ][2]
-
-[1]: ../../index.html
-[2]: ../../images/trans.gif
-
+</p>
 [source](http://www1.ucsc.edu/currents/00-01/06-04/achievement.html "Permalink to achievement")

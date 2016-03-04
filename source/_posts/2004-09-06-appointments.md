@@ -2,22 +2,24 @@
 layout: post
 title: "appointments"
 author: Public Information Office
+post_id: 4114
 images:
-  -
-    - file: ../art/thorsett_stephen.120.jpg
-    - caption: "Stephen Thorsett"
+  - file: http://www1.ucsc.edu/currents/04-05/art/thorsett_stephen.120.jpg
+    image_id: 4113
+    caption: "Stephen Thorsett"
 ---
 
-Appointments
+[caption id="attachment_4113" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2004/09/thorsett_stephen.120.jpg"><img class="size-full wp-image-4113" src="http://localhost/mysite/wp-content/uploads/2004/09/thorsett_stephen.120.jpg" alt="Stephen Thorsett" width="120" height="173" /></a>Stephen Thorsett[/caption]
+<p class="pagehead">
+  Appointments
+</p>
+<p class="sectionhead">
+  <strong>Stephen Thorsett named associate dean of physical and biological sciences</strong>
+</p>
+<p>
+  Stephen Thorsett, professor and chair of astronomy and astrophysics, has been appointed to the position of associate dean for programs in the Division of Physical and Biological Sciences. His responsibilities will include providing divisional leadership on curricular issues, working with representatives from each department to ensure that courses are being taught as effectively and efficiently as possible, that service courses are meeting students' needs, and the curriculum across the division is coordinated appropriately. Thorsett will also serve as acting dean in the absence of dean David Kliger, represent the division at various functions and occasional speaking engagements, and participate in addressing programmatic issues that may arise.
+</p>Thorsett succeeds Russel Flegal, professor of environmental toxicology, who served as associate dean for the past several years and will be on sabatical leave during 2004-05.
+<p>
 
-**Stephen Thorsett named associate dean of physical and biological sciences**
-
-Stephen Thorsett, professor and chair of astronomy and astrophysics, has been appointed to the position of associate dean for programs in the Division of Physical and Biological Sciences. His responsibilities will include providing divisional leadership on curricular issues, working with representatives from each department to ensure that courses are being taught as effectively and efficiently as possible, that service courses are meeting students' needs, and the curriculum across the division is coordinated appropriately. Thorsett will also serve as acting dean in the absence of dean David Kliger, represent the division at various functions and occasional speaking engagements, and participate in addressing programmatic issues that may arise.
-
-Thorsett succeeds Russel Flegal, professor of environmental toxicology, who served as associate dean for the past several years and will be on sabatical leave during 2004-05.
-
-[Return to Front Page][1]
-
-[1]: http://currents.ucsc.edu/
-
+</p>
 [source](http://www1.ucsc.edu/currents/04-05/09-06/appointments.html "Permalink to appointments")

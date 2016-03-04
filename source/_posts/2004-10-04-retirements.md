@@ -2,109 +2,156 @@
 layout: post
 title: "Retirements"
 author: Public Information Department
+post_id: 4207
 images:
 ---
 
-The following individuals retired during the months of May, June, July, and August. Retirees are listed with their position prior to retirement and their years of service (rounded to the nearest year). Thanks to all for their many years of service to the university.
+<a name="content" id="content"></a>
+<p>
+  The following individuals retired during the months of May, June, July, and August. Retirees are listed with their position prior to retirement and their years of service (rounded to the nearest year). Thanks to all for their many years of service to the university.
+</p>
+<p>
+  <b>Wanda Amos,</b> manager, Student Housing Services, 17 years
+</p>
+<p>
+  <b>Stephen Ayraud,</b> principal engineer, Physical Planning and Construction, 19 years
+</p><b>June Baker,</b>
+<p>
+  <b>Mary Blackmon,</b> business manager, Child Care Services, 8 years
+</p>
+<p>
+  <b>Peter Bolanos,</b> senior custodian, Physical Plant, 29 years
+</p>
+<p>
+  <b>Lowell Burton</b>, senior building maintenance supervisor, Colleges and University Housing Services, 28 years
+</p>
+<p>
+  <b>Victoria Case,</b> administrative specialist, Physical and Biological Sciences, 16 years
+</p>
+<p>
+  <b>Carolyn Crandall,</b> academic preceptor, Kresge College, 22 years
+</p>
+<p>
+  <b>Robert Cummins,</b> principal technician, Environmental Health and Safety, 17 years
+</p>
+<p>
+  <b>Ruth Ann Cummins,</b> data management assistant, Financial Aid Office, 8 years
+</p>
+<p>
+  <b>Susan Curtis,</b> management services officer, Physical and Biological Sciences, 29 years
+</p>
+<p>
+  <b>Carol Douglas-Hammer,</b> assistant director, Student Housing Services, 24 years
+</p>
+<p>
+  <b>Robin Drury</b>, academic coordinator, Central California Writing Project, 13 years
+</p>
+<p>
+  <b>Miriam Ellis,</b> lecturer in French, 25 years
+</p>
+<p>
+  <b>Mary Lou Evaro</b>, assistant, Bay Tree Bookstore, 9 years
+</p>
+<p>
+  <b>Patricia Fitchen,</b> lecturer in French, 25 years
+</p>
+<p>
+  <b>Stanley Flatte,</b> professor of physics, 34 years
+</p>
+<p>
+  <b>Donna Hagler,</b> undergraduate adviser, Sociology Department, 26 years
+</p>
+<p>
+  <b>Conn Hallinan,</b> lecturer in journalism, 15 years
+</p>
+<p>
+  <b>Susie Jackson</b>, senior collections representative, Accounts Receivable, 5 years
+</p>
+<p>
+  <b>Randall Jarrell,</b> senior editor and head of the Regional History Project, McHenry Library, 16 years
+</p>
+<p>
+  <b>Antoni Kubis</b>, senior custodian, Physical Plant, 19 years
+</p>
+<p>
+  <b>Bruce Larkin,</b> professor of politics, 38 years
+</p>
+<p>
+  <b>Judith Martin-Hoyt,</b> compensation manager, Financial Safety, 26 years
+</p>
+<p>
+  <b>Susan McBride,</b> regional employment specialist, Career Center, 23 years
+</p>
+<p>
+  <b>James Membrez,</b> head copy cataloging, McHenry Library, 23 years
+</p>
+<p>
+  <b>Larry Millsap</b>, librarian and head of technical services, McHenry Library, 29 years
+</p>
+<p>
+  <b>Juanita Nama,</b> department manager, Environmental Studies Department, 33 years
+</p>
+<p>
+  <b>Gabriel Perez,</b> groundskeeper, Physical Plant, 21 years
+</p>
+<p>
+  <b>Jacqueline Raaye,</b> assistant, Counseling and Psychological Services, 15 years
+</p>
+<p>
+  <b>Alex Reveles,</b> college administrative officer, Crown and Merrill Colleges, 29 years
+</p>
+<p>
+  <b>Cherie Reveles,</b> business operations director, Central Business Office, 21 years
+</p>
+<p>
+  <b>Cheryl Ridgway,</b> administrative analyst, Humanities Division, 23 years
+</p>
+<p>
+  <b>Elizabeth (Betty) Rush</b>, assistant director, Planning and Budget Operations, 12 years
+</p>
+<p>
+  <b>James Ryan</b>, programmer analyst, Colleges and University Housing Services, 17 years
+</p>
+<p>
+  <b>Frank J. Talamantes,</b> professor of biology, 30 years
+</p>
+<p>
+  <b>R. Michael Tanner,</b> professor, Computer Science Department, 30 years
+</p>
+<p>
+  <b>Stephen Taylor,</b> material planner, Physical Plant, 24 years
+</p>
+<p>
+  <b>Gudmundur Thordarson,</b> associate research biologist, Biology Department, 20 years
+</p>
+<p>
+  <b>Corinne Kim Tyler</b>, department manager, Computer Science Department, 21 years
+</p>
+<p>
+  <b>Richard Vasquez,</b> regional coordinator, UC College Prep Initiative, 26 years
+</p>
+<p>
+  <b>Patricia (Trish) Virgadamo,</b> benefits analyst, Benefits Office, 14 years
+</p>
+<p>
+  <b>Victoria Welborn</b>, librarian, University Library, 14 years
+</p>
+<p>
+  <b>Andrea Welles,</b> undergraduate adviser, Environmental Studies Department, 12 years
+</p>
+<p>
+  <b>Sharon Westlake,</b> supervisor of the serials unit, McHenry Library, 35 years
+</p>
+<p>
+  <b>W. Todd Wipke,</b> professor of chemistry, 28 years
+</p>
+<p>
+  <b>Judith Yung,</b> professor of American studies, 14 years
+</p><br>
+<form>
 
-**Wanda Amos,** manager, Student Housing Services, 17 years
+</form>
+<p>
 
-**Stephen Ayraud,** principal engineer, Physical Planning and Construction, 19 years
-
-**June Baker,**
-
-**Mary Blackmon,** business manager, Child Care Services, 8 years
-
-**Peter Bolanos,** senior custodian, Physical Plant, 29 years
-
-**Lowell Burton**, senior building maintenance supervisor, Colleges and University Housing Services, 28 years
-
-**Victoria Case,** administrative specialist, Physical and Biological Sciences, 16 years
-
-**Carolyn Crandall,** academic preceptor, Kresge College, 22 years
-
-**Robert Cummins,** principal technician, Environmental Health and Safety, 17 years
-
-**Ruth Ann Cummins,** data management assistant, Financial Aid Office, 8 years
-
-**Susan Curtis,** management services officer, Physical and Biological Sciences, 29 years
-
-**Carol Douglas-Hammer,** assistant director, Student Housing Services, 24 years
-
-**Robin Drury**, academic coordinator, Central California Writing Project, 13 years
-
-**Miriam Ellis,** lecturer in French, 25 years
-
-**Mary Lou Evaro**, assistant, Bay Tree Bookstore, 9 years
-
-**Patricia Fitchen,** lecturer in French, 25 years
-
-**Stanley Flatte,** professor of physics, 34 years
-
-**Donna Hagler,** undergraduate adviser, Sociology Department, 26 years
-
-**Conn Hallinan,** lecturer in journalism, 15 years
-
-**Susie Jackson**, senior collections representative, Accounts Receivable, 5 years
-
-**Randall Jarrell,** senior editor and head of the Regional History Project, McHenry Library, 16 years
-
-**Antoni Kubis**, senior custodian, Physical Plant, 19 years
-
-**Bruce Larkin,** professor of politics, 38 years
-
-**Judith Martin-Hoyt,** compensation manager, Financial Safety, 26 years
-
-**Susan McBride,** regional employment specialist, Career Center, 23 years
-
-**James Membrez,** head copy cataloging, McHenry Library, 23 years
-
-**Larry Millsap**, librarian and head of technical services, McHenry Library, 29 years
-
-**Juanita Nama,** department manager, Environmental Studies Department, 33 years
-
-**Gabriel Perez,** groundskeeper, Physical Plant, 21 years
-
-**Jacqueline Raaye, **assistant, Counseling and Psychological Services, 15 years
-
-**Alex Reveles, **college administrative officer, Crown and Merrill Colleges, 29 years
-
-**Cherie Reveles,** business operations director, Central Business Office, 21 years
-
-**Cheryl Ridgway,** administrative analyst, Humanities Division, 23 years
-
-**Elizabeth (Betty) Rush**, assistant director, Planning and Budget Operations, 12 years
-
-**James Ryan**, programmer analyst, Colleges and University Housing Services, 17 years
-
-**Frank J. Talamantes,** professor of biology, 30 years
-
-**R. Michael Tanner,** professor, Computer Science Department, 30 years
-
-**Stephen Taylor,** material planner, Physical Plant, 24 years
-
-**Gudmundur Thordarson,** associate research biologist, Biology Department, 20 years
-
-**Corinne Kim Tyler**, department manager, Computer Science Department, 21 years
-
-**Richard Vasquez,** regional coordinator, UC College Prep Initiative, 26 years
-
-**Patricia (Trish) Virgadamo,** benefits analyst, Benefits Office, 14 years
-
-**Victoria Welborn**, librarian, University Library, 14 years
-
-**Andrea Welles,** undergraduate adviser, Environmental Studies Department, 12 years
-
-**Sharon Westlake,** supervisor of the serials unit, McHenry Library, 35 years
-
-**W. Todd Wipke,** professor of chemistry, 28 years
-
-**Judith Yung,** professor of American studies, 14 years
-
-  
-
-[Return to Front Page][1]
-
-[1]: http://currents.ucsc.edu/
-
+</p>
 [source](http://www1.ucsc.edu/currents/04-05/10-04/retirements.asp "Permalink to retirements")

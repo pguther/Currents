@@ -2,21 +2,25 @@
 layout: post
 title: "Publications"
 author: Public Information Office
+post_id: 1466
 images:
 ---
 
-#### **Patricia Zavella**
-
-![book cover for Telling to Live: Latina Feminist Testimonies][1]Patricia Zavella, a professor of community studies, has contributed to a new collection of feminist narratives by Latinas in higher education. The book, _Telling to Live: Latina Feminist Testimonios_ (Durham: Duke University Press, 2001) by the Latina Feminist Group, presents the stories of a diverse intergenerational group of 18 Latina feminists.
-
-In stories, poems, memoirs, and reflections, the authors describe their struggles, often against great odds, to become "credentialed creative thinkers and writers" and to succeed in academia. The book reveals the relationships of sustenance and creativity that sustained them along the way.
-
-This diverse group of Puerto Rican, Chicana, Native American, Mexican, Cuban, Dominican, Sephardic, Central American, and women of mixed heritage embodies the vision that compelled Latina feminists to find common ground. The authors reflect varied class, religious, ethnic, racial, linguistic, sexual, and national backgrounds as they reclaim _testimonio_ as a tool for theorizing the complexities of Latina identities.
-
-In addition to Zavella, contributors include: Luz del Alba Acevedo, Norma Alarcon, Celia Alvarez, Ruth Behar, Rina Benmayor, Norma E. Cantu, Daisy Cocco De Filippis, Gloria Holguin Cuadraz, Liza Fiol-Matta, Yvette Flores-Ortiz, Ines Hernandez-Avila, Aurora Levins Morales, Clara Lomas, Iris Ofelia Lopez, Mirtha N. Quintanales, Eliana Rivero, and Caridad Souza.
-
-[Return to Front Page][2]
-[1]: ../art/zavella_bookcover.180.jpg
-[2]: ../../index.html
+<h4>
+  <b>Patricia Zavella</b>
+</h4>
+<p>
+  <img align="right" alt="book cover for Telling to Live: Latina Feminist Testimonies" border="1" height="285" hspace="5" src="../art/zavella_bookcover.180.jpg" vspace="5" width="180">Patricia Zavella, a professor of community studies, has contributed to a new collection of feminist narratives by Latinas in higher education. The book, <i>Telling to Live: Latina Feminist Testimonios</i> (Durham: Duke University Press, 2001) by the Latina Feminist Group, presents the stories of a diverse intergenerational group of 18 Latina feminists.
+</p>
+<p>
+  In stories, poems, memoirs, and reflections, the authors describe their struggles, often against great odds, to become "credentialed creative thinkers and writers" and to succeed in academia. The book reveals the relationships of sustenance and creativity that sustained them along the way.
+</p>
+<p>
+  This diverse group of Puerto Rican, Chicana, Native American, Mexican, Cuban, Dominican, Sephardic, Central American, and women of mixed heritage embodies the vision that compelled Latina feminists to find common ground. The authors reflect varied class, religious, ethnic, racial, linguistic, sexual, and national backgrounds as they reclaim <i>testimonio</i> as a tool for theorizing the complexities of Latina identities.
+</p>
+<p>
+  In addition to Zavella, contributors include: Luz del Alba Acevedo, Norma Alarcon, Celia Alvarez, Ruth Behar, Rina Benmayor, Norma E. Cantu, Daisy Cocco De Filippis, Gloria Holguin Cuadraz, Liza Fiol-Matta, Yvette Flores-Ortiz, Ines Hernandez-Avila, Aurora Levins Morales, Clara Lomas, Iris Ofelia Lopez, Mirtha N. Quintanales, Eliana Rivero, and Caridad Souza.
+</p>
+<p>
 
 [source](http://www1.ucsc.edu/currents/01-02/10-15/publications.html "Permalink to publications")

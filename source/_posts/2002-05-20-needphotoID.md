@@ -2,18 +2,17 @@
 layout: post
 title: "needphotoID"
 author: Public Information Office
+post_id: 1180
 images:
 ---
 
-![][1]
+<p>
+  <img align="bottom" border="0" height="166" src="../art/staff.breakfast.jpg" width="240" alt="">
+</p>
+<p>
+  <a href="#New"><i><br></i></a>Helen Mayer (left) and __________ at last year's staff breakfast.
+</p>
+<p>
 
-_  
-_Helen Mayer (left) and __________ at last year's staff breakfast.
-
-[Return to Front Page  
-][2]  
-
-[1]: ../art/staff.breakfast.jpg
-[2]: ../../index.html
-
+  </p>
 [source](http://www1.ucsc.edu/currents/01-02/05-20/needphotoID.html "Permalink to needphotoID")

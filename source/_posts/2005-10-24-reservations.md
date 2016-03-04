@@ -2,33 +2,39 @@
 layout: post
 title: "Register online for investiture, symposium"
 author: Public Information Department
+post_id: 5567
 images:
-  -
-    - file: http://currents.ucsc.edu/05-06/art/AchExcel-logo.205.jpg
-    - caption: ""
+  - file: http://currents.ucsc.edu/05-06/art/AchExcel-logo.205.jpg
+    image_id: 5566
+    caption: ""
 ---
 
-Some seats are still available for Chancellor Denice D. Denton's investiture November 4 and the academic symposium November 3-4, "Achieving Excellence Through Diversity." Event organizers, however, are encouraging those who wish to attend either or both of the events to register online soon.
+[caption id="attachment_5566" align="alignnone" width="205"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg"><img class="size-full wp-image-5566" src="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg" alt="" width="205" height="115" /></a>[/caption]
+<a name="content" id="content"></a>
+<p>
+  Some seats are still available for Chancellor Denice D. Denton's investiture November 4 and the academic symposium November 3-4, "Achieving Excellence Through Diversity." Event organizers, however, are encouraging those who wish to attend either or both of the events to register online soon.
+</p>
+<p>
+  The weekend's Scholarship Benefits Dinner, an annual event that raises badly needed funds for undergraduate and graduate students, is already sold out.
+</p>
+<p>
+  Tickets to the investiture are available on a first-come, first-served basis. Guests will be seated first in the Music Recital Hall (main venue) and next in the Media Theater (simulcast venue).
+</p>
+<p>
+  The symposium will feature Shirley Ann Jackson, president of Rensselaer Polytechnic Institute, leading a discussion on the best practices in diversity, access, and inclusion. It will be at 2:30 p.m. on Thursday, November 3, at the Media Theater, and continue at 8:30 a.m. on Friday at the University Center.
+</p>
+<p>
+  To register online for any or all of these events, please go to: <a href="http://celebration2005.ucsc.edu/registration.asp">celebration2005.ucsc.edu/registration.asp</a>.
+</p>
+<p>
+  Additional information on the investiture, symposium, and related events is available <a href="http://celebration2005.ucsc.edu/index.asp">online.</a>
+</p>
+<form>
+  <input name="t1" size="-1" type="hidden">
+</form>
 
-The weekend's Scholarship Benefits Dinner, an annual event that raises badly needed funds for undergraduate and graduate students, is already sold out.
 
-Tickets to the investiture are available on a first-come, first-served basis. Guests will be seated first in the Music Recital Hall (main venue) and next in the Media Theater (simulcast venue).
 
-The symposium will feature Shirley Ann Jackson, president of Rensselaer Polytechnic Institute, leading a discussion on the best practices in diversity, access, and inclusion. It will be at 2:30 p.m. on Thursday, November 3, at the Media Theater, and continue at 8:30 a.m. on Friday at the University Center.
 
-To register online for any or all of these events, please go to: [celebration2005.ucsc.edu/registration.asp][1].
-
-Additional information on the investiture, symposium, and related events is available [online.][2]
-
-![][3] [Email this story][4]  
-![][3] [Printer-friendly version][5]  
-![][3] [Return to Front Page][6]
-
-[1]: http://celebration2005.ucsc.edu/registration.asp
-[2]: http://celebration2005.ucsc.edu/index.asp
-[3]: ../../images/bulletarrow.gif
-[4]: javascript:url();document.f1.submit();
-[5]: javascript:popUp();
-[6]: http://currents.ucsc.edu/
-
+</p>
 [source](http://www1.ucsc.edu/currents/05-06/10-24/reservations.asp "Permalink to reservations")

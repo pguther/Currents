@@ -1,12 +1,17 @@
 import bs4
 from bs4 import BeautifulSoup
 from unidecode import unidecode
+from PIL import Image
 import re
 import datetime
 import requests
 import pprint
 import curses
 import time
+import urllib
+import cStringIO
+from urlparse import urljoin
+from tidylib import tidy_fragment
 import traceback
 from itertools import tee, islice, chain, izip
 
@@ -25,6 +30,15 @@ class NoArticleBodyException(Exception):
     """
     def __init__(self):
         Exception.__init__(self, "Could not find a div of class storytext")
+
+
+class InvalidDateException(Exception):
+    """
+    Exception for when an article doesn't have a div of class storytext, and therefore
+    is incorrectly formatted to be parsed by this application
+    """
+    def __init__(self):
+        Exception.__init__(self, "No Valid Date could be found for this article")
 
 
 class ContentNotHTMLException(Exception):
@@ -115,10 +129,22 @@ class CurrentsArticleParser(object):
         self.end_story_regex = re.compile(r"\s*END\s*STORY\s*")
         self.word_regex = re.compile(r"([^\s\n\r\t]+)")
         self.article_slug_regex = re.compile(r".*\/([^\/\.]+)(?:.[^\.\/]+$)*")
+        self.article_ending_regex = re.compile(r".*\/([^\/]+)")
         self.date_from_url_regex = re.compile(r"http://www1\.ucsc\.edu/currents/(\d+)-(\d+)/(\d+)-(\d+)/")
         self.years_from_url_regex = re.compile(r"http://www1\.ucsc\.edu/currents/(\d+)-(\d+)/")
         self.author_regex = re.compile(r"^[Bb]y\s+((?:\w+\s*){2,3})$")
         self.whitespace_regex = re.compile(r"^\s*$")
+        self.object_index = 0
+
+    def get_next_index(self):
+        self.object_index += 1
+        return self.object_index
+
+    def get_image_dimens(self, image_url):
+        url_connection = urllib.urlopen(image_url)
+        image_file = cStringIO.StringIO(url_connection.read())
+        im = Image.open(image_file)
+        return im.size
 
     def zap_tag_contents(self, tag):
         """
@@ -168,6 +194,13 @@ class CurrentsArticleParser(object):
             return slug_match[0]
         else:
             raise Exception("unable to find slug for article: " + page_url + "\n")
+
+    def get_url_ending(self, page_url):
+        slug_match = self.article_ending_regex.findall(page_url)
+        if slug_match and len(slug_match) == 1:
+            return slug_match[0]
+        else:
+            raise Exception("unable to find ending for article: " + page_url + "\n")
 
     def get_date_from_url(self, page_url):
         """
@@ -225,7 +258,7 @@ class CurrentsArticleParser(object):
 
         return r.text
 
-    def parse_story_text(self, story_text):
+    def parse_story_text(self, story_text, article_url):
         """
         Parses a story_text div class and finds the
             - title
@@ -258,11 +291,34 @@ class CurrentsArticleParser(object):
                     image = cell.find('img')
                     if image:
                         image_src = image['src']
-                        image_text = cell.get_text()
-                        matches = self.word_regex.findall(image_text)
-                        image_text = ' '.join(matches)
-                        image_text = gremlin_zapper.zap_string(image_text)
-                        images_dictionary[image_src] = image_text
+                        image_src = urljoin(article_url, image_src)
+                        try:
+                            image_width, image_height = self.get_image_dimens(image_src)
+                            if 'height' in image:
+                                image_height = image['height']
+                            if 'width' in image:
+                                image_width = image['width']
+                            image_text = cell.get_text()
+                            matches = self.word_regex.findall(image_text)
+                            image_text = ' '.join(matches)
+                            image_text = gremlin_zapper.zap_string(image_text)
+                            images_dictionary[image_src] = {"image_text": image_text,
+                                                            "image_height": str(image_height),
+                                                            "image_width": str(image_width),
+                                                            "image_id": str(self.get_next_index())}
+                        except IOError, urllib.URLError:
+                            if 'height' in image and 'width' in image:
+                                image_height = image['height']
+                                image_width = image['width']
+                                image_text = cell.get_text()
+                                matches = self.word_regex.findall(image_text)
+                                image_text = ' '.join(matches)
+                                image_text = gremlin_zapper.zap_string(image_text)
+                                images_dictionary[image_src] = {"image_text": image_text,
+                                                                "image_height": str(image_height),
+                                                                "image_width": str(image_width),
+                                                                "image_id": str(self.get_next_index())}
+
             table.extract()
 
         for item in story_text.contents:
@@ -293,6 +349,7 @@ class CurrentsArticleParser(object):
                         try:
                             raw_date = item.string
                             raw_date = raw_date.rstrip()
+                            raw_date = raw_date.lstrip()
                             date = datetime.datetime.strptime(raw_date, "%B %d, %Y").strftime("%Y-%m-%d")
                             add_to_story = False
                         except ValueError:
@@ -348,7 +405,19 @@ class CurrentsArticleParser(object):
                                 match = self.end_story_regex.match(cont.string)
                                 if match:
                                     story_end = True
-
+                            if isinstance(cont, bs4.element.NavigableString):
+                                match = self.date_regex.findall(cont.string)
+                                if match:
+                                    # Convert date from Month, Day Year to Year-Month-Day
+                                    try:
+                                        raw_date = match[0]
+                                        raw_date = raw_date.rstrip()
+                                        raw_date = raw_date.lstrip()
+                                        if date is None:
+                                            date = datetime.datetime.strptime(raw_date, "%B %d, %Y")\
+                                                .strftime("%Y-%m-%d")
+                                    except ValueError:
+                                        raw_date = None
                     if story_end:
                         break
             else:
@@ -369,9 +438,10 @@ class CurrentsArticleParser(object):
                 'author': author,
                 'images_dictionary': images_dictionary,
                 'article_body': story_string,
-                'date': date}
+                'date': date,
+                "post_id": str(self.get_next_index())}
 
-    def parse_no_storytext_div(self, article_body):
+    def parse_no_storytext_div(self, article_body, article_url):
 
         images_dictionary = dict()
         gremlin_zapper = GremlinZapper()
@@ -388,6 +458,8 @@ class CurrentsArticleParser(object):
             cells = table.find_all('td')
             image_text = None
             image_src = None
+            image_height = None
+            image_width = None
 
             if cells:
                 for cell in cells:
@@ -397,11 +469,51 @@ class CurrentsArticleParser(object):
                         # print image['src']
 
                         if image_src is not None:
-                            images_dictionary[image_src] = image_text
+                            images_dictionary[image_src] = {"image_text": image_text,
+                                                            "image_height": str(image_height),
+                                                            "image_width": str(image_width),
+                                                            "image_id": str(self.get_next_index())}
                             image_src = image['src']
-                            image_text = None
+                            image_src = urljoin(article_url, image_src)
+                            try:
+                                image_width, image_height = self.get_image_dimens(image_src)
+
+                                if 'height' in image:
+                                    image_height = image['height']
+                                if 'width' in image:
+                                    image_width = image['width']
+
+                                image_text = None
+                            except IOError, urllib.URLError:
+                                if 'height' in image and 'width' in image:
+                                    image_height = image['height']
+                                    image_width = image['width']
+                                    image_text = None
+                                else:
+                                    image_width = None
+                                    image_height = None
+                                    image_text = None
+                                    image_src = None
                         else:
                             image_src = image['src']
+                            image_src = urljoin(article_url, image_src)
+                            try:
+                                image_width, image_height = self.get_image_dimens(image_src)
+
+                                if 'height' in image:
+                                    image_height = image['height']
+                                if 'width' in image:
+                                    image_width = image['width']
+                            except IOError, urllib.URLError:
+                                if 'height' in image and 'width' in image:
+                                    image_height = image['height']
+                                    image_width = image['width']
+                                    image_text = None
+                                else:
+                                    image_width = None
+                                    image_height = None
+                                    image_text = None
+                                    image_src = None
 
                     else:
                         image_text = cell.get_text()
@@ -410,7 +522,10 @@ class CurrentsArticleParser(object):
                         image_text = gremlin_zapper.zap_string(image_text)
 
                 if image_src is not None:
-                    images_dictionary[image_src] = image_text
+                    images_dictionary[image_src] = {"image_text": image_text,
+                                                    "image_height": str(image_height),
+                                                    "image_width": str(image_width),
+                                                    "image_id": str(self.get_next_index())}
             table.extract()
 
         for item in article_body.contents:
@@ -446,6 +561,7 @@ class CurrentsArticleParser(object):
                             try:
                                 raw_date = item.string
                                 raw_date = raw_date.rstrip()
+                                raw_date = raw_date.lstrip()
                                 date = datetime.datetime.strptime(raw_date, "%B %d, %Y").strftime("%Y-%m-%d")
                                 add_to_story = False
                             except ValueError:
@@ -517,7 +633,8 @@ class CurrentsArticleParser(object):
                 'author': author,
                 'images_dictionary': images_dictionary,
                 'article_body': story_string,
-                'date': date}
+                'date': date,
+                "post_id": str(self.get_next_index())}
 
     def scrape_article(self, article_url, diagnostic=False):
         """
@@ -564,9 +681,9 @@ class CurrentsArticleParser(object):
             if article_body is None:
                 raise NoArticleBodyException()
             else:
-                article_dict = self.parse_no_storytext_div(article_body)
+                article_dict = self.parse_no_storytext_div(article_body, article_url)
         else:
-            article_dict = self.parse_story_text(story_text)
+            article_dict = self.parse_story_text(story_text, article_url)
 
         if article_dict['date'] is None:
             date = self.get_date_from_url(article_url)
@@ -582,7 +699,13 @@ class CurrentsArticleParser(object):
         article_dict['file_name'] = date + '-' + slug + ".md"
         article_dict['source_permalink'] = "[source](" + article_url + " \"Permalink to " + slug + "\")"
         if diagnostic is False:
-            article_dict['article_body'] = self.html_to_markdown(article_body)
+            # article_dict['article_body'] = self.html_to_markdown(article_body)
+            document, errors = tidy_fragment(article_body, options={'numeric-entities': 1})
+            article_dict['article_body'] = document
+            # tree = BeautifulSoup(article_body)
+            # good_html = tree.prettify()
+            # article_dict['article_body'] = good_html
+
         return article_dict
 
     def temp_driver(self, article_url):
@@ -607,7 +730,9 @@ class CurrentsArticleParser(object):
             else:
                 raise NoArticleBodyException()
 
-        self.write_article(self.scrape_article(article_url, diagnostic=False))
+        vals_dict = self.scrape_article(article_url, diagnostic=False)
+        # print(pprint.pformat(vals_dict, indent=4))
+        self.write_article(vals_dict)
         # print article_body
         # print article_body
 
@@ -627,24 +752,66 @@ class CurrentsArticleParser(object):
         title = article_dict['title'] or ''
         title = title.replace('"', "'")
         author = article_dict['author'] or ''
+        post_id = article_dict['post_id']
+        raw_date = article_dict['date']
+        try:
+            formatted_date = datetime.datetime.strptime(raw_date, "%Y-%m-%d").strftime("%Y/%m/")
+        except ValueError:
+            raise InvalidDateException
 
         fo = open(article_dict['file_name'], "w")
         fo.write("---\n")
         fo.write("layout: post\n")
         fo.write("title: \"" + title + "\"\n")
         fo.write("author: " + author + "\n")
+        fo.write("post_id: " + post_id + "\n")
         fo.write("images:\n")
 
         for key in article_dict['images_dictionary']:
-            fo.write("  -\n")
-            fo.write("    - file: " + key + "\n")
-            if article_dict['images_dictionary'][key] is not None:
-                replaced = article_dict['images_dictionary'][key].replace('"', "'")
-                fo.write("    - caption: \"" + replaced + "\"\n")
+            fo.write("  - file: " + key + "\n")
+
+            values_dict = article_dict['images_dictionary'][key]
+            image_id = values_dict['image_id']
+
+            fo.write('    image_id: ' + image_id + '\n')
+            if values_dict['image_text'] is not None:
+                replaced = values_dict['image_text'].replace('"', "'")
+                fo.write("    caption: \"" + replaced + "\"\n")
             else:
-                fo.write("    - caption: \n")
+                fo.write("    caption: \n")
 
         fo.write("---\n\n")
+
+        for image_url in article_dict['images_dictionary']:
+            values_dict = article_dict['images_dictionary'][image_url]
+
+            image_text = values_dict['image_text'] or ""
+            image_width = values_dict['image_width']
+            image_height = values_dict['image_height']
+            image_id = values_dict['image_id']
+
+            url_ending = self.get_url_ending(image_url)
+
+            fo.write("[caption id=\"attachment_" +
+                     image_id +
+                     "\" align=\"alignnone\" width=\"" +
+                     image_width +
+                     "\"]<a href=\"http://localhost/mysite/wp-content/uploads/" +
+                     formatted_date + url_ending +
+                     "\">"
+                     "<img class=\"size-full wp-image-" + image_id + "\" "
+                     "src=\"http://localhost/mysite/wp-content/uploads/" +
+                     formatted_date + url_ending +
+                     "\" alt=\"" +
+                     image_text +
+                     "\" width=\"" +
+                     image_width +
+                     "\" height=\"" +
+                     image_height +
+                     "\" /></a>" +
+                     image_text +
+                     "[/caption]\n")
+
         fo.write(article_dict['article_body'])
         fo.write("\n")
         fo.write(article_dict['source_permalink'] + "\n")
@@ -709,10 +876,10 @@ class CurrentsArticleParser(object):
         unscrapable_urls = []
         partially_scrapable_urls = []
 
+
         for article_url in article_url_list:
             article_url = article_url.rstrip()
             # print article_url
-
             self.report_progress(stdscr, article_url, prog_percent)
             try:
                 article_dictionary = self.scrape_article(article_url, diagnostic=False)
@@ -760,6 +927,8 @@ class CurrentsArticleParser(object):
                 unscrapable_urls.append(article_url)
             except ContentNotHTMLException:
                 not_article.append(article_url)
+            except InvalidDateException:
+                unscrapable_urls.append(article_url)
             except Exception as e:
                 curses.echo()
                 curses.nocbreak()
@@ -883,48 +1052,3 @@ class CurrentsArticleParser(object):
         fo.close()
 
         print 'Done'
-
-    def scrape_url(self, article_url):
-        """
-        Scrapes a single UCSC Currents magazine article
-        :param article_url:
-        :return:
-        """
-        article_url = article_url.rstrip()
-        print article_url
-        try:
-            article_dictionary = self.scrape_article(article_url)
-
-            for key in article_dictionary:
-                if key in article_dictionary and article_dictionary[key] is not None:
-                    print key + ' found'
-
-            self.write_article(article_dictionary)
-        except NoArticleBodyException:
-            print "No storytext div found, parsing cancelled"
-
-
-    def scrape_url_list(self, article_url_list):
-        """
-        Scrapes a list of UCSC Currents magazine articles
-        :param article_url_list:
-        :return:
-        """
-        for article_url in article_url_list:
-            self.scrape_url(article_url)
-
-    def scrape_from_file(self, file_name):
-        """
-        Scrapes all the UCSC Currents magazine articles in a file given this format:
-            - one url per line
-        :param file_name:
-        :return:
-        """
-        try:
-            article_list_file = open(file_name, 'r')
-            for article_url in article_list_file:
-                self.scrape_url(article_url)
-            article_list_file.close()
-        except IOError:
-            print "Error: File does not appear to exist."
-

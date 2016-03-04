@@ -2,22 +2,27 @@
 layout: post
 title: "'MyUCSC' portal available to all students"
 author: Public Information Department
+post_id: 4261
 images:
 ---
 
-UCSC officially launched its new campuswide "enterprise" web portal last week when all students began accessing their academic information via the [my.ucsc.edu][1] web site. Last Thursday's cutover from the former "student portal" affected continuing students; faculty and new students began to access the new portal in July.  
+<a name="content" id="content"></a>
+<p>
+  UCSC officially launched its new campuswide "enterprise" web portal last week when all students began accessing their academic information via the <a href="http://my.ucsc.edu">my.ucsc.edu</a> web site. Last Thursday's cutover from the former "student portal" affected continuing students; faculty and new students began to access the new portal in July.<br>
+</p>
+<p>
+  'MyUCSC,' using the PeopleSoft software the campus purchased in 2002, is the sign-on point for students and faculty to use "secure AIS self-service for activities such as registration and student records, student billing and account information, and financial aid information," said Academic Information Systems director Mark Cianca. "Over time, MyUCSC will grow to include self-service from other campus systems."<br>
+</p>
+<p>
+  A link to the new site has been added to the UCSC home page.<br>
+</p>
+<p>
+  (Note to users: If you are using a PC, it is recommended that you use Internet Explorer 6.02 as your browser to access <a href="http://my.ucsc.edu">my.ucsc.edu</a>. If you are using a Macintosh, it is recommended that you use FireFox, Netscape 7.2, or Mozilla. If you are using Sun/Solaris, please use Mozilla.)
+</p><br>
+<form>
 
-'MyUCSC,' using the PeopleSoft software the campus purchased in 2002, is the sign-on point for students and faculty to use "secure AIS self-service for activities such as registration and student records, student billing and account information, and financial aid information," said Academic Information Systems director Mark Cianca. "Over time, MyUCSC will grow to include self-service from other campus systems."  
+</form>
+<p>
 
-A link to the new site has been added to the UCSC home page.  
-
-(Note to users: If you are using a PC, it is recommended that you use Internet Explorer 6.02 as your browser to access [my.ucsc.edu][1]. If you are using a Macintosh, it is recommended that you use FireFox, Netscape 7.2, or Mozilla. If you are using Sun/Solaris, please use Mozilla.)
-
-  
-
-[Return to Front Page][2]
-
-[1]: http://my.ucsc.edu
-[2]: http://currents.ucsc.edu/
-
+</p>
 [source](http://www1.ucsc.edu/currents/04-05/10-18/brief-myucsc.asp "Permalink to brief-myucsc")

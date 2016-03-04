@@ -2,21 +2,27 @@
 layout: post
 title: "Panel discussion on depression and suicide Feb. 1"
 author: Public Information Department
+post_id: 5852
 images:
 ---
 
-The Academic Senate, in collaboration with the Psychology Department and Counseling & Psychological Services, is sponsoring a panel discussion on depression and suicide on Thursday, February 1, from 7:15 to 8:45 p.m. in Bay Tree Conference Room D.
-
-Among the topics to be covered are:  
-* How to recognize it in yourself   
-* How to recognize it in someone you love   
-* What to do about it
-
-Panel psychologists include:   
-* **Veronica Tonay**, Ph.D., lecturer in psychology, private practice  
-* **Donald Saposnek**, Ph.D., lecturer in psychology, private practice  
-* **Gary Shoemaker**, Ph.D., counseling psychologist, private practice  
-* **Max Camarillo,** Ph.D., private practice, retired director of UCSC Counseling & Psychological Services   
-* **Myriam Coppens,** M.F.T., Suicide Prevention, UCSC Counseling Center   
-* **Francisco Ponce,** Ph.D., private practice, Cabrillo College Counseling & Guidance
+<a name="content" id="content"></a>
+<p>
+  The Academic Senate, in collaboration with the Psychology Department and Counseling &amp; Psychological Services, is sponsoring a panel discussion on depression and suicide on Thursday, February 1, from 7:15 to 8:45 p.m. in Bay Tree Conference Room D.
+</p>
+<p>
+  Among the topics to be covered are:<br>
+  * How to recognize it in yourself<br>
+  * How to recognize it in someone you love<br>
+  * What to do about it
+</p>
+<p>
+  Panel psychologists include:<br>
+  * <strong>Veronica Tonay</strong>, Ph.D., lecturer in psychology, private practice<br>
+  * <strong>Donald Saposnek</strong>, Ph.D., lecturer in psychology, private practice<br>
+  * <strong>Gary Shoemaker</strong>, Ph.D., counseling psychologist, private practice<br>
+  * <strong>Max Camarillo,</strong> Ph.D., private practice, retired director of UCSC Counseling &amp; Psychological Services<br>
+  * <strong>Myriam Coppens,</strong> M.F.T., Suicide Prevention, UCSC Counseling Center<br>
+  * <strong>Francisco Ponce,</strong> Ph.D., private practice, Cabrillo College Counseling &amp; Guidance
+</p>
 [source](http://www1.ucsc.edu/currents/06-07/01-29/brief-depression.asp "Permalink to brief-depression")

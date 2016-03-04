@@ -2,22 +2,28 @@
 layout: post
 title: "UC President Dynes visits Santa Cruz and Monterey Counties"
 author: Public Information Department
+post_id: 6016
 images:
-  -
-    - file: http://currents.ucsc.edu/06-07/art/dynes_visit.jpg
-    - caption: "UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman"
+  - file: http://currents.ucsc.edu/06-07/art/dynes_visit.jpg
+    image_id: 6015
+    caption: "UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman"
 ---
 
-UC President Robert C. Dynes visited Santa Cruz and Monterey Counties March 22 and 23 as part of a series of tours around the state.
-
-Dynes's first stop was at Watsonville High School, ****where he met with local education, industry, and alumni leaders and joined students and parents involved in UC academic preparation programs.
-
-Watsonville High is one of 17 partnership high schools with the Educational Partnership Center, which coordinates academic preparation efforts on behalf of the UCSC campus. (See related [_Currents_ article][1])
-
-Dynes joined a roundtable discussion in Watsonville about the UCSC undergraduate health sciences major internship program, which requires that students be fluent in Spanish.
-
-Later on March 22, Dynes met with Michael Houlemard Jr., executive director of the Fort Ord Reuse Authority, and selected board members, and toured the former Fort Ord, including UCSC's Monterey Bay Education, Science, and Technology (MBEST) Center in Marina. Dynes also met with Naval Postgraduate School Provost and Acting President Leonard Ferrari and toured the Monterey facility.
-
-[1]: http://currents.ucsc.edu/06-07/03-19/epc.asp
-
+[caption id="attachment_6015" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/dynes_visit.jpg"><img class="size-full wp-image-6015" src="http://localhost/mysite/wp-content/uploads/2007/04/dynes_visit.jpg" alt="UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman" width="230" height="190" /></a>UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman[/caption]
+<a name="content" id="content"></a>
+<p>
+  UC President Robert C. Dynes visited Santa Cruz and Monterey Counties March 22 and 23 as part of a series of tours around the state.
+</p>
+<p>
+  Dynes's first stop was at Watsonville High School, where he met with local education, industry, and alumni leaders and joined students and parents involved in UC academic preparation programs.
+</p>
+<p>
+  Watsonville High is one of 17 partnership high schools with the Educational Partnership Center, which coordinates academic preparation efforts on behalf of the UCSC campus. (See related <a href="http://currents.ucsc.edu/06-07/03-19/epc.asp"><i>Currents</i> article</a>)
+</p>
+<p>
+  Dynes joined a roundtable discussion in Watsonville about the UCSC undergraduate health sciences major internship program, which requires that students be fluent in Spanish.
+</p>
+<p>
+  Later on March 22, Dynes met with Michael Houlemard Jr., executive director of the Fort Ord Reuse Authority, and selected board members, and toured the former Fort Ord, including UCSC's Monterey Bay Education, Science, and Technology (MBEST) Center in Marina. Dynes also met with Naval Postgraduate School Provost and Acting President Leonard Ferrari and toured the Monterey facility.
+</p>
 [source](http://www1.ucsc.edu/currents/06-07/04-02/brief-dynes.asp "Permalink to brief-dynes")

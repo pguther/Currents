@@ -18,9 +18,11 @@ layout: null
       <item>
         <title>{{ post.title }}</title>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <wp:post_id>{{ post.post_id }}</wp:post_id>
         <description></description> 
         <content:encoded><![CDATA[{{ post.content | deleteNonAscii }}]]></content:encoded>
         <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+        <dc:creator><![CDATA[{{ post.author }}]]></dc:creator>
         <wp:post_date>{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</wp:post_date>
         <wp:post_date_gmt>{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</wp:post_date_gmt>
         <wp:comment_status>closed</wp:comment_status>
@@ -38,6 +40,35 @@ layout: null
             <wp:meta_value><![CDATA[1]]></wp:meta_value>
         </wp:postmeta>
       </item>
+
+      {% for image in post.images %}
+
+        <item>
+          <title>{{ image.image_id }}</title>
+          <link></link>
+          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+          <dc:creator><![CDATA[{{ post.author }}]]></dc:creator>
+          <guid isPermaLink="false">{{ image.file }}</guid>
+          <description/>
+          <content:encoded><![CDATA[]]></content:encoded>
+          <excerpt:encoded><![CDATA[{{ image.caption }}]]></excerpt:encoded>
+          <wp:post_id>{{ image.image_id }}</wp:post_id>
+          <wp:post_date>{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</wp:post_date>
+          <wp:post_date_gmt>{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</wp:post_date_gmt>
+          <wp:comment_status>closed</wp:comment_status>
+          <wp:ping_status>closed</wp:ping_status>
+          <wp:post_name></wp:post_name>
+          <wp:status>inherit</wp:status>
+          <wp:post_parent>{{ post.post_id }}</wp:post_parent>
+          <wp:menu_order>0</wp:menu_order>
+          <wp:post_type>attachment</wp:post_type>
+          <wp:post_password/>
+          <wp:is_sticky>0</wp:is_sticky>
+          <wp:attachment_url>{{ image.file }}</wp:attachment_url>
+        </item>
+
+      {% endfor %}
+
     {% endfor %}
   
   </channel>

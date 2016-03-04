@@ -1,14 +1,14 @@
 URL List Scrapeability Statistics
 
 of the 6613 total urls,
-	4284 (64.7814910026%) were completely scrapeable,
+	4282 (64.7512475427%) were completely scrapeable,
 	0 (0.0%) were partially scrapeable,
-	2042 (30.8785725087%) were unscrapeable, and
+	2044 (30.9088159685%) were unscrapeable, and
 	287 (4.33993648873%) were not articles.
 
 
-of the 4284 urls that were at least partially scrapable,
-	4284 (100.0%) were completely scrapeable, and
+of the 4282 urls that were at least partially scrapable,
+	4282 (100.0%) were completely scrapeable, and
 	0 (0.0%) were partially scrapeable.
 
 
@@ -877,6 +877,8 @@ Unscrapeable URLs:
     'http://www1.ucsc.edu/currents/04-05/templates/stories_brief.html',
     'http://www1.ucsc.edu/currents/04-05/templates/stories_other.html',
     'http://www1.ucsc.edu/currents/04-05/templates/stories_two.html',
+    'http://www1.ucsc.edu/currents/04-05/templates/template_brief-nophoto.asp',
+    'http://www1.ucsc.edu/currents/04-05/templates/template_brief-sidephoto.asp',
     'http://www1.ucsc.edu/currents/04-05/templates/template_middle-index.html',
     'http://www1.ucsc.edu/currents/05-06/',
     'http://www1.ucsc.edu/currents/05-06/01-02/',
@@ -4744,8 +4746,6 @@ Completeley Scrapeable URLs:
     'http://www1.ucsc.edu/currents/04-05/art/mather.asp',
     'http://www1.ucsc.edu/currents/04-05/art/religion.asp',
     'http://www1.ucsc.edu/currents/04-05/art/warming.asp',
-    'http://www1.ucsc.edu/currents/04-05/templates/template_brief-nophoto.asp',
-    'http://www1.ucsc.edu/currents/04-05/templates/template_brief-sidephoto.asp',
     'http://www1.ucsc.edu/currents/04-05/templates/template_story-nophoto.asp',
     'http://www1.ucsc.edu/currents/04-05/templates/template_story-sidephoto.asp',
     'http://www1.ucsc.edu/currents/04-05/templates/template_story-sidephoto1.asp',

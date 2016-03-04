@@ -2,17 +2,25 @@
 layout: post
 title: "brief-certificates"
 author: Guy Lasnier
+post_id: 5892
 images:
-  -
-    - file: http://currents.ucsc.edu/06-07/art/twoheroes.230.jpg
-    - caption: "Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier"
+  - file: http://currents.ucsc.edu/06-07/art/twoheroes.230.jpg
+    image_id: 5891
+    caption: "Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier"
 ---
 
-Blumenthal honors staff members for aiding stricken professor Osterbrock
-
-Acting Chancellor George Blumenthal awarded certificates of appreciation to three men who came to the aid of professor Donald Osterbrock after he was stricken and collapsed while walking between the McHenry Library and Hahn Student Services on January 12.
-
-Mike Abney, Michael McCawley and Doug Zuidema were honored for their efforts to help and comfort Osterbrock, who died without regaining consciousness. He was 82.
-
-"It was good citizenship in the best traditions of our campus," Blumenthal said in presenting certificates to Zuidema, director of student judicial affairs, and McCawley, associate director of admissions, at the beginning of a recent cabinet meeting. Abney, who formerly worked in the admissions office, has since left UCSC.
+[caption id="attachment_5891" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/twoheroes.230.jpg"><img class="size-full wp-image-5891" src="http://localhost/mysite/wp-content/uploads/2007/02/twoheroes.230.jpg" alt="Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier" width="230" height="173" /></a>Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier[/caption]
+<a name="content" id="content"></a>
+<p>
+  Blumenthal honors staff members for aiding stricken professor Osterbrock
+</p>
+<p>
+  Acting Chancellor George Blumenthal awarded certificates of appreciation to three men who came to the aid of professor Donald Osterbrock after he was stricken and collapsed while walking between the McHenry Library and Hahn Student Services on January 12.
+</p>
+<p>
+  Mike Abney, Michael McCawley and Doug Zuidema were honored for their efforts to help and comfort Osterbrock, who died without regaining consciousness. He was 82.
+</p>
+<p>
+  "It was good citizenship in the best traditions of our campus," Blumenthal said in presenting certificates to Zuidema, director of student judicial affairs, and McCawley, associate director of admissions, at the beginning of a recent cabinet meeting. Abney, who formerly worked in the admissions office, has since left UCSC.
+</p>
 [source](http://www1.ucsc.edu/currents/06-07/02-12/brief-certificates.asp "Permalink to brief-certificates")

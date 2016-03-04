@@ -2,17 +2,21 @@
 layout: post
 title: "Brief head"
 author: Public Information Department
+post_id: 4197
 images:
 ---
 
-First graph...First graph....First graph....First graph....First graph....
+<a name="content" id="content"></a>
+<p>
+  First graph...First graph....First graph....First graph....First graph....
+</p>
+<p>
+  Second graph...Second graph...Second graph...Second graph...Second graph...
+</p><br>
+<form>
 
-Second graph...Second graph...Second graph...Second graph...Second graph...
+</form>
+<p>
 
-  
-
-[Return to Front Page][1]
-
-[1]: http://currents.ucsc.edu/
-
+</p>
 [source](http://www1.ucsc.edu/currents/04-05/10-04/brief-template.asp "Permalink to brief-template")
