@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2864" align="alignnone" width="260"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/bike.04-06-14.jpg"><img class="size-full wp-image-2864" src="http://localhost/mysite/wp-content/uploads/2004/06/bike.04-06-14.jpg" alt="" width="260" height="215" /></a>[/caption]
+[caption id="attachment_2864" align="alignright" width="260"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/bike.04-06-14.jpg"><img class="size-full wp-image-2864" src="http://localhost/mysite/wp-content/uploads/2004/06/bike.04-06-14.jpg" alt="" width="260" height="215" /></a>[/caption]
 <p>
   A wave of visitors is on its way to campus this summer. They come in all ages, and include everything from mountain bike salespeople to faculty-sponsored academics to soccer players and cheerleaders.<br>
 </p>

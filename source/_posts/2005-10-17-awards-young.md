@@ -9,7 +9,7 @@ images:
     caption: "Peter Young"
 ---
 
-[caption id="attachment_5517" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/young_peter.140.jpg"><img class="size-full wp-image-5517" src="http://localhost/mysite/wp-content/uploads/2005/10/young_peter.140.jpg" alt="Peter Young" width="140" height="179" /></a>Peter Young[/caption]
+[caption id="attachment_5517" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/young_peter.140.jpg"><img class="size-full wp-image-5517" src="http://localhost/mysite/wp-content/uploads/2005/10/young_peter.140.jpg" alt="Peter Young" width="140" height="179" /></a>Peter Young[/caption]
 <a name="content" id="content"></a>
 <p>
   The Division of Physical and Biological Sciences has honored Peter Young, professor of physics, with the Outstanding Faculty Award for 2004-05. The award was made in recognition of Young's distinguished research career, teaching excellence, and commitment to service.

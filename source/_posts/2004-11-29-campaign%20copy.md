@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_4405" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/cornerstone_campaign.jpg"><img class="size-full wp-image-4405" src="http://localhost/mysite/wp-content/uploads/2004/11/cornerstone_campaign.jpg" alt="" width="220" height="129" /></a>[/caption]
+[caption id="attachment_4405" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/cornerstone_campaign.jpg"><img class="size-full wp-image-4405" src="http://localhost/mysite/wp-content/uploads/2004/11/cornerstone_campaign.jpg" alt="" width="220" height="129" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   ]Some 100 species of birds are what scientists call "obligate brood parasites"--instead of building nests and raising their own young, they lay their eggs in the nests of other species and let those birds do the hard work of parenting for them.

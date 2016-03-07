@@ -9,7 +9,7 @@ images:
     caption: "UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering."
 ---
 
-[caption id="attachment_4564" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/kennedy.06-01-23.jpg"><img class="size-full wp-image-4564" src="http://localhost/mysite/wp-content/uploads/2006/01/kennedy.06-01-23.jpg" alt="UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering." width="160" height="189" /></a>UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering.[/caption]
+[caption id="attachment_4564" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/kennedy.06-01-23.jpg"><img class="size-full wp-image-4564" src="http://localhost/mysite/wp-content/uploads/2006/01/kennedy.06-01-23.jpg" alt="UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering." width="160" height="189" /></a>UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering.[/caption]
 <a name="content" id="content"></a>
 <p>
   Janeuary 23, 2006

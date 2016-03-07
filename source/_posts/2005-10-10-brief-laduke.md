@@ -9,7 +9,7 @@ images:
     caption: "Winona LaDuke"
 ---
 
-[caption id="attachment_5499" align="alignnone" width="125"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/laduke.05-10-10.jpg"><img class="size-full wp-image-5499" src="http://localhost/mysite/wp-content/uploads/2005/10/laduke.05-10-10.jpg" alt="Winona LaDuke" width="125" height="141" /></a>Winona LaDuke[/caption]
+[caption id="attachment_5499" align="alignright" width="125"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/laduke.05-10-10.jpg"><img class="size-full wp-image-5499" src="http://localhost/mysite/wp-content/uploads/2005/10/laduke.05-10-10.jpg" alt="Winona LaDuke" width="125" height="141" /></a>Winona LaDuke[/caption]
 <a name="content" id="content"></a><br>
 <p>
   Winona LaDuke, who ran for vice president on the Green Party ticket with Ralph Nader in 1996 and 2000, will give a talk at UCSC on October 20.

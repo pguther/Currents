@@ -9,7 +9,7 @@ images:
     caption: "Ms. Blue, the 87-foot blue whale skeleton, will be lit for the holidays at 5:30 p.m."
 ---
 
-[caption id="attachment_4397" align="alignnone" width="225"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/whale_lighting.225.jpg"><img class="size-full wp-image-4397" src="http://localhost/mysite/wp-content/uploads/2004/11/whale_lighting.225.jpg" alt="Ms. Blue, the 87-foot blue whale skeleton, will be lit for the holidays at 5:30 p.m." width="225" height="169" /></a>Ms. Blue, the 87-foot blue whale skeleton, will be lit for the holidays at 5:30 p.m.[/caption]
+[caption id="attachment_4397" align="alignright" width="225"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/whale_lighting.225.jpg"><img class="size-full wp-image-4397" src="http://localhost/mysite/wp-content/uploads/2004/11/whale_lighting.225.jpg" alt="Ms. Blue, the 87-foot blue whale skeleton, will be lit for the holidays at 5:30 p.m." width="225" height="169" /></a>Ms. Blue, the 87-foot blue whale skeleton, will be lit for the holidays at 5:30 p.m.[/caption]
 <a name="content" id="content"></a>
 <p>
   The Jingle Shells Art and Book Festival is happening at the Seymour Center at Long Marine Lab on Saturday, December 4, from 10 a.m. to 6 p.m.

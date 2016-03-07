@@ -9,7 +9,7 @@ images:
     caption: "The Bunnett Lecture honors Professor Emeritus Joseph Bunnett, a founding member of the campus."
 ---
 
-[caption id="attachment_4924" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/bunnett_jos.140.jpg"><img class="size-full wp-image-4924" src="http://localhost/mysite/wp-content/uploads/2006/05/bunnett_jos.140.jpg" alt="The Bunnett Lecture honors Professor Emeritus Joseph Bunnett, a founding member of the campus." width="140" height="173" /></a>The Bunnett Lecture honors Professor Emeritus Joseph Bunnett, a founding member of the campus.[/caption]
+[caption id="attachment_4924" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/bunnett_jos.140.jpg"><img class="size-full wp-image-4924" src="http://localhost/mysite/wp-content/uploads/2006/05/bunnett_jos.140.jpg" alt="The Bunnett Lecture honors Professor Emeritus Joseph Bunnett, a founding member of the campus." width="140" height="173" /></a>The Bunnett Lecture honors Professor Emeritus Joseph Bunnett, a founding member of the campus.[/caption]
 <a name="content" id="content"></a>
 <p>
   Paul A. Wender, the Bergstrom Professor of Chemistry at Stanford University, will give the 6th annual Joseph F. Bunnett Research Organic Chemistry Lecture on Friday, May 5. The lecture will take place at 5 p.m. in the Baskin Engineering Auditorium, preceded by a reception in the new Physical Sciences Building at 4 p.m.

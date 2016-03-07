@@ -9,7 +9,7 @@ images:
     caption: "Chancellor M.R.C. Greenwood Photo: UCSC Photo Services"
 ---
 
-[caption id="attachment_1051" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/greenwood.02-04-08.160.jpg"><img class="size-full wp-image-1051" src="http://localhost/mysite/wp-content/uploads/2002/04/greenwood.02-04-08.160.jpg" alt="Chancellor M.R.C. Greenwood Photo: UCSC Photo Services" width="160" height="211" /></a>Chancellor M.R.C. Greenwood Photo: UCSC Photo Services[/caption]
+[caption id="attachment_1051" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/greenwood.02-04-08.160.jpg"><img class="size-full wp-image-1051" src="http://localhost/mysite/wp-content/uploads/2002/04/greenwood.02-04-08.160.jpg" alt="Chancellor M.R.C. Greenwood Photo: UCSC Photo Services" width="160" height="211" /></a>Chancellor M.R.C. Greenwood Photo: UCSC Photo Services[/caption]
 <p>
   By Nisha Narayanan, AAAS
 </p>

@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6480" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/soussloff_cover.200.jpg"><img class="size-full wp-image-6480" src="http://localhost/mysite/wp-content/uploads/2006/12/soussloff_cover.200.jpg" alt="" width="200" height="295" /></a>[/caption]
+[caption id="attachment_6480" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/soussloff_cover.200.jpg"><img class="size-full wp-image-6480" src="http://localhost/mysite/wp-content/uploads/2006/12/soussloff_cover.200.jpg" alt="" width="200" height="295" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   In her new book, <i>The Subject in Art</i> (Duke University Press), history of art and visual culture professor Catherine Soussloff uses illustrations of paintings and photographs to demonstrate both how portrait painters began to focus on the interior lives of their subjects, and how the discipline of art history developed around the genre of portraiture.

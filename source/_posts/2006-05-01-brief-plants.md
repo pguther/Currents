@@ -9,7 +9,7 @@ images:
     caption: "The Farm & Garden Spring Plant Sale offers a wide selection of vegetable starts, including peppers, tomatoes, and lettuces. Photo: Martha Brown"
 ---
 
-[caption id="attachment_4930" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/plant_sale.340.jpg"><img class="size-full wp-image-4930" src="http://localhost/mysite/wp-content/uploads/2006/05/plant_sale.340.jpg" alt="The Farm & Garden Spring Plant Sale offers a wide selection of vegetable starts, including peppers, tomatoes, and lettuces. Photo: Martha Brown" width="340" height="255" /></a>The Farm & Garden Spring Plant Sale offers a wide selection of vegetable starts, including peppers, tomatoes, and lettuces. Photo: Martha Brown[/caption]
+[caption id="attachment_4930" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/plant_sale.340.jpg"><img class="size-full wp-image-4930" src="http://localhost/mysite/wp-content/uploads/2006/05/plant_sale.340.jpg" alt="The Farm & Garden Spring Plant Sale offers a wide selection of vegetable starts, including peppers, tomatoes, and lettuces. Photo: Martha Brown" width="340" height="255" /></a>The Farm & Garden Spring Plant Sale offers a wide selection of vegetable starts, including peppers, tomatoes, and lettuces. Photo: Martha Brown[/caption]
 <a name="content" id="content"></a>
 <p>
   May 1, 2006<br>

@@ -9,7 +9,7 @@ images:
     caption: "Popular 'coffeehouses' at College Nine feature the food, music, dance and entertainment of different regions. Photo: Jon Kersey"
 ---
 
-[caption id="attachment_400" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/dance.01-05-28.224.jpg"><img class="size-full wp-image-400" src="http://localhost/mysite/wp-content/uploads/2001/05/dance.01-05-28.224.jpg" alt="Popular 'coffeehouses' at College Nine feature the food, music, dance and entertainment of different regions. Photo: Jon Kersey" width="224" height="264" /></a>Popular 'coffeehouses' at College Nine feature the food, music, dance and entertainment of different regions. Photo: Jon Kersey[/caption]
+[caption id="attachment_400" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/dance.01-05-28.224.jpg"><img class="size-full wp-image-400" src="http://localhost/mysite/wp-content/uploads/2001/05/dance.01-05-28.224.jpg" alt="Popular 'coffeehouses' at College Nine feature the food, music, dance and entertainment of different regions. Photo: Jon Kersey" width="224" height="264" /></a>Popular 'coffeehouses' at College Nine feature the food, music, dance and entertainment of different regions. Photo: Jon Kersey[/caption]
 <p>
   May 28, 2001<br>
   <br>

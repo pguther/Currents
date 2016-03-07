@@ -9,7 +9,7 @@ images:
     caption: "From left, Keith Beauchamp, Angela Glover Blackwell, and Manuel Pastor share the stage at the Civic Auditorium. Photo: Matt Fitt"
 ---
 
-[caption id="attachment_4725" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/stage.06-03-06.jpg"><img class="size-full wp-image-4725" src="http://localhost/mysite/wp-content/uploads/2006/03/stage.06-03-06.jpg" alt="From left, Keith Beauchamp, Angela Glover Blackwell, and Manuel Pastor share the stage at the Civic Auditorium. Photo: Matt Fitt" width="345" height="214" /></a>From left, Keith Beauchamp, Angela Glover Blackwell, and Manuel Pastor share the stage at the Civic Auditorium. Photo: Matt Fitt[/caption]
+[caption id="attachment_4725" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/stage.06-03-06.jpg"><img class="size-full wp-image-4725" src="http://localhost/mysite/wp-content/uploads/2006/03/stage.06-03-06.jpg" alt="From left, Keith Beauchamp, Angela Glover Blackwell, and Manuel Pastor share the stage at the Civic Auditorium. Photo: Matt Fitt" width="345" height="214" /></a>From left, Keith Beauchamp, Angela Glover Blackwell, and Manuel Pastor share the stage at the Civic Auditorium. Photo: Matt Fitt[/caption]
 <a name="content" id="content"></a>
 <p>
   <br>

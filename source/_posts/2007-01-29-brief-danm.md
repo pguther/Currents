@@ -9,7 +9,7 @@ images:
     caption: "Christiane Paul"
 ---
 
-[caption id="attachment_5850" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/paul_christine.180.jpg"><img class="size-full wp-image-5850" src="http://localhost/mysite/wp-content/uploads/2007/01/paul_christine.180.jpg" alt="Christiane Paul" width="180" height="153" /></a>Christiane Paul[/caption]
+[caption id="attachment_5850" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/paul_christine.180.jpg"><img class="size-full wp-image-5850" src="http://localhost/mysite/wp-content/uploads/2007/01/paul_christine.180.jpg" alt="Christiane Paul" width="180" height="153" /></a>Christiane Paul[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC's Digital Arts and New Media M.F.A. Program (DANM) is sponsoring a presentation by Christiane Paul--adjunct curator of new media arts at the Whitney Museum of American Art and director of Intelligent Agent, a service organization and information resource dedicated to digital art--on Monday, February 5. The event will take place from 4 to 6 p.m. at the Cowell College Conference Room (Cowell 132). Admission is free and open to the public.

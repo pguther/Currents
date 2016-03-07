@@ -12,8 +12,8 @@ images:
     caption: 
 ---
 
-[caption id="attachment_4082" align="alignnone" width="300"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/kiln_workers.04-08-09.jpg"><img class="size-full wp-image-4082" src="http://localhost/mysite/wp-content/uploads/2004/08/kiln_workers.04-08-09.jpg" alt="" width="300" height="206" /></a>[/caption]
-[caption id="attachment_4081" align="alignnone" width="300"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/cowells.04-08-09.300.jpg"><img class="size-full wp-image-4081" src="http://localhost/mysite/wp-content/uploads/2004/08/cowells.04-08-09.300.jpg" alt="" width="300" height="241" /></a>[/caption]
+[caption id="attachment_4082" align="alignright" width="300"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/kiln_workers.04-08-09.jpg"><img class="size-full wp-image-4082" src="http://localhost/mysite/wp-content/uploads/2004/08/kiln_workers.04-08-09.jpg" alt="" width="300" height="206" /></a>[/caption]
+[caption id="attachment_4081" align="alignright" width="300"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/cowells.04-08-09.300.jpg"><img class="size-full wp-image-4081" src="http://localhost/mysite/wp-content/uploads/2004/08/cowells.04-08-09.300.jpg" alt="" width="300" height="241" /></a>[/caption]
 <p>
   Long before the first student ever set foot on campus, the land now home to UCSC was the hub of a booming limekiln business that filled ships bound for San Francisco and beyond. Before that, Native Americans known as Costanoans settled the area.
 </p>

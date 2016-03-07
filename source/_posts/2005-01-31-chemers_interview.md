@@ -9,7 +9,7 @@ images:
     caption: "Acting Chancellor Martin M. Chemers points out a detail in his official portrait, unveiled at a University Center reception in his honor. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_3388" align="alignnone" width="210"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/chemers_portrait.05-01-31.jpg"><img class="size-full wp-image-3388" src="http://localhost/mysite/wp-content/uploads/2005/01/chemers_portrait.05-01-31.jpg" alt="Acting Chancellor Martin M. Chemers points out a detail in his official portrait, unveiled at a University Center reception in his honor. Photo: Louise Donahue" width="210" height="168" /></a>Acting Chancellor Martin M. Chemers points out a detail in his official portrait, unveiled at a University Center reception in his honor. Photo: Louise Donahue[/caption]
+[caption id="attachment_3388" align="alignright" width="210"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/chemers_portrait.05-01-31.jpg"><img class="size-full wp-image-3388" src="http://localhost/mysite/wp-content/uploads/2005/01/chemers_portrait.05-01-31.jpg" alt="Acting Chancellor Martin M. Chemers points out a detail in his official portrait, unveiled at a University Center reception in his honor. Photo: Louise Donahue" width="210" height="168" /></a>Acting Chancellor Martin M. Chemers points out a detail in his official portrait, unveiled at a University Center reception in his honor. Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   An expert on leadership, Acting Chancellor Martin M. Chemers says he was guided by his "commitment to the greater good" during his tenure as chief executive on campus.

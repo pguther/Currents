@@ -9,7 +9,7 @@ images:
     caption: "Jennifer Kreisberg, Soni Moreno, and Pura Fe perform as Ulali. Photo: Katherine Fogden (c) Corn Beans & Squash Music 2000"
 ---
 
-[caption id="attachment_5129" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/ulali.340.jpg"><img class="size-full wp-image-5129" src="http://localhost/mysite/wp-content/uploads/2006/06/ulali.340.jpg" alt="Jennifer Kreisberg, Soni Moreno, and Pura Fe perform as Ulali. Photo: Katherine Fogden (c) Corn Beans & Squash Music 2000" width="340" height="311" /></a>Jennifer Kreisberg, Soni Moreno, and Pura Fe perform as Ulali. Photo: Katherine Fogden (c) Corn Beans & Squash Music 2000[/caption]
+[caption id="attachment_5129" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/ulali.340.jpg"><img class="size-full wp-image-5129" src="http://localhost/mysite/wp-content/uploads/2006/06/ulali.340.jpg" alt="Jennifer Kreisberg, Soni Moreno, and Pura Fe perform as Ulali. Photo: Katherine Fogden (c) Corn Beans & Squash Music 2000" width="340" height="311" /></a>Jennifer Kreisberg, Soni Moreno, and Pura Fe perform as Ulali. Photo: Katherine Fogden (c) Corn Beans & Squash Music 2000[/caption]
 <a name="content" id="content"></a>
 <p>
   <a href="http://www.ulali.com/index.html">Ulali</a> First Nations Women Acapella Trio will perform on the Amphitheater Stage at the Arboretum on Thursday, June 15. Doors open at 5:30 p.m. and the show begins at 6:30 p.m. The concert is the second in the Arboretum's <a href="http://arboretum.ucsc.edu/music/">Third Thursday Music Series</a>.

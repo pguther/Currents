@@ -9,7 +9,7 @@ images:
     caption: "Catherine Soussloff"
 ---
 
-[caption id="attachment_6168" align="alignnone" width="183"]<a href="http://localhost/mysite/wp-content/uploads/2006/08/soussloff_c.06-08-14.jpg"><img class="size-full wp-image-6168" src="http://localhost/mysite/wp-content/uploads/2006/08/soussloff_c.06-08-14.jpg" alt="Catherine Soussloff" width="183" height="283" /></a>Catherine Soussloff[/caption]
+[caption id="attachment_6168" align="alignright" width="183"]<a href="http://localhost/mysite/wp-content/uploads/2006/08/soussloff_c.06-08-14.jpg"><img class="size-full wp-image-6168" src="http://localhost/mysite/wp-content/uploads/2006/08/soussloff_c.06-08-14.jpg" alt="Catherine Soussloff" width="183" height="283" /></a>Catherine Soussloff[/caption]
 <a name="content" id="content"></a>
 <p>
   History of art and visual culture professor Catherine Soussloff has been appointed to a Presidential Chair on the UCSC campus.

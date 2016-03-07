@@ -9,7 +9,7 @@ images:
     caption: "Interim humanities dean Gary Lease is one of 11 faculty members who will present 'Classes Without Quizzes' at the Banana Slug Spring Fair on April 22. Photo courtesy of Gary Lease"
 ---
 
-[caption id="attachment_4838" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/lease_gary.06-04-10.jpg"><img class="size-full wp-image-4838" src="http://localhost/mysite/wp-content/uploads/2006/04/lease_gary.06-04-10.jpg" alt="Interim humanities dean Gary Lease is one of 11 faculty members who will present "Classes Without Quizzes" at the Banana Slug Spring Fair on April 22. Photo courtesy of Gary Lease" width="150" height="170" /></a>Interim humanities dean Gary Lease is one of 11 faculty members who will present "Classes Without Quizzes" at the Banana Slug Spring Fair on April 22. Photo courtesy of Gary Lease[/caption]
+[caption id="attachment_4838" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/lease_gary.06-04-10.jpg"><img class="size-full wp-image-4838" src="http://localhost/mysite/wp-content/uploads/2006/04/lease_gary.06-04-10.jpg" alt="Interim humanities dean Gary Lease is one of 11 faculty members who will present "Classes Without Quizzes" at the Banana Slug Spring Fair on April 22. Photo courtesy of Gary Lease" width="150" height="170" /></a>Interim humanities dean Gary Lease is one of 11 faculty members who will present "Classes Without Quizzes" at the Banana Slug Spring Fair on April 22. Photo courtesy of Gary Lease[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC's Division of the Humanities will introduce a brand-new program at this year's Banana Slug Spring Fair.

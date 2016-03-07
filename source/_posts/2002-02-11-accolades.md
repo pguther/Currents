@@ -9,7 +9,7 @@ images:
     caption: "Manuel Pastor Photo: r. r. jones"
 ---
 
-[caption id="attachment_889" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/pastor_manuel.150.jpg"><img class="size-full wp-image-889" src="http://localhost/mysite/wp-content/uploads/2002/02/pastor_manuel.150.jpg" alt="Manuel Pastor Photo: r. r. jones" width="150" height="209" /></a>Manuel Pastor Photo: r. r. jones[/caption]
+[caption id="attachment_889" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/pastor_manuel.150.jpg"><img class="size-full wp-image-889" src="http://localhost/mysite/wp-content/uploads/2002/02/pastor_manuel.150.jpg" alt="Manuel Pastor Photo: r. r. jones" width="150" height="209" /></a>Manuel Pastor Photo: r. r. jones[/caption]
 <h3>
   <font color="#003399"><b>Manuel Pastor honored as 'civic entrepreneur'</b></font>
 </h3>Manuel Pastor, a professor of Latin American and Latino studies, has been named the volunteer Civic Entrepreneur of the Year by the California Center for Regional Leadership.<br>

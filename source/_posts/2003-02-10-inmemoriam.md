@@ -9,7 +9,7 @@ images:
     caption: "Lou Harrison displays the first gift to his archive in Special Collections at the University Library in 1991. Photo: Rita Bottoms"
 ---
 
-[caption id="attachment_1705" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/harrison_lou.150.jpg"><img class="size-full wp-image-1705" src="http://localhost/mysite/wp-content/uploads/2003/02/harrison_lou.150.jpg" alt="Lou Harrison displays the first gift to his archive in Special Collections at the University Library in 1991. Photo: Rita Bottoms" width="150" height="241" /></a>Lou Harrison displays the first gift to his archive in Special Collections at the University Library in 1991. Photo: Rita Bottoms[/caption]
+[caption id="attachment_1705" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/harrison_lou.150.jpg"><img class="size-full wp-image-1705" src="http://localhost/mysite/wp-content/uploads/2003/02/harrison_lou.150.jpg" alt="Lou Harrison displays the first gift to his archive in Special Collections at the University Library in 1991. Photo: Rita Bottoms" width="150" height="241" /></a>Lou Harrison displays the first gift to his archive in Special Collections at the University Library in 1991. Photo: Rita Bottoms[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

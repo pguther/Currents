@@ -9,7 +9,7 @@ images:
     caption: "Core West Parking Structure Photo: Louise Donahue"
 ---
 
-[caption id="attachment_1140" align="alignnone" width="155"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/parking_structure.155.jpg"><img class="size-full wp-image-1140" src="http://localhost/mysite/wp-content/uploads/2002/05/parking_structure.155.jpg" alt="Core West Parking Structure Photo: Louise Donahue" width="155" height="207" /></a>Core West Parking Structure Photo: Louise Donahue[/caption]
+[caption id="attachment_1140" align="alignright" width="155"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/parking_structure.155.jpg"><img class="size-full wp-image-1140" src="http://localhost/mysite/wp-content/uploads/2002/05/parking_structure.155.jpg" alt="Core West Parking Structure Photo: Louise Donahue" width="155" height="207" /></a>Core West Parking Structure Photo: Louise Donahue[/caption]
 <h3>
   <a name="New" id="New"></a><font color="#003399">New parking structure wins design awards</font>
 </h3>UCSC's Core West Parking Structure has received awards this year from the Concrete Reinforcing Institute (CRSI) and the International Parking Institute.<br>

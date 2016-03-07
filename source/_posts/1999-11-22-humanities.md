@@ -9,7 +9,7 @@ images:
     caption: "Frank Galuszka Photo: Don Harris"
 ---
 
-[caption id="attachment_7070" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/1999/11/galuszka_frank.99-11-22.130.jpg"><img class="size-full wp-image-7070" src="http://localhost/mysite/wp-content/uploads/1999/11/galuszka_frank.99-11-22.130.jpg" alt="Frank Galuszka Photo: Don Harris" width="130" height="187" /></a>Frank Galuszka Photo: Don Harris[/caption]
+[caption id="attachment_7070" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/1999/11/galuszka_frank.99-11-22.130.jpg"><img class="size-full wp-image-7070" src="http://localhost/mysite/wp-content/uploads/1999/11/galuszka_frank.99-11-22.130.jpg" alt="Frank Galuszka Photo: Don Harris" width="130" height="187" /></a>Frank Galuszka Photo: Don Harris[/caption]
 Art professor Frank Galuszka will present a talk titled "Painting, Myth, and Multiversa." The talk, which is free and open to the public, takes place on Thursday, December 9, from 7 to 8 p.m. at the McPherson Center for Art and History, 705 Front St. A reception follows.<br>
 <br>
 A critically acclaimed painter, Galuszka has been featured in nearly two dozen solo exhibits, more than 70 group exhibitions, and is included in a number of public and corporate collections.

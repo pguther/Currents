@@ -9,7 +9,7 @@ images:
     caption: "Jennifer Compton Photo: Tim Stephens"
 ---
 
-[caption id="attachment_5400" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/compton_jennifer.140.jpg"><img class="size-full wp-image-5400" src="http://localhost/mysite/wp-content/uploads/2005/09/compton_jennifer.140.jpg" alt="Jennifer Compton Photo: Tim Stephens" width="140" height="164" /></a>Jennifer Compton Photo: Tim Stephens[/caption]
+[caption id="attachment_5400" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/compton_jennifer.140.jpg"><img class="size-full wp-image-5400" src="http://localhost/mysite/wp-content/uploads/2005/09/compton_jennifer.140.jpg" alt="Jennifer Compton Photo: Tim Stephens" width="140" height="164" /></a>Jennifer Compton Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   The Santa Cruz Cancer Benefit Group (SCCBG) has established a new fellowship to support cancer research at UCSC. The SCCBG Research Fellowship is an annual award of $10,000 to support a UCSC graduate student or postdoctoral researcher engaged in cancer-related research.

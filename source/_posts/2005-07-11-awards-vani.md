@@ -9,7 +9,7 @@ images:
     caption: "Tom Vani accepting his award from the UCSC Student Environmental Center and the Chancellor's Sustainability Action Council. Photo: Leland Dunn"
 ---
 
-[caption id="attachment_5188" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/vani_award.200.jpg"><img class="size-full wp-image-5188" src="http://localhost/mysite/wp-content/uploads/2005/07/vani_award.200.jpg" alt="Tom Vani accepting his award from the UCSC Student Environmental Center and the Chancellor's Sustainability Action Council. Photo: Leland Dunn" width="200" height="198" /></a>Tom Vani accepting his award from the UCSC Student Environmental Center and the Chancellor's Sustainability Action Council. Photo: Leland Dunn[/caption]
+[caption id="attachment_5188" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/vani_award.200.jpg"><img class="size-full wp-image-5188" src="http://localhost/mysite/wp-content/uploads/2005/07/vani_award.200.jpg" alt="Tom Vani accepting his award from the UCSC Student Environmental Center and the Chancellor's Sustainability Action Council. Photo: Leland Dunn" width="200" height="198" /></a>Tom Vani accepting his award from the UCSC Student Environmental Center and the Chancellor's Sustainability Action Council. Photo: Leland Dunn[/caption]
 <a name="content" id="content"></a>
 <p>
   Tom Vani, vice chancellor for Business and Administrative Services, accepted a campuswide award on behalf of Chancellor Denice D. Denton and one for himself at the <a href="http://www2.ucsc.edu/sustainabilityconf2005/">Fourth Annual Sustainability Conference</a>.

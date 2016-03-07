@@ -9,7 +9,7 @@ images:
     caption: "Manuel Pastor Photo: Ben Balagot"
 ---
 
-[caption id="attachment_5390" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/pastor_m.05-09-05.jpg"><img class="size-full wp-image-5390" src="http://localhost/mysite/wp-content/uploads/2005/09/pastor_m.05-09-05.jpg" alt="Manuel Pastor Photo: Ben Balagot" width="220" height="234" /></a>Manuel Pastor Photo: Ben Balagot[/caption]
+[caption id="attachment_5390" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/pastor_m.05-09-05.jpg"><img class="size-full wp-image-5390" src="http://localhost/mysite/wp-content/uploads/2005/09/pastor_m.05-09-05.jpg" alt="Manuel Pastor Photo: Ben Balagot" width="220" height="234" /></a>Manuel Pastor Photo: Ben Balagot[/caption]
 <a name="content" id="content"></a>
 <p>
   Environmental justice researchers are at the forefront of efforts to evaluate the risks posed by air pollution, particularly the disproportionate risks faced by residents of low-income and minority neighborhoods.

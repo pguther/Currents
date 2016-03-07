@@ -9,7 +9,7 @@ images:
     caption: "Kristen Townsend and Anthony Tucci play key roles in the Good Neighbor Initiative Photo: Louise Donahue"
 ---
 
-[caption id="attachment_3694" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/townsend_tucci.05-04-25.jpg"><img class="size-full wp-image-3694" src="http://localhost/mysite/wp-content/uploads/2005/04/townsend_tucci.05-04-25.jpg" alt="Kristen Townsend and Anthony Tucci play key roles in the Good Neighbor Initiative Photo: Louise Donahue" width="180" height="258" /></a>Kristen Townsend and Anthony Tucci play key roles in the Good Neighbor Initiative Photo: Louise Donahue[/caption]
+[caption id="attachment_3694" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/townsend_tucci.05-04-25.jpg"><img class="size-full wp-image-3694" src="http://localhost/mysite/wp-content/uploads/2005/04/townsend_tucci.05-04-25.jpg" alt="Kristen Townsend and Anthony Tucci play key roles in the Good Neighbor Initiative Photo: Louise Donahue" width="180" height="258" /></a>Kristen Townsend and Anthony Tucci play key roles in the Good Neighbor Initiative Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   No one could accuse the Good Neighbor Initiative of ducking the hard issues.

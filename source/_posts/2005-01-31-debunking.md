@@ -9,7 +9,7 @@ images:
     caption: "Sara Solovitch Photo: Steve Fisch"
 ---
 
-[caption id="attachment_3391" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/solovitch_sara.05-01.31.jpg"><img class="size-full wp-image-3391" src="http://localhost/mysite/wp-content/uploads/2005/01/solovitch_sara.05-01.31.jpg" alt="Sara Solovitch Photo: Steve Fisch" width="200" height="267" /></a>Sara Solovitch Photo: Steve Fisch[/caption]
+[caption id="attachment_3391" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/solovitch_sara.05-01.31.jpg"><img class="size-full wp-image-3391" src="http://localhost/mysite/wp-content/uploads/2005/01/solovitch_sara.05-01.31.jpg" alt="Sara Solovitch Photo: Steve Fisch" width="200" height="267" /></a>Sara Solovitch Photo: Steve Fisch[/caption]
 <a name="content" id="content"></a>
 <p>
   Sara Solovitch, a lecturer in UCSC's science writing program, was looking forward to working with a modern-day hero when she drove to San Jose last August for her first meeting with Jumana Mikhail Hanna.

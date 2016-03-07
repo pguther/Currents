@@ -9,7 +9,7 @@ images:
     caption: "From left: graduate students Sarah Doub, Anders Otterness, Urmi Engineer, Eliza Martin, and Professor Edmund Burke III Photo: Courtesy of Terry Burke"
 ---
 
-[caption id="attachment_6223" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/newhistory.06-09-11.jpg"><img class="size-full wp-image-6223" src="http://localhost/mysite/wp-content/uploads/2006/09/newhistory.06-09-11.jpg" alt="From left: graduate students Sarah Doub, Anders Otterness, Urmi Engineer, Eliza Martin, and Professor Edmund Burke III Photo: Courtesy of Terry Burke" width="230" height="173" /></a>From left: graduate students Sarah Doub, Anders Otterness, Urmi Engineer, Eliza Martin, and Professor Edmund Burke III Photo: Courtesy of Terry Burke[/caption]
+[caption id="attachment_6223" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/newhistory.06-09-11.jpg"><img class="size-full wp-image-6223" src="http://localhost/mysite/wp-content/uploads/2006/09/newhistory.06-09-11.jpg" alt="From left: graduate students Sarah Doub, Anders Otterness, Urmi Engineer, Eliza Martin, and Professor Edmund Burke III Photo: Courtesy of Terry Burke" width="230" height="173" /></a>From left: graduate students Sarah Doub, Anders Otterness, Urmi Engineer, Eliza Martin, and Professor Edmund Burke III Photo: Courtesy of Terry Burke[/caption]
 <a name="content" id="content"></a>
 <p>
   Graduate students in history at UCSC have developed a new globalized model curriculum for college-level survey courses in U.S. history.

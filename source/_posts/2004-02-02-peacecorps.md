@@ -9,7 +9,7 @@ images:
     caption: "UCSC graduate Ravi Dutta relaxes with his little host brothers and sisters in the southern African nation of Namibia, where he is a Peace Corps volunteer."
 ---
 
-[caption id="attachment_2509" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/peacecorps.04-02-02.240.jpg"><img class="size-full wp-image-2509" src="http://localhost/mysite/wp-content/uploads/2004/02/peacecorps.04-02-02.240.jpg" alt="UCSC graduate Ravi Dutta relaxes with his little host brothers and sisters in the southern African nation of Namibia, where he is a Peace Corps volunteer." width="240" height="158" /></a>UCSC graduate Ravi Dutta relaxes with his little host brothers and sisters in the southern African nation of Namibia, where he is a Peace Corps volunteer.[/caption]
+[caption id="attachment_2509" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/peacecorps.04-02-02.240.jpg"><img class="size-full wp-image-2509" src="http://localhost/mysite/wp-content/uploads/2004/02/peacecorps.04-02-02.240.jpg" alt="UCSC graduate Ravi Dutta relaxes with his little host brothers and sisters in the southern African nation of Namibia, where he is a Peace Corps volunteer." width="240" height="158" /></a>UCSC graduate Ravi Dutta relaxes with his little host brothers and sisters in the southern African nation of Namibia, where he is a Peace Corps volunteer.[/caption]
 <p>
   With 52 volunteers, UCSC has been ranked fourth among mid-sized institutions for the number of its former students serving in the Peace Corps.
 </p>

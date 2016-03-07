@@ -9,7 +9,7 @@ images:
     caption: "Daniel Mendelsohn will read from his new book, The Lost, on November 8. Photo: Matt Mendelsohn"
 ---
 
-[caption id="attachment_6365" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/mendelsohn_daniel.180.jpg"><img class="size-full wp-image-6365" src="http://localhost/mysite/wp-content/uploads/2006/11/mendelsohn_daniel.180.jpg" alt="Daniel Mendelsohn will read from his new book, The Lost, on November 8. Photo: Matt Mendelsohn" width="180" height="228" /></a>Daniel Mendelsohn will read from his new book, The Lost, on November 8. Photo: Matt Mendelsohn[/caption]
+[caption id="attachment_6365" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/mendelsohn_daniel.180.jpg"><img class="size-full wp-image-6365" src="http://localhost/mysite/wp-content/uploads/2006/11/mendelsohn_daniel.180.jpg" alt="Daniel Mendelsohn will read from his new book, The Lost, on November 8. Photo: Matt Mendelsohn" width="180" height="228" /></a>Daniel Mendelsohn will read from his new book, The Lost, on November 8. Photo: Matt Mendelsohn[/caption]
 <a name="content" id="content"></a>
 <p>
   The Humanities Division's Living Writers Series continues with an appearance by award-winning author, journalist, and critic Daniel Mendelsohn on November 8.

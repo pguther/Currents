@@ -9,7 +9,7 @@ images:
     caption: "Craig Reinarman UCSC Photo Services"
 ---
 
-[caption id="attachment_3912" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/reinarman_craig.130.jpg"><img class="size-full wp-image-3912" src="http://localhost/mysite/wp-content/uploads/2005/06/reinarman_craig.130.jpg" alt="Craig Reinarman UCSC Photo Services" width="130" height="171" /></a>Craig Reinarman UCSC Photo Services[/caption]
+[caption id="attachment_3912" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/reinarman_craig.130.jpg"><img class="size-full wp-image-3912" src="http://localhost/mysite/wp-content/uploads/2005/06/reinarman_craig.130.jpg" alt="Craig Reinarman UCSC Photo Services" width="130" height="171" /></a>Craig Reinarman UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   During his recent sabbatical at the University of Amsterdam, sociology professor Craig Reinarman delivered nearly a dozen invited lectures on drug-policy issues and participated in numerous scholarly conferences.

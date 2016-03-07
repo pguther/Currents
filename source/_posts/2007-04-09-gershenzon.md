@@ -9,7 +9,7 @@ images:
     caption: "Jean Langenheim and Jonathan Gershenzon Photo: Tim Stephens"
 ---
 
-[caption id="attachment_6049" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/langenheim_gershenzon.jpg"><img class="size-full wp-image-6049" src="http://localhost/mysite/wp-content/uploads/2007/04/langenheim_gershenzon.jpg" alt="Jean Langenheim and Jonathan Gershenzon Photo: Tim Stephens" width="230" height="183" /></a>Jean Langenheim and Jonathan Gershenzon Photo: Tim Stephens[/caption]
+[caption id="attachment_6049" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/langenheim_gershenzon.jpg"><img class="size-full wp-image-6049" src="http://localhost/mysite/wp-content/uploads/2007/04/langenheim_gershenzon.jpg" alt="Jean Langenheim and Jonathan Gershenzon Photo: Tim Stephens" width="230" height="183" /></a>Jean Langenheim and Jonathan Gershenzon Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   As director of the Max Planck Institute for Chemical Ecology in Jena, Germany, Jonathan Gershenzon is still pursuing some of the same ideas that first fascinated him as an undergraduate at UCSC in the 1970s.

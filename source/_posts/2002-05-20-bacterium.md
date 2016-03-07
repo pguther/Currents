@@ -10,7 +10,7 @@ images:
     caption: "H. pylori moves around using long protein 'tails' called flagella."
 ---
 
-[caption id="attachment_1164" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/bacteria.02-05-20.180.jpg"><img class="size-full wp-image-1164" src="http://localhost/mysite/wp-content/uploads/2002/05/bacteria.02-05-20.180.jpg" alt="H. pylori moves around using long protein "tails" called flagella." width="180" height="242" /></a>H. pylori moves around using long protein "tails" called flagella.[/caption]
+[caption id="attachment_1164" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/bacteria.02-05-20.180.jpg"><img class="size-full wp-image-1164" src="http://localhost/mysite/wp-content/uploads/2002/05/bacteria.02-05-20.180.jpg" alt="H. pylori moves around using long protein "tails" called flagella." width="180" height="242" /></a>H. pylori moves around using long protein "tails" called flagella.[/caption]
 <p>
   About 40 percent of the U.S. population is infected with a bacterium that can cause stomach inflammation and ulcers and increases the risk of stomach cancer. Although the bacterium, called <i>Helicobacter pylori,</i> was discovered in the 1980s, scientists are just now beginning to understand how it causes infections in the stomach lining.
 </p>Karen Ottemann, assistant professor of environmental toxicology, is studying <i>H. pylori</i>'s ability to move around and the role this motility plays in infections. Her latest findings, published in the April issue of the journal <i>Infection and Immunity,</i> indicate that for <i>H. pylori</i> to start and maintain an infection, it needs to be able to swim.<br>

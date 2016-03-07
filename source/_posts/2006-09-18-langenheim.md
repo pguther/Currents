@@ -9,7 +9,7 @@ images:
     caption: "Jean Langenheim"
 ---
 
-[caption id="attachment_6240" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/langenheim_jean.140.jpg"><img class="size-full wp-image-6240" src="http://localhost/mysite/wp-content/uploads/2006/09/langenheim_jean.140.jpg" alt="Jean Langenheim" width="140" height="175" /></a>Jean Langenheim[/caption]
+[caption id="attachment_6240" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/langenheim_jean.140.jpg"><img class="size-full wp-image-6240" src="http://localhost/mysite/wp-content/uploads/2006/09/langenheim_jean.140.jpg" alt="Jean Langenheim" width="140" height="175" /></a>Jean Langenheim[/caption]
 <a name="content" id="content"></a>
 <p>
   Jean Langenheim, professor emerita and research professor of ecology and evolutionary biology, has been chosen to receive the 2006 Fellows Medal of the California Academy of Sciences (CAS). This is the highest honor bestowed by the academy, founded in 1853 as the first scientific institution in the western United States.

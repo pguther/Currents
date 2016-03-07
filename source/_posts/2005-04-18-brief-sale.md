@@ -9,7 +9,7 @@ images:
     caption: "The sale includes more than 200 plant species."
 ---
 
-[caption id="attachment_3658" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/plant_sale.05-04-18.jpg"><img class="size-full wp-image-3658" src="http://localhost/mysite/wp-content/uploads/2005/04/plant_sale.05-04-18.jpg" alt="The sale includes more than 200 plant species." width="230" height="270" /></a>The sale includes more than 200 plant species.[/caption]
+[caption id="attachment_3658" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/plant_sale.05-04-18.jpg"><img class="size-full wp-image-3658" src="http://localhost/mysite/wp-content/uploads/2005/04/plant_sale.05-04-18.jpg" alt="The sale includes more than 200 plant species." width="230" height="270" /></a>The sale includes more than 200 plant species.[/caption]
 <a name="content" id="content"></a>
 <p>
   For the first time, the UCSC Farm will offer more than 100 organically grown raspberry starts at the annual Spring Plant Sale April 30-May 1. Beans and peas will also be featured at this year's sale, in addition to the stunning array of high-quality, organically raised vegetables, annual flowers, perennials, and herbs.<br>

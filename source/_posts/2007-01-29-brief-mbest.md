@@ -9,7 +9,7 @@ images:
     caption: "Photographer Steve Zmak, left, and sculptor Richard Mayer, right, join Acting Chancellor George Blumenthal at the MBEST Center in Marina. Mayer's work 'Stanley' is at right."
 ---
 
-[caption id="attachment_5855" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/mbest.230.jpg"><img class="size-full wp-image-5855" src="http://localhost/mysite/wp-content/uploads/2007/01/mbest.230.jpg" alt="Photographer Steve Zmak, left, and sculptor Richard Mayer, right, join Acting Chancellor George Blumenthal at the MBEST Center in Marina. Mayer's work "Stanley" is at right." width="230" height="164" /></a>Photographer Steve Zmak, left, and sculptor Richard Mayer, right, join Acting Chancellor George Blumenthal at the MBEST Center in Marina. Mayer's work "Stanley" is at right.[/caption]
+[caption id="attachment_5855" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/mbest.230.jpg"><img class="size-full wp-image-5855" src="http://localhost/mysite/wp-content/uploads/2007/01/mbest.230.jpg" alt="Photographer Steve Zmak, left, and sculptor Richard Mayer, right, join Acting Chancellor George Blumenthal at the MBEST Center in Marina. Mayer's work "Stanley" is at right." width="230" height="164" /></a>Photographer Steve Zmak, left, and sculptor Richard Mayer, right, join Acting Chancellor George Blumenthal at the MBEST Center in Marina. Mayer's work "Stanley" is at right.[/caption]
 <a name="content" id="content"></a>
 <p>
   Acting Chancellor Blumenthal joined in celebrating the opening of an exhibit by two local artists at UC's Monterey Bay Education, Science, and Technology (MBEST) Center on January 26.

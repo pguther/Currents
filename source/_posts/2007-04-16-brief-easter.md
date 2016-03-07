@@ -9,7 +9,7 @@ images:
     caption: "Staff members' children return from the hunt with their Easter eggs."
 ---
 
-[caption id="attachment_6055" align="alignnone" width="211"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/easter04.jpg"><img class="size-full wp-image-6055" src="http://localhost/mysite/wp-content/uploads/2007/04/easter04.jpg" alt="Staff members' children return from the hunt with their Easter eggs." width="211" height="199" /></a>Staff members' children return from the hunt with their Easter eggs.[/caption]
+[caption id="attachment_6055" align="alignright" width="211"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/easter04.jpg"><img class="size-full wp-image-6055" src="http://localhost/mysite/wp-content/uploads/2007/04/easter04.jpg" alt="Staff members' children return from the hunt with their Easter eggs." width="211" height="199" /></a>Staff members' children return from the hunt with their Easter eggs.[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC Dining Services staff members and their families were treated to an egg hunt and barbecue on Easter Sunday, courtesy of the <a href="http://people.ucsc.edu/%7Eeolvera/lbsa">Latino Business Student Association</a> at Oakes College.

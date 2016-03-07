@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_909" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/united_logo.02-02-11.140.gif"><img class="size-full wp-image-909" src="http://localhost/mysite/wp-content/uploads/2002/02/united_logo.02-02-11.140.gif" alt="" width="140" height="126" /></a>[/caption]
+[caption id="attachment_909" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/united_logo.02-02-11.140.gif"><img class="size-full wp-image-909" src="http://localhost/mysite/wp-content/uploads/2002/02/united_logo.02-02-11.140.gif" alt="" width="140" height="126" /></a>[/caption]
 <p>
   United Way of Santa Cruz County has begun its annual campaign on campus, with organizers hoping to increase the level of participation this year.
 </p>A fundraising letter placed in campus mailboxes noted that 126,000 people in Santa Cruz County received services from United Way agencies last year.<br>

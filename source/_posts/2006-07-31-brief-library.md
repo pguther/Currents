@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6115" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/library_exhibit.200.jpg"><img class="size-full wp-image-6115" src="http://localhost/mysite/wp-content/uploads/2006/07/library_exhibit.200.jpg" alt="" width="200" height="200" /></a>[/caption]
+[caption id="attachment_6115" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/library_exhibit.200.jpg"><img class="size-full wp-image-6115" src="http://localhost/mysite/wp-content/uploads/2006/07/library_exhibit.200.jpg" alt="" width="200" height="200" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The UCSC Library is celebrating the 25th anniversary of Shakespeare Santa Cruz (SCC) with an exhibit highlighting some of the beautiful and unique Shakespearean materials from the library's collections.

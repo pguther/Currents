@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5836" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/lunafest_logo.120.jpg"><img class="size-full wp-image-5836" src="http://localhost/mysite/wp-content/uploads/2007/01/lunafest_logo.120.jpg" alt="" width="120" height="96" /></a>[/caption]
+[caption id="attachment_5836" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/lunafest_logo.120.jpg"><img class="size-full wp-image-5836" src="http://localhost/mysite/wp-content/uploads/2007/01/lunafest_logo.120.jpg" alt="" width="120" height="96" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   LUNAFEST, a fundraising film festival dedicated to promoting awareness about women's issues, highlighting women filmmakers, and bringing women together in their communities, will screen in Santa Cruz at the Rio Theater on Saturday, January 27.

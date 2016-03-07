@@ -9,7 +9,7 @@ images:
     caption: "A Mexican fisher hauls in his nets on the Gulf of California. Photos: Richard Cudney Bueno, University of Arizona"
 ---
 
-[caption id="attachment_5617" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/bonita.05-10-17.jpg"><img class="size-full wp-image-5617" src="http://localhost/mysite/wp-content/uploads/2005/11/bonita.05-10-17.jpg" alt="A Mexican fisher hauls in his nets on the Gulf of California. Photos: Richard Cudney Bueno, University of Arizona" width="200" height="334" /></a>A Mexican fisher hauls in his nets on the Gulf of California. Photos: Richard Cudney Bueno, University of Arizona[/caption]
+[caption id="attachment_5617" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/bonita.05-10-17.jpg"><img class="size-full wp-image-5617" src="http://localhost/mysite/wp-content/uploads/2005/11/bonita.05-10-17.jpg" alt="A Mexican fisher hauls in his nets on the Gulf of California. Photos: Richard Cudney Bueno, University of Arizona" width="200" height="334" /></a>A Mexican fisher hauls in his nets on the Gulf of California. Photos: Richard Cudney Bueno, University of Arizona[/caption]
 <a name="content" id="content"></a>
 <p>
   The David and Lucile Packard Foundation has awarded a major grant to researchers at UCSC and other institutions to study fisheries in the northern Gulf of California.

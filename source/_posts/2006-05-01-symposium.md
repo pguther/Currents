@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_4955" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/grad.gif"><img class="size-full wp-image-4955" src="http://localhost/mysite/wp-content/uploads/2006/05/grad.gif" alt="" width="150" height="216" /></a>[/caption]
+[caption id="attachment_4955" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/grad.gif"><img class="size-full wp-image-4955" src="http://localhost/mysite/wp-content/uploads/2006/05/grad.gif" alt="" width="150" height="216" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   If you've ever wanted to get a quick look at what UCSC's graduate students are up to in their diverse fields, the Graduate Research Symposium is the place to go.

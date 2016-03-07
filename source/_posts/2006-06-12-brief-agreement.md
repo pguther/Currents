@@ -9,7 +9,7 @@ images:
     caption: "Denice D. Denton and Yun Soo Mok display their formal agreement. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_5122" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/signing.06-06-12.jpg"><img class="size-full wp-image-5122" src="http://localhost/mysite/wp-content/uploads/2006/06/signing.06-06-12.jpg" alt="Denice D. Denton and Yun Soo Mok display their formal agreement. Photo: Louise Donahue" width="230" height="196" /></a>Denice D. Denton and Yun Soo Mok display their formal agreement. Photo: Louise Donahue[/caption]
+[caption id="attachment_5122" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/signing.06-06-12.jpg"><img class="size-full wp-image-5122" src="http://localhost/mysite/wp-content/uploads/2006/06/signing.06-06-12.jpg" alt="Denice D. Denton and Yun Soo Mok display their formal agreement. Photo: Louise Donahue" width="230" height="196" /></a>Denice D. Denton and Yun Soo Mok display their formal agreement. Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC Chancellor Denice D. Denton and Yun Soo Mok, president of Korea's Pukyong University, signed a five-year cooperation agreement June 5 at the University Center.

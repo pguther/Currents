@@ -9,7 +9,7 @@ images:
     caption: "Baile Folklorico Mexicano dancers Claudia Navarro, Antonio Campos, and Crystal Ruacho are among the dancers performing March 13. Photo: Brian Frus"
 ---
 
-[caption id="attachment_5958" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/folklorico.345.jpg"><img class="size-full wp-image-5958" src="http://localhost/mysite/wp-content/uploads/2007/03/folklorico.345.jpg" alt="Baile Folklorico Mexicano dancers Claudia Navarro, Antonio Campos, and Crystal Ruacho are among the dancers performing March 13. Photo: Brian Frus" width="345" height="208" /></a>Baile Folklorico Mexicano dancers Claudia Navarro, Antonio Campos, and Crystal Ruacho are among the dancers performing March 13. Photo: Brian Frus[/caption]
+[caption id="attachment_5958" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/folklorico.345.jpg"><img class="size-full wp-image-5958" src="http://localhost/mysite/wp-content/uploads/2007/03/folklorico.345.jpg" alt="Baile Folklorico Mexicano dancers Claudia Navarro, Antonio Campos, and Crystal Ruacho are among the dancers performing March 13. Photo: Brian Frus" width="345" height="208" /></a>Baile Folklorico Mexicano dancers Claudia Navarro, Antonio Campos, and Crystal Ruacho are among the dancers performing March 13. Photo: Brian Frus[/caption]
 <a name="content" id="content"></a>
 <p>
   Songs in Finnish and Chinese and dancers performing the mambo and Russian ballet are just a sampling of what's in store at the Festival of International Music and Dance.

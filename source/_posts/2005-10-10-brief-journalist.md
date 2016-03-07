@@ -9,7 +9,7 @@ images:
     caption: "Dahr Jamail"
 ---
 
-[caption id="attachment_5497" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/jamail.05-10-10.jpg"><img class="size-full wp-image-5497" src="http://localhost/mysite/wp-content/uploads/2005/10/jamail.05-10-10.jpg" alt="Dahr Jamail" width="180" height="138" /></a>Dahr Jamail[/caption]
+[caption id="attachment_5497" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/jamail.05-10-10.jpg"><img class="size-full wp-image-5497" src="http://localhost/mysite/wp-content/uploads/2005/10/jamail.05-10-10.jpg" alt="Dahr Jamail" width="180" height="138" /></a>Dahr Jamail[/caption]
 <a name="content" id="content"></a><br>
 <p>
   Journalist Dahr Jamail will give a slide show presentation titled "Dispatches from Iraq" on Wednesday, October 19, from 7 to 9 p.m. at the UCSC Music Recital Hall.

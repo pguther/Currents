@@ -9,7 +9,7 @@ images:
     caption: "The Scott Creek watershed is home to an incredible diversity of flora."
 ---
 
-[caption id="attachment_4722" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/flower_scotts.200.jpg"><img class="size-full wp-image-4722" src="http://localhost/mysite/wp-content/uploads/2006/03/flower_scotts.200.jpg" alt="The Scott Creek watershed is home to an incredible diversity of flora." width="200" height="178" /></a>The Scott Creek watershed is home to an incredible diversity of flora.[/caption]
+[caption id="attachment_4722" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/flower_scotts.200.jpg"><img class="size-full wp-image-4722" src="http://localhost/mysite/wp-content/uploads/2006/03/flower_scotts.200.jpg" alt="The Scott Creek watershed is home to an incredible diversity of flora." width="200" height="178" /></a>The Scott Creek watershed is home to an incredible diversity of flora.[/caption]
 <a name="content" id="content"></a>
 <p>
   Local botanists and photographers will present an illustrated journey through the diverse flora of the Scotts Creek watershed at the <a href="http://www2.ucsc.edu/arboretum/">UCSC Arboretum</a> on Monday, March 13. The talk and slide show will take place at 7:30 p.m. in the Horticulture Building. Parking is limited, so carpooling is encouraged.

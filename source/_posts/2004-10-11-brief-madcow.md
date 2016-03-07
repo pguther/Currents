@@ -9,7 +9,7 @@ images:
     caption: "Glenn Millhauser"
 ---
 
-[caption id="attachment_4228" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/millhauser_glenn.140.jpg"><img class="size-full wp-image-4228" src="http://localhost/mysite/wp-content/uploads/2004/10/millhauser_glenn.140.jpg" alt="Glenn Millhauser" width="140" height="188" /></a>Glenn Millhauser[/caption]
+[caption id="attachment_4228" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/millhauser_glenn.140.jpg"><img class="size-full wp-image-4228" src="http://localhost/mysite/wp-content/uploads/2004/10/millhauser_glenn.140.jpg" alt="Glenn Millhauser" width="140" height="188" /></a>Glenn Millhauser[/caption]
 <a name="content" id="content"></a>
 <p>
   Have you ever wondered what causes "mad cow disease" and how it affects human health? You can find out from UCSC's Glenn Millhauser, professor of chemistry and biochemistry, who will give a talk this week on "Mad cow disease: Why we all have the prion protein and how it can go wrong in disease."

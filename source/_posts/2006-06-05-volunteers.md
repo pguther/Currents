@@ -9,7 +9,7 @@ images:
     caption: "Students in the Sigma Omicron Pi service sorority serve lunch and clean up at the Louden Nelson Center lunch for senior citizens. Photo: Jim MacKenzie"
 ---
 
-[caption id="attachment_5117" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/volunteers.06-06-05.jpg"><img class="size-full wp-image-5117" src="http://localhost/mysite/wp-content/uploads/2006/06/volunteers.06-06-05.jpg" alt="Students in the Sigma Omicron Pi service sorority serve lunch and clean up at the Louden Nelson Center lunch for senior citizens. Photo: Jim MacKenzie" width="345" height="230" /></a>Students in the Sigma Omicron Pi service sorority serve lunch and clean up at the Louden Nelson Center lunch for senior citizens. Photo: Jim MacKenzie[/caption]
+[caption id="attachment_5117" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/volunteers.06-06-05.jpg"><img class="size-full wp-image-5117" src="http://localhost/mysite/wp-content/uploads/2006/06/volunteers.06-06-05.jpg" alt="Students in the Sigma Omicron Pi service sorority serve lunch and clean up at the Louden Nelson Center lunch for senior citizens. Photo: Jim MacKenzie" width="345" height="230" /></a>Students in the Sigma Omicron Pi service sorority serve lunch and clean up at the Louden Nelson Center lunch for senior citizens. Photo: Jim MacKenzie[/caption]
 <a name="content" id="content"></a>
 <p>
   Whether it's serving lunch to senior citizens, helping young cancer patients, or tutoring English-learners, UCSC students find ways to get involved in their community.

@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2566" align="alignnone" width="210"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/lee_schoenfeld.04-02-23.210.jpg"><img class="size-full wp-image-2566" src="http://localhost/mysite/wp-content/uploads/2004/02/lee_schoenfeld.04-02-23.210.jpg" alt="" width="210" height="290" /></a>[/caption]
+[caption id="attachment_2566" align="alignright" width="210"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/lee_schoenfeld.04-02-23.210.jpg"><img class="size-full wp-image-2566" src="http://localhost/mysite/wp-content/uploads/2004/02/lee_schoenfeld.04-02-23.210.jpg" alt="" width="210" height="290" /></a>[/caption]
 <p>
   Academics and field hockey may seem like strange bedfellows, but for Vera Lee-Schoenfeld, the combination is as natural as the redwoods growing outside her Stevenson College office.
 </p>

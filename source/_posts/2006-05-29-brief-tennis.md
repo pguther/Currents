@@ -9,7 +9,7 @@ images:
     caption: "Shane Templeman (left) and Matt Seeberger pose with their doubles trophies."
 ---
 
-[caption id="attachment_5085" align="alignnone" width="275"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/tennis_champs.275.jpg"><img class="size-full wp-image-5085" src="http://localhost/mysite/wp-content/uploads/2006/05/tennis_champs.275.jpg" alt="Shane Templeman (left) and Matt Seeberger pose with their doubles trophies." width="275" height="189" /></a>Shane Templeman (left) and Matt Seeberger pose with their doubles trophies.[/caption]
+[caption id="attachment_5085" align="alignright" width="275"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/tennis_champs.275.jpg"><img class="size-full wp-image-5085" src="http://localhost/mysite/wp-content/uploads/2006/05/tennis_champs.275.jpg" alt="Shane Templeman (left) and Matt Seeberger pose with their doubles trophies." width="275" height="189" /></a>Shane Templeman (left) and Matt Seeberger pose with their doubles trophies.[/caption]
 <a name="content" id="content"></a>
 <p>
   Slug tennis did it again. The duo of junior Matt Seeberger and senior Shane Templeman won the NCAA Division III doubles championship May 22 at Mary Washington University in Fredricksburg, Virginia.

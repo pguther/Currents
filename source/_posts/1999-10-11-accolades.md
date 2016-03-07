@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_6969" align="alignnone" width="319"]<a href="http://localhost/mysite/wp-content/uploads/1999/10/liz_irwin.jpg"><img class="size-full wp-image-6969" src="http://localhost/mysite/wp-content/uploads/1999/10/liz_irwin.jpg" alt="" width="319" height="419" /></a>[/caption]
+[caption id="attachment_6969" align="alignright" width="319"]<a href="http://localhost/mysite/wp-content/uploads/1999/10/liz_irwin.jpg"><img class="size-full wp-image-6969" src="http://localhost/mysite/wp-content/uploads/1999/10/liz_irwin.jpg" alt="" width="319" height="419" /></a>[/caption]
 <h4>
   <font color="#003399">Elizabeth Irwin</font>
 </h4>Elizabeth Irwin, director of Public Affairs, has been selected as one of the "People of the Century" by the Aptos Chamber of Commerce. Irwin is among 23 people, businesses, and organizations so honored for giving their time, money, and energy to make Santa Cruz County a better place to live in the 20th century. The honorees were celebrated at the chamber's 69th annual dinner and auction at Seascape Resort on October 2.

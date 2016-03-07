@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2898" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/07/thomas_eric.04-07-06.small.jpg"><img class="size-full wp-image-2898" src="http://localhost/mysite/wp-content/uploads/2004/07/thomas_eric.04-07-06.small.jpg" alt="" width="140" height="208" /></a>[/caption]
+[caption id="attachment_2898" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/07/thomas_eric.04-07-06.small.jpg"><img class="size-full wp-image-2898" src="http://localhost/mysite/wp-content/uploads/2004/07/thomas_eric.04-07-06.small.jpg" alt="" width="140" height="208" /></a>[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "David Swanger Photo: Mark Gottlieb"
 ---
 
-[caption id="attachment_5367" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/swanger_david.180.jpg"><img class="size-full wp-image-5367" src="http://localhost/mysite/wp-content/uploads/2005/09/swanger_david.180.jpg" alt="David Swanger Photo: Mark Gottlieb" width="180" height="124" /></a>David Swanger Photo: Mark Gottlieb[/caption]
+[caption id="attachment_5367" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/swanger_david.180.jpg"><img class="size-full wp-image-5367" src="http://localhost/mysite/wp-content/uploads/2005/09/swanger_david.180.jpg" alt="David Swanger Photo: Mark Gottlieb" width="180" height="124" /></a>David Swanger Photo: Mark Gottlieb[/caption]
 <a name="content" id="content"></a>
 <p>
   Professor Emeritus David Swanger has been awarded the 2005 John Ciardi Prize for Poetry by BkMk Press of the University of Missouri-Kansas City. He was selected from more than 400 entrants for his book of poetry, <i>Wayne's College of Beauty: New and Selected Poems</i>.

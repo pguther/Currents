@@ -9,7 +9,7 @@ images:
     caption: "Dilip K. Basu has helped orchestrate Satyajit Ray retrospectives in Europe and North America."
 ---
 
-[caption id="attachment_2947" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/07/basu.03-07-21.160.jpg"><img class="size-full wp-image-2947" src="http://localhost/mysite/wp-content/uploads/2003/07/basu.03-07-21.160.jpg" alt="Dilip K. Basu has helped orchestrate Satyajit Ray retrospectives in Europe and North America." width="160" height="204" /></a>Dilip K. Basu has helped orchestrate Satyajit Ray retrospectives in Europe and North America.[/caption]
+[caption id="attachment_2947" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/07/basu.03-07-21.160.jpg"><img class="size-full wp-image-2947" src="http://localhost/mysite/wp-content/uploads/2003/07/basu.03-07-21.160.jpg" alt="Dilip K. Basu has helped orchestrate Satyajit Ray retrospectives in Europe and North America." width="160" height="204" /></a>Dilip K. Basu has helped orchestrate Satyajit Ray retrospectives in Europe and North America.[/caption]
 <p>
   The Cultural Association of Bengal has honored UC Santa Cruz associate professor of history Dilip K. Basu with a Distinguished Service Award for his efforts to preserve classic Bengali films.
 </p>

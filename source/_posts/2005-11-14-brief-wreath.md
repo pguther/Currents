@@ -9,7 +9,7 @@ images:
     caption: "Wreaths of colorful dried perennials and herbs will be available at the sale."
 ---
 
-[caption id="attachment_5662" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/wreath.180.jpg"><img class="size-full wp-image-5662" src="http://localhost/mysite/wp-content/uploads/2005/11/wreath.180.jpg" alt="Wreaths of colorful dried perennials and herbs will be available at the sale." width="180" height="177" /></a>Wreaths of colorful dried perennials and herbs will be available at the sale.[/caption]
+[caption id="attachment_5662" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/wreath.180.jpg"><img class="size-full wp-image-5662" src="http://localhost/mysite/wp-content/uploads/2005/11/wreath.180.jpg" alt="Wreaths of colorful dried perennials and herbs will be available at the sale." width="180" height="177" /></a>Wreaths of colorful dried perennials and herbs will be available at the sale.[/caption]
 <a name="content" id="content"></a>
 <p>
   Wonderful holiday decorations and gifts will be available from the UCSC Arboretum at the annual Dried Flower and Succulent Wreath Sale on Saturday and Sunday, November 19 and 20. Exotic dried flower arrangements, living succulent wreaths, rare and unusual succulent plants, and materials for making your own gifts are among the offerings at this year's sale.

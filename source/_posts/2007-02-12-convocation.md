@@ -9,7 +9,7 @@ images:
     caption: "Maxine Waters will hold a field hearing in New Orleans on post-Katrina housing issues."
 ---
 
-[caption id="attachment_5904" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/waters_maxine.jpg"><img class="size-full wp-image-5904" src="http://localhost/mysite/wp-content/uploads/2007/02/waters_maxine.jpg" alt="Maxine Waters will hold a field hearing in New Orleans on post-Katrina housing issues." width="180" height="285" /></a>Maxine Waters will hold a field hearing in New Orleans on post-Katrina housing issues.[/caption]
+[caption id="attachment_5904" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/waters_maxine.jpg"><img class="size-full wp-image-5904" src="http://localhost/mysite/wp-content/uploads/2007/02/waters_maxine.jpg" alt="Maxine Waters will hold a field hearing in New Orleans on post-Katrina housing issues." width="180" height="285" /></a>Maxine Waters will hold a field hearing in New Orleans on post-Katrina housing issues.[/caption]
 <a name="content" id="content"></a>
 <p>
   Longtime Congresswoman Maxine Waters will address the annual Martin Luther King Jr. Memorial Convocation February 20 in an event with strong reminders of Hurricane Katrina.

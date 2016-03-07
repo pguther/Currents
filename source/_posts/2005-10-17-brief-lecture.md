@@ -9,7 +9,7 @@ images:
     caption: "Susan Schwartz, professor of Earth sciences, will discuss her research on earthquakes and tsunamis."
 ---
 
-[caption id="attachment_5522" align="alignnone" width="122"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/schwartz_susan.122.jpg"><img class="size-full wp-image-5522" src="http://localhost/mysite/wp-content/uploads/2005/10/schwartz_susan.122.jpg" alt="Susan Schwartz, professor of Earth sciences, will discuss her research on earthquakes and tsunamis." width="122" height="132" /></a>Susan Schwartz, professor of Earth sciences, will discuss her research on earthquakes and tsunamis.[/caption]
+[caption id="attachment_5522" align="alignright" width="122"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/schwartz_susan.122.jpg"><img class="size-full wp-image-5522" src="http://localhost/mysite/wp-content/uploads/2005/10/schwartz_susan.122.jpg" alt="Susan Schwartz, professor of Earth sciences, will discuss her research on earthquakes and tsunamis." width="122" height="132" /></a>Susan Schwartz, professor of Earth sciences, will discuss her research on earthquakes and tsunamis.[/caption]
 <a name="content" id="content"></a><br>
 <p>
   The December 2004 and March 2005 Sumatra earthquakes were the two largest earthquakes to occur in the past 40 years. While the human tragedy that accompanied these events is hard to comprehend, the location of these earthquakes, at a subduction zone plate boundary, is well known to generate the greatest earthquakes and tsunamis worldwide. Susan Schwartz, professor of Earth sciences and director of the Keck Seismological Laboratory, will explore the tectonic environment of subduction zone faults in a talk this week entitled "Great Earthquakes and Tsunamis: How, Why, and Where?"

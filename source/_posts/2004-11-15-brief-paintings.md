@@ -9,7 +9,7 @@ images:
     caption: "'Did I do all that?' by Virginia Dell Lichac, oil on canvas"
 ---
 
-[caption id="attachment_4365" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/lichac_painting.200.jpg"><img class="size-full wp-image-4365" src="http://localhost/mysite/wp-content/uploads/2004/11/lichac_painting.200.jpg" alt=""Did I do all that?" by Virginia Dell Lichac, oil on canvas" width="200" height="198" /></a>"Did I do all that?" by Virginia Dell Lichac, oil on canvas[/caption]
+[caption id="attachment_4365" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/lichac_painting.200.jpg"><img class="size-full wp-image-4365" src="http://localhost/mysite/wp-content/uploads/2004/11/lichac_painting.200.jpg" alt=""Did I do all that?" by Virginia Dell Lichac, oil on canvas" width="200" height="198" /></a>"Did I do all that?" by Virginia Dell Lichac, oil on canvas[/caption]
 <a name="content" id="content"></a>
 <p>
   Psychology Department staff member Virginia Dell Lichac will show a group of 20 paintings at Stevenson Cafe November 15 through January 21.

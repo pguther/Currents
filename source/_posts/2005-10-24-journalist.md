@@ -9,7 +9,7 @@ images:
     caption: "Cowell College provost Deanna Shemek joins Dahr Jamail as he meets with audience members following his talk. Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_5559" align="alignnone" width="235"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/jamail_dahr.05-10-24.jpg"><img class="size-full wp-image-5559" src="http://localhost/mysite/wp-content/uploads/2005/10/jamail_dahr.05-10-24.jpg" alt="Cowell College provost Deanna Shemek joins Dahr Jamail as he meets with audience members following his talk. Photo: Jennifer McNulty" width="235" height="156" /></a>Cowell College provost Deanna Shemek joins Dahr Jamail as he meets with audience members following his talk. Photo: Jennifer McNulty[/caption]
+[caption id="attachment_5559" align="alignright" width="235"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/jamail_dahr.05-10-24.jpg"><img class="size-full wp-image-5559" src="http://localhost/mysite/wp-content/uploads/2005/10/jamail_dahr.05-10-24.jpg" alt="Cowell College provost Deanna Shemek joins Dahr Jamail as he meets with audience members following his talk. Photo: Jennifer McNulty" width="235" height="156" /></a>Cowell College provost Deanna Shemek joins Dahr Jamail as he meets with audience members following his talk. Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   Journalist Dahr Jamail chose his words carefully when trying to answer a young boy's question about the U.S. bombing of Fallujah.

@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2799" align="alignnone" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/achievement.04-05-24.jpg"><img class="size-full wp-image-2799" src="http://localhost/mysite/wp-content/uploads/2004/05/achievement.04-05-24.jpg" alt="" width="250" height="286" /></a>[/caption]
+[caption id="attachment_2799" align="alignright" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/achievement.04-05-24.jpg"><img class="size-full wp-image-2799" src="http://localhost/mysite/wp-content/uploads/2004/05/achievement.04-05-24.jpg" alt="" width="250" height="286" /></a>[/caption]
 <p>
   The varied nature of student accomplishment at UCSC--from scientific research to artwork and theater--will be showcased during Student Achievement Week, beginning May 29.<br>
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "Alejandro Acevedo-Gutierrez has been studying the feeding behavior of blue whales and fin whales in Monterey Bay."
 ---
 
-[caption id="attachment_1473" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/Alejandro.01-10-15.120.jpg"><img class="size-full wp-image-1473" src="http://localhost/mysite/wp-content/uploads/2001/10/Alejandro.01-10-15.120.jpg" alt="Alejandro Acevedo-Gutierrez has been studying the feeding behavior of blue whales and fin whales in Monterey Bay." width="120" height="181" /></a>Alejandro Acevedo-Gutierrez has been studying the feeding behavior of blue whales and fin whales in Monterey Bay.[/caption]
+[caption id="attachment_1473" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/Alejandro.01-10-15.120.jpg"><img class="size-full wp-image-1473" src="http://localhost/mysite/wp-content/uploads/2001/10/Alejandro.01-10-15.120.jpg" alt="Alejandro Acevedo-Gutierrez has been studying the feeding behavior of blue whales and fin whales in Monterey Bay." width="120" height="181" /></a>Alejandro Acevedo-Gutierrez has been studying the feeding behavior of blue whales and fin whales in Monterey Bay.[/caption]
 <p>
   <font size="5"><b>UCSC researcher named Hispanic Scientist of the Year</b></font>
 </p>

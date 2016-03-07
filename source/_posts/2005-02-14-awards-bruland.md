@@ -9,7 +9,7 @@ images:
     caption: "Ken Bruland"
 ---
 
-[caption id="attachment_3423" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/bruland_ken.200.jpg"><img class="size-full wp-image-3423" src="http://localhost/mysite/wp-content/uploads/2005/02/bruland_ken.200.jpg" alt="Ken Bruland" width="200" height="205" /></a>Ken Bruland[/caption]
+[caption id="attachment_3423" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/bruland_ken.200.jpg"><img class="size-full wp-image-3423" src="http://localhost/mysite/wp-content/uploads/2005/02/bruland_ken.200.jpg" alt="Ken Bruland" width="200" height="205" /></a>Ken Bruland[/caption]
 <a name="content" id="content"></a>
 <p>
   Kenneth Bruland, professor and chair of ocean sciences, has received two major honors this year: He was elected as a 2005 fellow of the American Geophysical Union and was chosen to receive the 2005 Clair C. Patterson Medal for Environmental Chemistry from the Geochemical Society.

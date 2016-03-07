@@ -9,7 +9,7 @@ images:
     caption: "Craig Murray served as British ambassador to Uzbekistan from August 2002 to October 2004."
 ---
 
-[caption id="attachment_4935" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/murray_craig.120.jpg"><img class="size-full wp-image-4935" src="http://localhost/mysite/wp-content/uploads/2006/05/murray_craig.120.jpg" alt="Craig Murray served as British ambassador to Uzbekistan from August 2002 to October 2004." width="120" height="120" /></a>Craig Murray served as British ambassador to Uzbekistan from August 2002 to October 2004.[/caption]
+[caption id="attachment_4935" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/murray_craig.120.jpg"><img class="size-full wp-image-4935" src="http://localhost/mysite/wp-content/uploads/2006/05/murray_craig.120.jpg" alt="Craig Murray served as British ambassador to Uzbekistan from August 2002 to October 2004." width="120" height="120" /></a>Craig Murray served as British ambassador to Uzbekistan from August 2002 to October 2004.[/caption]
 <a name="content" id="content"></a>
 <p>
   Former British Ambassador to Uzbekistan, Craig Murray, will speak on U.S. and British sanctioned torture in Uzbekistan prisons on Friday, May 5, from noon to 2 p.m. at the Stevenson College Fireside Lounge. Admission is free and open to the public.

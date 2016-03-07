@@ -9,7 +9,7 @@ images:
     caption: "Frank Talamantes Photo: Titangos Photography Studio"
 ---
 
-[caption id="attachment_2051" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/07/talamantes_frank.150.jpg"><img class="size-full wp-image-2051" src="http://localhost/mysite/wp-content/uploads/2002/07/talamantes_frank.150.jpg" alt="Frank Talamantes Photo: Titangos Photography Studio" width="150" height="209" /></a>Frank Talamantes Photo: Titangos Photography Studio[/caption]
+[caption id="attachment_2051" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/07/talamantes_frank.150.jpg"><img class="size-full wp-image-2051" src="http://localhost/mysite/wp-content/uploads/2002/07/talamantes_frank.150.jpg" alt="Frank Talamantes Photo: Titangos Photography Studio" width="150" height="209" /></a>Frank Talamantes Photo: Titangos Photography Studio[/caption]
 <p class="pagehead">
   Accolades
 </p>

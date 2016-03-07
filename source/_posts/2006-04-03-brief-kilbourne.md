@@ -9,7 +9,7 @@ images:
     caption: "Author and lecturer Jean Kilbourne"
 ---
 
-[caption id="attachment_4805" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/kilbourne_jean.200.jpg"><img class="size-full wp-image-4805" src="http://localhost/mysite/wp-content/uploads/2006/04/kilbourne_jean.200.jpg" alt="Author and lecturer Jean Kilbourne" width="200" height="282" /></a>Author and lecturer Jean Kilbourne[/caption]
+[caption id="attachment_4805" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/kilbourne_jean.200.jpg"><img class="size-full wp-image-4805" src="http://localhost/mysite/wp-content/uploads/2006/04/kilbourne_jean.200.jpg" alt="Author and lecturer Jean Kilbourne" width="200" height="282" /></a>Author and lecturer Jean Kilbourne[/caption]
 <a name="content" id="content"></a>
 <p>
   Author <a href="http://www.jeankilbourne.com/">Jean Kilbourne</a> will give a talk titled "The Naked Truth: Advertising's Image of Women" on April 4 at 7 p.m. at the Merrill Cultural Center.

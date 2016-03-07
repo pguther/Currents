@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5781" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/rec_guide.200.jpg"><img class="size-full wp-image-5781" src="http://localhost/mysite/wp-content/uploads/2007/01/rec_guide.200.jpg" alt="" width="200" height="253" /></a>[/caption]
+[caption id="attachment_5781" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/rec_guide.200.jpg"><img class="size-full wp-image-5781" src="http://localhost/mysite/wp-content/uploads/2007/01/rec_guide.200.jpg" alt="" width="200" height="253" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Start the year off right with a recreation activity. There are classes in a wide variety of interest areas, including surfing, backpacking, ski and snowshoe trips, kayaking, rock climbing, holistic health, wine tasting, cooking, music, dance, wilderness first aid and first responder, survival skills, spring break trips, and day hikes. The winter 2007 <i>Recreation, Intramural &amp; Sports Guide</i>, available all over campus, describes the offerings in detail.

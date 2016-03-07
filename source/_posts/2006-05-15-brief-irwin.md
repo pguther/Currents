@@ -9,7 +9,7 @@ images:
     caption: "the Red Room by Anthony Papini, oil and acrylic on canvas"
 ---
 
-[caption id="attachment_5018" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/irwin_scholars.340.jpg"><img class="size-full wp-image-5018" src="http://localhost/mysite/wp-content/uploads/2006/05/irwin_scholars.340.jpg" alt="the Red Room by Anthony Papini, oil and acrylic on canvas" width="340" height="280" /></a>the Red Room by Anthony Papini, oil and acrylic on canvas[/caption]
+[caption id="attachment_5018" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/irwin_scholars.340.jpg"><img class="size-full wp-image-5018" src="http://localhost/mysite/wp-content/uploads/2006/05/irwin_scholars.340.jpg" alt="the Red Room by Anthony Papini, oil and acrylic on canvas" width="340" height="280" /></a>the Red Room by Anthony Papini, oil and acrylic on canvas[/caption]
 <a name="content" id="content"></a>
 <p>
   The 2006 Irwin Scholarship exhibition will be on view at the Mary Porter Sesnon Art Gallery from May 17 through June 17. The opening reception is scheduled for Wednesday, May 17, from 5 to 7 p.m. and will include an awards ceremony at 6 p.m.

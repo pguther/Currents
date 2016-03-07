@@ -9,7 +9,7 @@ images:
     caption: "Charles Atkinson"
 ---
 
-[caption id="attachment_4652" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/atkinson_charles.130.jpg"><img class="size-full wp-image-4652" src="http://localhost/mysite/wp-content/uploads/2006/02/atkinson_charles.130.jpg" alt="Charles Atkinson" width="130" height="177" /></a>Charles Atkinson[/caption]
+[caption id="attachment_4652" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/atkinson_charles.130.jpg"><img class="size-full wp-image-4652" src="http://localhost/mysite/wp-content/uploads/2006/02/atkinson_charles.130.jpg" alt="Charles Atkinson" width="130" height="177" /></a>Charles Atkinson[/caption]
 <a name="content" id="content"></a>
 <p>
   Literature lecturer Charles Atkinson has been named winner of <i>The Sow's Ear Poetry Review</i> annual chapbook competition. The winning volume will be published in 2006. He was also the runner-up in <i>Atlanta Review</i>'s 2005 international poetry competition.

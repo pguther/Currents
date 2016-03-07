@@ -9,7 +9,7 @@ images:
     caption: "Jim Estes"
 ---
 
-[caption id="attachment_4383" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/estes_jim.140.jpg"><img class="size-full wp-image-4383" src="http://localhost/mysite/wp-content/uploads/2004/11/estes_jim.140.jpg" alt="Jim Estes" width="140" height="193" /></a>Jim Estes[/caption]
+[caption id="attachment_4383" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/estes_jim.140.jpg"><img class="size-full wp-image-4383" src="http://localhost/mysite/wp-content/uploads/2004/11/estes_jim.140.jpg" alt="Jim Estes" width="140" height="193" /></a>Jim Estes[/caption]
 <a name="content" id="content"></a>
 <p>
   James Estes, adjunct professor of ecology and evolutionary biology, has received the Shoemaker Award for Distinguished Achievement in Communication from the U.S. Geological Survey (USGS). The award honors a scientist who creates excitement and enthusiasm for science among nonscientists.

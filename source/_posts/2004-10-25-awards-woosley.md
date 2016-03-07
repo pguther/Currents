@@ -9,7 +9,7 @@ images:
     caption: "Stan Woosley Tim Stephens photo"
 ---
 
-[caption id="attachment_4279" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/woosley_stan.150.jpg"><img class="size-full wp-image-4279" src="http://localhost/mysite/wp-content/uploads/2004/10/woosley_stan.150.jpg" alt="Stan Woosley Tim Stephens photo" width="150" height="189" /></a>Stan Woosley Tim Stephens photo[/caption]
+[caption id="attachment_4279" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/woosley_stan.150.jpg"><img class="size-full wp-image-4279" src="http://localhost/mysite/wp-content/uploads/2004/10/woosley_stan.150.jpg" alt="Stan Woosley Tim Stephens photo" width="150" height="189" /></a>Stan Woosley Tim Stephens photo[/caption]
 <a name="content" id="content"></a>
 <p>
   The American Physical Society has awarded the 2005 Hans A. Bethe Prize to Stan Woosley, professor of astronomy and astrophysics at UCSC. The Bethe Prize was established to recognize outstanding work in the areas of astrophysics, nuclear physics, and related fields.

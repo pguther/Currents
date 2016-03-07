@@ -9,7 +9,7 @@ images:
     caption: "Parabolica (1996) by Ed Osborn. Mixed media, electronics, sound, 16 x 22 feet. Photo courtesy of the artist"
 ---
 
-[caption id="attachment_4769" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/osborn_art.220.jpg"><img class="size-full wp-image-4769" src="http://localhost/mysite/wp-content/uploads/2006/03/osborn_art.220.jpg" alt="Parabolica (1996) by Ed Osborn. Mixed media, electronics, sound, 16 x 22 feet. Photo courtesy of the artist" width="220" height="169" /></a>Parabolica (1996) by Ed Osborn. Mixed media, electronics, sound, 16 x 22 feet. Photo courtesy of the artist[/caption]
+[caption id="attachment_4769" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/osborn_art.220.jpg"><img class="size-full wp-image-4769" src="http://localhost/mysite/wp-content/uploads/2006/03/osborn_art.220.jpg" alt="Parabolica (1996) by Ed Osborn. Mixed media, electronics, sound, 16 x 22 feet. Photo courtesy of the artist" width="220" height="169" /></a>Parabolica (1996) by Ed Osborn. Mixed media, electronics, sound, 16 x 22 feet. Photo courtesy of the artist[/caption]
 <a name="content" id="content"></a>
 <p>
   The <a href="http://www.fresnomet.org/">Fresno Metropolitan Museum</a> has developed <a href="http://www.fresnomet.org/exhibition.html">Off-Site</a>, a series of contemporary art projects that will be installed in different locations throughout Fresno through June. Off-Site takes contemporary art outside the gallery space and encourages a dialogue between artists, audiences, and neighborhood locations. From March 23 to April 14, Off-Site will feature the work of assistant art professor and sound artist <a href="http://www.roving.net/">Ed Osborn</a>.

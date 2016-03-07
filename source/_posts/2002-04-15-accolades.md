@@ -12,8 +12,8 @@ images:
     caption: "Harold Widom UCSC Photo Services"
 ---
 
-[caption id="attachment_1067" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/noe_alva.jpg"><img class="size-full wp-image-1067" src="http://localhost/mysite/wp-content/uploads/2002/04/noe_alva.jpg" alt="Alva Noe Photo: Angelica Farber" width="140" height="198" /></a>Alva Noe Photo: Angelica Farber[/caption]
-[caption id="attachment_1066" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/widom_harold.bw.jpg"><img class="size-full wp-image-1066" src="http://localhost/mysite/wp-content/uploads/2002/04/widom_harold.bw.jpg" alt="Harold Widom UCSC Photo Services" width="140" height="197" /></a>Harold Widom UCSC Photo Services[/caption]
+[caption id="attachment_1067" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/noe_alva.jpg"><img class="size-full wp-image-1067" src="http://localhost/mysite/wp-content/uploads/2002/04/noe_alva.jpg" alt="Alva Noe Photo: Angelica Farber" width="140" height="198" /></a>Alva Noe Photo: Angelica Farber[/caption]
+[caption id="attachment_1066" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/widom_harold.bw.jpg"><img class="size-full wp-image-1066" src="http://localhost/mysite/wp-content/uploads/2002/04/widom_harold.bw.jpg" alt="Harold Widom UCSC Photo Services" width="140" height="197" /></a>Harold Widom UCSC Photo Services[/caption]
 <h3>
   <a name="Harold" id="Harold"></a><font color="#003399"><b>Harold Widom wins prestigious Polya Prize</b></font>
 </h3>Harold Widom, professor emeritus of mathematics, will share the prestigious George Polya Prize with UC Davis professor of mathematics Craig Tracy. The two mathematicians are being honored for their recent breakthroughs in the field of mathematical analysis.<br>

@@ -12,8 +12,8 @@ images:
     caption: "Students in the Graduate Division were the first to get their diplomas, with commencement taking place on Friday. Photos: Jim MacKenzie"
 ---
 
-[caption id="attachment_5169" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/graduation_wide.jpg"><img class="size-full wp-image-5169" src="http://localhost/mysite/wp-content/uploads/2006/06/graduation_wide.jpg" alt="" width="345" height="204" /></a>[/caption]
-[caption id="attachment_5170" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/grads.06-06-19.jpg"><img class="size-full wp-image-5170" src="http://localhost/mysite/wp-content/uploads/2006/06/grads.06-06-19.jpg" alt="Students in the Graduate Division were the first to get their diplomas, with commencement taking place on Friday. Photos: Jim MacKenzie" width="230" height="153" /></a>Students in the Graduate Division were the first to get their diplomas, with commencement taking place on Friday. Photos: Jim MacKenzie[/caption]
+[caption id="attachment_5169" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/graduation_wide.jpg"><img class="size-full wp-image-5169" src="http://localhost/mysite/wp-content/uploads/2006/06/graduation_wide.jpg" alt="" width="345" height="204" /></a>[/caption]
+[caption id="attachment_5170" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/grads.06-06-19.jpg"><img class="size-full wp-image-5170" src="http://localhost/mysite/wp-content/uploads/2006/06/grads.06-06-19.jpg" alt="Students in the Graduate Division were the first to get their diplomas, with commencement taking place on Friday. Photos: Jim MacKenzie" width="230" height="153" /></a>Students in the Graduate Division were the first to get their diplomas, with commencement taking place on Friday. Photos: Jim MacKenzie[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC was a scene of sunny celebration over the weekend as students received bachelor's, master's, and doctoral degrees in commencement ceremonies.

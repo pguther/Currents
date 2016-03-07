@@ -9,7 +9,7 @@ images:
     caption: "Donald Osterbrock was director of Lick Observatory from 1973 to 1981."
 ---
 
-[caption id="attachment_1550" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/11/osterbrock.01-11-19.180.jpg"><img class="size-full wp-image-1550" src="http://localhost/mysite/wp-content/uploads/2001/11/osterbrock.01-11-19.180.jpg" alt="Donald Osterbrock was director of Lick Observatory from 1973 to 1981." width="180" height="258" /></a>Donald Osterbrock was director of Lick Observatory from 1973 to 1981.[/caption]
+[caption id="attachment_1550" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/11/osterbrock.01-11-19.180.jpg"><img class="size-full wp-image-1550" src="http://localhost/mysite/wp-content/uploads/2001/11/osterbrock.01-11-19.180.jpg" alt="Donald Osterbrock was director of Lick Observatory from 1973 to 1981." width="180" height="258" /></a>Donald Osterbrock was director of Lick Observatory from 1973 to 1981.[/caption]
 <p>
   Donald Osterbrock, professor emeritus of astronomy and astrophysics, has been awarded the 2002 LeRoy E. Doggett Prize in the History of Astronomy from the American Astronomical Society's Historical Astronomy Division.
 </p>Osterbrock, former director of Lick Observatory, has published numerous articles and books on the history of astronomy. His most recent book, a biography of astronomer Walter Baade, has just been published by Princeton University Press.<br>

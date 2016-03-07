@@ -9,7 +9,7 @@ images:
     caption: "Since coming to UCSC in 1998, Allison Luengen has been studying trace metal contaminants in San Francisco Bay. Photo: Tim Stephens"
 ---
 
-[caption id="attachment_5640" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/luengen_allison.05-11-07.jpg"><img class="size-full wp-image-5640" src="http://localhost/mysite/wp-content/uploads/2005/11/luengen_allison.05-11-07.jpg" alt="Since coming to UCSC in 1998, Allison Luengen has been studying trace metal contaminants in San Francisco Bay. Photo: Tim Stephens" width="160" height="243" /></a>Since coming to UCSC in 1998, Allison Luengen has been studying trace metal contaminants in San Francisco Bay. Photo: Tim Stephens[/caption]
+[caption id="attachment_5640" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/luengen_allison.05-11-07.jpg"><img class="size-full wp-image-5640" src="http://localhost/mysite/wp-content/uploads/2005/11/luengen_allison.05-11-07.jpg" alt="Since coming to UCSC in 1998, Allison Luengen has been studying trace metal contaminants in San Francisco Bay. Photo: Tim Stephens" width="160" height="243" /></a>Since coming to UCSC in 1998, Allison Luengen has been studying trace metal contaminants in San Francisco Bay. Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   Allison Luengen grew up peering under docks at the many strange and wonderful creatures that inhabit Puget Sound.

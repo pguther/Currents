@@ -9,7 +9,7 @@ images:
     caption: "Adam Hochschild Photo: Mikhail Lemkhin"
 ---
 
-[caption id="attachment_3503" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/hochschild_adam.140.jpg"><img class="size-full wp-image-3503" src="http://localhost/mysite/wp-content/uploads/2005/03/hochschild_adam.140.jpg" alt="Adam Hochschild Photo: Mikhail Lemkhin" width="140" height="227" /></a>Adam Hochschild Photo: Mikhail Lemkhin[/caption]
+[caption id="attachment_3503" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/hochschild_adam.140.jpg"><img class="size-full wp-image-3503" src="http://localhost/mysite/wp-content/uploads/2005/03/hochschild_adam.140.jpg" alt="Adam Hochschild Photo: Mikhail Lemkhin" width="140" height="227" /></a>Adam Hochschild Photo: Mikhail Lemkhin[/caption]
 <a name="content" id="content"></a>
 <p>
   Adam Hochschild, author of the new book <i>Bury the Chains: Prophets and Rebels in the Fight to Free an Empire's Slaves</i> will give a talk about his book on Wednesday, March 9, at 3:30 p.m. in the Cowell Conference Room.

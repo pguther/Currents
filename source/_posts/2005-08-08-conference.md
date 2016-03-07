@@ -15,9 +15,9 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5259" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/primack_joel.05-08-08.jpg"><img class="size-full wp-image-5259" src="http://localhost/mysite/wp-content/uploads/2005/08/primack_joel.05-08-08.jpg" alt="" width="160" height="229" /></a>[/caption]
-[caption id="attachment_5258" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/faber_sandra.05-08-08.jpg"><img class="size-full wp-image-5258" src="http://localhost/mysite/wp-content/uploads/2005/08/faber_sandra.05-08-08.jpg" alt="" width="160" height="214" /></a>[/caption]
-[caption id="attachment_5257" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/blumenthal_george.05-08-08.jpg"><img class="size-full wp-image-5257" src="http://localhost/mysite/wp-content/uploads/2005/08/blumenthal_george.05-08-08.jpg" alt="" width="160" height="222" /></a>[/caption]
+[caption id="attachment_5259" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/primack_joel.05-08-08.jpg"><img class="size-full wp-image-5259" src="http://localhost/mysite/wp-content/uploads/2005/08/primack_joel.05-08-08.jpg" alt="" width="160" height="229" /></a>[/caption]
+[caption id="attachment_5258" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/faber_sandra.05-08-08.jpg"><img class="size-full wp-image-5258" src="http://localhost/mysite/wp-content/uploads/2005/08/faber_sandra.05-08-08.jpg" alt="" width="160" height="214" /></a>[/caption]
+[caption id="attachment_5257" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/blumenthal_george.05-08-08.jpg"><img class="size-full wp-image-5257" src="http://localhost/mysite/wp-content/uploads/2005/08/blumenthal_george.05-08-08.jpg" alt="" width="160" height="222" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   About 200 astronomers, including many of the world's leading astrophysicists and cosmologists, are meeting on campus this week for a weeklong conference to honor three UCSC professors--astronomers George Blumenthal and Sandra Faber and physicist Joel Primack.

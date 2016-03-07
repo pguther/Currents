@@ -9,7 +9,7 @@ images:
     caption: "Drawing by Susan Willmarth, 2005"
 ---
 
-[caption id="attachment_4830" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/interrupted_life.200.jpg"><img class="size-full wp-image-4830" src="http://localhost/mysite/wp-content/uploads/2006/04/interrupted_life.200.jpg" alt="Drawing by Susan Willmarth, 2005" width="200" height="289" /></a>Drawing by Susan Willmarth, 2005[/caption]
+[caption id="attachment_4830" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/interrupted_life.200.jpg"><img class="size-full wp-image-4830" src="http://localhost/mysite/wp-content/uploads/2006/04/interrupted_life.200.jpg" alt="Drawing by Susan Willmarth, 2005" width="200" height="289" /></a>Drawing by Susan Willmarth, 2005[/caption]
 <a name="content" id="content"></a>
 <p>
   A traveling exhibit, "Interrupted Life: Incarcerated Mothers in the United States," is on display through April 24 at the <a href="http://www2.ucsc.edu/wmcenter/">UCSC Women's Center</a> and the Porter College Faculty Gallery.

@@ -9,7 +9,7 @@ images:
     caption: "Cavewoman Photo: Dave Brown, courtesy of The Banff Centre"
 ---
 
-[caption id="attachment_4659" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/cavewoman.220.jpg"><img class="size-full wp-image-4659" src="http://localhost/mysite/wp-content/uploads/2006/02/cavewoman.220.jpg" alt="Cavewoman Photo: Dave Brown, courtesy of The Banff Centre" width="220" height="208" /></a>Cavewoman Photo: Dave Brown, courtesy of The Banff Centre[/caption]
+[caption id="attachment_4659" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/cavewoman.220.jpg"><img class="size-full wp-image-4659" src="http://localhost/mysite/wp-content/uploads/2006/02/cavewoman.220.jpg" alt="Cavewoman Photo: Dave Brown, courtesy of The Banff Centre" width="220" height="208" /></a>Cavewoman Photo: Dave Brown, courtesy of The Banff Centre[/caption]
 <a name="content" id="content"></a>
 <p>
   The <a href="http://www.banffmountainfestivals.ca">Banff Mountain Film Festival World Tour</a> brings the spirit of outdoor adventure to Santa Cruz this weekend at the Rio Theater. Proceeds benefit UCSC Recreation and the Wilderness Orientation Program. Showings are at 7 p.m. Friday and Saturday, with a family matinee on Sunday at 2 p.m. The Rio Theater is located at 1205 Soquel Avenue in Santa Cruz.

@@ -9,7 +9,7 @@ images:
     caption: "Starlight is one of two schools and three school districts honored by the Department of Education's National Awards Program for Professional Development."
 ---
 
-[caption id="attachment_811" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/01/apple.02-01-07.224.jpg"><img class="size-full wp-image-811" src="http://localhost/mysite/wp-content/uploads/2002/01/apple.02-01-07.224.jpg" alt="Starlight is one of two schools and three school districts honored by the Department of Education's National Awards Program for Professional Development." width="224" height="202" /></a>Starlight is one of two schools and three school districts honored by the Department of Education's National Awards Program for Professional Development.[/caption]
+[caption id="attachment_811" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/01/apple.02-01-07.224.jpg"><img class="size-full wp-image-811" src="http://localhost/mysite/wp-content/uploads/2002/01/apple.02-01-07.224.jpg" alt="Starlight is one of two schools and three school districts honored by the Department of Education's National Awards Program for Professional Development." width="224" height="202" /></a>Starlight is one of two schools and three school districts honored by the Department of Education's National Awards Program for Professional Development.[/caption]
 <h3>
   'We couldn't have done it without UCSC,' says Watsonville principal
 </h3>

@@ -9,7 +9,7 @@ images:
     caption: "Anna Lappe will talk about her new book, Grub: Ideas for an Urban Organic Kitchen, coauthored with Bryant Terry"
 ---
 
-[caption id="attachment_4833" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/grub_bookcover.200.jpg"><img class="size-full wp-image-4833" src="http://localhost/mysite/wp-content/uploads/2006/04/grub_bookcover.200.jpg" alt="Anna Lappe will talk about her new book, Grub: Ideas for an Urban Organic Kitchen, coauthored with Bryant Terry" width="200" height="247" /></a>Anna Lappe will talk about her new book, Grub: Ideas for an Urban Organic Kitchen, coauthored with Bryant Terry[/caption]
+[caption id="attachment_4833" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/grub_bookcover.200.jpg"><img class="size-full wp-image-4833" src="http://localhost/mysite/wp-content/uploads/2006/04/grub_bookcover.200.jpg" alt="Anna Lappe will talk about her new book, Grub: Ideas for an Urban Organic Kitchen, coauthored with Bryant Terry" width="200" height="247" /></a>Anna Lappe will talk about her new book, Grub: Ideas for an Urban Organic Kitchen, coauthored with Bryant Terry[/caption]
 <a name="content" id="content"></a>
 <p>
   If Santa Cruz is the heart of the alternative foods movement, it will welcome one of its own on April 17 when author Anna Lappe comes to town.

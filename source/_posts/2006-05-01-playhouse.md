@@ -9,7 +9,7 @@ images:
     caption: "International Playhouse got its start as a French-language production directed by now lecturer emerita Miriam Ellis."
 ---
 
-[caption id="attachment_4948" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/ellis_miriam.jpg"><img class="size-full wp-image-4948" src="http://localhost/mysite/wp-content/uploads/2006/05/ellis_miriam.jpg" alt="International Playhouse got its start as a French-language production directed by now lecturer emerita Miriam Ellis." width="200" height="148" /></a>International Playhouse got its start as a French-language production directed by now lecturer emerita Miriam Ellis.[/caption]
+[caption id="attachment_4948" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/ellis_miriam.jpg"><img class="size-full wp-image-4948" src="http://localhost/mysite/wp-content/uploads/2006/05/ellis_miriam.jpg" alt="International Playhouse got its start as a French-language production directed by now lecturer emerita Miriam Ellis." width="200" height="148" /></a>International Playhouse got its start as a French-language production directed by now lecturer emerita Miriam Ellis.[/caption]
 <a name="content" id="content"></a>
 <p>
   A record seven languages will be showcased as the multilingual International Playhouse opens its sixth season.

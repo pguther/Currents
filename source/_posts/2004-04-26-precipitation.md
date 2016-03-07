@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2732" align="alignnone" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/loik.04-04-26.250.jpg"><img class="size-full wp-image-2732" src="http://localhost/mysite/wp-content/uploads/2004/04/loik.04-04-26.250.jpg" alt="" width="250" height="188" /></a>[/caption]
+[caption id="attachment_2732" align="alignright" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/loik.04-04-26.250.jpg"><img class="size-full wp-image-2732" src="http://localhost/mysite/wp-content/uploads/2004/04/loik.04-04-26.250.jpg" alt="" width="250" height="188" /></a>[/caption]
 <p>
   It was a classic "aha!" moment. Driving along Highway 395 on the eastern side of the Sierra, climate change researcher Michael Loik suddenly saw the nondescript Caltrans snow fences along the roadway as untapped gold mines of information.<br>
 </p>

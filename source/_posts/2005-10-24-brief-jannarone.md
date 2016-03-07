@@ -9,7 +9,7 @@ images:
     caption: "Kimberly Jannarone"
 ---
 
-[caption id="attachment_5546" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/jannarone1.05-10-24.10-24.jpg"><img class="size-full wp-image-5546" src="http://localhost/mysite/wp-content/uploads/2005/10/jannarone1.05-10-24.10-24.jpg" alt="Kimberly Jannarone" width="180" height="204" /></a>Kimberly Jannarone[/caption]
+[caption id="attachment_5546" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/jannarone1.05-10-24.10-24.jpg"><img class="size-full wp-image-5546" src="http://localhost/mysite/wp-content/uploads/2005/10/jannarone1.05-10-24.10-24.jpg" alt="Kimberly Jannarone" width="180" height="204" /></a>Kimberly Jannarone[/caption]
 <a name="content" id="content"></a>
 <p>
   Assistant professor of theater arts Kimberly Jannarone is working as both an actor and a dramaturg in Ted Hughes's version of <i>Alcestis</i>, an ancient Greek tragicomedy by Euripides that tells the tale of a woman who takes her husband's place when death comes for him.

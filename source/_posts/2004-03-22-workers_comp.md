@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2632" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/worker.04-03-22.240.jpg"><img class="size-full wp-image-2632" src="http://localhost/mysite/wp-content/uploads/2004/03/worker.04-03-22.240.jpg" alt="" width="240" height="193" /></a>[/caption]
+[caption id="attachment_2632" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/worker.04-03-22.240.jpg"><img class="size-full wp-image-2632" src="http://localhost/mysite/wp-content/uploads/2004/03/worker.04-03-22.240.jpg" alt="" width="240" height="193" /></a>[/caption]
 <p>
   If you want to cut workers' compensation costs, consider the whole employee--not just the injury. That's the goal of a progressive, employee-centered program launched by UCSC's Workers' Compensation Team.
 </p>

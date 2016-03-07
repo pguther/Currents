@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2764" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/trio.04-05-10.240.jpg"><img class="size-full wp-image-2764" src="http://localhost/mysite/wp-content/uploads/2004/05/trio.04-05-10.240.jpg" alt="" width="240" height="195" /></a>[/caption]
+[caption id="attachment_2764" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/trio.04-05-10.240.jpg"><img class="size-full wp-image-2764" src="http://localhost/mysite/wp-content/uploads/2004/05/trio.04-05-10.240.jpg" alt="" width="240" height="195" /></a>[/caption]
 <p>
   A record turnout added to the festive atmosphere at the annual Staff Appreciation Breakfast hosted by the UCSC Staff Advisory Board and Acting Chancellor Martin M. Chemers.<br>
 </p>

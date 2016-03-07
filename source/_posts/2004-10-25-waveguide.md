@@ -9,7 +9,7 @@ images:
     caption: "The hollow-core waveguide developed at UCSC can be used to guide light through liquid or gas samples on a silicon chip. Image: D. Yin et al"
 ---
 
-[caption id="attachment_4298" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/waveguide.04-10-25.340.jpg"><img class="size-full wp-image-4298" src="http://localhost/mysite/wp-content/uploads/2004/10/waveguide.04-10-25.340.jpg" alt="The hollow-core waveguide developed at UCSC can be used to guide light through liquid or gas samples on a silicon chip. Image: D. Yin et al" width="340" height="278" /></a>The hollow-core waveguide developed at UCSC can be used to guide light through liquid or gas samples on a silicon chip. Image: D. Yin et al[/caption]
+[caption id="attachment_4298" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/waveguide.04-10-25.340.jpg"><img class="size-full wp-image-4298" src="http://localhost/mysite/wp-content/uploads/2004/10/waveguide.04-10-25.340.jpg" alt="The hollow-core waveguide developed at UCSC can be used to guide light through liquid or gas samples on a silicon chip. Image: D. Yin et al" width="340" height="278" /></a>The hollow-core waveguide developed at UCSC can be used to guide light through liquid or gas samples on a silicon chip. Image: D. Yin et al[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC researchers have reported the first demonstration of integrated optical waveguides with liquid cores, a technology that enables light propagation through small volumes of liquids on a chip. The new technology has a wide range of potential applications, including chemical and biological sensors with single-molecule sensitivity.

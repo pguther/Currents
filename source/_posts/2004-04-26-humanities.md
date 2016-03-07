@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2724" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/humanities.04-04-26.240.jpg"><img class="size-full wp-image-2724" src="http://localhost/mysite/wp-content/uploads/2004/04/humanities.04-04-26.240.jpg" alt="" width="240" height="198" /></a>[/caption]
+[caption id="attachment_2724" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/humanities.04-04-26.240.jpg"><img class="size-full wp-image-2724" src="http://localhost/mysite/wp-content/uploads/2004/04/humanities.04-04-26.240.jpg" alt="" width="240" height="198" /></a>[/caption]
 <p>
   UCSC's Humanities Division celebrated the launch of a new program to recognize the academic achievement of its faculty at an awards reception held on April 15 at the University Center.
 </p>

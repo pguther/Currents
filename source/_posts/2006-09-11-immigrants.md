@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Mexican migrants 'invisible no more,' says report coauthored by LALS prof"
-author: Jennifer McNulty
+author: 
+
+
+Jennifer McNulty
 post_id: 6226
 images:
   - file: http://currents.ucsc.edu/06-07/art/fox_jonathan.06-09-11.jpg
@@ -9,7 +12,7 @@ images:
     caption: "Jonathan Fox Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_6225" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/fox_jonathan.06-09-11.jpg"><img class="size-full wp-image-6225" src="http://localhost/mysite/wp-content/uploads/2006/09/fox_jonathan.06-09-11.jpg" alt="Jonathan Fox Photo: Jennifer McNulty" width="170" height="272" /></a>Jonathan Fox Photo: Jennifer McNulty[/caption]
+[caption id="attachment_6225" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/fox_jonathan.06-09-11.jpg"><img class="size-full wp-image-6225" src="http://localhost/mysite/wp-content/uploads/2006/09/fox_jonathan.06-09-11.jpg" alt="Jonathan Fox Photo: Jennifer McNulty" width="170" height="272" /></a>Jonathan Fox Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   Earlier this year, unprecedented numbers of Mexican immigrants took to the streets of major U.S. cities to demand comprehensive immigration reform.

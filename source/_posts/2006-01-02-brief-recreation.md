@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_4483" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/winter_rec_guide.200.jpg"><img class="size-full wp-image-4483" src="http://localhost/mysite/wp-content/uploads/2006/01/winter_rec_guide.200.jpg" alt="" width="200" height="259" /></a>[/caption]
+[caption id="attachment_4483" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/winter_rec_guide.200.jpg"><img class="size-full wp-image-4483" src="http://localhost/mysite/wp-content/uploads/2006/01/winter_rec_guide.200.jpg" alt="" width="200" height="259" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The winter 2006 <i>Recreation, Intramural and Sports Guide</i> will be available around campus beginning January 4. Sign up for surfing, kayaking, rock climbing, backpacking, ski trips, massage and other holistic health classes, music, dance, knitting, cooking, survival skills, wilderness first aid and CPR classes, and much more.

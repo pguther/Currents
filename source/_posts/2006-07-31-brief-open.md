@@ -9,7 +9,7 @@ images:
     caption: "Barcroft Station facilities will be open for visitors. Photo: Paul Kennedy"
 ---
 
-[caption id="attachment_6117" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/barcroft_station.345.jpg"><img class="size-full wp-image-6117" src="http://localhost/mysite/wp-content/uploads/2006/07/barcroft_station.345.jpg" alt="Barcroft Station facilities will be open for visitors. Photo: Paul Kennedy" width="345" height="193" /></a>Barcroft Station facilities will be open for visitors. Photo: Paul Kennedy[/caption]
+[caption id="attachment_6117" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/barcroft_station.345.jpg"><img class="size-full wp-image-6117" src="http://localhost/mysite/wp-content/uploads/2006/07/barcroft_station.345.jpg" alt="Barcroft Station facilities will be open for visitors. Photo: Paul Kennedy" width="345" height="193" /></a>Barcroft Station facilities will be open for visitors. Photo: Paul Kennedy[/caption]
 <a name="content" id="content"></a>
 <p>
   UC faculty, staff, students, and friends are invited to a day of hiking and educational activities in the White Mountains on Sunday, August 6. This event is cosponsored by the University of California White Mountain Research Station (WMRS), Friends of WMRS, and the Inyo National Forest.

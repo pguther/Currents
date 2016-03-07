@@ -9,7 +9,7 @@ images:
     caption: "Paul Whitworth appears with T. Edward Webster in the Joe Penhall play Blue/Orange at the Aurora Theater in Berkeley Photo: David Allen"
 ---
 
-[caption id="attachment_3635" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/whitworth_blue.orange.150.jpg"><img class="size-full wp-image-3635" src="http://localhost/mysite/wp-content/uploads/2005/04/whitworth_blue.orange.150.jpg" alt="Paul Whitworth appears with T. Edward Webster in the Joe Penhall play Blue/Orange at the Aurora Theater in Berkeley Photo: David Allen" width="150" height="271" /></a>Paul Whitworth appears with T. Edward Webster in the Joe Penhall play Blue/Orange at the Aurora Theater in Berkeley Photo: David Allen[/caption]
+[caption id="attachment_3635" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/whitworth_blue.orange.150.jpg"><img class="size-full wp-image-3635" src="http://localhost/mysite/wp-content/uploads/2005/04/whitworth_blue.orange.150.jpg" alt="Paul Whitworth appears with T. Edward Webster in the Joe Penhall play Blue/Orange at the Aurora Theater in Berkeley Photo: David Allen" width="150" height="271" /></a>Paul Whitworth appears with T. Edward Webster in the Joe Penhall play Blue/Orange at the Aurora Theater in Berkeley Photo: David Allen[/caption]
 <a name="content" id="content"></a>
 <p>
   Shakespeare Santa Cruz artistic director Paul Whitworth is featured in the new West End and New York hit play <i>Blue/Orange,</i> running through May 15 at the Aurora Theatre in Berkeley.

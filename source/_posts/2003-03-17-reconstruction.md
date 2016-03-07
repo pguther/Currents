@@ -9,7 +9,7 @@ images:
     caption: "The fire gutted Manuel Ares's lab and the one next to it. Photo: Don Harris, UCSC Photo Services"
 ---
 
-[caption id="attachment_1799" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/03/ares.03-03-17.180.jpg"><img class="size-full wp-image-1799" src="http://localhost/mysite/wp-content/uploads/2003/03/ares.03-03-17.180.jpg" alt="The fire gutted Manuel Ares's lab and the one next to it. Photo: Don Harris, UCSC Photo Services" width="180" height="272" /></a>The fire gutted Manuel Ares's lab and the one next to it. Photo: Don Harris, UCSC Photo Services[/caption]
+[caption id="attachment_1799" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/03/ares.03-03-17.180.jpg"><img class="size-full wp-image-1799" src="http://localhost/mysite/wp-content/uploads/2003/03/ares.03-03-17.180.jpg" alt="The fire gutted Manuel Ares's lab and the one next to it. Photo: Don Harris, UCSC Photo Services" width="180" height="272" /></a>The fire gutted Manuel Ares's lab and the one next to it. Photo: Don Harris, UCSC Photo Services[/caption]
 <p>
   Work crews have finished the reconstruction of two labs in the Sinsheimer Laboratories Building that were destroyed in a <a href="http://www.ucsc.edu/currents/01-02/01-14/fire.html">fire</a> on January 11, 2002. Researchers reoccupied the new labs last month.
 </p>

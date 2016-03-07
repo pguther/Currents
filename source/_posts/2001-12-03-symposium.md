@@ -9,7 +9,7 @@ images:
     caption: "Columnist Molly Ivins will be the keynote speaker at 'Women Leaders 2002.'"
 ---
 
-[caption id="attachment_1575" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/12/ivins_m.01-12-03.180.jpg"><img class="size-full wp-image-1575" src="http://localhost/mysite/wp-content/uploads/2001/12/ivins_m.01-12-03.180.jpg" alt="Columnist Molly Ivins will be the keynote speaker at "Women Leaders 2002."" width="180" height="265" /></a>Columnist Molly Ivins will be the keynote speaker at "Women Leaders 2002."[/caption]
+[caption id="attachment_1575" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/12/ivins_m.01-12-03.180.jpg"><img class="size-full wp-image-1575" src="http://localhost/mysite/wp-content/uploads/2001/12/ivins_m.01-12-03.180.jpg" alt="Columnist Molly Ivins will be the keynote speaker at "Women Leaders 2002."" width="180" height="265" /></a>Columnist Molly Ivins will be the keynote speaker at "Women Leaders 2002."[/caption]
 <p>
   Best-selling author and syndicated political columnist Molly Ivins will be a keynote speaker at a conference for university women on March 7-8 at the Cathedral Hill Hotel in San Francisco.
 </p>Women from all universities are invited to attend the third biannual conference sponsored by UC San Francisco, "Women Leaders 2002: A Symposium for Women in University Settings." The conference is being presented by UCSF's Center for Gender Equity.

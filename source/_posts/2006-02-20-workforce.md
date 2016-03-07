@@ -9,7 +9,7 @@ images:
     caption: "Lora Bartlett with Dan Cope, assistant superintendent with the Santa Cruz County Office of Education Photo: Jim MacKenzie"
 ---
 
-[caption id="attachment_4650" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/bartlett_cope.06-02-20.jpg"><img class="size-full wp-image-4650" src="http://localhost/mysite/wp-content/uploads/2006/02/bartlett_cope.06-02-20.jpg" alt="Lora Bartlett with Dan Cope, assistant superintendent with the Santa Cruz County Office of Education Photo: Jim MacKenzie" width="230" height="178" /></a>Lora Bartlett with Dan Cope, assistant superintendent with the Santa Cruz County Office of Education Photo: Jim MacKenzie[/caption]
+[caption id="attachment_4650" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/bartlett_cope.06-02-20.jpg"><img class="size-full wp-image-4650" src="http://localhost/mysite/wp-content/uploads/2006/02/bartlett_cope.06-02-20.jpg" alt="Lora Bartlett with Dan Cope, assistant superintendent with the Santa Cruz County Office of Education Photo: Jim MacKenzie" width="230" height="178" /></a>Lora Bartlett with Dan Cope, assistant superintendent with the Santa Cruz County Office of Education Photo: Jim MacKenzie[/caption]
 <a name="content" id="content"></a>
 <p>
   School districts in Santa Cruz, Monterey, and San Benito Counties are lucky to have assistant professor of education Lora Bartlett on their team.

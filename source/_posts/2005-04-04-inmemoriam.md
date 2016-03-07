@@ -9,7 +9,7 @@ images:
     caption: "Jane Wilhelms Photo: Monica Lee"
 ---
 
-[caption id="attachment_3600" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/wilhelms_jane.150.jpg"><img class="size-full wp-image-3600" src="http://localhost/mysite/wp-content/uploads/2005/04/wilhelms_jane.150.jpg" alt="Jane Wilhelms Photo: Monica Lee" width="150" height="216" /></a>Jane Wilhelms Photo: Monica Lee[/caption]
+[caption id="attachment_3600" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/wilhelms_jane.150.jpg"><img class="size-full wp-image-3600" src="http://localhost/mysite/wp-content/uploads/2005/04/wilhelms_jane.150.jpg" alt="Jane Wilhelms Photo: Monica Lee" width="150" height="216" /></a>Jane Wilhelms Photo: Monica Lee[/caption]
 <a name="content" id="content"></a>
 <p>
   Jane Wilhelms, professor of computer science and an expert in computer graphics and animation, died of cancer on March 26 in Santa Cruz. She was 56.

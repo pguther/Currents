@@ -9,7 +9,7 @@ images:
     caption: "Midori Iwanabe shares a two-bedroom apartment with exchange students from France and Australia, as well as two students from the United States. Photo: Jon Kersey"
 ---
 
-[caption id="attachment_1892" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/04/international.03-04-28.224.jpg"><img class="size-full wp-image-1892" src="http://localhost/mysite/wp-content/uploads/2003/04/international.03-04-28.224.jpg" alt="Midori Iwanabe shares a two-bedroom apartment with exchange students from France and Australia, as well as two students from the United States. Photo: Jon Kersey" width="224" height="169" /></a>Midori Iwanabe shares a two-bedroom apartment with exchange students from France and Australia, as well as two students from the United States. Photo: Jon Kersey[/caption]
+[caption id="attachment_1892" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/04/international.03-04-28.224.jpg"><img class="size-full wp-image-1892" src="http://localhost/mysite/wp-content/uploads/2003/04/international.03-04-28.224.jpg" alt="Midori Iwanabe shares a two-bedroom apartment with exchange students from France and Australia, as well as two students from the United States. Photo: Jon Kersey" width="224" height="169" /></a>Midori Iwanabe shares a two-bedroom apartment with exchange students from France and Australia, as well as two students from the United States. Photo: Jon Kersey[/caption]
 <p>
   When exchange student Midori Iwanabe arrived at UCSC from Tokyo last September, she felt nervous about interacting with American students and apprehensive about the U.S. university system. Seven months later, Iwanabe is a successful student with a network of close friends.
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "Interim Social Sciences Dean Michael Hutchison, right, moderated the lecture featuring Secretary of State Bruce McPherson. Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_5722" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/mcpherson_hutchison.new.05-11-28.jpg"><img class="size-full wp-image-5722" src="http://localhost/mysite/wp-content/uploads/2005/11/mcpherson_hutchison.new.05-11-28.jpg" alt="Interim Social Sciences Dean Michael Hutchison, right, moderated the lecture featuring Secretary of State Bruce McPherson. Photo: Jennifer McNulty" width="230" height="267" /></a>Interim Social Sciences Dean Michael Hutchison, right, moderated the lecture featuring Secretary of State Bruce McPherson. Photo: Jennifer McNulty[/caption]
+[caption id="attachment_5722" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/mcpherson_hutchison.new.05-11-28.jpg"><img class="size-full wp-image-5722" src="http://localhost/mysite/wp-content/uploads/2005/11/mcpherson_hutchison.new.05-11-28.jpg" alt="Interim Social Sciences Dean Michael Hutchison, right, moderated the lecture featuring Secretary of State Bruce McPherson. Photo: Jennifer McNulty" width="230" height="267" /></a>Interim Social Sciences Dean Michael Hutchison, right, moderated the lecture featuring Secretary of State Bruce McPherson. Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   Displaying characteristic good humor, Secretary of State Bruce McPherson laid it on the line for a student-dominated crowd that attended his talk November 17 about the importance of voting in the democratic process.

@@ -9,7 +9,7 @@ images:
     caption: "Alan Richards Photo: Tom Van Dyke"
 ---
 
-[caption id="attachment_1656" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/01/richards.03-01-20.160.jpg"><img class="size-full wp-image-1656" src="http://localhost/mysite/wp-content/uploads/2003/01/richards.03-01-20.160.jpg" alt="Alan Richards Photo: Tom Van Dyke" width="160" height="233" /></a>Alan Richards Photo: Tom Van Dyke[/caption]
+[caption id="attachment_1656" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/01/richards.03-01-20.160.jpg"><img class="size-full wp-image-1656" src="http://localhost/mysite/wp-content/uploads/2003/01/richards.03-01-20.160.jpg" alt="Alan Richards Photo: Tom Van Dyke" width="160" height="233" /></a>Alan Richards Photo: Tom Van Dyke[/caption]
 <p>
   As the United States moves closer to war with Iraq, a leading scholar of the Middle East has published a compelling analysis of the conditions that have given rise to Islamic radicalism.
 </p>

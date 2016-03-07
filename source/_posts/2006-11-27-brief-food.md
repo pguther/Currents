@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6408" align="alignnone" width="189"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/2harvest.jpg"><img class="size-full wp-image-6408" src="http://localhost/mysite/wp-content/uploads/2006/11/2harvest.jpg" alt="" width="189" height="130" /></a>[/caption]
+[caption id="attachment_6408" align="alignright" width="189"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/2harvest.jpg"><img class="size-full wp-image-6408" src="http://localhost/mysite/wp-content/uploads/2006/11/2harvest.jpg" alt="" width="189" height="130" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The annual holiday food drive to benefit Second Harvest Food Bank will continue through December 18.

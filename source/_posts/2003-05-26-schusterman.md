@@ -9,7 +9,7 @@ images:
     caption: "Ron Schusterman gets a kiss from Rocky the sea lion. Photo courtesy of Colleen Kastak"
 ---
 
-[caption id="attachment_1982" align="alignnone" width="219"]<a href="http://localhost/mysite/wp-content/uploads/2003/05/ron_rocky.03-05-26.224.jpg"><img class="size-full wp-image-1982" src="http://localhost/mysite/wp-content/uploads/2003/05/ron_rocky.03-05-26.224.jpg" alt="Ron Schusterman gets a kiss from Rocky the sea lion. Photo courtesy of Colleen Kastak" width="219" height="323" /></a>Ron Schusterman gets a kiss from Rocky the sea lion. Photo courtesy of Colleen Kastak[/caption]
+[caption id="attachment_1982" align="alignright" width="219"]<a href="http://localhost/mysite/wp-content/uploads/2003/05/ron_rocky.03-05-26.224.jpg"><img class="size-full wp-image-1982" src="http://localhost/mysite/wp-content/uploads/2003/05/ron_rocky.03-05-26.224.jpg" alt="Ron Schusterman gets a kiss from Rocky the sea lion. Photo courtesy of Colleen Kastak" width="219" height="323" /></a>Ron Schusterman gets a kiss from Rocky the sea lion. Photo courtesy of Colleen Kastak[/caption]
 <p>
   Ronald Schusterman, adjunct professor of ocean sciences, saw his professional life pass before his eyes at a symposium held in his honor in April at UCSC's Long Marine Laboratory. Scientists he has trained and worked with over a 40-year career presented their current research at the symposium, organized by Colleen Reichmuth Kastak, a postdoctoral researcher in Schusterman's lab.
 </p>

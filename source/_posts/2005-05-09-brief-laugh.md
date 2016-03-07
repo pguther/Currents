@@ -12,8 +12,8 @@ images:
     caption: "Brent Weinbach"
 ---
 
-[caption id="attachment_3765" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/hard_phirm.200.jpg"><img class="size-full wp-image-3765" src="http://localhost/mysite/wp-content/uploads/2005/05/hard_phirm.200.jpg" alt="Hard N Phirm's Chris Hardwick (left) and Mike Phirman" width="200" height="204" /></a>Hard N Phirm's Chris Hardwick (left) and Mike Phirman[/caption]
-[caption id="attachment_3766" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/weinbach.130.jpg"><img class="size-full wp-image-3766" src="http://localhost/mysite/wp-content/uploads/2005/05/weinbach.130.jpg" alt="Brent Weinbach" width="130" height="169" /></a>Brent Weinbach[/caption]
+[caption id="attachment_3765" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/hard_phirm.200.jpg"><img class="size-full wp-image-3765" src="http://localhost/mysite/wp-content/uploads/2005/05/hard_phirm.200.jpg" alt="Hard N Phirm's Chris Hardwick (left) and Mike Phirman" width="200" height="204" /></a>Hard N Phirm's Chris Hardwick (left) and Mike Phirman[/caption]
+[caption id="attachment_3766" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/weinbach.130.jpg"><img class="size-full wp-image-3766" src="http://localhost/mysite/wp-content/uploads/2005/05/weinbach.130.jpg" alt="Brent Weinbach" width="130" height="169" /></a>Brent Weinbach[/caption]
 <a name="content" id="content"></a>
 <p>
   The Second Annual KZSC Laugh Riot is bringing world-class comedy to Santa Cruz on Saturday, May 14, at 7 p.m. in the Kresge Town Hall.<br>

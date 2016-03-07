@@ -9,7 +9,7 @@ images:
     caption: "Shoshana Brooks plays Cinderella in the Shakespeare Santa Cruz production. Photo: Steve DiBartolomeo"
 ---
 
-[caption id="attachment_5664" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/shakespeare.05-11-14.jpg"><img class="size-full wp-image-5664" src="http://localhost/mysite/wp-content/uploads/2005/11/shakespeare.05-11-14.jpg" alt="Shoshana Brooks plays Cinderella in the Shakespeare Santa Cruz production. Photo: Steve DiBartolomeo" width="230" height="330" /></a>Shoshana Brooks plays Cinderella in the Shakespeare Santa Cruz production. Photo: Steve DiBartolomeo[/caption]
+[caption id="attachment_5664" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/shakespeare.05-11-14.jpg"><img class="size-full wp-image-5664" src="http://localhost/mysite/wp-content/uploads/2005/11/shakespeare.05-11-14.jpg" alt="Shoshana Brooks plays Cinderella in the Shakespeare Santa Cruz production. Photo: Steve DiBartolomeo" width="230" height="330" /></a>Shoshana Brooks plays Cinderella in the Shakespeare Santa Cruz production. Photo: Steve DiBartolomeo[/caption]
 <a name="content" id="content"></a>
 <p>
   Shakespeare Santa Cruz celebrates the holiday season with a return of its acclaimed musical version of <i>Cinderella</i> November 18 through December 18 at the UCSC Theater Arts Mainstage

@@ -9,7 +9,7 @@ images:
     caption: "A student takes a look at the bust of Martin Luther King Jr. in McHenry Library. Photo: Don Harris"
 ---
 
-[caption id="attachment_1506" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/king.bust.01-10-29.224.jpg"><img class="size-full wp-image-1506" src="http://localhost/mysite/wp-content/uploads/2001/10/king.bust.01-10-29.224.jpg" alt="A student takes a look at the bust of Martin Luther King Jr. in McHenry Library. Photo: Don Harris" width="224" height="343" /></a>A student takes a look at the bust of Martin Luther King Jr. in McHenry Library. Photo: Don Harris[/caption]
+[caption id="attachment_1506" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/king.bust.01-10-29.224.jpg"><img class="size-full wp-image-1506" src="http://localhost/mysite/wp-content/uploads/2001/10/king.bust.01-10-29.224.jpg" alt="A student takes a look at the bust of Martin Luther King Jr. in McHenry Library. Photo: Don Harris" width="224" height="343" /></a>A student takes a look at the bust of Martin Luther King Jr. in McHenry Library. Photo: Don Harris[/caption]
 <p>
   McHenry Library has a new temporary resident, and he's unlikely to get lost in the crowd.
 </p>A bronze bust of civil rights leader Martin Luther King Jr. is on loan to the library for a month, where it is being shown in the foyer.<br>

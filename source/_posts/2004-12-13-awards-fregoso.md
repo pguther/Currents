@@ -9,7 +9,7 @@ images:
     caption: "Rosa Linda FregosoJennifer McNulty photo"
 ---
 
-[caption id="attachment_4444" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/12/fregosa_rosalinda.140.jpg"><img class="size-full wp-image-4444" src="http://localhost/mysite/wp-content/uploads/2004/12/fregosa_rosalinda.140.jpg" alt="Rosa Linda FregosoJennifer McNulty photo" width="140" height="192" /></a>Rosa Linda FregosoJennifer McNulty photo[/caption]
+[caption id="attachment_4444" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/12/fregosa_rosalinda.140.jpg"><img class="size-full wp-image-4444" src="http://localhost/mysite/wp-content/uploads/2004/12/fregosa_rosalinda.140.jpg" alt="Rosa Linda FregosoJennifer McNulty photo" width="140" height="192" /></a>Rosa Linda FregosoJennifer McNulty photo[/caption]
 <a name="content" id="content"></a>
 <p>
   Rosa Linda Fregoso, professor and chair of Latin American and Latino studies, has been selected to receive a top award from the Modern Language Association of America.

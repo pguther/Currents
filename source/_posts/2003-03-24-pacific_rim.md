@@ -9,7 +9,7 @@ images:
     caption: "Guest artist Aeri Ji will perform works by two of Korea's major composers."
 ---
 
-[caption id="attachment_1811" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/03/kayakeum.03-03-24.180.jpg"><img class="size-full wp-image-1811" src="http://localhost/mysite/wp-content/uploads/2003/03/kayakeum.03-03-24.180.jpg" alt="Guest artist Aeri Ji will perform works by two of Korea's major composers." width="180" height="259" /></a>Guest artist Aeri Ji will perform works by two of Korea's major composers.[/caption]
+[caption id="attachment_1811" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/03/kayakeum.03-03-24.180.jpg"><img class="size-full wp-image-1811" src="http://localhost/mysite/wp-content/uploads/2003/03/kayakeum.03-03-24.180.jpg" alt="Guest artist Aeri Ji will perform works by two of Korea's major composers." width="180" height="259" /></a>Guest artist Aeri Ji will perform works by two of Korea's major composers.[/caption]
 <p>
   UCSC will present the work of more than 40 distinguished composers April 2-30 at the 2003 Pacific Rim Music Festival, a monthlong international celebration of the contemporary music of the Pacific Rim.
 </p>

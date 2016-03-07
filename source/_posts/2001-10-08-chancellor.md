@@ -9,7 +9,7 @@ images:
     caption: "Text of the chancellor's address Broadcast of the chancellor's address"
 ---
 
-[caption id="attachment_1445" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/mrc_address.01-10-08.224.jpg"><img class="size-full wp-image-1445" src="http://localhost/mysite/wp-content/uploads/2001/10/mrc_address.01-10-08.224.jpg" alt="Text of the chancellor's address Broadcast of the chancellor's address" width="224" height="134" /></a>Text of the chancellor's address Broadcast of the chancellor's address[/caption]
+[caption id="attachment_1445" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/mrc_address.01-10-08.224.jpg"><img class="size-full wp-image-1445" src="http://localhost/mysite/wp-content/uploads/2001/10/mrc_address.01-10-08.224.jpg" alt="Text of the chancellor's address Broadcast of the chancellor's address" width="224" height="134" /></a>Text of the chancellor's address Broadcast of the chancellor's address[/caption]
 <p>
   <font size="5"><b>Chancellor calls for an increase in graduate students</b></font>
 </p>

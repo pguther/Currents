@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_7104" align="alignnone" width="125"]<a href="http://localhost/mysite/wp-content/uploads/1999/12/williams_quentin.125.jpg"><img class="size-full wp-image-7104" src="http://localhost/mysite/wp-content/uploads/1999/12/williams_quentin.125.jpg" alt="" width="125" height="152" /></a>[/caption]
+[caption id="attachment_7104" align="alignright" width="125"]<a href="http://localhost/mysite/wp-content/uploads/1999/12/williams_quentin.125.jpg"><img class="size-full wp-image-7104" src="http://localhost/mysite/wp-content/uploads/1999/12/williams_quentin.125.jpg" alt="" width="125" height="152" /></a>[/caption]
 <h4>
   <font color="#003399">Quentin Williams</font>
 </h4>

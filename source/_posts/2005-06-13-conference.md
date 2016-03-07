@@ -9,7 +9,7 @@ images:
     caption: "The schedule of events for the conference is available online. Photo courtesy of Laurel Sprenger, A. Rocha USA"
 ---
 
-[caption id="attachment_4016" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/butterfly.05-06-13.jpg"><img class="size-full wp-image-4016" src="http://localhost/mysite/wp-content/uploads/2005/06/butterfly.05-06-13.jpg" alt="The schedule of events for the conference is available online. Photo courtesy of Laurel Sprenger, A. Rocha USA" width="230" height="218" /></a>The schedule of events for the conference is available online. Photo courtesy of Laurel Sprenger, A. Rocha USA[/caption]
+[caption id="attachment_4016" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/butterfly.05-06-13.jpg"><img class="size-full wp-image-4016" src="http://localhost/mysite/wp-content/uploads/2005/06/butterfly.05-06-13.jpg" alt="The schedule of events for the conference is available online. Photo courtesy of Laurel Sprenger, A. Rocha USA" width="230" height="218" /></a>The schedule of events for the conference is available online. Photo courtesy of Laurel Sprenger, A. Rocha USA[/caption]
 <a name="content" id="content"></a>
 <p>
   Creating "greener" campuses won't be all talk and no action when UCSC hosts the fourth annual statewide Sustainability Conference, June 20-21.

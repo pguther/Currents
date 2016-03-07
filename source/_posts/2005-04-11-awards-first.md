@@ -9,7 +9,7 @@ images:
     caption: "Ali Shakouri, one of three recipients of this year's FIRST faculty awards UCSC Photo Services"
 ---
 
-[caption id="attachment_3626" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/shakouri_ali.120.jpg"><img class="size-full wp-image-3626" src="http://localhost/mysite/wp-content/uploads/2005/04/shakouri_ali.120.jpg" alt="Ali Shakouri, one of three recipients of this year's FIRST faculty awards UCSC Photo Services" width="120" height="165" /></a>Ali Shakouri, one of three recipients of this year's FIRST faculty awards UCSC Photo Services[/caption]
+[caption id="attachment_3626" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/shakouri_ali.120.jpg"><img class="size-full wp-image-3626" src="http://localhost/mysite/wp-content/uploads/2005/04/shakouri_ali.120.jpg" alt="Ali Shakouri, one of three recipients of this year's FIRST faculty awards UCSC Photo Services" width="120" height="165" /></a>Ali Shakouri, one of three recipients of this year's FIRST faculty awards UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   The Jack Baskin School of Engineering has honored three faculty members with FIRST Professor Awards in recognition of their achievements in research, teaching, and service. Ali Shakouri, associate professor of electrical engineering, received the Senior FIRST Professor Award. Junior FIRST Professor Awards went to Herbert Lee, assistant professor of applied mathematics and statistics, and James Whitehead, assistant professor of computer science.

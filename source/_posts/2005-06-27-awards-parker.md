@@ -9,7 +9,7 @@ images:
     caption: "Ingrid Parker UCSC Photo Services"
 ---
 
-[caption id="attachment_4003" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/parker_ingrid.130.jpg"><img class="size-full wp-image-4003" src="http://localhost/mysite/wp-content/uploads/2005/06/parker_ingrid.130.jpg" alt="Ingrid Parker UCSC Photo Services" width="130" height="170" /></a>Ingrid Parker UCSC Photo Services[/caption]
+[caption id="attachment_4003" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/parker_ingrid.130.jpg"><img class="size-full wp-image-4003" src="http://localhost/mysite/wp-content/uploads/2005/06/parker_ingrid.130.jpg" alt="Ingrid Parker UCSC Photo Services" width="130" height="170" /></a>Ingrid Parker UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   Ingrid Parker, associate professor of ecology and evolutionary biology, has been awarded a Fulbright Scholar grant to teach and do research at the University of Panama during the 2005-06 academic year.

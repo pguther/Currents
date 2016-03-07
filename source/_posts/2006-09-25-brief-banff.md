@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6247" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/radical_reels.180.gif"><img class="size-full wp-image-6247" src="http://localhost/mysite/wp-content/uploads/2006/09/radical_reels.180.gif" alt="" width="180" height="465" /></a>[/caption]
+[caption id="attachment_6247" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/radical_reels.180.gif"><img class="size-full wp-image-6247" src="http://localhost/mysite/wp-content/uploads/2006/09/radical_reels.180.gif" alt="" width="180" height="465" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Faster, steeper, higher, deeper: The Banff Mountain Film Festival Radical Reels tour is coming to Santa Cruz September 30 at 7 p.m. at the Rio Theatre.

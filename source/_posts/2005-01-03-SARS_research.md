@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_3267" align="alignnone" width="350"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/tunnel.05-01-03.jpg"><img class="size-full wp-image-3267" src="http://localhost/mysite/wp-content/uploads/2005/01/tunnel.05-01-03.jpg" alt="" width="350" height="264" /></a>[/caption]
+[caption id="attachment_3267" align="alignright" width="350"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/tunnel.05-01-03.jpg"><img class="size-full wp-image-3267" src="http://localhost/mysite/wp-content/uploads/2005/01/tunnel.05-01-03.jpg" alt="" width="350" height="264" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Research on the genome of the virus that causes severe acute respiratory syndrome (SARS) has revealed an unusual molecular structure that looks like a promising target for antiviral drugs. A team of scientists at UCSC has determined the three-dimensional shape of this structure, an intricately twisted and folded segment of RNA. Their findings suggest that it may help the virus hijack the protein-building machinery of infected cells.<br>

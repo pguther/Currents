@@ -9,7 +9,7 @@ images:
     caption: "Farr spoke to students and members of the news media during his Quarry Plaza visit. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_1062" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/farr.02-04-08.180.jpg"><img class="size-full wp-image-1062" src="http://localhost/mysite/wp-content/uploads/2002/04/farr.02-04-08.180.jpg" alt="Farr spoke to students and members of the news media during his Quarry Plaza visit. Photo: Louise Donahue" width="180" height="292" /></a>Farr spoke to students and members of the news media during his Quarry Plaza visit. Photo: Louise Donahue[/caption]
+[caption id="attachment_1062" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/farr.02-04-08.180.jpg"><img class="size-full wp-image-1062" src="http://localhost/mysite/wp-content/uploads/2002/04/farr.02-04-08.180.jpg" alt="Farr spoke to students and members of the news media during his Quarry Plaza visit. Photo: Louise Donahue" width="180" height="292" /></a>Farr spoke to students and members of the news media during his Quarry Plaza visit. Photo: Louise Donahue[/caption]
 <p>
   During a visit to campus Thursday, U.S. Rep. Sam Farr lauded UCSC for its large number of graduates serving in the Peace Corps and announced plans for legislation designed to allow the Peace Corps to maintain its independence.
 </p>Farr, a Peace Corps volunteer himself in Colombia during the 1960s, was joined by several former Peace Corps volunteers in a talk at Quarry Plaza.

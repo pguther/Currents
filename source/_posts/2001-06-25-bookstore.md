@@ -9,7 +9,7 @@ images:
     caption: "A worker puts the finishing touches on the exterior of the new Bay Tree Bookstore. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_457" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/06/bookstore.01-06-25.224.jpg"><img class="size-full wp-image-457" src="http://localhost/mysite/wp-content/uploads/2001/06/bookstore.01-06-25.224.jpg" alt="A worker puts the finishing touches on the exterior of the new Bay Tree Bookstore. Photo: Louise Donahue" width="224" height="309" /></a>A worker puts the finishing touches on the exterior of the new Bay Tree Bookstore. Photo: Louise Donahue[/caption]
+[caption id="attachment_457" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/06/bookstore.01-06-25.224.jpg"><img class="size-full wp-image-457" src="http://localhost/mysite/wp-content/uploads/2001/06/bookstore.01-06-25.224.jpg" alt="A worker puts the finishing touches on the exterior of the new Bay Tree Bookstore. Photo: Louise Donahue" width="224" height="309" /></a>A worker puts the finishing touches on the exterior of the new Bay Tree Bookstore. Photo: Louise Donahue[/caption]
 <p>
   <font size="5"><b>New Bay Tree Bookstore to open on July 9</b></font><b><br>
   <br>

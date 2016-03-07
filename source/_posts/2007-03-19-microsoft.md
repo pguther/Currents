@@ -9,7 +9,7 @@ images:
     caption: "James Whitehead, associate professor of computer science Photo: Brittany Grayson"
 ---
 
-[caption id="attachment_6008" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/whitehead.150.jpg"><img class="size-full wp-image-6008" src="http://localhost/mysite/wp-content/uploads/2007/03/whitehead.150.jpg" alt="James Whitehead, associate professor of computer science Photo: Brittany Grayson" width="150" height="232" /></a>James Whitehead, associate professor of computer science Photo: Brittany Grayson[/caption]
+[caption id="attachment_6008" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/whitehead.150.jpg"><img class="size-full wp-image-6008" src="http://localhost/mysite/wp-content/uploads/2007/03/whitehead.150.jpg" alt="James Whitehead, associate professor of computer science Photo: Brittany Grayson" width="150" height="232" /></a>James Whitehead, associate professor of computer science Photo: Brittany Grayson[/caption]
 <a name="content" id="content"></a>
 <p>
   A gift to UCSC from Microsoft will enable computer science students to spend more time on computer games--developing computer games, that is, not necessarily playing them.

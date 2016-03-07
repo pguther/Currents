@@ -9,7 +9,7 @@ images:
     caption: "Chancellor Greenwood spoke to staff members at Earth and Marine Sciences Room B206. Photo: Angelica Farber"
 ---
 
-[caption id="attachment_950" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/03/greenwood.02-03-04.224.jpg"><img class="size-full wp-image-950" src="http://localhost/mysite/wp-content/uploads/2002/03/greenwood.02-03-04.224.jpg" alt="Chancellor Greenwood spoke to staff members at Earth and Marine Sciences Room B206. Photo: Angelica Farber" width="224" height="159" /></a>Chancellor Greenwood spoke to staff members at Earth and Marine Sciences Room B206. Photo: Angelica Farber[/caption]
+[caption id="attachment_950" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/03/greenwood.02-03-04.224.jpg"><img class="size-full wp-image-950" src="http://localhost/mysite/wp-content/uploads/2002/03/greenwood.02-03-04.224.jpg" alt="Chancellor Greenwood spoke to staff members at Earth and Marine Sciences Room B206. Photo: Angelica Farber" width="224" height="159" /></a>Chancellor Greenwood spoke to staff members at Earth and Marine Sciences Room B206. Photo: Angelica Farber[/caption]
 <p>
   Parking continues to top the list of concerns expressed by UCSC staff at quarterly meetings with Chancellor M.R.C. Greenwood, although pedestrian safety, campus housing, and other transportation issues also emerged as topics of discussion last week.
 </p>About 250 people turned out for the February 27 brown-bag forum. In her opening remarks, the chancellor praised the work of everyone who responded to the recent fire in Sinsheimer Labs and those who have helped with subsequent recovery efforts.

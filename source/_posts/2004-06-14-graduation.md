@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2868" align="alignnone" width="280"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/graduation9.04-06-14.jpg"><img class="size-full wp-image-2868" src="http://localhost/mysite/wp-content/uploads/2004/06/graduation9.04-06-14.jpg" alt="" width="280" height="223" /></a>[/caption]
+[caption id="attachment_2868" align="alignright" width="280"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/graduation9.04-06-14.jpg"><img class="size-full wp-image-2868" src="http://localhost/mysite/wp-content/uploads/2004/06/graduation9.04-06-14.jpg" alt="" width="280" height="223" /></a>[/caption]
 <p>
   Caps and gowns seemed to be everywhere as UCSC's 10 colleges and the Jack Baskin School of Engineering held commencements over the weekend.<br>
 </p>

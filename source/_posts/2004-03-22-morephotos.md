@@ -9,6 +9,6 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2627" align="alignnone" width="385"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/galloway2.04-03-22.385.jpg"><img class="size-full wp-image-2627" src="http://localhost/mysite/wp-content/uploads/2004/03/galloway2.04-03-22.385.jpg" alt="" width="385" height="296" /></a>[/caption]
+[caption id="attachment_2627" align="alignright" width="385"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/galloway2.04-03-22.385.jpg"><img class="size-full wp-image-2627" src="http://localhost/mysite/wp-content/uploads/2004/03/galloway2.04-03-22.385.jpg" alt="" width="385" height="296" /></a>[/caption]
 
 [source](http://www1.ucsc.edu/currents/03-04/03-22/morephotos.html "Permalink to morephotos")

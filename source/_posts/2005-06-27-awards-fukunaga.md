@@ -9,7 +9,7 @@ images:
     caption: "Cary Fukunaga"
 ---
 
-[caption id="attachment_3999" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/fukunaga_cary.130.jpg"><img class="size-full wp-image-3999" src="http://localhost/mysite/wp-content/uploads/2005/06/fukunaga_cary.130.jpg" alt="Cary Fukunaga" width="130" height="182" /></a>Cary Fukunaga[/caption]
+[caption id="attachment_3999" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/fukunaga_cary.130.jpg"><img class="size-full wp-image-3999" src="http://localhost/mysite/wp-content/uploads/2005/06/fukunaga_cary.130.jpg" alt="Cary Fukunaga" width="130" height="182" /></a>Cary Fukunaga[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC alumnus Cary Fukunaga has been named a silver medal winner in the Academy of Motion Picture Arts and Sciences' 32nd annual Student Academy Awards competition. He was honored for his film <i>Victoria Para Chino</i>, a 14-minute narrative film based on the true story of the worst single case of illegal immigrant death in United States history.

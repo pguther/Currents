@@ -9,7 +9,7 @@ images:
     caption: "Annual forums are designed for students throughout northern California."
 ---
 
-[caption id="attachment_1017" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/03/recruiters.02-03-25.224.jpg"><img class="size-full wp-image-1017" src="http://localhost/mysite/wp-content/uploads/2002/03/recruiters.02-03-25.224.jpg" alt="Annual forums are designed for students throughout northern California." width="224" height="177" /></a>Annual forums are designed for students throughout northern California.[/caption]
+[caption id="attachment_1017" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/03/recruiters.02-03-25.224.jpg"><img class="size-full wp-image-1017" src="http://localhost/mysite/wp-content/uploads/2002/03/recruiters.02-03-25.224.jpg" alt="Annual forums are designed for students throughout northern California." width="224" height="177" /></a>Annual forums are designed for students throughout northern California.[/caption]
 <p>
   More than 1,000 students are expected to attend a forum for diversity in graduate education on Saturday, April 13, at UCSC.
 </p>The 12th annual California Forum for Diversity in Graduate Education will take place from 9 a.m. to 4 p.m.

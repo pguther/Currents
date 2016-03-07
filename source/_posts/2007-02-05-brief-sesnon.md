@@ -9,7 +9,7 @@ images:
     caption: "Erin V. Sotak: Squeeze"
 ---
 
-[caption id="attachment_5869" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/sotak_pomegranates.345.jpg"><img class="size-full wp-image-5869" src="http://localhost/mysite/wp-content/uploads/2007/02/sotak_pomegranates.345.jpg" alt="Erin V. Sotak: Squeeze" width="345" height="157" /></a>Erin V. Sotak: Squeeze[/caption]
+[caption id="attachment_5869" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/sotak_pomegranates.345.jpg"><img class="size-full wp-image-5869" src="http://localhost/mysite/wp-content/uploads/2007/02/sotak_pomegranates.345.jpg" alt="Erin V. Sotak: Squeeze" width="345" height="157" /></a>Erin V. Sotak: Squeeze[/caption]
 <a name="content" id="content"></a>
 <p>
   Works by Erin V. Sotak will be on display at the <a href="http://arts.ucsc.edu/sesnon/">Sesnon Art Gallery</a> February 7 through March 17. Sotak is an installation and performance artist concerned with notions of absurdity, futility, consumption, labor, and aesthetics. Her work is best described as a moving tableau that is re-rendered through the photographic process. Sotak will fabricate a new space in the Sesnon gallery using a variety of materials including wood, wall coverings, raw silk, and pomegranates.

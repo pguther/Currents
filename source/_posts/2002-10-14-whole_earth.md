@@ -9,7 +9,7 @@ images:
     caption: "The Rock 'n' Java will offer sandwiches and a coffee bar in the Graduate Commons restaurant, formerly the Whole Earth. Photo: UCSC Photo Services"
 ---
 
-[caption id="attachment_2285" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/whole_earth.02-10-14.224.jpg"><img class="size-full wp-image-2285" src="http://localhost/mysite/wp-content/uploads/2002/10/whole_earth.02-10-14.224.jpg" alt="The Rock 'n' Java will offer sandwiches and a coffee bar in the Graduate Commons restaurant, formerly the Whole Earth. Photo: UCSC Photo Services" width="224" height="151" /></a>The Rock 'n' Java will offer sandwiches and a coffee bar in the Graduate Commons restaurant, formerly the Whole Earth. Photo: UCSC Photo Services[/caption]
+[caption id="attachment_2285" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/whole_earth.02-10-14.224.jpg"><img class="size-full wp-image-2285" src="http://localhost/mysite/wp-content/uploads/2002/10/whole_earth.02-10-14.224.jpg" alt="The Rock 'n' Java will offer sandwiches and a coffee bar in the Graduate Commons restaurant, formerly the Whole Earth. Photo: UCSC Photo Services" width="224" height="151" /></a>The Rock 'n' Java will offer sandwiches and a coffee bar in the Graduate Commons restaurant, formerly the Whole Earth. Photo: UCSC Photo Services[/caption]
 <p>
   Those looking for a place to relax and have a bite to eat in Quarry Plaza will be in luck starting Thursday, October 17, when a temporary food service will begin operation at the restaurant in the Graduate Commons.
 </p>

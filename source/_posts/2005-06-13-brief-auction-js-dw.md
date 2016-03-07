@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_3944" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/whale_auction.200.jpg"><img class="size-full wp-image-3944" src="http://localhost/mysite/wp-content/uploads/2005/06/whale_auction.200.jpg" alt="" width="200" height="150" /></a>[/caption]
+[caption id="attachment_3944" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/whale_auction.200.jpg"><img class="size-full wp-image-3944" src="http://localhost/mysite/wp-content/uploads/2005/06/whale_auction.200.jpg" alt="" width="200" height="150" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The Friends of Long Marine Lab will hold its 20th annual "Whale of an Auction," the group's popular annual fundraiser, on Friday, June 17. The event will take place in the Porter College Dining Hall, starting at 6 p.m.

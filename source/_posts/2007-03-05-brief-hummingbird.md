@@ -9,7 +9,7 @@ images:
     caption: "Hummingbird at rest on a Banksia Stephen McCabe"
 ---
 
-[caption id="attachment_5961" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/banksia_bird.340.jpg"><img class="size-full wp-image-5961" src="http://localhost/mysite/wp-content/uploads/2007/03/banksia_bird.340.jpg" alt="Hummingbird at rest on a Banksia Stephen McCabe" width="340" height="197" /></a>Hummingbird at rest on a Banksia Stephen McCabe[/caption]
+[caption id="attachment_5961" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/banksia_bird.340.jpg"><img class="size-full wp-image-5961" src="http://localhost/mysite/wp-content/uploads/2007/03/banksia_bird.340.jpg" alt="Hummingbird at rest on a Banksia Stephen McCabe" width="340" height="197" /></a>Hummingbird at rest on a Banksia Stephen McCabe[/caption]
 <a name="content" id="content"></a>
 <p>
   Hummingbird Day, the annual celebration of the delightful hummingbirds that feed, mate, and nest in the gardens of the UCSC Arboretum, will take place on Saturday, March 10, from 8 a.m. to 4 p.m. Admission is free.

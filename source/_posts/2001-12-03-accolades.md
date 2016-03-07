@@ -9,7 +9,7 @@ images:
     caption: "UCSC Photo Services"
 ---
 
-[caption id="attachment_1557" align="alignnone" width="125"]<a href="http://localhost/mysite/wp-content/uploads/2001/12/vogt.steven.125.jpg"><img class="size-full wp-image-1557" src="http://localhost/mysite/wp-content/uploads/2001/12/vogt.steven.125.jpg" alt="UCSC Photo Services" width="125" height="183" /></a>UCSC Photo Services[/caption]
+[caption id="attachment_1557" align="alignright" width="125"]<a href="http://localhost/mysite/wp-content/uploads/2001/12/vogt.steven.125.jpg"><img class="size-full wp-image-1557" src="http://localhost/mysite/wp-content/uploads/2001/12/vogt.steven.125.jpg" alt="UCSC Photo Services" width="125" height="183" /></a>UCSC Photo Services[/caption]
 <h4>
   <font color="#003399"><b>Steven Vogt</b></font>
 </h4>Steven Vogt, professor of astronomy and astrophysics, was presented with the California Community College Distinguished Alumni Award for 2001 at the Community College League of California's Riverside convention on November 17. At the presentation, Vogt described how his interest in science and math was kindled while attending Diablo Valley College in 1967. He found his first astronomy class so interesting that he became a student aide for the instructor, Bob Searles. Vogt said he also discovered that he could be successful at math and even enjoyed it.<br>

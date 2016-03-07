@@ -9,7 +9,7 @@ images:
     caption: "The implications of cloning, as with Dolly the sheep, are among issues covered in a new course on bioethics. Photo: BBC News"
 ---
 
-[caption id="attachment_891" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/dolly.02-02-11.224.jpg"><img class="size-full wp-image-891" src="http://localhost/mysite/wp-content/uploads/2002/02/dolly.02-02-11.224.jpg" alt="The implications of cloning, as with Dolly the sheep, are among issues covered in a new course on bioethics. Photo: BBC News" width="224" height="134" /></a>The implications of cloning, as with Dolly the sheep, are among issues covered in a new course on bioethics. Photo: BBC News[/caption]
+[caption id="attachment_891" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/dolly.02-02-11.224.jpg"><img class="size-full wp-image-891" src="http://localhost/mysite/wp-content/uploads/2002/02/dolly.02-02-11.224.jpg" alt="The implications of cloning, as with Dolly the sheep, are among issues covered in a new course on bioethics. Photo: BBC News" width="224" height="134" /></a>The implications of cloning, as with Dolly the sheep, are among issues covered in a new course on bioethics. Photo: BBC News[/caption]
 <h4>
   Chancellor Greenwood to speak Feb. 12 at class jointly offered by Chemistry, Philosophy Departments
 </h4>

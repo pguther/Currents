@@ -9,7 +9,7 @@ images:
     caption: "Risa Brainin is associate artistic director for the Missouri Repertory Theater in Kansas City, Missouri, and will take over at Shakespeare Santa Cruz in January. Photo: Mike Regnier"
 ---
 
-[caption id="attachment_1374" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/09/risa_b.01-09-03.180.jpg"><img class="size-full wp-image-1374" src="http://localhost/mysite/wp-content/uploads/2001/09/risa_b.01-09-03.180.jpg" alt="Risa Brainin is associate artistic director for the Missouri Repertory Theater in Kansas City, Missouri, and will take over at Shakespeare Santa Cruz in January. Photo: Mike Regnier" width="180" height="203" /></a>Risa Brainin is associate artistic director for the Missouri Repertory Theater in Kansas City, Missouri, and will take over at Shakespeare Santa Cruz in January. Photo: Mike Regnier[/caption]
+[caption id="attachment_1374" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/09/risa_b.01-09-03.180.jpg"><img class="size-full wp-image-1374" src="http://localhost/mysite/wp-content/uploads/2001/09/risa_b.01-09-03.180.jpg" alt="Risa Brainin is associate artistic director for the Missouri Repertory Theater in Kansas City, Missouri, and will take over at Shakespeare Santa Cruz in January. Photo: Mike Regnier" width="180" height="203" /></a>Risa Brainin is associate artistic director for the Missouri Repertory Theater in Kansas City, Missouri, and will take over at Shakespeare Santa Cruz in January. Photo: Mike Regnier[/caption]
 <p>
   <font size="5"><b>Shakespeare Santa Cruz names interim artistic director</b></font>
 </p>

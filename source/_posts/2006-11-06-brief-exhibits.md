@@ -9,7 +9,7 @@ images:
     caption: "Casablanca, by David Fleming (above); Nudus Fructus III, by Lynn Zachreson"
 ---
 
-[caption id="attachment_6363" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/fleming.200.jpg"><img class="size-full wp-image-6363" src="http://localhost/mysite/wp-content/uploads/2006/11/fleming.200.jpg" alt="Casablanca, by David Fleming (above); Nudus Fructus III, by Lynn Zachreson" width="200" height="267" /></a>Casablanca, by David Fleming (above); Nudus Fructus III, by Lynn Zachreson[/caption]
+[caption id="attachment_6363" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/fleming.200.jpg"><img class="size-full wp-image-6363" src="http://localhost/mysite/wp-content/uploads/2006/11/fleming.200.jpg" alt="Casablanca, by David Fleming (above); Nudus Fructus III, by Lynn Zachreson" width="200" height="267" /></a>Casablanca, by David Fleming (above); Nudus Fructus III, by Lynn Zachreson[/caption]
 <a name="content" id="content"></a>
 <p>
   The Eloise Pickard Smith Gallery at Cowell College opens two new shows this week, "David Fleming: Retrospective" in the Main Gallery, and "Lynn Zachreson: Figurative Works" in the Annex Gallery. Both shows will be up through Friday, December 1.

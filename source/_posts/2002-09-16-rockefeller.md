@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2201" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/09/cultural.02-09-16.150.gif"><img class="size-full wp-image-2201" src="http://localhost/mysite/wp-content/uploads/2002/09/cultural.02-09-16.150.gif" alt="" width="150" height="89" /></a>[/caption]
+[caption id="attachment_2201" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/09/cultural.02-09-16.150.gif"><img class="size-full wp-image-2201" src="http://localhost/mysite/wp-content/uploads/2002/09/cultural.02-09-16.150.gif" alt="" width="150" height="89" /></a>[/caption]
 <p>
   The Rockefeller Foundation has awarded a $325,000 Humanities Fellowship to UCSC. "This Humanities Fellowship is a very competitive program," said Lynn A. Szwaja, deputy director of creativity and culture at the Rockefeller Foundation. "This year we received 46 applications and gave eight awards."
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "One of the cases devoted to manuscript production at the current library exhibit. Photo: Elisabeth Remak-Honnef"
 ---
 
-[caption id="attachment_6037" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/display.340.jpg"><img class="size-full wp-image-6037" src="http://localhost/mysite/wp-content/uploads/2007/04/display.340.jpg" alt="One of the cases devoted to manuscript production at the current library exhibit. Photo: Elisabeth Remak-Honnef" width="340" height="255" /></a>One of the cases devoted to manuscript production at the current library exhibit. Photo: Elisabeth Remak-Honnef[/caption]
+[caption id="attachment_6037" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/display.340.jpg"><img class="size-full wp-image-6037" src="http://localhost/mysite/wp-content/uploads/2007/04/display.340.jpg" alt="One of the cases devoted to manuscript production at the current library exhibit. Photo: Elisabeth Remak-Honnef" width="340" height="255" /></a>One of the cases devoted to manuscript production at the current library exhibit. Photo: Elisabeth Remak-Honnef[/caption]
 <a name="content" id="content"></a>
 <p>
   "Bibliophiles and Biblioclasts: Making, Breaking and Reproducing Medieval Manuscripts" will be on display at McHenry Library through June 15. This exhibit on the history of the medieval and renaissance book was organized, prepared, and installed last quarter by students enrolled in <i>History of Art and Visual Culture 153</i>. The class was held in McHenry Library and taught by Elisabeth Remak-Honnef.

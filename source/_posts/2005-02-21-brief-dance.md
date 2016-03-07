@@ -9,7 +9,7 @@ images:
     caption: "Dancer Isaura Oliveira"
 ---
 
-[caption id="attachment_3450" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/oliveira_isaura.180.jpg"><img class="size-full wp-image-3450" src="http://localhost/mysite/wp-content/uploads/2005/02/oliveira_isaura.180.jpg" alt="Dancer Isaura Oliveira" width="180" height="258" /></a>Dancer Isaura Oliveira[/caption]
+[caption id="attachment_3450" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/oliveira_isaura.180.jpg"><img class="size-full wp-image-3450" src="http://localhost/mysite/wp-content/uploads/2005/02/oliveira_isaura.180.jpg" alt="Dancer Isaura Oliveira" width="180" height="258" /></a>Dancer Isaura Oliveira[/caption]
 <a name="content" id="content"></a>
 <p>
   Instructor Isaura Oliveira introduces the dances of the Orixas in a class on Afro-Brazilian dance on February 26, from 1 to 3 p.m. in the Multipurpose Room at the East Field House. The warm-up for the class includes a system of progressive physical conditioning, incorporating yoga asanas for muscles, flexibility, strength, and building self-confidence. The dances selected will be from Baiana cultures, such as Orixas, Samba, and Afoxe, and the special movements from Oliveira's own choreography repertoire.

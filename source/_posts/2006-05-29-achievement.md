@@ -9,7 +9,7 @@ images:
     caption: "Noam Berg's The New Guy, a digital print, is one of the pieces available at the Annual Print Sale."
 ---
 
-[caption id="attachment_5074" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/berg_06-05-29.jpg"><img class="size-full wp-image-5074" src="http://localhost/mysite/wp-content/uploads/2006/05/berg_06-05-29.jpg" alt="Noam Berg's The New Guy, a digital print, is one of the pieces available at the Annual Print Sale." width="230" height="337" /></a>Noam Berg's The New Guy, a digital print, is one of the pieces available at the Annual Print Sale.[/caption]
+[caption id="attachment_5074" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/berg_06-05-29.jpg"><img class="size-full wp-image-5074" src="http://localhost/mysite/wp-content/uploads/2006/05/berg_06-05-29.jpg" alt="Noam Berg's The New Guy, a digital print, is one of the pieces available at the Annual Print Sale." width="230" height="337" /></a>Noam Berg's The New Guy, a digital print, is one of the pieces available at the Annual Print Sale.[/caption]
 <a name="content" id="content"></a>
 <p>
   Student Achievement Week--an eclectic mix of performances, presentations, visual art, and awards--begins in earnest June 3 and ends June 10.

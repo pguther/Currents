@@ -9,7 +9,7 @@ images:
     caption: "Linda Burman-Hall"
 ---
 
-[caption id="attachment_3810" align="alignnone" width="110"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/burman_hall.110.jpg"><img class="size-full wp-image-3810" src="http://localhost/mysite/wp-content/uploads/2005/05/burman_hall.110.jpg" alt="Linda Burman-Hall" width="110" height="176" /></a>Linda Burman-Hall[/caption]
+[caption id="attachment_3810" align="alignright" width="110"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/burman_hall.110.jpg"><img class="size-full wp-image-3810" src="http://localhost/mysite/wp-content/uploads/2005/05/burman_hall.110.jpg" alt="Linda Burman-Hall" width="110" height="176" /></a>Linda Burman-Hall[/caption]
 <a name="content" id="content"></a>
 <p>
   Music professor Linda Burman-Hall was the featured harpsichord soloist in a recent Baroque orchestral performance of J. S. Bach's <i>Brandenburg</i> Concerto No. 5, sponsored by Sonoma State University at Holy Family Church in Rohnert Park. She also performed harpsichord pieces from the <i>Notebook for Anna Magdalena Bach.</i>

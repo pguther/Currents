@@ -9,7 +9,7 @@ images:
     caption: "Dancer Isaura Oliveira"
 ---
 
-[caption id="attachment_3653" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/oliveira_isaura.120.jpg"><img class="size-full wp-image-3653" src="http://localhost/mysite/wp-content/uploads/2005/04/oliveira_isaura.120.jpg" alt="Dancer Isaura Oliveira" width="120" height="172" /></a>Dancer Isaura Oliveira[/caption]
+[caption id="attachment_3653" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/oliveira_isaura.120.jpg"><img class="size-full wp-image-3653" src="http://localhost/mysite/wp-content/uploads/2005/04/oliveira_isaura.120.jpg" alt="Dancer Isaura Oliveira" width="120" height="172" /></a>Dancer Isaura Oliveira[/caption]
 <a name="content" id="content"></a>
 <p>
   The Recreation Office is offering the following activities this week. Sign up through the Recreation Office at the East Field House or go to <a href="http://www.ucsc.edu/opers/rec">www.ucsc.edu/opers/rec</a> for more information. If you do not have a Wellness Card or are not a UCSC student, there is an additional $5 fee per class.

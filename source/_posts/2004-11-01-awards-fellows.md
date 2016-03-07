@@ -9,7 +9,7 @@ images:
     caption: "Russell Flegal Photo: UCSC Photo Services Anthony Fink Photo: Tim Stephens"
 ---
 
-[caption id="attachment_4305" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/flegal_russ.04-11-01.160.jpg"><img class="size-full wp-image-4305" src="http://localhost/mysite/wp-content/uploads/2004/11/flegal_russ.04-11-01.160.jpg" alt="Russell Flegal Photo: UCSC Photo Services Anthony Fink Photo: Tim Stephens" width="160" height="205" /></a>Russell Flegal Photo: UCSC Photo Services Anthony Fink Photo: Tim Stephens[/caption]
+[caption id="attachment_4305" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/flegal_russ.04-11-01.160.jpg"><img class="size-full wp-image-4305" src="http://localhost/mysite/wp-content/uploads/2004/11/flegal_russ.04-11-01.160.jpg" alt="Russell Flegal Photo: UCSC Photo Services Anthony Fink Photo: Tim Stephens" width="160" height="205" /></a>Russell Flegal Photo: UCSC Photo Services Anthony Fink Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   Two UCSC scientists--Anthony Fink, professor of chemistry and biochemistry, and Russell Flegal, professor of environmental toxicology--are among the 2004 Fellows of the American Association for the Advancement of Science (AAAS) announced by the association this week.

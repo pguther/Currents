@@ -9,7 +9,7 @@ images:
     caption: "Kimberly Jannarone"
 ---
 
-[caption id="attachment_5788" align="alignnone" width="145"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/jannarone_kimberly.145.jpg"><img class="size-full wp-image-5788" src="http://localhost/mysite/wp-content/uploads/2007/01/jannarone_kimberly.145.jpg" alt="Kimberly Jannarone" width="145" height="183" /></a>Kimberly Jannarone[/caption]
+[caption id="attachment_5788" align="alignright" width="145"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/jannarone_kimberly.145.jpg"><img class="size-full wp-image-5788" src="http://localhost/mysite/wp-content/uploads/2007/01/jannarone_kimberly.145.jpg" alt="Kimberly Jannarone" width="145" height="183" /></a>Kimberly Jannarone[/caption]
 <a name="content" id="content"></a>
 <p>
   Assistant professor of theater arts Kimberly Jannarone has been awarded the 2005 Gerald Kahan Scholar's Prize by the American Society for Theatre Research for her essay, "The Theater Before Its Double: Artaud Directs in the Alfred Jarry Theater." The prize was presented at the American Society for Theatre Research Conference in Chicago in November.

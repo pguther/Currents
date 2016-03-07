@@ -9,7 +9,7 @@ images:
     caption: "Illustration by Bill Rowe from Time to Learn About Time, written by Dom Massaro and Don Rothman."
 ---
 
-[caption id="attachment_2088" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2002/07/time_image.200.jpg"><img class="size-full wp-image-2088" src="http://localhost/mysite/wp-content/uploads/2002/07/time_image.200.jpg" alt="Illustration by Bill Rowe from Time to Learn About Time, written by Dom Massaro and Don Rothman." width="200" height="216" /></a>Illustration by Bill Rowe from Time to Learn About Time, written by Dom Massaro and Don Rothman.[/caption]
+[caption id="attachment_2088" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2002/07/time_image.200.jpg"><img class="size-full wp-image-2088" src="http://localhost/mysite/wp-content/uploads/2002/07/time_image.200.jpg" alt="Illustration by Bill Rowe from Time to Learn About Time, written by Dom Massaro and Don Rothman." width="200" height="216" /></a>Illustration by Bill Rowe from Time to Learn About Time, written by Dom Massaro and Don Rothman.[/caption]
 <p class="pagehead">
   Publications
 </p>

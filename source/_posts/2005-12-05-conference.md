@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5736" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/12/logo.05-12-05.jpg"><img class="size-full wp-image-5736" src="http://localhost/mysite/wp-content/uploads/2005/12/logo.05-12-05.jpg" alt="" width="150" height="95" /></a>[/caption]
+[caption id="attachment_5736" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/12/logo.05-12-05.jpg"><img class="size-full wp-image-5736" src="http://localhost/mysite/wp-content/uploads/2005/12/logo.05-12-05.jpg" alt="" width="150" height="95" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Dozens of UCSC researchers are among the 11,000 scientists from all over the world gathering this week in San Francisco for the 2005 Fall Meeting of the American Geophysical Union (AGU).

@@ -9,7 +9,7 @@ images:
     caption: "Francisco Hernandez Photo: Louise Donahue"
 ---
 
-[caption id="attachment_3724" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/hernandez_francisco.130.jpg"><img class="size-full wp-image-3724" src="http://localhost/mysite/wp-content/uploads/2005/05/hernandez_francisco.130.jpg" alt="Francisco Hernandez Photo: Louise Donahue" width="130" height="168" /></a>Francisco Hernandez Photo: Louise Donahue[/caption]
+[caption id="attachment_3724" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/hernandez_francisco.130.jpg"><img class="size-full wp-image-3724" src="http://localhost/mysite/wp-content/uploads/2005/05/hernandez_francisco.130.jpg" alt="Francisco Hernandez Photo: Louise Donahue" width="130" height="168" /></a>Francisco Hernandez Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   Francisco J. Hernandez, vice chancellor of Student Affairs, is the author of an article that appears in the new book <i>Virtual Schools: Planning for Success</i>. Edited by Zane L. Berge and Tom Clark, <i>Virtual Schools</i> is being published this month by Teachers College Press. The book provides an overview of virtual schooling and e-learning, along with detailed case studies and issues chapters. The book features chapters written by practitioners in the field, practical guidance and a brief "plan for success" roadmap for local schools interested in starting a virtual learning program, and chapters by leading experts on key aspects of virtual learning. Hernandez wrote the article titled "Equity and Access: The Promise of Virtual Schools."

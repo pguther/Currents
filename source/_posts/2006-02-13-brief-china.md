@@ -9,7 +9,7 @@ images:
     caption: "The trip is centered on China's capital, Beijing, a city with a 3,000-year history and 11 million people. Photo courtesy of Legends of China"
 ---
 
-[caption id="attachment_4609" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/beijing.220.jpg"><img class="size-full wp-image-4609" src="http://localhost/mysite/wp-content/uploads/2006/02/beijing.220.jpg" alt="The trip is centered on China's capital, Beijing, a city with a 3,000-year history and 11 million people. Photo courtesy of Legends of China" width="220" height="163" /></a>The trip is centered on China's capital, Beijing, a city with a 3,000-year history and 11 million people. Photo courtesy of Legends of China[/caption]
+[caption id="attachment_4609" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/beijing.220.jpg"><img class="size-full wp-image-4609" src="http://localhost/mysite/wp-content/uploads/2006/02/beijing.220.jpg" alt="The trip is centered on China's capital, Beijing, a city with a 3,000-year history and 11 million people. Photo courtesy of Legends of China" width="220" height="163" /></a>The trip is centered on China's capital, Beijing, a city with a 3,000-year history and 11 million people. Photo courtesy of Legends of China[/caption]
 <a name="content" id="content"></a>
 <p>
   Legends of China, a nonprofit organization that focuses on positive relationships between the U.S. and China, is sponsoring a summer trip to China. Join other UCSC and UC staff, students, faculty, and alumni on a trip that includes visits to the Great Wall, Tiananmen Square, and the Forbidden City.

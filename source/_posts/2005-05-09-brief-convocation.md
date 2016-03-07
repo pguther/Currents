@@ -9,7 +9,7 @@ images:
     caption: "Playwright, director, and filmmaker Luis Valdez will be the keynote speaker at the Cesar Chavez Convocation."
 ---
 
-[caption id="attachment_3763" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/valdez_luis.180.jpg"><img class="size-full wp-image-3763" src="http://localhost/mysite/wp-content/uploads/2005/05/valdez_luis.180.jpg" alt="Playwright, director, and filmmaker Luis Valdez will be the keynote speaker at the Cesar Chavez Convocation." width="180" height="265" /></a>Playwright, director, and filmmaker Luis Valdez will be the keynote speaker at the Cesar Chavez Convocation.[/caption]
+[caption id="attachment_3763" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/valdez_luis.180.jpg"><img class="size-full wp-image-3763" src="http://localhost/mysite/wp-content/uploads/2005/05/valdez_luis.180.jpg" alt="Playwright, director, and filmmaker Luis Valdez will be the keynote speaker at the Cesar Chavez Convocation." width="180" height="265" /></a>Playwright, director, and filmmaker Luis Valdez will be the keynote speaker at the Cesar Chavez Convocation.[/caption]
 <a name="content" id="content"></a>
 <p>
   Students, staff, and faculty are invited to recognize and celebrate the life and legacy of Cesar Chavez at the <a href="http://www2.ucsc.edu/raza/chavez.shtml">Second Annual Cesar Chavez Convocation</a> on May 16 at 7 p.m. in the College Nine/College Ten Multipurpose Room. Luis Valdez, artistic director and founder of El Teatro Campesino, will be the keynote speaker.

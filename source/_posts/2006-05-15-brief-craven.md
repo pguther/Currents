@@ -9,7 +9,7 @@ images:
     caption: "Multi-instrumentalist Joe Craven is inspired by musical styles and rhythms from Cuba, Argentina, Spain, and American folk, blues, jazz, and country."
 ---
 
-[caption id="attachment_5014" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/craven_joe.200.jpg"><img class="size-full wp-image-5014" src="http://localhost/mysite/wp-content/uploads/2006/05/craven_joe.200.jpg" alt="Multi-instrumentalist Joe Craven is inspired by musical styles and rhythms from Cuba, Argentina, Spain, and American folk, blues, jazz, and country." width="200" height="218" /></a>Multi-instrumentalist Joe Craven is inspired by musical styles and rhythms from Cuba, Argentina, Spain, and American folk, blues, jazz, and country.[/caption]
+[caption id="attachment_5014" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/craven_joe.200.jpg"><img class="size-full wp-image-5014" src="http://localhost/mysite/wp-content/uploads/2006/05/craven_joe.200.jpg" alt="Multi-instrumentalist Joe Craven is inspired by musical styles and rhythms from Cuba, Argentina, Spain, and American folk, blues, jazz, and country." width="200" height="218" /></a>Multi-instrumentalist Joe Craven is inspired by musical styles and rhythms from Cuba, Argentina, Spain, and American folk, blues, jazz, and country.[/caption]
 <a name="content" id="content"></a>
 <p>
   The Arboretum begins a second season of the Third Thursday Music Series on May 18 with a performance by the Joe Craven Trio. The concert starts at 6:30 p.m. at the Dean McHenry Amphitheater on the grounds of the Arboretum.

@@ -9,7 +9,7 @@ images:
     caption: "Dana Priest, interviewing an Afghan farmer in this photo, was profiled in the UCSC Review magazine in 2003 (profile). Photo: NBC/Norman Ng"
 ---
 
-[caption id="attachment_3769" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/priest_dana.180.jpg"><img class="size-full wp-image-3769" src="http://localhost/mysite/wp-content/uploads/2005/05/priest_dana.180.jpg" alt="Dana Priest, interviewing an Afghan farmer in this photo, was profiled in the UCSC Review magazine in 2003 (profile). Photo: NBC/Norman Ng" width="180" height="211" /></a>Dana Priest, interviewing an Afghan farmer in this photo, was profiled in the UCSC Review magazine in 2003 (profile). Photo: NBC/Norman Ng[/caption]
+[caption id="attachment_3769" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/priest_dana.180.jpg"><img class="size-full wp-image-3769" src="http://localhost/mysite/wp-content/uploads/2005/05/priest_dana.180.jpg" alt="Dana Priest, interviewing an Afghan farmer in this photo, was profiled in the UCSC Review magazine in 2003 (profile). Photo: NBC/Norman Ng" width="180" height="211" /></a>Dana Priest, interviewing an Afghan farmer in this photo, was profiled in the UCSC Review magazine in 2003 (profile). Photo: NBC/Norman Ng[/caption]
 <a name="content" id="content"></a>
 <p>
   Dana Priest, a reporter covering national security issues for the <i>Washington Post,</i> and an analyst and correspondent for NBC News, will give a talk on Monday, May 9, from noon to 1:30 p.m. at the Namaste Lounge at Colleges Nine and Ten. The title of her presentation is <i>"</i>America's Disappeared: The CIA and Human Rights After 9-11."

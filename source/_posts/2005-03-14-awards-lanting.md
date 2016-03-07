@@ -9,7 +9,7 @@ images:
     caption: "Frans Lanting Photo supplied by Frans Lanting"
 ---
 
-[caption id="attachment_3523" align="alignnone" width="156"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/lanting_frans.156.jpg"><img class="size-full wp-image-3523" src="http://localhost/mysite/wp-content/uploads/2005/03/lanting_frans.156.jpg" alt="Frans Lanting Photo supplied by Frans Lanting" width="156" height="200" /></a>Frans Lanting Photo supplied by Frans Lanting[/caption]
+[caption id="attachment_3523" align="alignright" width="156"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/lanting_frans.156.jpg"><img class="size-full wp-image-3523" src="http://localhost/mysite/wp-content/uploads/2005/03/lanting_frans.156.jpg" alt="Frans Lanting Photo supplied by Frans Lanting" width="156" height="200" /></a>Frans Lanting Photo supplied by Frans Lanting[/caption]
 <a name="content" id="content"></a>
 <p>
   The Friends of Long Marine Lab will present a Global Oceans Award to renowned nature photographer and conservationist Frans Lanting at the group's annual Gourmet Dinner benefit event on Sunday, March 20. The award recognizes Lanting for his outstanding contributions to public awareness of the natural environment.

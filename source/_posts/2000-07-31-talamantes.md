@@ -9,7 +9,7 @@ images:
     caption: "Frank Talamantes Photo: Titangos Photography Studio"
 ---
 
-[caption id="attachment_530" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2000/07/talamantes.00-07-31.jpg"><img class="size-full wp-image-530" src="http://localhost/mysite/wp-content/uploads/2000/07/talamantes.00-07-31.jpg" alt="Frank Talamantes Photo: Titangos Photography Studio" width="180" height="251" /></a>Frank Talamantes Photo: Titangos Photography Studio[/caption]
+[caption id="attachment_530" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2000/07/talamantes.00-07-31.jpg"><img class="size-full wp-image-530" src="http://localhost/mysite/wp-content/uploads/2000/07/talamantes.00-07-31.jpg" alt="Frank Talamantes Photo: Titangos Photography Studio" width="180" height="251" /></a>Frank Talamantes Photo: Titangos Photography Studio[/caption]
 <p>
   Biologist Frank Talamantes was appointed last week to the position of vice provost and dean of graduate studies. Talamantes, a professor of molecular, cellular, and developmental biology, will begin a three-year term in the position on August 1.
 </p><br>

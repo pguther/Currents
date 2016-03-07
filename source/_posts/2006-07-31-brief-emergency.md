@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6110" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/cert_logo.200.jpg"><img class="size-full wp-image-6110" src="http://localhost/mysite/wp-content/uploads/2006/07/cert_logo.200.jpg" alt="" width="200" height="115" /></a>[/caption]
+[caption id="attachment_6110" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/cert_logo.200.jpg"><img class="size-full wp-image-6110" src="http://localhost/mysite/wp-content/uploads/2006/07/cert_logo.200.jpg" alt="" width="200" height="115" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The UCSC Fire Department is presenting two Community Emergency Response Team (CERT) courses this fall for faculty and staff. The courses will be held September 18-21 and October 16-19. All sessions will be from 9 a.m. to 3 p.m.

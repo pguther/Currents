@@ -9,7 +9,7 @@ images:
     caption: "Ph.D. student Jean Waldbieser, left, discusses her research on amphiphilic polymers with Chancellor Denton on the Graduate Commons patio. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_3927" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/symposium.05-06-02.jpg"><img class="size-full wp-image-3927" src="http://localhost/mysite/wp-content/uploads/2005/06/symposium.05-06-02.jpg" alt="Ph.D. student Jean Waldbieser, left, discusses her research on amphiphilic polymers with Chancellor Denton on the Graduate Commons patio. Photo: Louise Donahue" width="230" height="346" /></a>Ph.D. student Jean Waldbieser, left, discusses her research on amphiphilic polymers with Chancellor Denton on the Graduate Commons patio. Photo: Louise Donahue[/caption]
+[caption id="attachment_3927" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/symposium.05-06-02.jpg"><img class="size-full wp-image-3927" src="http://localhost/mysite/wp-content/uploads/2005/06/symposium.05-06-02.jpg" alt="Ph.D. student Jean Waldbieser, left, discusses her research on amphiphilic polymers with Chancellor Denton on the Graduate Commons patio. Photo: Louise Donahue" width="230" height="346" /></a>Ph.D. student Jean Waldbieser, left, discusses her research on amphiphilic polymers with Chancellor Denton on the Graduate Commons patio. Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   There's no doubt about it: UCSC's first Graduate Research Symposium won't be its last.

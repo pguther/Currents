@@ -9,7 +9,7 @@ images:
     caption: "Robert Moses founded The Algebra Project to address the crisis in math literacy in poor communities."
 ---
 
-[caption id="attachment_4971" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/moses_bob.200.jpg"><img class="size-full wp-image-4971" src="http://localhost/mysite/wp-content/uploads/2006/05/moses_bob.200.jpg" alt="Robert Moses founded The Algebra Project to address the crisis in math literacy in poor communities." width="200" height="161" /></a>Robert Moses founded The Algebra Project to address the crisis in math literacy in poor communities.[/caption]
+[caption id="attachment_4971" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/moses_bob.200.jpg"><img class="size-full wp-image-4971" src="http://localhost/mysite/wp-content/uploads/2006/05/moses_bob.200.jpg" alt="Robert Moses founded The Algebra Project to address the crisis in math literacy in poor communities." width="200" height="161" /></a>Robert Moses founded The Algebra Project to address the crisis in math literacy in poor communities.[/caption]
 <a name="content" id="content"></a>
 <p>
   Renowned civil rights crusader, educator, and author of the book <i>Radical Equations</i>, Robert P. Moses will be in the Monterey Bay region May 10-11 for a series of events geared toward local educators and K-12 administrators.

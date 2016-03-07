@@ -10,7 +10,7 @@ images:
     caption: "Several firefighters practiced rappelling down the Interdisciplinary Sciences Building. Photo: Marissa Maciel"
 ---
 
-[caption id="attachment_5290" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/firefighters.05-08-22.jpg"><img class="size-full wp-image-5290" src="http://localhost/mysite/wp-content/uploads/2005/08/firefighters.05-08-22.jpg" alt="Several firefighters practiced rappelling down the Interdisciplinary Sciences Building. Photo: Marissa Maciel" width="230" height="307" /></a>Several firefighters practiced rappelling down the Interdisciplinary Sciences Building. Photo: Marissa Maciel[/caption]
+[caption id="attachment_5290" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/firefighters.05-08-22.jpg"><img class="size-full wp-image-5290" src="http://localhost/mysite/wp-content/uploads/2005/08/firefighters.05-08-22.jpg" alt="Several firefighters practiced rappelling down the Interdisciplinary Sciences Building. Photo: Marissa Maciel" width="230" height="307" /></a>Several firefighters practiced rappelling down the Interdisciplinary Sciences Building. Photo: Marissa Maciel[/caption]
 <p>
   <a name="content" id="content"></a> BEGIN STORY
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "Profiles of other outstanding UCSC students are available online."
 ---
 
-[caption id="attachment_2651" align="alignnone" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/backhart.04-04-05.250.jpg"><img class="size-full wp-image-2651" src="http://localhost/mysite/wp-content/uploads/2004/04/backhart.04-04-05.250.jpg" alt="Profiles of other outstanding UCSC students are available online." width="250" height="199" /></a>Profiles of other outstanding UCSC students are available online.[/caption]
+[caption id="attachment_2651" align="alignright" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/backhart.04-04-05.250.jpg"><img class="size-full wp-image-2651" src="http://localhost/mysite/wp-content/uploads/2004/04/backhart.04-04-05.250.jpg" alt="Profiles of other outstanding UCSC students are available online." width="250" height="199" /></a>Profiles of other outstanding UCSC students are available online.[/caption]
 <p>
   A prestigious Knauss Fellowship in marine policy has given graduate student Kristan Blackhart the opportunity to spend a year working at National Oceanic and Atmospheric Administration (NOAA) offices outside Washington, D.C.<br>
 </p>

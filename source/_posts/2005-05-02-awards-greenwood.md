@@ -12,8 +12,8 @@ images:
     caption: "M.R.C. Greenwood Photo by Don Harris"
 ---
 
-[caption id="attachment_3722" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/soule_michael.130.jpg"><img class="size-full wp-image-3722" src="http://localhost/mysite/wp-content/uploads/2005/05/soule_michael.130.jpg" alt="Michael Soule UCSC Photo Services" width="130" height="165" /></a>Michael Soule UCSC Photo Services[/caption]
-[caption id="attachment_3721" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/greenwood_mrc.130.jpg"><img class="size-full wp-image-3721" src="http://localhost/mysite/wp-content/uploads/2005/05/greenwood_mrc.130.jpg" alt="M.R.C. Greenwood Photo by Don Harris" width="130" height="167" /></a>M.R.C. Greenwood Photo by Don Harris[/caption]
+[caption id="attachment_3722" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/soule_michael.130.jpg"><img class="size-full wp-image-3722" src="http://localhost/mysite/wp-content/uploads/2005/05/soule_michael.130.jpg" alt="Michael Soule UCSC Photo Services" width="130" height="165" /></a>Michael Soule UCSC Photo Services[/caption]
+[caption id="attachment_3721" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/greenwood_mrc.130.jpg"><img class="size-full wp-image-3721" src="http://localhost/mysite/wp-content/uploads/2005/05/greenwood_mrc.130.jpg" alt="M.R.C. Greenwood Photo by Don Harris" width="130" height="167" /></a>M.R.C. Greenwood Photo by Don Harris[/caption]
 <a name="content" id="content"></a>
 <p>
   Two scholars affiliated with UCSC have been elected to the American Academy of Arts and Sciences (AAAS), one of the most prestigious honors bestowed upon the world's leading scientists, academics, artists, businesspeople, and public leaders.

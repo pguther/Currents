@@ -9,7 +9,7 @@ images:
     caption: "Emily Brodsky"
 ---
 
-[caption id="attachment_5120" align="alignnone" width="168"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/brodsky_emily.06-06-12.jpg"><img class="size-full wp-image-5120" src="http://localhost/mysite/wp-content/uploads/2006/06/brodsky_emily.06-06-12.jpg" alt="Emily Brodsky" width="168" height="188" /></a>Emily Brodsky[/caption]
+[caption id="attachment_5120" align="alignright" width="168"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/brodsky_emily.06-06-12.jpg"><img class="size-full wp-image-5120" src="http://localhost/mysite/wp-content/uploads/2006/06/brodsky_emily.06-06-12.jpg" alt="Emily Brodsky" width="168" height="188" /></a>Emily Brodsky[/caption]
 <a name="content" id="content"></a>
 <p>
   A new analysis of earthquake data indicates that aftershocks are triggered by the shaking associated with the mainshock, rather than by the added stress on nearby faults resulting from rearrangement of the Earth's crust.

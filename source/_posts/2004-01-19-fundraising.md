@@ -9,7 +9,7 @@ images:
     caption: "Judith Nichols said different generations vary widely in their communication preferences."
 ---
 
-[caption id="attachment_2464" align="alignnone" width="138"]<a href="http://localhost/mysite/wp-content/uploads/2004/01/nichols_judy.04-01-19.138.jpg"><img class="size-full wp-image-2464" src="http://localhost/mysite/wp-content/uploads/2004/01/nichols_judy.04-01-19.138.jpg" alt="Judith Nichols said different generations vary widely in their communication preferences." width="138" height="192" /></a>Judith Nichols said different generations vary widely in their communication preferences.[/caption]
+[caption id="attachment_2464" align="alignright" width="138"]<a href="http://localhost/mysite/wp-content/uploads/2004/01/nichols_judy.04-01-19.138.jpg"><img class="size-full wp-image-2464" src="http://localhost/mysite/wp-content/uploads/2004/01/nichols_judy.04-01-19.138.jpg" alt="Judith Nichols said different generations vary widely in their communication preferences." width="138" height="192" /></a>Judith Nichols said different generations vary widely in their communication preferences.[/caption]
 <p>
   Talk of "boomers," "busters," "civics," and a new species, "boomlets," was everywhere on January 13 during a daylong workshop with fundraiser Judith Nichols for faculty and staff on how to increase individual donations to UCSC.
 </p>

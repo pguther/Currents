@@ -9,7 +9,7 @@ images:
     caption: "Craig Haney"
 ---
 
-[caption id="attachment_6290" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/haney_craig.150.jpg"><img class="size-full wp-image-6290" src="http://localhost/mysite/wp-content/uploads/2006/10/haney_craig.150.jpg" alt="Craig Haney" width="150" height="210" /></a>Craig Haney[/caption]
+[caption id="attachment_6290" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/haney_craig.150.jpg"><img class="size-full wp-image-6290" src="http://localhost/mysite/wp-content/uploads/2006/10/haney_craig.150.jpg" alt="Craig Haney" width="150" height="210" /></a>Craig Haney[/caption]
 <a name="content" id="content"></a>
 <p>
   Psychology professor Craig Haney traveled to Seton Hall Law School in New Jersey to participate in the nationwide Guantanamo Teach In, a daylong collaboration of academics, journalists, religious leaders, medical professionals, and military representatives who gathered to explore the government's detention policy and practices in the "war on terror."

@@ -12,8 +12,8 @@ images:
     caption: "John Kitsuse Photo: UCSC Photo Services, 1977"
 ---
 
-[caption id="attachment_3236" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2003/12/kerr_clark.200.jpg"><img class="size-full wp-image-3236" src="http://localhost/mysite/wp-content/uploads/2003/12/kerr_clark.200.jpg" alt="Clark Kerr speaking at a UC Berkeley convocation on December 7, 1964. Photo: Steven Marcus" width="200" height="131" /></a>Clark Kerr speaking at a UC Berkeley convocation on December 7, 1964. Photo: Steven Marcus[/caption]
-[caption id="attachment_3237" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/12/kitsuse_john.160.jpg"><img class="size-full wp-image-3237" src="http://localhost/mysite/wp-content/uploads/2003/12/kitsuse_john.160.jpg" alt="John Kitsuse Photo: UCSC Photo Services, 1977" width="160" height="241" /></a>John Kitsuse Photo: UCSC Photo Services, 1977[/caption]
+[caption id="attachment_3236" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2003/12/kerr_clark.200.jpg"><img class="size-full wp-image-3236" src="http://localhost/mysite/wp-content/uploads/2003/12/kerr_clark.200.jpg" alt="Clark Kerr speaking at a UC Berkeley convocation on December 7, 1964. Photo: Steven Marcus" width="200" height="131" /></a>Clark Kerr speaking at a UC Berkeley convocation on December 7, 1964. Photo: Steven Marcus[/caption]
+[caption id="attachment_3237" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/12/kitsuse_john.160.jpg"><img class="size-full wp-image-3237" src="http://localhost/mysite/wp-content/uploads/2003/12/kitsuse_john.160.jpg" alt="John Kitsuse Photo: UCSC Photo Services, 1977" width="160" height="241" /></a>John Kitsuse Photo: UCSC Photo Services, 1977[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

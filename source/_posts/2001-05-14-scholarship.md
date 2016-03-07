@@ -9,7 +9,7 @@ images:
     caption: "Nickie Bazell will use the project share of her scholarship to implement a mentoring and tutoring program at Watsonville High School. Photo: Jessica Brice"
 ---
 
-[caption id="attachment_373" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/scholarship.01-05-14.224.jpg"><img class="size-full wp-image-373" src="http://localhost/mysite/wp-content/uploads/2001/05/scholarship.01-05-14.224.jpg" alt="Nickie Bazell will use the project share of her scholarship to implement a mentoring and tutoring program at Watsonville High School. Photo: Jessica Brice" width="224" height="161" /></a>Nickie Bazell will use the project share of her scholarship to implement a mentoring and tutoring program at Watsonville High School. Photo: Jessica Brice[/caption]
+[caption id="attachment_373" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/scholarship.01-05-14.224.jpg"><img class="size-full wp-image-373" src="http://localhost/mysite/wp-content/uploads/2001/05/scholarship.01-05-14.224.jpg" alt="Nickie Bazell will use the project share of her scholarship to implement a mentoring and tutoring program at Watsonville High School. Photo: Jessica Brice" width="224" height="161" /></a>Nickie Bazell will use the project share of her scholarship to implement a mentoring and tutoring program at Watsonville High School. Photo: Jessica Brice[/caption]
 <p>
   Nickie Bazell, a UCSC junior at Oakes College, has been awarded the Donald A. Strauss Scholarship for next year. The annual scholarship of $10,000 is awarded to 15 students with outstanding leadership potential and communication skills from four-year institutions in California.<br>
 </p><br>

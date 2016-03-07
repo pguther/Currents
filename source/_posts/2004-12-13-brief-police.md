@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_4448" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/12/police_poster.180.jpg"><img class="size-full wp-image-4448" src="http://localhost/mysite/wp-content/uploads/2004/12/police_poster.180.jpg" alt="" width="180" height="278" /></a>[/caption]
+[caption id="attachment_4448" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/12/police_poster.180.jpg"><img class="size-full wp-image-4448" src="http://localhost/mysite/wp-content/uploads/2004/12/police_poster.180.jpg" alt="" width="180" height="278" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The UC Santa Cruz police are participating in a countywide campaign targeting drivers who are impaired due to intoxication. The holiday campaign this year begins on December 17 and ends January 3.

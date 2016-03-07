@@ -9,7 +9,7 @@ images:
     caption: "Ali Shakouri, an associate professor of electrical engineering at UCSC, heads the multi-institutional team of researchers working on the project. Photo: UCSC Photo Services"
 ---
 
-[caption id="attachment_1991" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/06/shakouri.03-06-02.180.jpg"><img class="size-full wp-image-1991" src="http://localhost/mysite/wp-content/uploads/2003/06/shakouri.03-06-02.180.jpg" alt="Ali Shakouri, an associate professor of electrical engineering at UCSC, heads the multi-institutional team of researchers working on the project. Photo: UCSC Photo Services" width="180" height="247" /></a>Ali Shakouri, an associate professor of electrical engineering at UCSC, heads the multi-institutional team of researchers working on the project. Photo: UCSC Photo Services[/caption]
+[caption id="attachment_1991" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/06/shakouri.03-06-02.180.jpg"><img class="size-full wp-image-1991" src="http://localhost/mysite/wp-content/uploads/2003/06/shakouri.03-06-02.180.jpg" alt="Ali Shakouri, an associate professor of electrical engineering at UCSC, heads the multi-institutional team of researchers working on the project. Photo: UCSC Photo Services" width="180" height="247" /></a>Ali Shakouri, an associate professor of electrical engineering at UCSC, heads the multi-institutional team of researchers working on the project. Photo: UCSC Photo Services[/caption]
 <p>
   UCSC researchers are leading a collaborative effort to develop new technology that could increase the efficiency of internal combustion engines by converting waste heat into electric current.
 </p>

@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5220" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/waves_book.200.jpg"><img class="size-full wp-image-5220" src="http://localhost/mysite/wp-content/uploads/2005/07/waves_book.200.jpg" alt="" width="200" height="179" /></a>[/caption]
+[caption id="attachment_5220" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/waves_book.200.jpg"><img class="size-full wp-image-5220" src="http://localhost/mysite/wp-content/uploads/2005/07/waves_book.200.jpg" alt="" width="200" height="179" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The Seymour Center at Long Marine Lab will host a special lunch-hour book event by Steve Hawk, former editor of <i>Surfer</i> magazine and author of the new book <i>Waves</i>, on July 26 at 12:30 p.m. in the La Feliz Room. The event is free and open to the public.

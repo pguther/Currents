@@ -9,7 +9,7 @@ images:
     caption: "Contra dancers execute figures to spirited fiddle music."
 ---
 
-[caption id="attachment_6294" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/dance.220.jpg"><img class="size-full wp-image-6294" src="http://localhost/mysite/wp-content/uploads/2006/10/dance.220.jpg" alt="Contra dancers execute figures to spirited fiddle music." width="220" height="147" /></a>Contra dancers execute figures to spirited fiddle music.[/caption]
+[caption id="attachment_6294" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/dance.220.jpg"><img class="size-full wp-image-6294" src="http://localhost/mysite/wp-content/uploads/2006/10/dance.220.jpg" alt="Contra dancers execute figures to spirited fiddle music." width="220" height="147" /></a>Contra dancers execute figures to spirited fiddle music.[/caption]
 <a name="content" id="content"></a>
 <p>
   The Recreation Department has openings in the following dance classes. Register online at <a href="http://www.ucscrecreation.com">www.ucscrecreation.com</a> or visit the Recreation Office at the East Field House (831) 459-2806.

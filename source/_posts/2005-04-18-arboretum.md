@@ -12,8 +12,8 @@ images:
     caption: "Tenor saxophonist Dave Ellis performs August 18."
 ---
 
-[caption id="attachment_3649" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/linda_tillery.05-04-18.jpg"><img class="size-full wp-image-3649" src="http://localhost/mysite/wp-content/uploads/2005/04/linda_tillery.05-04-18.jpg" alt="Linda Tillery & The Cultural Heritage Choir will perform on May 19." width="240" height="162" /></a>Linda Tillery & The Cultural Heritage Choir will perform on May 19.[/caption]
-[caption id="attachment_3650" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/dave_ellis.05-04-18.jpg"><img class="size-full wp-image-3650" src="http://localhost/mysite/wp-content/uploads/2005/04/dave_ellis.05-04-18.jpg" alt="Tenor saxophonist Dave Ellis performs August 18." width="160" height="223" /></a>Tenor saxophonist Dave Ellis performs August 18.[/caption]
+[caption id="attachment_3649" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/linda_tillery.05-04-18.jpg"><img class="size-full wp-image-3649" src="http://localhost/mysite/wp-content/uploads/2005/04/linda_tillery.05-04-18.jpg" alt="Linda Tillery & The Cultural Heritage Choir will perform on May 19." width="240" height="162" /></a>Linda Tillery & The Cultural Heritage Choir will perform on May 19.[/caption]
+[caption id="attachment_3650" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/dave_ellis.05-04-18.jpg"><img class="size-full wp-image-3650" src="http://localhost/mysite/wp-content/uploads/2005/04/dave_ellis.05-04-18.jpg" alt="Tenor saxophonist Dave Ellis performs August 18." width="160" height="223" /></a>Tenor saxophonist Dave Ellis performs August 18.[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC will kick off its inaugural Arboretum Music Series on Thursday, April 21, with a concert by singer/songwriter Keith Greeninger, plus Dayan Kai and Band, at the new Arboretum Amphitheater off Empire Grade in Santa Cruz.

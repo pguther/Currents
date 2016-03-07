@@ -9,7 +9,7 @@ images:
     caption: "Cynthia Payne Photo: Jim MacKenzie"
 ---
 
-[caption id="attachment_6022" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/payne_cynthia2.jpg"><img class="size-full wp-image-6022" src="http://localhost/mysite/wp-content/uploads/2007/04/payne_cynthia2.jpg" alt="Cynthia Payne Photo: Jim MacKenzie" width="230" height="261" /></a>Cynthia Payne Photo: Jim MacKenzie[/caption]
+[caption id="attachment_6022" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/payne_cynthia2.jpg"><img class="size-full wp-image-6022" src="http://localhost/mysite/wp-content/uploads/2007/04/payne_cynthia2.jpg" alt="Cynthia Payne Photo: Jim MacKenzie" width="230" height="261" /></a>Cynthia Payne Photo: Jim MacKenzie[/caption]
 <a name="content" id="content"></a>
 <p>
   "Just wait until we do this from different planets," someone remarked, seconds before the performance began.

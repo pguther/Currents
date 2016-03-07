@@ -9,7 +9,7 @@ images:
     caption: "Maxine Waters has represented the 35th Congressional District since 1991."
 ---
 
-[caption id="attachment_6482" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/waters_maxine.jpg"><img class="size-full wp-image-6482" src="http://localhost/mysite/wp-content/uploads/2007/01/waters_maxine.jpg" alt="Maxine Waters has represented the 35th Congressional District since 1991." width="180" height="285" /></a>Maxine Waters has represented the 35th Congressional District since 1991.[/caption]
+[caption id="attachment_6482" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/waters_maxine.jpg"><img class="size-full wp-image-6482" src="http://localhost/mysite/wp-content/uploads/2007/01/waters_maxine.jpg" alt="Maxine Waters has represented the 35th Congressional District since 1991." width="180" height="285" /></a>Maxine Waters has represented the 35th Congressional District since 1991.[/caption]
 <a name="content" id="content"></a>
 <p>
   U.S. Rep. Maxine Waters, an outspoken opponent of the war in Iraq and a champion of voting rights who is beginning her ninth term in Congress, will speak February 20 at UCSC's Martin Luther King Jr. Memorial Convocation.

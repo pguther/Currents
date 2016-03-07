@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_4548" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/ballroom_dance.130.jpg"><img class="size-full wp-image-4548" src="http://localhost/mysite/wp-content/uploads/2006/01/ballroom_dance.130.jpg" alt="" width="130" height="238" /></a>[/caption]
+[caption id="attachment_4548" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/ballroom_dance.130.jpg"><img class="size-full wp-image-4548" src="http://localhost/mysite/wp-content/uploads/2006/01/ballroom_dance.130.jpg" alt="" width="130" height="238" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   You can still sign up for several dance courses that are being offered by the Recreation Department.

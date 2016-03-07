@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5047" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/shortcake.06-05-22.jpg"><img class="size-full wp-image-5047" src="http://localhost/mysite/wp-content/uploads/2006/05/shortcake.06-05-22.jpg" alt="" width="230" height="190" /></a>[/caption]
+[caption id="attachment_5047" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/shortcake.06-05-22.jpg"><img class="size-full wp-image-5047" src="http://localhost/mysite/wp-content/uploads/2006/05/shortcake.06-05-22.jpg" alt="" width="230" height="190" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Enjoy fresh organic strawberry shortcake and lemonade as you listen to bluegrass music at the UCSC Farm on Wednesday, May 24.

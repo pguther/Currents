@@ -9,7 +9,7 @@ images:
     caption: "Gina Dent, right, chats with undergraduates after the session. Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_5090" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/dent_gina.06-05-29.jpg"><img class="size-full wp-image-5090" src="http://localhost/mysite/wp-content/uploads/2006/05/dent_gina.06-05-29.jpg" alt="Gina Dent, right, chats with undergraduates after the session. Photo: Jennifer McNulty" width="230" height="173" /></a>Gina Dent, right, chats with undergraduates after the session. Photo: Jennifer McNulty[/caption]
+[caption id="attachment_5090" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/dent_gina.06-05-29.jpg"><img class="size-full wp-image-5090" src="http://localhost/mysite/wp-content/uploads/2006/05/dent_gina.06-05-29.jpg" alt="Gina Dent, right, chats with undergraduates after the session. Photo: Jennifer McNulty" width="230" height="173" /></a>Gina Dent, right, chats with undergraduates after the session. Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   More than 5,000 people responded to the recent campuswide web survey about diversity, gratifying organizers who say 82 percent of respondents report that the term diversity is meaningful to them.

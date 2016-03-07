@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_3655" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/labor.05-04-18.jpg"><img class="size-full wp-image-3655" src="http://localhost/mysite/wp-content/uploads/2005/04/labor.05-04-18.jpg" alt="" width="200" height="261" /></a>[/caption]
+[caption id="attachment_3655" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/labor.05-04-18.jpg"><img class="size-full wp-image-3655" src="http://localhost/mysite/wp-content/uploads/2005/04/labor.05-04-18.jpg" alt="" width="200" height="261" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   A film by two UCSC undergraduates about trailblazing Mexican American journalist Ruben Salazar will be screened during the <a href="http://www.reelwork.org/index.htm">Fourth Annual Reel Work May Day Labor Film Festival</a> April 24-May 1, in Santa Cruz.

@@ -9,7 +9,7 @@ images:
     caption: "Erika S. Zavaleta Photo: Jim MacKenzie"
 ---
 
-[caption id="attachment_4359" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/zavaleta.04-11-15.jpg"><img class="size-full wp-image-4359" src="http://localhost/mysite/wp-content/uploads/2004/11/zavaleta.04-11-15.jpg" alt="Erika S. Zavaleta Photo: Jim MacKenzie" width="150" height="192" /></a>Erika S. Zavaleta Photo: Jim MacKenzie[/caption]
+[caption id="attachment_4359" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/zavaleta.04-11-15.jpg"><img class="size-full wp-image-4359" src="http://localhost/mysite/wp-content/uploads/2004/11/zavaleta.04-11-15.jpg" alt="Erika S. Zavaleta Photo: Jim MacKenzie" width="150" height="192" /></a>Erika S. Zavaleta Photo: Jim MacKenzie[/caption]
 <a name="content" id="content"></a>
 <p>
   In a study that mimicked the natural order of species loss in a grassland ecosystem, researchers found that declining biodiversity greatly reduced resistance to invasive species and that the presence of even small numbers of rare species had profound functional effects.

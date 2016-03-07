@@ -9,7 +9,7 @@ images:
     caption: "Lalo Guerrero"
 ---
 
-[caption id="attachment_6315" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/guerrero_lalo.170.gif"><img class="size-full wp-image-6315" src="http://localhost/mysite/wp-content/uploads/2006/10/guerrero_lalo.170.gif" alt="Lalo Guerrero" width="170" height="199" /></a>Lalo Guerrero[/caption]
+[caption id="attachment_6315" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/guerrero_lalo.170.gif"><img class="size-full wp-image-6315" src="http://localhost/mysite/wp-content/uploads/2006/10/guerrero_lalo.170.gif" alt="Lalo Guerrero" width="170" height="199" /></a>Lalo Guerrero[/caption]
 <a name="content" id="content"></a>
 <p>
   The UCSC Arboretum will conclude its 2006 concert series on October 19 with a tribute to the late Mexican American singer and composer Lalo Guerrero. Performers include Danny Valdez, star of the movie <i>Zoot Suit,</i> members of the group Ozomatli, members of Mariachi Azteca de San Jose, and a collaboration of Bay Area Chicano musicians.

@@ -9,7 +9,7 @@ images:
     caption: "Katie Morzinski"
 ---
 
-[caption id="attachment_5945" align="alignnone" width="85"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/morzinski_katie.85.jpg"><img class="size-full wp-image-5945" src="http://localhost/mysite/wp-content/uploads/2007/02/morzinski_katie.85.jpg" alt="Katie Morzinski" width="85" height="95" /></a>Katie Morzinski[/caption]
+[caption id="attachment_5945" align="alignright" width="85"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/morzinski_katie.85.jpg"><img class="size-full wp-image-5945" src="http://localhost/mysite/wp-content/uploads/2007/02/morzinski_katie.85.jpg" alt="Katie Morzinski" width="85" height="95" /></a>Katie Morzinski[/caption]
 <a name="content" id="content"></a>
 <p>
   Katie Morzinski, a graduate student in astronomy and astrophysics, has been awarded a 2007 Michelson Graduate Fellowship. This three-year fellowship will support her work in UCSC's Laboratory for Adaptive Optics developing technology for imaging extrasolar planets.

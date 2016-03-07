@@ -9,7 +9,7 @@ images:
     caption: "Irene Hamaker, 2006"
 ---
 
-[caption id="attachment_5101" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/shoes.200.jpg"><img class="size-full wp-image-5101" src="http://localhost/mysite/wp-content/uploads/2006/06/shoes.200.jpg" alt="Irene Hamaker, 2006" width="200" height="177" /></a>Irene Hamaker, 2006[/caption]
+[caption id="attachment_5101" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/shoes.200.jpg"><img class="size-full wp-image-5101" src="http://localhost/mysite/wp-content/uploads/2006/06/shoes.200.jpg" alt="Irene Hamaker, 2006" width="200" height="177" /></a>Irene Hamaker, 2006[/caption]
 <a name="content" id="content"></a>
 <p>
   June 5, 2006

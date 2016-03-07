@@ -9,7 +9,7 @@ images:
     caption: "Just in time for the holidays, the Friends of the UCSC Farm & Garden have a new cookbook featuring fresh seasonal produce."
 ---
 
-[caption id="attachment_4391" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/farm_cookbook.240.jpg"><img class="size-full wp-image-4391" src="http://localhost/mysite/wp-content/uploads/2004/11/farm_cookbook.240.jpg" alt="Just in time for the holidays, the Friends of the UCSC Farm & Garden have a new cookbook featuring fresh seasonal produce." width="240" height="209" /></a>Just in time for the holidays, the Friends of the UCSC Farm & Garden have a new cookbook featuring fresh seasonal produce.[/caption]
+[caption id="attachment_4391" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/farm_cookbook.240.jpg"><img class="size-full wp-image-4391" src="http://localhost/mysite/wp-content/uploads/2004/11/farm_cookbook.240.jpg" alt="Just in time for the holidays, the Friends of the UCSC Farm & Garden have a new cookbook featuring fresh seasonal produce." width="240" height="209" /></a>Just in time for the holidays, the Friends of the UCSC Farm & Garden have a new cookbook featuring fresh seasonal produce.[/caption]
 <a name="content" id="content"></a>
 <p>
   Looking for a great gift idea? The Friends of the UC Santa Cruz Farm &amp; Garden will unveil their latest cookbook at their Holiday Tea and Sale on Saturday, December 4, from 11 a.m. to 4 p.m. The event will take place on the patio of the new River Cafe and Cheese Shop at the Farmer's Exchange complex, 415 River Street in Santa Cruz.

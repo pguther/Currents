@@ -15,9 +15,9 @@ images:
     caption: "Joseph DeRisi"
 ---
 
-[caption id="attachment_6433" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/wolcott_lynne.170.jpg"><img class="size-full wp-image-6433" src="http://localhost/mysite/wp-content/uploads/2006/12/wolcott_lynne.170.jpg" alt="Lynne Wolcott Photo: Matt Fitt" width="170" height="255" /></a>Lynne Wolcott Photo: Matt Fitt[/caption]
-[caption id="attachment_6432" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/griggs_gary.170.jpg"><img class="size-full wp-image-6432" src="http://localhost/mysite/wp-content/uploads/2006/12/griggs_gary.170.jpg" alt="Gary Griggs Photo: Jim MacKenzie" width="170" height="265" /></a>Gary Griggs Photo: Jim MacKenzie[/caption]
-[caption id="attachment_6431" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/derisi_170.06-12-04.jpg"><img class="size-full wp-image-6431" src="http://localhost/mysite/wp-content/uploads/2006/12/derisi_170.06-12-04.jpg" alt="Joseph DeRisi" width="170" height="231" /></a>Joseph DeRisi[/caption]
+[caption id="attachment_6433" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/wolcott_lynne.170.jpg"><img class="size-full wp-image-6433" src="http://localhost/mysite/wp-content/uploads/2006/12/wolcott_lynne.170.jpg" alt="Lynne Wolcott Photo: Matt Fitt" width="170" height="255" /></a>Lynne Wolcott Photo: Matt Fitt[/caption]
+[caption id="attachment_6432" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/griggs_gary.170.jpg"><img class="size-full wp-image-6432" src="http://localhost/mysite/wp-content/uploads/2006/12/griggs_gary.170.jpg" alt="Gary Griggs Photo: Jim MacKenzie" width="170" height="265" /></a>Gary Griggs Photo: Jim MacKenzie[/caption]
+[caption id="attachment_6431" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/derisi_170.06-12-04.jpg"><img class="size-full wp-image-6431" src="http://localhost/mysite/wp-content/uploads/2006/12/derisi_170.06-12-04.jpg" alt="Joseph DeRisi" width="170" height="231" /></a>Joseph DeRisi[/caption]
 <a name="content" id="content"></a>
 <p>
   A pioneering medical researcher, an influential professor of Earth and planetary sciences, and an academic adviser known for her personal touch have been selected to receive the Alumni Association's highest honors for the 2006-07 year.

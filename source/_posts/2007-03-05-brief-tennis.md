@@ -9,7 +9,7 @@ images:
     caption: "UCSC's men's tennis team holding ITA DIII championship trophy Photo courtesy of Gustavus Adolphus College"
 ---
 
-[caption id="attachment_5965" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/tennis.345.jpg"><img class="size-full wp-image-5965" src="http://localhost/mysite/wp-content/uploads/2007/03/tennis.345.jpg" alt="UCSC's men's tennis team holding ITA DIII championship trophy Photo courtesy of Gustavus Adolphus College" width="345" height="152" /></a>UCSC's men's tennis team holding ITA DIII championship trophy Photo courtesy of Gustavus Adolphus College[/caption]
+[caption id="attachment_5965" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/tennis.345.jpg"><img class="size-full wp-image-5965" src="http://localhost/mysite/wp-content/uploads/2007/03/tennis.345.jpg" alt="UCSC's men's tennis team holding ITA DIII championship trophy Photo courtesy of Gustavus Adolphus College" width="345" height="152" /></a>UCSC's men's tennis team holding ITA DIII championship trophy Photo courtesy of Gustavus Adolphus College[/caption]
 <a name="content" id="content"></a>
 <p>
   Going in as the fourth seed in the Intercollegiate Tennis Association 2007 Division III National Team Indoor Championships, the UCSC men's tennis team defeated fifth-seed Trinity University 7-2 in the first round to reach the final four.

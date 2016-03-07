@@ -9,7 +9,7 @@ images:
     caption: "Shujaat Husain Khan Photo courtesy of the artist"
 ---
 
-[caption id="attachment_3327" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/khan_shujaat.130.jpg"><img class="size-full wp-image-3327" src="http://localhost/mysite/wp-content/uploads/2005/01/khan_shujaat.130.jpg" alt="Shujaat Husain Khan Photo courtesy of the artist" width="130" height="204" /></a>Shujaat Husain Khan Photo courtesy of the artist[/caption]
+[caption id="attachment_3327" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/khan_shujaat.130.jpg"><img class="size-full wp-image-3327" src="http://localhost/mysite/wp-content/uploads/2005/01/khan_shujaat.130.jpg" alt="Shujaat Husain Khan Photo courtesy of the artist" width="130" height="204" /></a>Shujaat Husain Khan Photo courtesy of the artist[/caption]
 <a name="content" id="content"></a>
 <p>
   Shujaat Husain Khan will perform on sitar with Abhiman Kaushal on tabla on Saturday, January 22, at 7:30 p.m. at the Music Center Recital Hall.<br>

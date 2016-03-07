@@ -9,7 +9,7 @@ images:
     caption: "Bettina Aptheker Scott Rappaport photo"
 ---
 
-[caption id="attachment_4256" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/aptheker_bettina.140.jpg"><img class="size-full wp-image-4256" src="http://localhost/mysite/wp-content/uploads/2004/10/aptheker_bettina.140.jpg" alt="Bettina Aptheker Scott Rappaport photo" width="140" height="191" /></a>Bettina Aptheker Scott Rappaport photo[/caption]
+[caption id="attachment_4256" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/aptheker_bettina.140.jpg"><img class="size-full wp-image-4256" src="http://localhost/mysite/wp-content/uploads/2004/10/aptheker_bettina.140.jpg" alt="Bettina Aptheker Scott Rappaport photo" width="140" height="191" /></a>Bettina Aptheker Scott Rappaport photo[/caption]
 <a name="content" id="content"></a>
 <p>
   UC Santa Cruz professor of women's studies Bettina Aptheker has been honored with the "Award for Excellence in Education" by the California chapter of the National Organization for Women (CA NOW).

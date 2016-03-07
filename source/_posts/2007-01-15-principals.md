@@ -9,7 +9,7 @@ images:
     caption: "Gary Bloom Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_5823" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/bloom_gary.230.jpg"><img class="size-full wp-image-5823" src="http://localhost/mysite/wp-content/uploads/2007/01/bloom_gary.230.jpg" alt="Gary Bloom Photo: Jennifer McNulty" width="230" height="173" /></a>Gary Bloom Photo: Jennifer McNulty[/caption]
+[caption id="attachment_5823" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/bloom_gary.230.jpg"><img class="size-full wp-image-5823" src="http://localhost/mysite/wp-content/uploads/2007/01/bloom_gary.230.jpg" alt="Gary Bloom Photo: Jennifer McNulty" width="230" height="173" /></a>Gary Bloom Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   Good teachers make all the difference for children in the classroom, and good principals bring out the best in their teachers.

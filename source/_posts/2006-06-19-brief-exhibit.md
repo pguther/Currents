@@ -9,7 +9,7 @@ images:
     caption: "Peter Loftus, Natural Bridges Beach, oil on canvas, 1992, 12' by 24'"
 ---
 
-[caption id="attachment_5156" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/plein_air.340.jpg"><img class="size-full wp-image-5156" src="http://localhost/mysite/wp-content/uploads/2006/06/plein_air.340.jpg" alt="Peter Loftus, Natural Bridges Beach, oil on canvas, 1992, 12" by 24"" width="340" height="231" /></a>Peter Loftus, Natural Bridges Beach, oil on canvas, 1992, 12" by 24"[/caption]
+[caption id="attachment_5156" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/plein_air.340.jpg"><img class="size-full wp-image-5156" src="http://localhost/mysite/wp-content/uploads/2006/06/plein_air.340.jpg" alt="Peter Loftus, Natural Bridges Beach, oil on canvas, 1992, 12" by 24"" width="340" height="231" /></a>Peter Loftus, Natural Bridges Beach, oil on canvas, 1992, 12" by 24"[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC faculty are among the artists who will be showing their work in the courtyard of the <a href="http://www.santacruzmah.org/">Museum of Art and History</a> (MAH) on Saturday and Sunday, July 8 and 9. The exhibit, titled Plein Air Affaire 2006: Outdoor Painting in Scenic Santa Cruz County, includes more than 150 paintings by 47 artists. The event includes demonstrations and work for sale.

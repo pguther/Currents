@@ -9,7 +9,7 @@ images:
     caption: "Chancellor Denton joins the delegation outside Kerr Hall. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_4589" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/ukraine.06-02-06.jpg"><img class="size-full wp-image-4589" src="http://localhost/mysite/wp-content/uploads/2006/02/ukraine.06-02-06.jpg" alt="Chancellor Denton joins the delegation outside Kerr Hall. Photo: Louise Donahue" width="230" height="177" /></a>Chancellor Denton joins the delegation outside Kerr Hall. Photo: Louise Donahue[/caption]
+[caption id="attachment_4589" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/ukraine.06-02-06.jpg"><img class="size-full wp-image-4589" src="http://localhost/mysite/wp-content/uploads/2006/02/ukraine.06-02-06.jpg" alt="Chancellor Denton joins the delegation outside Kerr Hall. Photo: Louise Donahue" width="230" height="177" /></a>Chancellor Denton joins the delegation outside Kerr Hall. Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   A delegation of seven businesswomen from Santa Cruz's sister city of Alushta, Ukraine, got a look around the UCSC campus last week.

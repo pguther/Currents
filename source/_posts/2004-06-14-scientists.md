@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2884" align="alignnone" width="260"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/russian.04-06-14.jpg"><img class="size-full wp-image-2884" src="http://localhost/mysite/wp-content/uploads/2004/06/russian.04-06-14.jpg" alt="" width="260" height="219" /></a>[/caption]
+[caption id="attachment_2884" align="alignright" width="260"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/russian.04-06-14.jpg"><img class="size-full wp-image-2884" src="http://localhost/mysite/wp-content/uploads/2004/06/russian.04-06-14.jpg" alt="" width="260" height="219" /></a>[/caption]
 <p>
   A delegation of scientists from the former Soviet Union working through the U.S. State Department's BioIndustry Initiative visited UCSC last week for an all-day program that included research presentations, laboratory tours, and informal discussions. The visit could lead to new collaborative research projects involving UCSC faculty and scientists from the countries of the former Soviet Union.<br>
 </p>

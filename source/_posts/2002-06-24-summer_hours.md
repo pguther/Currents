@@ -9,7 +9,7 @@ images:
     caption: "View of Santa Cruz Beach Boardwalk taken in the 1950s, from the local history materials archive in Special Collections. Photo courtesy of UCSC Special Collections"
 ---
 
-[caption id="attachment_1291" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2002/06/special_colls.02-06-24.200.jpg"><img class="size-full wp-image-1291" src="http://localhost/mysite/wp-content/uploads/2002/06/special_colls.02-06-24.200.jpg" alt="View of Santa Cruz Beach Boardwalk taken in the 1950s, from the local history materials archive in Special Collections. Photo courtesy of UCSC Special Collections" width="200" height="158" /></a>View of Santa Cruz Beach Boardwalk taken in the 1950s, from the local history materials archive in Special Collections. Photo courtesy of UCSC Special Collections[/caption]
+[caption id="attachment_1291" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2002/06/special_colls.02-06-24.200.jpg"><img class="size-full wp-image-1291" src="http://localhost/mysite/wp-content/uploads/2002/06/special_colls.02-06-24.200.jpg" alt="View of Santa Cruz Beach Boardwalk taken in the 1950s, from the local history materials archive in Special Collections. Photo courtesy of UCSC Special Collections" width="200" height="158" /></a>View of Santa Cruz Beach Boardwalk taken in the 1950s, from the local history materials archive in Special Collections. Photo courtesy of UCSC Special Collections[/caption]
 <p>
   Many UCSC offices and facilities have more limited hours during the summer. The following are the summer hours for some of the most-visited sites:
 </p>

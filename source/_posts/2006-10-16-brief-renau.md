@@ -9,7 +9,7 @@ images:
     caption: "Jose Renau (Tim Stephens)"
 ---
 
-[caption id="attachment_6317" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/renau_jose.150.jpg"><img class="size-full wp-image-6317" src="http://localhost/mysite/wp-content/uploads/2006/10/renau_jose.150.jpg" alt="Jose Renau (Tim Stephens)" width="150" height="194" /></a>Jose Renau (Tim Stephens)[/caption]
+[caption id="attachment_6317" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/renau_jose.150.jpg"><img class="size-full wp-image-6317" src="http://localhost/mysite/wp-content/uploads/2006/10/renau_jose.150.jpg" alt="Jose Renau (Tim Stephens)" width="150" height="194" /></a>Jose Renau (Tim Stephens)[/caption]
 <a name="content" id="content"></a>
 <p>
   Jose Renau, assistant professor of computer engineering, has been appointed to serve on the OpenSPARC community advisory board created by Sun Microsystems to provide oversight for the OpenSparc community.

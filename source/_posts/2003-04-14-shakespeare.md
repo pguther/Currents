@@ -9,7 +9,7 @@ images:
     caption: "Noel Coward's Private Lives is the first play in the Summer Festival lineup."
 ---
 
-[caption id="attachment_1860" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/04/private.03-04-14.180.jpg"><img class="size-full wp-image-1860" src="http://localhost/mysite/wp-content/uploads/2003/04/private.03-04-14.180.jpg" alt="Noel Coward's Private Lives is the first play in the Summer Festival lineup." width="180" height="203" /></a>Noel Coward's Private Lives is the first play in the Summer Festival lineup.[/caption]
+[caption id="attachment_1860" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/04/private.03-04-14.180.jpg"><img class="size-full wp-image-1860" src="http://localhost/mysite/wp-content/uploads/2003/04/private.03-04-14.180.jpg" alt="Noel Coward's Private Lives is the first play in the Summer Festival lineup." width="180" height="203" /></a>Noel Coward's Private Lives is the first play in the Summer Festival lineup.[/caption]
 <p>
   Shakespeare Santa Cruz (SSC) has just announced the lineup for its 2003 Summer Festival. Noel Coward's <i>Private Lives</i> will join Shakespeare's <i>Hamlet</i> and <i>The Comedy of Errors</i> for a six-week run from July 15 to August 24 on the UCSC campus.
 </p>

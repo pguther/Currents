@@ -9,7 +9,7 @@ images:
     caption: "Yannick Maiki, Anthony Wright, Bryan Gomez, and Vickie Martin formed a Lighting Engineering Department team. Photo: Tim Stephens"
 ---
 
-[caption id="attachment_5332" align="alignnone" width="350"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/group.05-09-05.jpg"><img class="size-full wp-image-5332" src="http://localhost/mysite/wp-content/uploads/2005/09/group.05-09-05.jpg" alt="Yannick Maiki, Anthony Wright, Bryan Gomez, and Vickie Martin formed a Lighting Engineering Department team. Photo: Tim Stephens" width="350" height="163" /></a>Yannick Maiki, Anthony Wright, Bryan Gomez, and Vickie Martin formed a Lighting Engineering Department team. Photo: Tim Stephens[/caption]
+[caption id="attachment_5332" align="alignright" width="350"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/group.05-09-05.jpg"><img class="size-full wp-image-5332" src="http://localhost/mysite/wp-content/uploads/2005/09/group.05-09-05.jpg" alt="Yannick Maiki, Anthony Wright, Bryan Gomez, and Vickie Martin formed a Lighting Engineering Department team. Photo: Tim Stephens" width="350" height="163" /></a>Yannick Maiki, Anthony Wright, Bryan Gomez, and Vickie Martin formed a Lighting Engineering Department team. Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   The Baskin School of Engineering hosted 35 incoming engineering students last month for a week-long program of activities designed to give them a head start in their first quarter at UCSC. All incoming transfer students, female students, and underrepresented minority students received invitations to participate in the Engineering Summer Bridge Program.

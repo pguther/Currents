@@ -9,7 +9,7 @@ images:
     caption: "Salinas High School student April Deutschle holds a hagfish, which eats whale flesh, during the conference."
 ---
 
-[caption id="attachment_5968" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/science_girl.220.jpg"><img class="size-full wp-image-5968" src="http://localhost/mysite/wp-content/uploads/2007/03/science_girl.220.jpg" alt="Salinas High School student April Deutschle holds a hagfish, which eats whale flesh, during the conference." width="220" height="330" /></a>Salinas High School student April Deutschle holds a hagfish, which eats whale flesh, during the conference.[/caption]
+[caption id="attachment_5968" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/science_girl.220.jpg"><img class="size-full wp-image-5968" src="http://localhost/mysite/wp-content/uploads/2007/03/science_girl.220.jpg" alt="Salinas High School student April Deutschle holds a hagfish, which eats whale flesh, during the conference." width="220" height="330" /></a>Salinas High School student April Deutschle holds a hagfish, which eats whale flesh, during the conference.[/caption]
 <a name="content" id="content"></a>
 <p>
   A weekend event at UCSC helped middle and high school girls from the Monterey Bay region prepare for their future by teaching them how to propel a robot with a lollipop.

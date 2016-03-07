@@ -9,7 +9,7 @@ images:
     caption: "Anatole Leikin, associate professor of music, played Schubert's Impromptu in G flat major, Schumann's Traumerei (Dreams), and Rachmaninov's Moment Musical. Photo: UCSC Photo Services"
 ---
 
-[caption id="attachment_1382" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/09/concert.01-09-17.200.jpg"><img class="size-full wp-image-1382" src="http://localhost/mysite/wp-content/uploads/2001/09/concert.01-09-17.200.jpg" alt="Anatole Leikin, associate professor of music, played Schubert's Impromptu in G flat major, Schumann's Traumerei (Dreams), and Rachmaninov's Moment Musical. Photo: UCSC Photo Services" width="200" height="300" /></a>Anatole Leikin, associate professor of music, played Schubert's Impromptu in G flat major, Schumann's Traumerei (Dreams), and Rachmaninov's Moment Musical. Photo: UCSC Photo Services[/caption]
+[caption id="attachment_1382" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/09/concert.01-09-17.200.jpg"><img class="size-full wp-image-1382" src="http://localhost/mysite/wp-content/uploads/2001/09/concert.01-09-17.200.jpg" alt="Anatole Leikin, associate professor of music, played Schubert's Impromptu in G flat major, Schumann's Traumerei (Dreams), and Rachmaninov's Moment Musical. Photo: UCSC Photo Services" width="200" height="300" /></a>Anatole Leikin, associate professor of music, played Schubert's Impromptu in G flat major, Schumann's Traumerei (Dreams), and Rachmaninov's Moment Musical. Photo: UCSC Photo Services[/caption]
 <p>
   <br>
   <br>

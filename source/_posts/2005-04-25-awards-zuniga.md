@@ -9,7 +9,7 @@ images:
     caption: "Martha Zuniga UCSC Photo Services"
 ---
 
-[caption id="attachment_3675" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/zuniga_martha.130.jpg"><img class="size-full wp-image-3675" src="http://localhost/mysite/wp-content/uploads/2005/04/zuniga_martha.130.jpg" alt="Martha Zuniga UCSC Photo Services" width="130" height="158" /></a>Martha Zuniga UCSC Photo Services[/caption]
+[caption id="attachment_3675" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/zuniga_martha.130.jpg"><img class="size-full wp-image-3675" src="http://localhost/mysite/wp-content/uploads/2005/04/zuniga_martha.130.jpg" alt="Martha Zuniga UCSC Photo Services" width="130" height="158" /></a>Martha Zuniga UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   The science and engineering honors society Sigma Xi has chosen UCSC biologist Martha Zuniga to serve a second year as a Distinguished Lecturer. The Sigma Xi Distinguished Lectureship Program provides opportunities for the society's local chapters to host visits from outstanding individuals who are at the leading edge of science. Zuniga, a professor of molecular, cell, and developmental biology, is currently a Distinguished Lecturer for 2004-05 and will continue in this capacity in 2005-06.

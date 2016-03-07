@@ -9,7 +9,7 @@ images:
     caption: "Michael Hutchison"
 ---
 
-[caption id="attachment_5140" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/hutchison_michael.200.jpg"><img class="size-full wp-image-5140" src="http://localhost/mysite/wp-content/uploads/2006/06/hutchison_michael.200.jpg" alt="Michael Hutchison" width="200" height="156" /></a>Michael Hutchison[/caption]
+[caption id="attachment_5140" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/hutchison_michael.200.jpg"><img class="size-full wp-image-5140" src="http://localhost/mysite/wp-content/uploads/2006/06/hutchison_michael.200.jpg" alt="Michael Hutchison" width="200" height="156" /></a>Michael Hutchison[/caption]
 <a name="content" id="content"></a>
 <p>
   Hutchison, a leading authority on international finance and the Japanese economy, coedited <i>Japan's Great Stagnation: Financial and Monetary Policy Lessons for Advanced Economies</i> (Cambridge, MA: MIT Press, 2006) with Frank Westermann. Hutchison is a professor of economics and interim dean of the Division of Social Sciences at UC Santa Cruz. Westermann is chair of international economic policy in the Department of Economics and Business Administration at the University of Osnabrueck, Germany.

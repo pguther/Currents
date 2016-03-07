@@ -9,7 +9,7 @@ images:
     caption: "Allucquere 'Sandy' Stone"
 ---
 
-[caption id="attachment_6060" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/drive_by_theory.200.jpg"><img class="size-full wp-image-6060" src="http://localhost/mysite/wp-content/uploads/2007/04/drive_by_theory.200.jpg" alt="Allucquere "Sandy" Stone" width="200" height="160" /></a>Allucquere "Sandy" Stone[/caption]
+[caption id="attachment_6060" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/drive_by_theory.200.jpg"><img class="size-full wp-image-6060" src="http://localhost/mysite/wp-content/uploads/2007/04/drive_by_theory.200.jpg" alt="Allucquere "Sandy" Stone" width="200" height="160" /></a>Allucquere "Sandy" Stone[/caption]
 <a name="content" id="content"></a>
 <p>
   Artist, author, and critic <a href="http://sandystone.com">Allucquere "Sandy" Stone</a> will speak at the Merrill College Cultural Center on April 26 from 7:30 to 9 p.m. Her talk is titled "Drive-By Theory." The talk is free and open to the public.

@@ -11,7 +11,7 @@ images:
     caption: "Robert Coe"
 ---
 
-[caption id="attachment_5774" align="alignnone" width="100"]<a href="http://localhost/mysite/wp-content/uploads/2005/12/coe.05-12-05.jpg"><img class="size-full wp-image-5774" src="http://localhost/mysite/wp-content/uploads/2005/12/coe.05-12-05.jpg" alt="Robert Coe" width="100" height="121" /></a>Robert Coe[/caption]
+[caption id="attachment_5774" align="alignright" width="100"]<a href="http://localhost/mysite/wp-content/uploads/2005/12/coe.05-12-05.jpg"><img class="size-full wp-image-5774" src="http://localhost/mysite/wp-content/uploads/2005/12/coe.05-12-05.jpg" alt="Robert Coe" width="100" height="121" /></a>Robert Coe[/caption]
 <a name="content" id="content"></a>
 <p>
   A new analysis of computer simulations of Earth's magnetic field suggests that its behavior was different early in Earth's history, resulting in greater stability and fewer reversals of the magnetic field.

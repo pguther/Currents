@@ -9,7 +9,7 @@ images:
     caption: "Marchers cross High Street at the campus entrance."
 ---
 
-[caption id="attachment_4942" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/immigration.06-05-01.jpg"><img class="size-full wp-image-4942" src="http://localhost/mysite/wp-content/uploads/2006/05/immigration.06-05-01.jpg" alt="Marchers cross High Street at the campus entrance." width="345" height="173" /></a>Marchers cross High Street at the campus entrance.[/caption]
+[caption id="attachment_4942" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/immigration.06-05-01.jpg"><img class="size-full wp-image-4942" src="http://localhost/mysite/wp-content/uploads/2006/05/immigration.06-05-01.jpg" alt="Marchers cross High Street at the campus entrance." width="345" height="173" /></a>Marchers cross High Street at the campus entrance.[/caption]
 <a name="content" id="content"></a>
 <p>
   Demonstrators gathered at the two entrances to campus on Monday morning to join in a national protest intended to show the impact immigrant workers have on the nation's economy. The demonstration occurred as Congress is debating new immigration legislation.

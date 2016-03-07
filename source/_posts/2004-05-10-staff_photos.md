@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2783" align="alignnone" width="385"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/four_table.04-05-10.385.jpg"><img class="size-full wp-image-2783" src="http://localhost/mysite/wp-content/uploads/2004/05/four_table.04-05-10.385.jpg" alt="" width="385" height="319" /></a>[/caption]
+[caption id="attachment_2783" align="alignright" width="385"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/four_table.04-05-10.385.jpg"><img class="size-full wp-image-2783" src="http://localhost/mysite/wp-content/uploads/2004/05/four_table.04-05-10.385.jpg" alt="" width="385" height="319" /></a>[/caption]
 <p>
   .<br>
 </p><br>

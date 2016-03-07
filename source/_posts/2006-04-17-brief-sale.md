@@ -12,8 +12,8 @@ images:
     caption: "Banksia blooming during a recent storm. Stephen McCabe"
 ---
 
-[caption id="attachment_4858" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/banksia_bird.340.jpg"><img class="size-full wp-image-4858" src="http://localhost/mysite/wp-content/uploads/2006/04/banksia_bird.340.jpg" alt="Banksia speciosa with hummingbird at the Arboretum Stephen McCabe" width="340" height="197" /></a>Banksia speciosa with hummingbird at the Arboretum Stephen McCabe[/caption]
-[caption id="attachment_4859" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/banksia_hail.200.jpg"><img class="size-full wp-image-4859" src="http://localhost/mysite/wp-content/uploads/2006/04/banksia_hail.200.jpg" alt="Banksia blooming during a recent storm. Stephen McCabe" width="200" height="300" /></a>Banksia blooming during a recent storm. Stephen McCabe[/caption]
+[caption id="attachment_4858" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/banksia_bird.340.jpg"><img class="size-full wp-image-4858" src="http://localhost/mysite/wp-content/uploads/2006/04/banksia_bird.340.jpg" alt="Banksia speciosa with hummingbird at the Arboretum Stephen McCabe" width="340" height="197" /></a>Banksia speciosa with hummingbird at the Arboretum Stephen McCabe[/caption]
+[caption id="attachment_4859" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/banksia_hail.200.jpg"><img class="size-full wp-image-4859" src="http://localhost/mysite/wp-content/uploads/2006/04/banksia_hail.200.jpg" alt="Banksia blooming during a recent storm. Stephen McCabe" width="200" height="300" /></a>Banksia blooming during a recent storm. Stephen McCabe[/caption]
 <a name="content" id="content"></a>
 <p>
   April 17, 2006<br>

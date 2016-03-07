@@ -9,7 +9,7 @@ images:
     caption: "Volunteers take part in a restoration planting project on an earthen berm buffer that separates the Long Marine Lab facilities from the Younger Lagoon Natural Reserve. Photo: Scott Loosley"
 ---
 
-[caption id="attachment_3588" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/stewardship.05-03-28.jpg"><img class="size-full wp-image-3588" src="http://localhost/mysite/wp-content/uploads/2005/03/stewardship.05-03-28.jpg" alt="Volunteers take part in a restoration planting project on an earthen berm buffer that separates the Long Marine Lab facilities from the Younger Lagoon Natural Reserve. Photo: Scott Loosley" width="230" height="186" /></a>Volunteers take part in a restoration planting project on an earthen berm buffer that separates the Long Marine Lab facilities from the Younger Lagoon Natural Reserve. Photo: Scott Loosley[/caption]
+[caption id="attachment_3588" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/stewardship.05-03-28.jpg"><img class="size-full wp-image-3588" src="http://localhost/mysite/wp-content/uploads/2005/03/stewardship.05-03-28.jpg" alt="Volunteers take part in a restoration planting project on an earthen berm buffer that separates the Long Marine Lab facilities from the Younger Lagoon Natural Reserve. Photo: Scott Loosley" width="230" height="186" /></a>Volunteers take part in a restoration planting project on an earthen berm buffer that separates the Long Marine Lab facilities from the Younger Lagoon Natural Reserve. Photo: Scott Loosley[/caption]
 <a name="content" id="content"></a>
 <p>
   For the volunteers who join work crews each quarter to help preserve UCSC's natural areas, the effort is a labor of love.

@@ -9,7 +9,7 @@ images:
     caption: "Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier"
 ---
 
-[caption id="attachment_5891" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/twoheroes.230.jpg"><img class="size-full wp-image-5891" src="http://localhost/mysite/wp-content/uploads/2007/02/twoheroes.230.jpg" alt="Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier" width="230" height="173" /></a>Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier[/caption]
+[caption id="attachment_5891" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/twoheroes.230.jpg"><img class="size-full wp-image-5891" src="http://localhost/mysite/wp-content/uploads/2007/02/twoheroes.230.jpg" alt="Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier" width="230" height="173" /></a>Acting Chancellor Blumenthal honors staff members Doug Zuidema, center, and Michael McCawley, right, for their aid and comfort of the late Professor Donald Osterbrock. Photo: Guy Lasnier[/caption]
 <a name="content" id="content"></a>
 <p>
   Blumenthal honors staff members for aiding stricken professor Osterbrock

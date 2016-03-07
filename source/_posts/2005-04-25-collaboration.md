@@ -12,8 +12,8 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_3689" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/telematics1.05-04-21.jpg"><img class="size-full wp-image-3689" src="http://localhost/mysite/wp-content/uploads/2005/04/telematics1.05-04-21.jpg" alt="Students, staff, and faculty at both universities worked together on the project. Photos: Jim MacKenzie" width="230" height="186" /></a>Students, staff, and faculty at both universities worked together on the project. Photos: Jim MacKenzie[/caption]
-[caption id="attachment_3690" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/telematics.05-04-21.jpg"><img class="size-full wp-image-3690" src="http://localhost/mysite/wp-content/uploads/2005/04/telematics.05-04-21.jpg" alt="" width="230" height="153" /></a>[/caption]
+[caption id="attachment_3689" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/telematics1.05-04-21.jpg"><img class="size-full wp-image-3689" src="http://localhost/mysite/wp-content/uploads/2005/04/telematics1.05-04-21.jpg" alt="Students, staff, and faculty at both universities worked together on the project. Photos: Jim MacKenzie" width="230" height="186" /></a>Students, staff, and faculty at both universities worked together on the project. Photos: Jim MacKenzie[/caption]
+[caption id="attachment_3690" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/telematics.05-04-21.jpg"><img class="size-full wp-image-3690" src="http://localhost/mysite/wp-content/uploads/2005/04/telematics.05-04-21.jpg" alt="" width="230" height="153" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   <i>Lubricious Transfer</i>--an ambitious dance experiment in live, transcontinental collaboration using the Internet--was broadcast simultaneously earlier this month to audiences at UCSC's Experimental Theater and New York University's Frederick Loewe Theater.

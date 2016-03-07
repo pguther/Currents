@@ -9,7 +9,7 @@ images:
     caption: "Karen Ottemann"
 ---
 
-[caption id="attachment_5963" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/ottemann_karen.150.jpg"><img class="size-full wp-image-5963" src="http://localhost/mysite/wp-content/uploads/2007/03/ottemann_karen.150.jpg" alt="Karen Ottemann" width="150" height="209" /></a>Karen Ottemann[/caption]
+[caption id="attachment_5963" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/ottemann_karen.150.jpg"><img class="size-full wp-image-5963" src="http://localhost/mysite/wp-content/uploads/2007/03/ottemann_karen.150.jpg" alt="Karen Ottemann" width="150" height="209" /></a>Karen Ottemann[/caption]
 <a name="content" id="content"></a>
 <p>
   "Swimming in the stomach: Ulcer-causing bacterium <i>Helicobacter pylori</i> and disease" is the title of the Winter 2007 Synergy Lecture by Karen Ottemann, associate professor of environmental toxicology. The lecture will take place on Thursday, March 8, at 4 p.m. in the Current Periodicals Room of the Science &amp; Engineering Library. Light refreshments will be available.

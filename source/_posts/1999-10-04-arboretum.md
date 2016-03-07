@@ -10,7 +10,7 @@ images:
     caption: "Telopea plants, which boast six-inch-wide crimson flowers, are the highlight of this year's Fall Plant Sale."
 ---
 
-[caption id="attachment_6951" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/1999/10/telopea.99-10-04.jpg"><img class="size-full wp-image-6951" src="http://localhost/mysite/wp-content/uploads/1999/10/telopea.99-10-04.jpg" alt="Telopea plants, which boast six-inch-wide crimson flowers, are the highlight of this year's Fall Plant Sale." width="200" height="133" /></a>Telopea plants, which boast six-inch-wide crimson flowers, are the highlight of this year's Fall Plant Sale.[/caption]
+[caption id="attachment_6951" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/1999/10/telopea.99-10-04.jpg"><img class="size-full wp-image-6951" src="http://localhost/mysite/wp-content/uploads/1999/10/telopea.99-10-04.jpg" alt="Telopea plants, which boast six-inch-wide crimson flowers, are the highlight of this year's Fall Plant Sale." width="200" height="133" /></a>Telopea plants, which boast six-inch-wide crimson flowers, are the highlight of this year's Fall Plant Sale.[/caption]
 <p>
   The Arboretum is holding its annual Fall Plant Sale in conjunction with the California Native Plant Society on Saturday, October 9, from 11 a.m. to 3 p.m. The sale will take place at the Arboretum Eucalyptus Grove, near the intersection of Western Drive and High Street.
 </p><br>

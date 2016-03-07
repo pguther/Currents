@@ -9,7 +9,7 @@ images:
     caption: "Josiah Ober, right, with George and Patricia Deppe, parents of Carl Mark Deppe. Photo: Karen Bassi"
 ---
 
-[caption id="attachment_298" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/deppe.01-04-23.224.jpg"><img class="size-full wp-image-298" src="http://localhost/mysite/wp-content/uploads/2001/04/deppe.01-04-23.224.jpg" alt="Josiah Ober, right, with George and Patricia Deppe, parents of Carl Mark Deppe. Photo: Karen Bassi" width="224" height="147" /></a>Josiah Ober, right, with George and Patricia Deppe, parents of Carl Mark Deppe. Photo: Karen Bassi[/caption]
+[caption id="attachment_298" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/deppe.01-04-23.224.jpg"><img class="size-full wp-image-298" src="http://localhost/mysite/wp-content/uploads/2001/04/deppe.01-04-23.224.jpg" alt="Josiah Ober, right, with George and Patricia Deppe, parents of Carl Mark Deppe. Photo: Karen Bassi" width="224" height="147" /></a>Josiah Ober, right, with George and Patricia Deppe, parents of Carl Mark Deppe. Photo: Karen Bassi[/caption]
 <p>
   Is democracy genetic?<br>
   <br>

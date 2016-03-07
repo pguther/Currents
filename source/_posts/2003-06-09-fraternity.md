@@ -9,7 +9,7 @@ images:
     caption: "This is one of two houses MTV has provided for the duration of filming. Photo: Chris Myers"
 ---
 
-[caption id="attachment_2005" align="alignnone" width="280"]<a href="http://localhost/mysite/wp-content/uploads/2003/06/fraternity.03-06-09.280.jpg"><img class="size-full wp-image-2005" src="http://localhost/mysite/wp-content/uploads/2003/06/fraternity.03-06-09.280.jpg" alt="This is one of two houses MTV has provided for the duration of filming. Photo: Chris Myers" width="280" height="231" /></a>This is one of two houses MTV has provided for the duration of filming. Photo: Chris Myers[/caption]
+[caption id="attachment_2005" align="alignright" width="280"]<a href="http://localhost/mysite/wp-content/uploads/2003/06/fraternity.03-06-09.280.jpg"><img class="size-full wp-image-2005" src="http://localhost/mysite/wp-content/uploads/2003/06/fraternity.03-06-09.280.jpg" alt="This is one of two houses MTV has provided for the duration of filming. Photo: Chris Myers" width="280" height="231" /></a>This is one of two houses MTV has provided for the duration of filming. Photo: Chris Myers[/caption]
 <p>
   The filming this spring of UCSC's Delta Omega Chi (DOC) fraternity by MTV for its hit reality show, "Fraternity Life," has prompted discussions across campus about the value of this type of national television coverage, the role of Greek organizations at UCSC, and expectations regarding student conduct.
 </p>

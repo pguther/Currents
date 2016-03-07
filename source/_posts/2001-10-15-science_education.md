@@ -12,8 +12,8 @@ images:
     caption: 
 ---
 
-[caption id="attachment_1470" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/Exploratorium.01-10-15.224.jpg"><img class="size-full wp-image-1470" src="http://localhost/mysite/wp-content/uploads/2001/10/Exploratorium.01-10-15.224.jpg" alt="Research studies will be conducted at San Francisco's Exploratorium, above and below. Photos: Exploratorium." width="224" height="147" /></a>Research studies will be conducted at San Francisco's Exploratorium, above and below. Photos: Exploratorium.[/caption]
-[caption id="attachment_1471" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/boys.01-10-15.224.jpg"><img class="size-full wp-image-1471" src="http://localhost/mysite/wp-content/uploads/2001/10/boys.01-10-15.224.jpg" alt="" width="224" height="149" /></a>[/caption]
+[caption id="attachment_1470" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/Exploratorium.01-10-15.224.jpg"><img class="size-full wp-image-1470" src="http://localhost/mysite/wp-content/uploads/2001/10/Exploratorium.01-10-15.224.jpg" alt="Research studies will be conducted at San Francisco's Exploratorium, above and below. Photos: Exploratorium." width="224" height="147" /></a>Research studies will be conducted at San Francisco's Exploratorium, above and below. Photos: Exploratorium.[/caption]
+[caption id="attachment_1471" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/boys.01-10-15.224.jpg"><img class="size-full wp-image-1471" src="http://localhost/mysite/wp-content/uploads/2001/10/boys.01-10-15.224.jpg" alt="" width="224" height="149" /></a>[/caption]
 <p>
   <font size="5"><b>UCSC joins international collaboration to improve science education</b></font>
 </p>

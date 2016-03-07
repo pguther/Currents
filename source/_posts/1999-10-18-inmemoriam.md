@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_6989" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/1999/10/huffman_david.10-18.jpg"><img class="size-full wp-image-6989" src="http://localhost/mysite/wp-content/uploads/1999/10/huffman_david.10-18.jpg" alt="" width="150" height="214" /></a>[/caption]
+[caption id="attachment_6989" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/1999/10/huffman_david.10-18.jpg"><img class="size-full wp-image-6989" src="http://localhost/mysite/wp-content/uploads/1999/10/huffman_david.10-18.jpg" alt="" width="150" height="214" /></a>[/caption]
 <h4>
   <font color="#003399">David Huffman</font>
 </h4>A memorial service for David A. Huffman, the founding faculty member of UCSC's Computer Science Department and a pioneer in the field, will take place on campus on Saturday, October 23. Huffman died at a local hospital on October 7, after a ten-month battle with cancer. He was 74.

@@ -9,7 +9,7 @@ images:
     caption: "Yellowtail rockfish are among the species being studied by PISCO researchers. Photo: Cordell Bank Expeditions"
 ---
 
-[caption id="attachment_265" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/yellowtail.01-04-09.224.jpg"><img class="size-full wp-image-265" src="http://localhost/mysite/wp-content/uploads/2001/04/yellowtail.01-04-09.224.jpg" alt="Yellowtail rockfish are among the species being studied by PISCO researchers. Photo: Cordell Bank Expeditions" width="224" height="157" /></a>Yellowtail rockfish are among the species being studied by PISCO researchers. Photo: Cordell Bank Expeditions[/caption]
+[caption id="attachment_265" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/yellowtail.01-04-09.224.jpg"><img class="size-full wp-image-265" src="http://localhost/mysite/wp-content/uploads/2001/04/yellowtail.01-04-09.224.jpg" alt="Yellowtail rockfish are among the species being studied by PISCO researchers. Photo: Cordell Bank Expeditions" width="224" height="157" /></a>Yellowtail rockfish are among the species being studied by PISCO researchers. Photo: Cordell Bank Expeditions[/caption]
 <p>
   <br>
   <font size="5"><b>Coastal research project receives major funding boost</b></font>

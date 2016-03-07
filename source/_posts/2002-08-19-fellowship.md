@@ -9,7 +9,7 @@ images:
     caption: "Marianne Bueno. Photo: Ann M. Gibb"
 ---
 
-[caption id="attachment_2125" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/08/bueno_m.02-08-19.224.jpg"><img class="size-full wp-image-2125" src="http://localhost/mysite/wp-content/uploads/2002/08/bueno_m.02-08-19.224.jpg" alt="Marianne Bueno. Photo: Ann M. Gibb" width="224" height="162" /></a>Marianne Bueno. Photo: Ann M. Gibb[/caption]
+[caption id="attachment_2125" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/08/bueno_m.02-08-19.224.jpg"><img class="size-full wp-image-2125" src="http://localhost/mysite/wp-content/uploads/2002/08/bueno_m.02-08-19.224.jpg" alt="Marianne Bueno. Photo: Ann M. Gibb" width="224" height="162" /></a>Marianne Bueno. Photo: Ann M. Gibb[/caption]
 <p>
   In just one generation, Marianne Bueno's family has gone from farm labor in the fields of California to graduate studies at the University of California, Santa Cruz.
 </p>

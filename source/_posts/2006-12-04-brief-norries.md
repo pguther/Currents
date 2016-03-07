@@ -9,7 +9,7 @@ images:
     caption: "Norrie's Gift Shop is loaded with decorative and practical items for the home and the holidays. Stephen McCabe"
 ---
 
-[caption id="attachment_6462" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/norries.340.jpg"><img class="size-full wp-image-6462" src="http://localhost/mysite/wp-content/uploads/2006/12/norries.340.jpg" alt="Norrie's Gift Shop is loaded with decorative and practical items for the home and the holidays. Stephen McCabe" width="340" height="197" /></a>Norrie's Gift Shop is loaded with decorative and practical items for the home and the holidays. Stephen McCabe[/caption]
+[caption id="attachment_6462" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/norries.340.jpg"><img class="size-full wp-image-6462" src="http://localhost/mysite/wp-content/uploads/2006/12/norries.340.jpg" alt="Norrie's Gift Shop is loaded with decorative and practical items for the home and the holidays. Stephen McCabe" width="340" height="197" /></a>Norrie's Gift Shop is loaded with decorative and practical items for the home and the holidays. Stephen McCabe[/caption]
 <a name="content" id="content"></a>
 <p>
   It's time for the Annual Staff and Faculty Holiday Sale at Norrie's Gift Shop at the Arboretum. From now until the shop closes on December 24 staff and faculty may enjoy a 10 percent discount on all items.

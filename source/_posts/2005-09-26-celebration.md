@@ -9,7 +9,7 @@ images:
     caption: "Chancellor Denton greets parents as students move into residence halls for fall quarter. Photo: Tim May"
 ---
 
-[caption id="attachment_5407" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/denton.05-09-26.jpg"><img class="size-full wp-image-5407" src="http://localhost/mysite/wp-content/uploads/2005/09/denton.05-09-26.jpg" alt="Chancellor Denton greets parents as students move into residence halls for fall quarter. Photo: Tim May" width="230" height="174" /></a>Chancellor Denton greets parents as students move into residence halls for fall quarter. Photo: Tim May[/caption]
+[caption id="attachment_5407" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/denton.05-09-26.jpg"><img class="size-full wp-image-5407" src="http://localhost/mysite/wp-content/uploads/2005/09/denton.05-09-26.jpg" alt="Chancellor Denton greets parents as students move into residence halls for fall quarter. Photo: Tim May" width="230" height="174" /></a>Chancellor Denton greets parents as students move into residence halls for fall quarter. Photo: Tim May[/caption]
 <a name="content" id="content"></a>
 <p>
   Chancellor Denice D. Denton will be sworn in as UCSC's ninth chancellor as part of a series of fall events that will be short on ceremony and long on substance.

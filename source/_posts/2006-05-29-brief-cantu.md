@@ -9,7 +9,7 @@ images:
     caption: "The colloquium honors Lionel Cantu, an assistant professor of sociology who died unexpectedly in 2002."
 ---
 
-[caption id="attachment_5078" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/cantu_lionel.140.jpg"><img class="size-full wp-image-5078" src="http://localhost/mysite/wp-content/uploads/2006/05/cantu_lionel.140.jpg" alt="The colloquium honors Lionel Cantu, an assistant professor of sociology who died unexpectedly in 2002." width="140" height="211" /></a>The colloquium honors Lionel Cantu, an assistant professor of sociology who died unexpectedly in 2002.[/caption]
+[caption id="attachment_5078" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/cantu_lionel.140.jpg"><img class="size-full wp-image-5078" src="http://localhost/mysite/wp-content/uploads/2006/05/cantu_lionel.140.jpg" alt="The colloquium honors Lionel Cantu, an assistant professor of sociology who died unexpectedly in 2002." width="140" height="211" /></a>The colloquium honors Lionel Cantu, an assistant professor of sociology who died unexpectedly in 2002.[/caption]
 <a name="content" id="content"></a>
 <p>
   The campus community is invited to attend the fourth annual Lionel Cantu Memorial Colloquium at 3:30 p.m. on Monday, June 5, at the Baobab Lounge at Merrill College. The event will be followed by a reception at the Lionel Cantu GLBTI Resource Center at 5:30 p.m.

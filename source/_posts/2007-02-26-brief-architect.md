@@ -9,7 +9,7 @@ images:
     caption: "The new Boston Institute of Contemporary Art designed by Diller Scofidio + Renfro"
 ---
 
-[caption id="attachment_5935" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/boston_museum.200.jpg"><img class="size-full wp-image-5935" src="http://localhost/mysite/wp-content/uploads/2007/02/boston_museum.200.jpg" alt="The new Boston Institute of Contemporary Art designed by Diller Scofidio + Renfro" width="200" height="132" /></a>The new Boston Institute of Contemporary Art designed by Diller Scofidio + Renfro[/caption]
+[caption id="attachment_5935" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/boston_museum.200.jpg"><img class="size-full wp-image-5935" src="http://localhost/mysite/wp-content/uploads/2007/02/boston_museum.200.jpg" alt="The new Boston Institute of Contemporary Art designed by Diller Scofidio + Renfro" width="200" height="132" /></a>The new Boston Institute of Contemporary Art designed by Diller Scofidio + Renfro[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC's Center for Art &amp; Visual Studies' "Museum without Walls" project will present a lecture by Elizabeth Diller--of the award-winning New York City-based architectural firm <a href="http://www.dillerscofidio.com/">Diller Scofidio + Renfro</a>--on Wednesday, March 7, from 7 to 8 p.m. at College Eight, Room 240.

@@ -9,7 +9,7 @@ images:
     caption: "This King Protea is one of many plants to be sold April 21 at the Arboretum. Photo: Stephen McCabe"
 ---
 
-[caption id="attachment_234" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/protea.01-04-02.224.jpg"><img class="size-full wp-image-234" src="http://localhost/mysite/wp-content/uploads/2001/04/protea.01-04-02.224.jpg" alt="This King Protea is one of many plants to be sold April 21 at the Arboretum. Photo: Stephen McCabe" width="224" height="198" /></a>This King Protea is one of many plants to be sold April 21 at the Arboretum. Photo: Stephen McCabe[/caption]
+[caption id="attachment_234" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/protea.01-04-02.224.jpg"><img class="size-full wp-image-234" src="http://localhost/mysite/wp-content/uploads/2001/04/protea.01-04-02.224.jpg" alt="This King Protea is one of many plants to be sold April 21 at the Arboretum. Photo: Stephen McCabe" width="224" height="198" /></a>This King Protea is one of many plants to be sold April 21 at the Arboretum. Photo: Stephen McCabe[/caption]
 <p>
   The UCSC Arboretum is holding its annual Spring Plant Sale in conjunction with the California Native Plant Society (CNPS) on Saturday, April 21, from 11 a.m. to 3 p.m. The sale will take place at the Arboretum Eucalyptus Grove on High Street near the intersection with Western Drive.
 </p>This annual event brings gardeners and nursery buyers from as far away as Sonoma and Santa Barbara. The UCSC Arboretum and CNPS, both well-known horticultural organizations, have held joint plant sales for several years, enabling them to offer a wide variety of interesting and unusual plants.<br>

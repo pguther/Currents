@@ -9,7 +9,7 @@ images:
     caption: "Saving Open Spaces looks at how various alliances have formed to protect land from development. Photo: Courtesy Peninsula Open Space Trust"
 ---
 
-[caption id="attachment_2425" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2002/12/sunset.02-12-16.200.jpg"><img class="size-full wp-image-2425" src="http://localhost/mysite/wp-content/uploads/2002/12/sunset.02-12-16.200.jpg" alt="Saving Open Spaces looks at how various alliances have formed to protect land from development. Photo: Courtesy Peninsula Open Space Trust" width="200" height="280" /></a>Saving Open Spaces looks at how various alliances have formed to protect land from development. Photo: Courtesy Peninsula Open Space Trust[/caption]
+[caption id="attachment_2425" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2002/12/sunset.02-12-16.200.jpg"><img class="size-full wp-image-2425" src="http://localhost/mysite/wp-content/uploads/2002/12/sunset.02-12-16.200.jpg" alt="Saving Open Spaces looks at how various alliances have formed to protect land from development. Photo: Courtesy Peninsula Open Space Trust" width="200" height="280" /></a>Saving Open Spaces looks at how various alliances have formed to protect land from development. Photo: Courtesy Peninsula Open Space Trust[/caption]
 <p>
   Since the 1920s, residents of the Golden State have organized locally to preserve more than 1 million acres of open space--an amount that rivals the 1.3 million acquired during the same period by the California Department of Parks and Recreation.
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "Lou Harrison Photo: David Harsany"
 ---
 
-[caption id="attachment_6335" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/harrison_lou.200.gif"><img class="size-full wp-image-6335" src="http://localhost/mysite/wp-content/uploads/2006/10/harrison_lou.200.gif" alt="Lou Harrison Photo: David Harsany" width="200" height="158" /></a>Lou Harrison Photo: David Harsany[/caption]
+[caption id="attachment_6335" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/harrison_lou.200.gif"><img class="size-full wp-image-6335" src="http://localhost/mysite/wp-content/uploads/2006/10/harrison_lou.200.gif" alt="Lou Harrison Photo: David Harsany" width="200" height="158" /></a>Lou Harrison Photo: David Harsany[/caption]
 <a name="content" id="content"></a>
 <p>
   Professor of music Leta Miller will give a talk titled "Lou Harrison: Musical Trailblazer" on Thursday, October 26, from 4 to 6 p.m. at McHenry Library's Special Collections. Miller will share her research and writings on Harrison--one of Santa Cruz County's most famous musical personalities--and his groundbreaking contributions to 20th-century music.

@@ -9,7 +9,7 @@ images:
     caption: "From left, Acting Chancellor Martin M. Chemers joins students Jeff Basinger and Julia Dean, alumnus Kai Chang, and Chief Mickey Aluffi. Louise Donahue photo"
 ---
 
-[caption id="attachment_4427" align="alignnone" width="365"]<a href="http://localhost/mysite/wp-content/uploads/2004/12/students_honored.365.jpg"><img class="size-full wp-image-4427" src="http://localhost/mysite/wp-content/uploads/2004/12/students_honored.365.jpg" alt="From left, Acting Chancellor Martin M. Chemers joins students Jeff Basinger and Julia Dean, alumnus Kai Chang, and Chief Mickey Aluffi. Louise Donahue photo" width="365" height="247" /></a>From left, Acting Chancellor Martin M. Chemers joins students Jeff Basinger and Julia Dean, alumnus Kai Chang, and Chief Mickey Aluffi. Louise Donahue photo[/caption]
+[caption id="attachment_4427" align="alignright" width="365"]<a href="http://localhost/mysite/wp-content/uploads/2004/12/students_honored.365.jpg"><img class="size-full wp-image-4427" src="http://localhost/mysite/wp-content/uploads/2004/12/students_honored.365.jpg" alt="From left, Acting Chancellor Martin M. Chemers joins students Jeff Basinger and Julia Dean, alumnus Kai Chang, and Chief Mickey Aluffi. Louise Donahue photo" width="365" height="247" /></a>From left, Acting Chancellor Martin M. Chemers joins students Jeff Basinger and Julia Dean, alumnus Kai Chang, and Chief Mickey Aluffi. Louise Donahue photo[/caption]
 <a name="content" id="content"></a>
 <p>
   Two UCSC students and an alumnus whose quick action led to the apprehension of a suspect in a recent attack at the campus library were honored Friday by campus police.

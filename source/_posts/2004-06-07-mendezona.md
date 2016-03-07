@@ -9,7 +9,7 @@ images:
     caption: "Profiles of other outstanding UCSC students are available online at http://www.ucsc.edu/students/profiles/"
 ---
 
-[caption id="attachment_2854" align="alignnone" width="260"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/mendezona.04-06-07.jpg"><img class="size-full wp-image-2854" src="http://localhost/mysite/wp-content/uploads/2004/06/mendezona.04-06-07.jpg" alt="Profiles of other outstanding UCSC students are available online at http://www.ucsc.edu/students/profiles/" width="260" height="249" /></a>Profiles of other outstanding UCSC students are available online at http://www.ucsc.edu/students/profiles/[/caption]
+[caption id="attachment_2854" align="alignright" width="260"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/mendezona.04-06-07.jpg"><img class="size-full wp-image-2854" src="http://localhost/mysite/wp-content/uploads/2004/06/mendezona.04-06-07.jpg" alt="Profiles of other outstanding UCSC students are available online at http://www.ucsc.edu/students/profiles/" width="260" height="249" /></a>Profiles of other outstanding UCSC students are available online at http://www.ucsc.edu/students/profiles/[/caption]
 <p>
   Arren Mendezona doesn't want to graduate. For this transfer student from Sierra College outside Sacramento, two years at UCSC wasn't enough.
 </p>

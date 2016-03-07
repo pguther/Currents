@@ -9,7 +9,7 @@ images:
     caption: "'Big Cliff' by Frank Galuszka"
 ---
 
-[caption id="attachment_4612" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/big.cliff.340.jpg"><img class="size-full wp-image-4612" src="http://localhost/mysite/wp-content/uploads/2006/02/big.cliff.340.jpg" alt=""Big Cliff" by Frank Galuszka" width="340" height="242" /></a>"Big Cliff" by Frank Galuszka[/caption]
+[caption id="attachment_4612" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/big.cliff.340.jpg"><img class="size-full wp-image-4612" src="http://localhost/mysite/wp-content/uploads/2006/02/big.cliff.340.jpg" alt=""Big Cliff" by Frank Galuszka" width="340" height="242" /></a>"Big Cliff" by Frank Galuszka[/caption]
 <a name="content" id="content"></a><br>
 <p>
   Art professor and department chair Frank Galuszka has two exhibitions of his paintings running on the East Coast this winter. <a href="http://www.nyss.org/gallery.asp">The New York Studio School of Painting and Sculpture</a> is displaying his works through February 16 and the <a href="http://www.projectsgallery.com">Projects Gallery</a> in Philadelphia is featuring his paintings through March 12.

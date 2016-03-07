@@ -9,7 +9,7 @@ images:
     caption: "Steve Kang UCSC Photo Services"
 ---
 
-[caption id="attachment_3544" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/kang_steve.130.jpg"><img class="size-full wp-image-3544" src="http://localhost/mysite/wp-content/uploads/2005/03/kang_steve.130.jpg" alt="Steve Kang UCSC Photo Services" width="130" height="183" /></a>Steve Kang UCSC Photo Services[/caption]
+[caption id="attachment_3544" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/kang_steve.130.jpg"><img class="size-full wp-image-3544" src="http://localhost/mysite/wp-content/uploads/2005/03/kang_steve.130.jpg" alt="Steve Kang UCSC Photo Services" width="130" height="183" /></a>Steve Kang UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   Steve Kang, dean of UCSC's Jack Baskin School of Engineering, has been appointed to the Blue Ribbon Task Force on Nanotechnology (BRTFN), a joint federal-state venture to benefit Silicon Valley and promote California as the premier center for nanotechnology research, development, and commercialization.

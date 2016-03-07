@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5420" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/thompson_bookcover.140.jpg"><img class="size-full wp-image-5420" src="http://localhost/mysite/wp-content/uploads/2005/09/thompson_bookcover.140.jpg" alt="" width="140" height="205" /></a>[/caption]
+[caption id="attachment_5420" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/thompson_bookcover.140.jpg"><img class="size-full wp-image-5420" src="http://localhost/mysite/wp-content/uploads/2005/09/thompson_bookcover.140.jpg" alt="" width="140" height="205" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Coevolution shapes the interactions between species, whether predators and prey, hosts and parasites, or mutually beneficial partnerships such as those between flowering plants and their pollinators. In fact, most plants and animals require coevolved interactions with other species in order to survive.

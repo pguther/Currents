@@ -9,7 +9,7 @@ images:
     caption: "Tara Madhyastha developed the online version of the course after teaching it with conventional lectures. Photo: UCSC Photo Services"
 ---
 
-[caption id="attachment_2278" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/madhyastha.02-10-14.160.jpg"><img class="size-full wp-image-2278" src="http://localhost/mysite/wp-content/uploads/2002/10/madhyastha.02-10-14.160.jpg" alt="Tara Madhyastha developed the online version of the course after teaching it with conventional lectures. Photo: UCSC Photo Services" width="160" height="194" /></a>Tara Madhyastha developed the online version of the course after teaching it with conventional lectures. Photo: UCSC Photo Services[/caption]
+[caption id="attachment_2278" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/madhyastha.02-10-14.160.jpg"><img class="size-full wp-image-2278" src="http://localhost/mysite/wp-content/uploads/2002/10/madhyastha.02-10-14.160.jpg" alt="Tara Madhyastha developed the online version of the course after teaching it with conventional lectures. Photo: UCSC Photo Services" width="160" height="194" /></a>Tara Madhyastha developed the online version of the course after teaching it with conventional lectures. Photo: UCSC Photo Services[/caption]
 <p>
   UCSC offered its first course taught entirely online during the 2002 Summer Session. Student feedback has been overwhelmingly positive, and campus administrators said the course demonstrates the tremendous potential for using web-based technology as a teaching tool.
 </p>

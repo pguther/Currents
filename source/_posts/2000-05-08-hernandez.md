@@ -9,7 +9,7 @@ images:
     caption: "Francisco Hernandez Photo: Don Harris"
 ---
 
-[caption id="attachment_6806" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2000/05/hernandez_francisco.180.jpg"><img class="size-full wp-image-6806" src="http://localhost/mysite/wp-content/uploads/2000/05/hernandez_francisco.180.jpg" alt="Francisco Hernandez Photo: Don Harris" width="180" height="261" /></a>Francisco Hernandez Photo: Don Harris[/caption]
+[caption id="attachment_6806" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2000/05/hernandez_francisco.180.jpg"><img class="size-full wp-image-6806" src="http://localhost/mysite/wp-content/uploads/2000/05/hernandez_francisco.180.jpg" alt="Francisco Hernandez Photo: Don Harris" width="180" height="261" /></a>Francisco Hernandez Photo: Don Harris[/caption]
 <p>
   Francisco J. Hernandez, vice chancellor of student affairs at UC Santa Cruz, has been named by Governor Gray Davis to the Western Interstate Commission for Higher Education (WICHE).
 </p><br>

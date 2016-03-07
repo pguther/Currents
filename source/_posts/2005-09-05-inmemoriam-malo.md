@@ -9,7 +9,7 @@ images:
     caption: "Brian Malo in a light moment at work Photo: Katie Savacool"
 ---
 
-[caption id="attachment_5340" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/malo_brian.05-08-22.jpg"><img class="size-full wp-image-5340" src="http://localhost/mysite/wp-content/uploads/2005/09/malo_brian.05-08-22.jpg" alt="Brian Malo in a light moment at work Photo: Katie Savacool" width="170" height="201" /></a>Brian Malo in a light moment at work Photo: Katie Savacool[/caption]
+[caption id="attachment_5340" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/malo_brian.05-08-22.jpg"><img class="size-full wp-image-5340" src="http://localhost/mysite/wp-content/uploads/2005/09/malo_brian.05-08-22.jpg" alt="Brian Malo in a light moment at work Photo: Katie Savacool" width="170" height="201" /></a>Brian Malo in a light moment at work Photo: Katie Savacool[/caption]
 <a name="content" id="content"></a>
 <p>
   Brian Malo, a reprographic technician at XpressIt! - Digital Copy Services died July 31 at his home in Capitola after fighting cancer for more than two years. He was 53 years old.

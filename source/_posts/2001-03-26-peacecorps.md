@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_227" align="alignnone" width="143"]<a href="http://localhost/mysite/wp-content/uploads/2001/03/newlogo.01-03-19.160.jpg"><img class="size-full wp-image-227" src="http://localhost/mysite/wp-content/uploads/2001/03/newlogo.01-03-19.160.jpg" alt="" width="143" height="85" /></a>[/caption]
+[caption id="attachment_227" align="alignright" width="143"]<a href="http://localhost/mysite/wp-content/uploads/2001/03/newlogo.01-03-19.160.jpg"><img class="size-full wp-image-227" src="http://localhost/mysite/wp-content/uploads/2001/03/newlogo.01-03-19.160.jpg" alt="" width="143" height="85" /></a>[/caption]
 <p>
   UC Santa Cruz ranks eighth in the nation in the number of its graduates now serving overseas as Peace Corps volunteers. With 60 graduates now in the Peace Corps, UCSC's ranking climbed from eleventh highest in 2000.<br>
   <br>

@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2712" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/rat.04-04-19.180.jpg"><img class="size-full wp-image-2712" src="http://localhost/mysite/wp-content/uploads/2004/04/rat.04-04-19.180.jpg" alt="" width="240" height="194" /></a>[/caption]
+[caption id="attachment_2712" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/rat.04-04-19.180.jpg"><img class="size-full wp-image-2712" src="http://localhost/mysite/wp-content/uploads/2004/04/rat.04-04-19.180.jpg" alt="" width="240" height="194" /></a>[/caption]
 <p>
   UCSC Center for Biomolecular Science &amp; Engineering
 </p>

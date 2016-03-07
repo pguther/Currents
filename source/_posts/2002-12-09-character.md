@@ -9,7 +9,7 @@ images:
     caption: "John M. Doris's book looks at a range of issues in ethics, culture, and moral psychology."
 ---
 
-[caption id="attachment_2401" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/12/doris_book.02-12-09.224.jpg"><img class="size-full wp-image-2401" src="http://localhost/mysite/wp-content/uploads/2002/12/doris_book.02-12-09.224.jpg" alt="John M. Doris's book looks at a range of issues in ethics, culture, and moral psychology." width="224" height="337" /></a>John M. Doris's book looks at a range of issues in ethics, culture, and moral psychology.[/caption]
+[caption id="attachment_2401" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/12/doris_book.02-12-09.224.jpg"><img class="size-full wp-image-2401" src="http://localhost/mysite/wp-content/uploads/2002/12/doris_book.02-12-09.224.jpg" alt="John M. Doris's book looks at a range of issues in ethics, culture, and moral psychology." width="224" height="337" /></a>John M. Doris's book looks at a range of issues in ethics, culture, and moral psychology.[/caption]
 <p>
   Does the issue of character matter? Should it influence which political candidate we vote for, whom we hire, or what we teach our children in school?
 </p>

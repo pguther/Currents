@@ -9,7 +9,7 @@ images:
     caption: "Piero Madau"
 ---
 
-[caption id="attachment_3473" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/madau_piero.120.jpg"><img class="size-full wp-image-3473" src="http://localhost/mysite/wp-content/uploads/2005/02/madau_piero.120.jpg" alt="Piero Madau" width="120" height="160" /></a>Piero Madau[/caption]
+[caption id="attachment_3473" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/madau_piero.120.jpg"><img class="size-full wp-image-3473" src="http://localhost/mysite/wp-content/uploads/2005/02/madau_piero.120.jpg" alt="Piero Madau" width="120" height="160" /></a>Piero Madau[/caption]
 <a name="content" id="content"></a>
 <p>
   The Alexander von Humboldt Foundation of Germany has selected Piero Madau, professor of astronomy and astrophysics, to receive a prestigious Humboldt Research Award. The Humboldt Research Awards are given to internationally recognized scholars outside Germany in honor of their lifetime achievements in research. Award winners are invited to carry out research projects of their own choice with colleagues at German research institutions.

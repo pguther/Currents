@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5566" align="alignnone" width="205"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg"><img class="size-full wp-image-5566" src="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg" alt="" width="205" height="115" /></a>[/caption]
+[caption id="attachment_5566" align="alignright" width="205"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg"><img class="size-full wp-image-5566" src="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg" alt="" width="205" height="115" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Some seats are still available for Chancellor Denice D. Denton's investiture November 4 and the academic symposium November 3-4, "Achieving Excellence Through Diversity." Event organizers, however, are encouraging those who wish to attend either or both of the events to register online soon.

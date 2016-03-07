@@ -9,7 +9,7 @@ images:
     caption: "Every day is different for UCSC firefighters (related story)"
 ---
 
-[caption id="attachment_747" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2000/11/fire_dept.00-11-20.jpg"><img class="size-full wp-image-747" src="http://localhost/mysite/wp-content/uploads/2000/11/fire_dept.00-11-20.jpg" alt="Every day is different for UCSC firefighters (related story)" width="200" height="154" /></a>Every day is different for UCSC firefighters (related story)[/caption]
+[caption id="attachment_747" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2000/11/fire_dept.00-11-20.jpg"><img class="size-full wp-image-747" src="http://localhost/mysite/wp-content/uploads/2000/11/fire_dept.00-11-20.jpg" alt="Every day is different for UCSC firefighters (related story)" width="200" height="154" /></a>Every day is different for UCSC firefighters (related story)[/caption]
 <p>
   Todd Meyer has wanted to be a firefighter as long as he can remember. Now, the burly 30-year-old from Bonny Doon can claim his own bunk at UCSC's Fire Station.
 </p>Meyer is one of four new members of UCSC's 13-member team, which is growing as the campus grows."We're elated," said Fire Chief Charles Hernandez. "These positions have been part of my business plan for five years, so it's great to have them on board."<br>

@@ -9,7 +9,7 @@ images:
     caption: "Marc Mangel"
 ---
 
-[caption id="attachment_2673" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/mangel_mark.160.jpg"><img class="size-full wp-image-2673" src="http://localhost/mysite/wp-content/uploads/2004/04/mangel_mark.160.jpg" alt="Marc Mangel" width="160" height="236" /></a>Marc Mangel[/caption]
+[caption id="attachment_2673" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/mangel_mark.160.jpg"><img class="size-full wp-image-2673" src="http://localhost/mysite/wp-content/uploads/2004/04/mangel_mark.160.jpg" alt="Marc Mangel" width="160" height="236" /></a>Marc Mangel[/caption]
 <p class="pagehead">
   Appointments
 </p>

@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2282" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/ntc.02-10-14.gif"><img class="size-full wp-image-2282" src="http://localhost/mysite/wp-content/uploads/2002/10/ntc.02-10-14.gif" alt="" width="170" height="83" /></a>[/caption]
+[caption id="attachment_2282" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/ntc.02-10-14.gif"><img class="size-full wp-image-2282" src="http://localhost/mysite/wp-content/uploads/2002/10/ntc.02-10-14.gif" alt="" width="170" height="83" /></a>[/caption]
 <p>
   The New Teacher Center at UCSC, in collaboration with the National Science Teachers Association (NSTA) and Montana State University, has been awarded a five-year, $7.5 million grant by the National Science Foundation to develop and implement an online mentoring program for beginning science teachers.
 </p>

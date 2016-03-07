@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5326" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/garden.180.jpg"><img class="size-full wp-image-5326" src="http://localhost/mysite/wp-content/uploads/2005/09/garden.180.jpg" alt="" width="180" height="135" /></a>[/caption]
+[caption id="attachment_5326" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/garden.180.jpg"><img class="size-full wp-image-5326" src="http://localhost/mysite/wp-content/uploads/2005/09/garden.180.jpg" alt="" width="180" height="135" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   With the warmest weather of the year now arriving, this is the perfect time to start thinking about how to extend your vegetable garden into the fall and winter and get landscape plants established for next spring's blossoms.

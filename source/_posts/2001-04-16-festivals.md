@@ -9,7 +9,7 @@ images:
     caption: "Dance, food, and music will be some of the areas showcased at UCSC's spring festivals."
 ---
 
-[caption id="attachment_280" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/multicultural.01-04-16.180.jpg"><img class="size-full wp-image-280" src="http://localhost/mysite/wp-content/uploads/2001/04/multicultural.01-04-16.180.jpg" alt="Dance, food, and music will be some of the areas showcased at UCSC's spring festivals." width="180" height="277" /></a>Dance, food, and music will be some of the areas showcased at UCSC's spring festivals.[/caption]
+[caption id="attachment_280" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/multicultural.01-04-16.180.jpg"><img class="size-full wp-image-280" src="http://localhost/mysite/wp-content/uploads/2001/04/multicultural.01-04-16.180.jpg" alt="Dance, food, and music will be some of the areas showcased at UCSC's spring festivals." width="180" height="277" /></a>Dance, food, and music will be some of the areas showcased at UCSC's spring festivals.[/caption]
 <p>
   For those in the Santa Cruz community who want to experience a variety of different cultures, spring at UCSC is the time and place to do it.<br>
   <br>

@@ -9,7 +9,7 @@ images:
     caption: "Chad Sanger, right, receiving the Mayor's Proclamation at a gay pride celebration in May."
 ---
 
-[caption id="attachment_742" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2000/11/sanger.180.jpg"><img class="size-full wp-image-742" src="http://localhost/mysite/wp-content/uploads/2000/11/sanger.180.jpg" alt="Chad Sanger, right, receiving the Mayor's Proclamation at a gay pride celebration in May." width="180" height="131" /></a>Chad Sanger, right, receiving the Mayor's Proclamation at a gay pride celebration in May.[/caption]
+[caption id="attachment_742" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2000/11/sanger.180.jpg"><img class="size-full wp-image-742" src="http://localhost/mysite/wp-content/uploads/2000/11/sanger.180.jpg" alt="Chad Sanger, right, receiving the Mayor's Proclamation at a gay pride celebration in May." width="180" height="131" /></a>Chad Sanger, right, receiving the Mayor's Proclamation at a gay pride celebration in May.[/caption]
 <h4>
   <font color="#003399">W. Jackson Davis<img align="right" border="0" height="155" src="../art/davis_wj.gif" width="105" alt=""></font>
 </h4>

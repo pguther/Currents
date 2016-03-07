@@ -9,7 +9,7 @@ images:
     caption: "Yolanda King's many film and television roles include portrayals of Rosa Parks and Betty Shabazz, wife of Malcolm X."
 ---
 
-[caption id="attachment_2436" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/01/king_yolanda.04-01-05.180.jpg"><img class="size-full wp-image-2436" src="http://localhost/mysite/wp-content/uploads/2004/01/king_yolanda.04-01-05.180.jpg" alt="Yolanda King's many film and television roles include portrayals of Rosa Parks and Betty Shabazz, wife of Malcolm X." width="180" height="264" /></a>Yolanda King's many film and television roles include portrayals of Rosa Parks and Betty Shabazz, wife of Malcolm X.[/caption]
+[caption id="attachment_2436" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/01/king_yolanda.04-01-05.180.jpg"><img class="size-full wp-image-2436" src="http://localhost/mysite/wp-content/uploads/2004/01/king_yolanda.04-01-05.180.jpg" alt="Yolanda King's many film and television roles include portrayals of Rosa Parks and Betty Shabazz, wife of Malcolm X." width="180" height="264" /></a>Yolanda King's many film and television roles include portrayals of Rosa Parks and Betty Shabazz, wife of Malcolm X.[/caption]
 <p>
   Actress and producer Yolanda King, eldest child of Martin Luther King, will speak January 20 at UCSC's annual convocation honoring her father's memory.
 </p>

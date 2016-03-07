@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5537" align="alignnone" width="205"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg"><img class="size-full wp-image-5537" src="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg" alt="" width="205" height="115" /></a>[/caption]
+[caption id="attachment_5537" align="alignright" width="205"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg"><img class="size-full wp-image-5537" src="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg" alt="" width="205" height="115" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Reservations are going fast, but seats are still available for Chancellor Denton's investiture on Friday, November 4, and for a two-day academic symposium that week on "Achieving Excellence Through Diversity."

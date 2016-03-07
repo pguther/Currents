@@ -9,7 +9,7 @@ images:
     caption: "Cormac Flanagan"
 ---
 
-[caption id="attachment_3567" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/flanagan_cormac.160.gif"><img class="size-full wp-image-3567" src="http://localhost/mysite/wp-content/uploads/2005/03/flanagan_cormac.160.gif" alt="Cormac Flanagan" width="160" height="210" /></a>Cormac Flanagan[/caption]
+[caption id="attachment_3567" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/flanagan_cormac.160.gif"><img class="size-full wp-image-3567" src="http://localhost/mysite/wp-content/uploads/2005/03/flanagan_cormac.160.gif" alt="Cormac Flanagan" width="160" height="210" /></a>Cormac Flanagan[/caption]
 <a name="content" id="content"></a>
 <p>
   The Alfred P. Sloan Foundation has awarded a Sloan Research Fellowship in computer science to Cormac Flanagan, assistant professor of computer science at UCSC.

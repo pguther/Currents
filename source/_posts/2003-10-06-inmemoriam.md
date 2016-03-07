@@ -9,7 +9,7 @@ images:
     caption: "Mark Christensen"
 ---
 
-[caption id="attachment_3075" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2003/10/christensen_mark.150.jpg"><img class="size-full wp-image-3075" src="http://localhost/mysite/wp-content/uploads/2003/10/christensen_mark.150.jpg" alt="Mark Christensen" width="150" height="218" /></a>Mark Christensen[/caption]
+[caption id="attachment_3075" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2003/10/christensen_mark.150.jpg"><img class="size-full wp-image-3075" src="http://localhost/mysite/wp-content/uploads/2003/10/christensen_mark.150.jpg" alt="Mark Christensen" width="150" height="218" /></a>Mark Christensen[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

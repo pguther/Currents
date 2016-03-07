@@ -12,8 +12,8 @@ images:
     caption: "Glenn Stewart received this thank-you after visiting a local school."
 ---
 
-[caption id="attachment_4221" align="alignnone" width="341"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/stewart2.04-10-11.341.jpg"><img class="size-full wp-image-4221" src="http://localhost/mysite/wp-content/uploads/2004/10/stewart2.04-10-11.341.jpg" alt="Glenn Stewart with his falcon, Sophie. Photo: Jim Mackenzie" width="341" height="248" /></a>Glenn Stewart with his falcon, Sophie. Photo: Jim Mackenzie[/caption]
-[caption id="attachment_4222" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/drawing.04-10-11.jpg"><img class="size-full wp-image-4222" src="http://localhost/mysite/wp-content/uploads/2004/10/drawing.04-10-11.jpg" alt="Glenn Stewart received this thank-you after visiting a local school." width="200" height="137" /></a>Glenn Stewart received this thank-you after visiting a local school.[/caption]
+[caption id="attachment_4221" align="alignright" width="341"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/stewart2.04-10-11.341.jpg"><img class="size-full wp-image-4221" src="http://localhost/mysite/wp-content/uploads/2004/10/stewart2.04-10-11.341.jpg" alt="Glenn Stewart with his falcon, Sophie. Photo: Jim Mackenzie" width="341" height="248" /></a>Glenn Stewart with his falcon, Sophie. Photo: Jim Mackenzie[/caption]
+[caption id="attachment_4222" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/drawing.04-10-11.jpg"><img class="size-full wp-image-4222" src="http://localhost/mysite/wp-content/uploads/2004/10/drawing.04-10-11.jpg" alt="Glenn Stewart received this thank-you after visiting a local school." width="200" height="137" /></a>Glenn Stewart received this thank-you after visiting a local school.[/caption]
 <a name="content" id="content"></a>
 <p>
   Talk about a tough act to follow. What do you do after you've helped bring the world's fastest bird back from the brink of extinction and reintroduced the bald eagle to Big Sur?

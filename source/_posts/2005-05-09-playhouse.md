@@ -9,7 +9,7 @@ images:
     caption: "El Retabillo de Don Cristobal (Don Cristobal's Puppet Stage), is one of the productions."
 ---
 
-[caption id="attachment_3782" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/puppet.05-05-09.jpg"><img class="size-full wp-image-3782" src="http://localhost/mysite/wp-content/uploads/2005/05/puppet.05-05-09.jpg" alt="El Retabillo de Don Cristobal (Don Cristobal's Puppet Stage), is one of the productions." width="200" height="256" /></a>El Retabillo de Don Cristobal (Don Cristobal's Puppet Stage), is one of the productions.[/caption]
+[caption id="attachment_3782" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/puppet.05-05-09.jpg"><img class="size-full wp-image-3782" src="http://localhost/mysite/wp-content/uploads/2005/05/puppet.05-05-09.jpg" alt="El Retabillo de Don Cristobal (Don Cristobal's Puppet Stage), is one of the productions." width="200" height="256" /></a>El Retabillo de Don Cristobal (Don Cristobal's Puppet Stage), is one of the productions.[/caption]
 <a name="content" id="content"></a>
 <p>
   Catching a movie or play in another language isn't that unusual, but how about five productions and five different languages on the same night?

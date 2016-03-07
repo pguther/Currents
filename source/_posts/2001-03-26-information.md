@@ -9,7 +9,7 @@ images:
     caption: "Touch the Sweet Earth is one of singer Sharon Burch's CDs. She and fellow Native American folksinger ElizaBeth Hill will perform as part of Native American College Information Day."
 ---
 
-[caption id="attachment_220" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/03/burch.01-03-26.224.jpg"><img class="size-full wp-image-220" src="http://localhost/mysite/wp-content/uploads/2001/03/burch.01-03-26.224.jpg" alt="Touch the Sweet Earth is one of singer Sharon Burch's CDs. She and fellow Native American folksinger ElizaBeth Hill will perform as part of Native American College Information Day." width="224" height="219" /></a>Touch the Sweet Earth is one of singer Sharon Burch's CDs. She and fellow Native American folksinger ElizaBeth Hill will perform as part of Native American College Information Day.[/caption]
+[caption id="attachment_220" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/03/burch.01-03-26.224.jpg"><img class="size-full wp-image-220" src="http://localhost/mysite/wp-content/uploads/2001/03/burch.01-03-26.224.jpg" alt="Touch the Sweet Earth is one of singer Sharon Burch's CDs. She and fellow Native American folksinger ElizaBeth Hill will perform as part of Native American College Information Day." width="224" height="219" /></a>Touch the Sweet Earth is one of singer Sharon Burch's CDs. She and fellow Native American folksinger ElizaBeth Hill will perform as part of Native American College Information Day.[/caption]
 <p>
   <br>
 </p>

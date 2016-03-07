@@ -9,7 +9,7 @@ images:
     caption: "Troy Duster"
 ---
 
-[caption id="attachment_5893" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/duster_troy.150.jpg"><img class="size-full wp-image-5893" src="http://localhost/mysite/wp-content/uploads/2007/02/duster_troy.150.jpg" alt="Troy Duster" width="150" height="205" /></a>Troy Duster[/caption]
+[caption id="attachment_5893" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/duster_troy.150.jpg"><img class="size-full wp-image-5893" src="http://localhost/mysite/wp-content/uploads/2007/02/duster_troy.150.jpg" alt="Troy Duster" width="150" height="205" /></a>Troy Duster[/caption]
 <a name="content" id="content"></a>
 <p>
   Troy Duster, one of the nation's most prominent sociologists, with research interests in the sociology of science, public policy, race and ethnicity and deviance, will speak February 22 as part of Crown College's 40th anniversary celebration.

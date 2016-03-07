@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5676" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/ost_bookcover.200.jpg"><img class="size-full wp-image-5676" src="http://localhost/mysite/wp-content/uploads/2005/11/ost_bookcover.200.jpg" alt="" width="200" height="253" /></a>[/caption]
+[caption id="attachment_5676" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/ost_bookcover.200.jpg"><img class="size-full wp-image-5676" src="http://localhost/mysite/wp-content/uploads/2005/11/ost_bookcover.200.jpg" alt="" width="200" height="253" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Donald Osterbrock, professor emeritus of astronomy and astrophysics, has produced a completely revised edition of his classic book <i>Astrophysics of Gaseous Nebulae and Active Galactic Nuclei</i>. Osterbrock collaborated with Gary Ferland of the University of Kentucky to update the book, which has been a standard reference book for astrophysicists for more than 30 years.

@@ -9,7 +9,7 @@ images:
     caption: "Catherine Soehner"
 ---
 
-[caption id="attachment_5324" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/soehner_catherine.120.jpg"><img class="size-full wp-image-5324" src="http://localhost/mysite/wp-content/uploads/2005/09/soehner_catherine.120.jpg" alt="Catherine Soehner" width="120" height="126" /></a>Catherine Soehner[/caption]
+[caption id="attachment_5324" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/soehner_catherine.120.jpg"><img class="size-full wp-image-5324" src="http://localhost/mysite/wp-content/uploads/2005/09/soehner_catherine.120.jpg" alt="Catherine Soehner" width="120" height="126" /></a>Catherine Soehner[/caption]
 <a name="content" id="content"></a>
 <p>
   Catherine Soehner, head of the Science &amp; Engineering Library, has been elected vice-chair/chair-elect of the Science and Technology Section (STS) of the Association of College and Research Libraries. STS is the foremost professional association for academic science librarians.

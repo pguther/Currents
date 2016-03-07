@@ -9,7 +9,7 @@ images:
     caption: "Policies that expand minority opportunities lead to reduced prejudice, Thomas Pettigrew found. Photo: Gary Parker"
 ---
 
-[caption id="attachment_1782" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/03/diversity.03-03-10.224.jpg"><img class="size-full wp-image-1782" src="http://localhost/mysite/wp-content/uploads/2003/03/diversity.03-03-10.224.jpg" alt="Policies that expand minority opportunities lead to reduced prejudice, Thomas Pettigrew found. Photo: Gary Parker" width="224" height="161" /></a>Policies that expand minority opportunities lead to reduced prejudice, Thomas Pettigrew found. Photo: Gary Parker[/caption]
+[caption id="attachment_1782" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/03/diversity.03-03-10.224.jpg"><img class="size-full wp-image-1782" src="http://localhost/mysite/wp-content/uploads/2003/03/diversity.03-03-10.224.jpg" alt="Policies that expand minority opportunities lead to reduced prejudice, Thomas Pettigrew found. Photo: Gary Parker" width="224" height="161" /></a>Policies that expand minority opportunities lead to reduced prejudice, Thomas Pettigrew found. Photo: Gary Parker[/caption]
 <p>
   As the U.S. Supreme Court prepares to hear arguments next month in the strongest challenge to affirmative action in decades, UCSC's Thomas Pettigrew has compiled powerful evidence of the value of policies that encourage diversity.
 </p>

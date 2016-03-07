@@ -9,7 +9,7 @@ images:
     caption: "Tish Hinojosa"
 ---
 
-[caption id="attachment_6088" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/hinojosa_tish2.200.jpg"><img class="size-full wp-image-6088" src="http://localhost/mysite/wp-content/uploads/2006/07/hinojosa_tish2.200.jpg" alt="Tish Hinojosa" width="200" height="299" /></a>Tish Hinojosa[/caption]
+[caption id="attachment_6088" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/hinojosa_tish2.200.jpg"><img class="size-full wp-image-6088" src="http://localhost/mysite/wp-content/uploads/2006/07/hinojosa_tish2.200.jpg" alt="Tish Hinojosa" width="200" height="299" /></a>Tish Hinojosa[/caption]
 <a name="content" id="content"></a>
 <p>
   The Tish Hinojosa Trio will perform on the Amphitheater Stage at the Arboretum on Thursday, July 20. Doors open at 5:30 p.m. and the show begins at 6:30 p.m. The concert is the third in the Arboretum's <a href="http://arboretum.ucsc.edu/music/">Third Thursday Music Series</a>.

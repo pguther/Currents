@@ -9,7 +9,7 @@ images:
     caption: "Concentric, 2004, by Daniel Goldstein, anodized aluminum, Sallie Mae Headquarters, Reston, Va."
 ---
 
-[caption id="attachment_3426" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/goldstein_art.200.jpg"><img class="size-full wp-image-3426" src="http://localhost/mysite/wp-content/uploads/2005/02/goldstein_art.200.jpg" alt="Concentric, 2004, by Daniel Goldstein, anodized aluminum, Sallie Mae Headquarters, Reston, Va." width="200" height="149" /></a>Concentric, 2004, by Daniel Goldstein, anodized aluminum, Sallie Mae Headquarters, Reston, Va.[/caption]
+[caption id="attachment_3426" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/goldstein_art.200.jpg"><img class="size-full wp-image-3426" src="http://localhost/mysite/wp-content/uploads/2005/02/goldstein_art.200.jpg" alt="Concentric, 2004, by Daniel Goldstein, anodized aluminum, Sallie Mae Headquarters, Reston, Va." width="200" height="149" /></a>Concentric, 2004, by Daniel Goldstein, anodized aluminum, Sallie Mae Headquarters, Reston, Va.[/caption]
 <a name="content" id="content"></a>
 <p>
   The Sesnon Art Gallery presents a lecture by artist and UCSC alumnus Daniel Goldstein on Wednesday, February 16, at 5:30 p.m. in the Porter College Faculty Gallery. The talk, titled "Site Specific Installations and Visual Aid," is free and open to the public.

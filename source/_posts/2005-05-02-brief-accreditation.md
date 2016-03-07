@@ -9,7 +9,7 @@ images:
     caption: "Associate Vice Chancellor Jean Marie Scott kicked off a new Guest Reader Program at the Granary."
 ---
 
-[caption id="attachment_3729" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/scott_jean_marie.200.jpg"><img class="size-full wp-image-3729" src="http://localhost/mysite/wp-content/uploads/2005/05/scott_jean_marie.200.jpg" alt="Associate Vice Chancellor Jean Marie Scott kicked off a new Guest Reader Program at the Granary." width="200" height="165" /></a>Associate Vice Chancellor Jean Marie Scott kicked off a new Guest Reader Program at the Granary.[/caption]
+[caption id="attachment_3729" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/scott_jean_marie.200.jpg"><img class="size-full wp-image-3729" src="http://localhost/mysite/wp-content/uploads/2005/05/scott_jean_marie.200.jpg" alt="Associate Vice Chancellor Jean Marie Scott kicked off a new Guest Reader Program at the Granary." width="200" height="165" /></a>Associate Vice Chancellor Jean Marie Scott kicked off a new Guest Reader Program at the Granary.[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC Child Care and Early Education Services (CCEES) has earned accreditation from the National Association for the Education of Young Children (NAEYC)--the nation's leading organization of early childhood professionals.

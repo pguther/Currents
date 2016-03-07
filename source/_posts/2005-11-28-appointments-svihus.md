@@ -9,7 +9,7 @@ images:
     caption: "Jennifer Svihus Photo: Louise Donahue"
 ---
 
-[caption id="attachment_5687" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/svihus_jennifer.180.jpg"><img class="size-full wp-image-5687" src="http://localhost/mysite/wp-content/uploads/2005/11/svihus_jennifer.180.jpg" alt="Jennifer Svihus Photo: Louise Donahue" width="180" height="209" /></a>Jennifer Svihus Photo: Louise Donahue[/caption]
+[caption id="attachment_5687" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/svihus_jennifer.180.jpg"><img class="size-full wp-image-5687" src="http://localhost/mysite/wp-content/uploads/2005/11/svihus_jennifer.180.jpg" alt="Jennifer Svihus Photo: Louise Donahue" width="180" height="209" /></a>Jennifer Svihus Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   Jennifer Svihus, a former development officer at UC San Diego, has been named associate vice chancellor for development at UC Santa Cruz.

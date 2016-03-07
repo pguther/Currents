@@ -9,7 +9,7 @@ images:
     caption: "UCSC alumnus Stephen Mirrione, shown in 2001 with the film editing Oscar he won for his work on Steven Soderbergh's thriller Traffic."
 ---
 
-[caption id="attachment_5927" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/mirrione.steve.jpg"><img class="size-full wp-image-5927" src="http://localhost/mysite/wp-content/uploads/2007/02/mirrione.steve.jpg" alt="UCSC alumnus Stephen Mirrione, shown in 2001 with the film editing Oscar he won for his work on Steven Soderbergh's thriller Traffic." width="180" height="228" /></a>UCSC alumnus Stephen Mirrione, shown in 2001 with the film editing Oscar he won for his work on Steven Soderbergh's thriller Traffic.[/caption]
+[caption id="attachment_5927" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/mirrione.steve.jpg"><img class="size-full wp-image-5927" src="http://localhost/mysite/wp-content/uploads/2007/02/mirrione.steve.jpg" alt="UCSC alumnus Stephen Mirrione, shown in 2001 with the film editing Oscar he won for his work on Steven Soderbergh's thriller Traffic." width="180" height="228" /></a>UCSC alumnus Stephen Mirrione, shown in 2001 with the film editing Oscar he won for his work on Steven Soderbergh's thriller Traffic.[/caption]
 <a name="content" id="content"></a>
 <p>
   Two UCSC alums will compete for Oscars at the 79th annual Academy Awards ceremony on Sunday, February 25.

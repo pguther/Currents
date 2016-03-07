@@ -9,7 +9,7 @@ images:
     caption: "William Ladusaw"
 ---
 
-[caption id="attachment_2838" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/ladusaw_william.bw.140.jpg"><img class="size-full wp-image-2838" src="http://localhost/mysite/wp-content/uploads/2004/06/ladusaw_william.bw.140.jpg" alt="William Ladusaw" width="140" height="200" /></a>William Ladusaw[/caption]
+[caption id="attachment_2838" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/06/ladusaw_william.bw.140.jpg"><img class="size-full wp-image-2838" src="http://localhost/mysite/wp-content/uploads/2004/06/ladusaw_william.bw.140.jpg" alt="William Ladusaw" width="140" height="200" /></a>William Ladusaw[/caption]
 <p class="pagehead">
   Appointments
 </p>

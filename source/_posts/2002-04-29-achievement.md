@@ -9,7 +9,7 @@ images:
     caption: "Katrina Knutzen, an Irwin Scholarship Award winner, with some of her works."
 ---
 
-[caption id="attachment_1101" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/awards.02-04-29.224.jpg"><img class="size-full wp-image-1101" src="http://localhost/mysite/wp-content/uploads/2002/04/awards.02-04-29.224.jpg" alt="Katrina Knutzen, an Irwin Scholarship Award winner, with some of her works." width="224" height="178" /></a>Katrina Knutzen, an Irwin Scholarship Award winner, with some of her works.[/caption]
+[caption id="attachment_1101" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/04/awards.02-04-29.224.jpg"><img class="size-full wp-image-1101" src="http://localhost/mysite/wp-content/uploads/2002/04/awards.02-04-29.224.jpg" alt="Katrina Knutzen, an Irwin Scholarship Award winner, with some of her works." width="224" height="178" /></a>Katrina Knutzen, an Irwin Scholarship Award winner, with some of her works.[/caption]
 <p>
   Hundreds of UCSC students will be honored for their outstanding research and academic achievement during the campus's annual Student Achievement Week, which takes place May 27 through June 1.
 </p>"UCSC is known for having a faculty committed to working with undergraduates," said Lynda Goff, vice provost and dean of undergraduate education and a professor of biology.

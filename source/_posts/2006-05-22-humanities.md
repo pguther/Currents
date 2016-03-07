@@ -9,7 +9,7 @@ images:
     caption: "Georges Van Den Abeele Photo courtesy of UC Davis"
 ---
 
-[caption id="attachment_5055" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/abbeele1.06-05-22.jpg"><img class="size-full wp-image-5055" src="http://localhost/mysite/wp-content/uploads/2006/05/abbeele1.06-05-22.jpg" alt="Georges Van Den Abeele Photo courtesy of UC Davis" width="150" height="189" /></a>Georges Van Den Abeele Photo courtesy of UC Davis[/caption]
+[caption id="attachment_5055" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/abbeele1.06-05-22.jpg"><img class="size-full wp-image-5055" src="http://localhost/mysite/wp-content/uploads/2006/05/abbeele1.06-05-22.jpg" alt="Georges Van Den Abeele Photo courtesy of UC Davis" width="150" height="189" /></a>Georges Van Den Abeele Photo courtesy of UC Davis[/caption]
 <a name="content" id="content"></a>
 <p>
   Georges Van Den Abbeele, a scholar of French literature and philosophy with a wide expertise in public humanities programs and education, has been named the new dean of the UCSC Humanities Division, effective July 1.

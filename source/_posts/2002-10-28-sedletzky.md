@@ -9,7 +9,7 @@ images:
     caption: "One of Marcel Sedletzky's designs was the Jackson House in Carmel, built in 1962. Photo: Courtesy Sedletzky Archives, Special Collections, UCSC Library"
 ---
 
-[caption id="attachment_2317" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/sedletzky.02-10-28.224.jpg"><img class="size-full wp-image-2317" src="http://localhost/mysite/wp-content/uploads/2002/10/sedletzky.02-10-28.224.jpg" alt="One of Marcel Sedletzky's designs was the Jackson House in Carmel, built in 1962. Photo: Courtesy Sedletzky Archives, Special Collections, UCSC Library" width="224" height="157" /></a>One of Marcel Sedletzky's designs was the Jackson House in Carmel, built in 1962. Photo: Courtesy Sedletzky Archives, Special Collections, UCSC Library[/caption]
+[caption id="attachment_2317" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/sedletzky.02-10-28.224.jpg"><img class="size-full wp-image-2317" src="http://localhost/mysite/wp-content/uploads/2002/10/sedletzky.02-10-28.224.jpg" alt="One of Marcel Sedletzky's designs was the Jackson House in Carmel, built in 1962. Photo: Courtesy Sedletzky Archives, Special Collections, UCSC Library" width="224" height="157" /></a>One of Marcel Sedletzky's designs was the Jackson House in Carmel, built in 1962. Photo: Courtesy Sedletzky Archives, Special Collections, UCSC Library[/caption]
 <p>
   The first book on the life and work of Monterey Bay architect Marcel Sedletzky has been published by UCSC. <i>Marcel Sedletzky: Architect and Teacher</i> (Wild Coast Press, UC Santa Cruz Library, 2002) presents a personal view of a designer whose achievements went relatively unrecognized during his lifetime.<br>
   <br>

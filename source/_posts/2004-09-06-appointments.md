@@ -9,7 +9,7 @@ images:
     caption: "Stephen Thorsett"
 ---
 
-[caption id="attachment_4113" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2004/09/thorsett_stephen.120.jpg"><img class="size-full wp-image-4113" src="http://localhost/mysite/wp-content/uploads/2004/09/thorsett_stephen.120.jpg" alt="Stephen Thorsett" width="120" height="173" /></a>Stephen Thorsett[/caption]
+[caption id="attachment_4113" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2004/09/thorsett_stephen.120.jpg"><img class="size-full wp-image-4113" src="http://localhost/mysite/wp-content/uploads/2004/09/thorsett_stephen.120.jpg" alt="Stephen Thorsett" width="120" height="173" /></a>Stephen Thorsett[/caption]
 <p class="pagehead">
   Appointments
 </p>

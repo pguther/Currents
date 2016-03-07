@@ -9,7 +9,7 @@ images:
     caption: "Nancy Abrams and Joel Primack"
 ---
 
-[caption id="attachment_4979" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/primack_abrams.06-05-08.jpg"><img class="size-full wp-image-4979" src="http://localhost/mysite/wp-content/uploads/2006/05/primack_abrams.06-05-08.jpg" alt="Nancy Abrams and Joel Primack" width="230" height="174" /></a>Nancy Abrams and Joel Primack[/caption]
+[caption id="attachment_4979" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/primack_abrams.06-05-08.jpg"><img class="size-full wp-image-4979" src="http://localhost/mysite/wp-content/uploads/2006/05/primack_abrams.06-05-08.jpg" alt="Nancy Abrams and Joel Primack" width="230" height="174" /></a>Nancy Abrams and Joel Primack[/caption]
 <a name="content" id="content"></a>
 <p>
   In a repeat performance of their well-received Halliday Lecture in March, cosmologist Joel Primack and his wife, Nancy Abrams, will give a multimedia presentation of "The View from the Center of the Universe" on Tuesday, May 9.

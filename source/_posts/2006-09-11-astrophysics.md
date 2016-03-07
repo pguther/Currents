@@ -11,7 +11,7 @@ images:
     caption: "UCSC's Stan Woosley leads the Computational Astrophysics Consortium."
 ---
 
-[caption id="attachment_6211" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/woosley.06-09-11.jpg"><img class="size-full wp-image-6211" src="http://localhost/mysite/wp-content/uploads/2006/09/woosley.06-09-11.jpg" alt="UCSC's Stan Woosley leads the Computational Astrophysics Consortium." width="230" height="161" /></a>UCSC's Stan Woosley leads the Computational Astrophysics Consortium.[/caption]
+[caption id="attachment_6211" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/woosley.06-09-11.jpg"><img class="size-full wp-image-6211" src="http://localhost/mysite/wp-content/uploads/2006/09/woosley.06-09-11.jpg" alt="UCSC's Stan Woosley leads the Computational Astrophysics Consortium." width="230" height="161" /></a>UCSC's Stan Woosley leads the Computational Astrophysics Consortium.[/caption]
 <a name="content" id="content"></a>
 <p>
   The U.S. Department of Energy (DOE) has awarded a five-year, $9.5 million grant to researchers studying the astrophysics of supernovae and gamma-ray bursts. The Computational Astrophysics Consortium includes researchers at five universities and three national laboratories and is led by Stan Woosley, professor of astronomy and astrophysics at UCSC.

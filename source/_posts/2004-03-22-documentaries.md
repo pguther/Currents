@@ -12,8 +12,8 @@ images:
     caption: 
 ---
 
-[caption id="attachment_3265" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/tajima.04-03-22.180.jpg"><img class="size-full wp-image-3265" src="http://localhost/mysite/wp-content/uploads/2004/03/tajima.04-03-22.180.jpg" alt="" width="180" height="243" /></a>[/caption]
-[caption id="attachment_3264" align="alignnone" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/new_americans.04-03-22.250.jpg"><img class="size-full wp-image-3264" src="http://localhost/mysite/wp-content/uploads/2004/03/new_americans.04-03-22.250.jpg" alt="" width="250" height="181" /></a>[/caption]
+[caption id="attachment_3265" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/tajima.04-03-22.180.jpg"><img class="size-full wp-image-3265" src="http://localhost/mysite/wp-content/uploads/2004/03/tajima.04-03-22.180.jpg" alt="" width="180" height="243" /></a>[/caption]
+[caption id="attachment_3264" align="alignright" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/new_americans.04-03-22.250.jpg"><img class="size-full wp-image-3264" src="http://localhost/mysite/wp-content/uploads/2004/03/new_americans.04-03-22.250.jpg" alt="" width="250" height="181" /></a>[/caption]
 <p>
   Award-winning documentary filmmaker <a href="http://communitystudies.ucsc.edu/faculty/faculty.php?mode=focus&amp;id=12">Renee Tajima-Pena</a> won't be watching the Public Broadcasting Service (PBS) premiere of her <a href="http://www.pbs.org/previews/new_americans/">new film</a> later this month. She'll be teaching a class in Social Sciences 2 instead.
 </p>

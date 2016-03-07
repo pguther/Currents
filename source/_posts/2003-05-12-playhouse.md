@@ -9,7 +9,7 @@ images:
     caption: "A retelling of Little Red Riding Hood is one of the International Playhouse selections."
 ---
 
-[caption id="attachment_1931" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/05/riding.03-05-12.200.jpg"><img class="size-full wp-image-1931" src="http://localhost/mysite/wp-content/uploads/2003/05/riding.03-05-12.200.jpg" alt="A retelling of Little Red Riding Hood is one of the International Playhouse selections." width="224" height="288" /></a>A retelling of Little Red Riding Hood is one of the International Playhouse selections.[/caption]
+[caption id="attachment_1931" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/05/riding.03-05-12.200.jpg"><img class="size-full wp-image-1931" src="http://localhost/mysite/wp-content/uploads/2003/05/riding.03-05-12.200.jpg" alt="A retelling of Little Red Riding Hood is one of the International Playhouse selections." width="224" height="288" /></a>A retelling of Little Red Riding Hood is one of the International Playhouse selections.[/caption]
 <p>
   One of the highlights of the busy spring theater season at UCSC is the annual International Playhouse staging of short plays in their original languages--Chinese, French, German, Japanese, and Spanish.
 </p>

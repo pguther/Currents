@@ -9,7 +9,7 @@ images:
     caption: "Campers collect garden herbs for making sun tea. Photo courtesy of Life Lab"
 ---
 
-[caption id="attachment_5978" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/lifelab.340.jpg"><img class="size-full wp-image-5978" src="http://localhost/mysite/wp-content/uploads/2007/03/lifelab.340.jpg" alt="Campers collect garden herbs for making sun tea. Photo courtesy of Life Lab" width="340" height="218" /></a>Campers collect garden herbs for making sun tea. Photo courtesy of Life Lab[/caption]
+[caption id="attachment_5978" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/lifelab.340.jpg"><img class="size-full wp-image-5978" src="http://localhost/mysite/wp-content/uploads/2007/03/lifelab.340.jpg" alt="Campers collect garden herbs for making sun tea. Photo courtesy of Life Lab" width="340" height="218" /></a>Campers collect garden herbs for making sun tea. Photo courtesy of Life Lab[/caption]
 <a name="content" id="content"></a>
 <p>
   Children ages 7-11 are invited to spend spring break on the UCSC Farm, where the Life Lab Science Program offers a jam-packed week of fun activities, including gardening, cooking, and crafts.

@@ -9,7 +9,7 @@ images:
     caption: "Gopher rockfish are among the species studied by scientists at the Santa Cruz lab. Photo: Giacomo Bernardi"
 ---
 
-[caption id="attachment_4870" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/rockfish.06-04-17.jpg"><img class="size-full wp-image-4870" src="http://localhost/mysite/wp-content/uploads/2006/04/rockfish.06-04-17.jpg" alt="Gopher rockfish are among the species studied by scientists at the Santa Cruz lab. Photo: Giacomo Bernardi" width="224" height="153" /></a>Gopher rockfish are among the species studied by scientists at the Santa Cruz lab. Photo: Giacomo Bernardi[/caption]
+[caption id="attachment_4870" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/rockfish.06-04-17.jpg"><img class="size-full wp-image-4870" src="http://localhost/mysite/wp-content/uploads/2006/04/rockfish.06-04-17.jpg" alt="Gopher rockfish are among the species studied by scientists at the Santa Cruz lab. Photo: Giacomo Bernardi" width="224" height="153" /></a>Gopher rockfish are among the species studied by scientists at the Santa Cruz lab. Photo: Giacomo Bernardi[/caption]
 <a name="content" id="content"></a>
 <p>
   What is an otolith? How long do rockfish live? What affects salmon populations? The number of people who can answer these questions is about to increase dramatically, thanks to a new exhibit on fisheries research at the Seymour Marine Discovery Center.

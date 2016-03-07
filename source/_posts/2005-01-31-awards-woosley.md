@@ -9,7 +9,7 @@ images:
     caption: "Stan Woosley Photo: Tim Stephens"
 ---
 
-[caption id="attachment_3369" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/woosley_stan.120.jpg"><img class="size-full wp-image-3369" src="http://localhost/mysite/wp-content/uploads/2005/01/woosley_stan.120.jpg" alt="Stan Woosley Photo: Tim Stephens" width="120" height="155" /></a>Stan Woosley Photo: Tim Stephens[/caption]
+[caption id="attachment_3369" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/woosley_stan.120.jpg"><img class="size-full wp-image-3369" src="http://localhost/mysite/wp-content/uploads/2005/01/woosley_stan.120.jpg" alt="Stan Woosley Photo: Tim Stephens" width="120" height="155" /></a>Stan Woosley Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   Stan Woosley, professor of astronomy and astrophysics at UCSC, has won this year's Bruno Rossi Prize for his pioneering work on supernovae and gamma-ray bursts, the most violent explosions in the universe. The prize is awarded each year by the High Energy Astrophysics Division of the American Astronomical Society.

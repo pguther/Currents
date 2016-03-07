@@ -9,7 +9,7 @@ images:
     caption: "Lionel Cantu UCSC Photo Services"
 ---
 
-[caption id="attachment_1207" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/cantu_lionel.jpg"><img class="size-full wp-image-1207" src="http://localhost/mysite/wp-content/uploads/2002/05/cantu_lionel.jpg" alt="Lionel Cantu UCSC Photo Services" width="140" height="211" /></a>Lionel Cantu UCSC Photo Services[/caption]
+[caption id="attachment_1207" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/cantu_lionel.jpg"><img class="size-full wp-image-1207" src="http://localhost/mysite/wp-content/uploads/2002/05/cantu_lionel.jpg" alt="Lionel Cantu UCSC Photo Services" width="140" height="211" /></a>Lionel Cantu UCSC Photo Services[/caption]
 <h2>
   Campus grieves death of Lionel Cantu Jr., 36
 </h2>

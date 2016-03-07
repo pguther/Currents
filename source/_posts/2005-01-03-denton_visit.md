@@ -9,7 +9,7 @@ images:
     caption: "Chancellor Designate Denice Denton greeted members of the campus community at an informal reception outside the Media Theater. Photo: Victor Schiffrin/UCSC Photo Services"
 ---
 
-[caption id="attachment_3284" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/denton_visit1.05-01-03.220.jpg"><img class="size-full wp-image-3284" src="http://localhost/mysite/wp-content/uploads/2005/01/denton_visit1.05-01-03.220.jpg" alt="Chancellor Designate Denice Denton greeted members of the campus community at an informal reception outside the Media Theater. Photo: Victor Schiffrin/UCSC Photo Services" width="220" height="179" /></a>Chancellor Designate Denice Denton greeted members of the campus community at an informal reception outside the Media Theater. Photo: Victor Schiffrin/UCSC Photo Services[/caption]
+[caption id="attachment_3284" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/denton_visit1.05-01-03.220.jpg"><img class="size-full wp-image-3284" src="http://localhost/mysite/wp-content/uploads/2005/01/denton_visit1.05-01-03.220.jpg" alt="Chancellor Designate Denice Denton greeted members of the campus community at an informal reception outside the Media Theater. Photo: Victor Schiffrin/UCSC Photo Services" width="220" height="179" /></a>Chancellor Designate Denice Denton greeted members of the campus community at an informal reception outside the Media Theater. Photo: Victor Schiffrin/UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   A standing-room-only crowd turned out to greet Chancellor Designate Denice D. Denton during her first visit to campus after being approved by the UC Regents as UCSC's ninth leader.

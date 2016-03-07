@@ -9,7 +9,7 @@ images:
     caption: "The Landels-Hill Big Creek Reserve is one of two UC Natural Reserves in the Santa Lucia Mountains. Photo by: John Smiley"
 ---
 
-[caption id="attachment_1681" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/solstice_peak.03-02-03.224.jpg"><img class="size-full wp-image-1681" src="http://localhost/mysite/wp-content/uploads/2003/02/solstice_peak.03-02-03.224.jpg" alt="The Landels-Hill Big Creek Reserve is one of two UC Natural Reserves in the Santa Lucia Mountains. Photo by: John Smiley" width="220" height="165" /></a>The Landels-Hill Big Creek Reserve is one of two UC Natural Reserves in the Santa Lucia Mountains. Photo by: John Smiley[/caption]
+[caption id="attachment_1681" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/solstice_peak.03-02-03.224.jpg"><img class="size-full wp-image-1681" src="http://localhost/mysite/wp-content/uploads/2003/02/solstice_peak.03-02-03.224.jpg" alt="The Landels-Hill Big Creek Reserve is one of two UC Natural Reserves in the Santa Lucia Mountains. Photo by: John Smiley" width="220" height="165" /></a>The Landels-Hill Big Creek Reserve is one of two UC Natural Reserves in the Santa Lucia Mountains. Photo by: John Smiley[/caption]
 <p>
   The Santa Lucia Range, rising steeply from California's Big Sur coast, is one of the most environmentally complex and biologically rich areas of the state.
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "Alyssa Cardenas, left, and Feliz Guarino are all smiles before the Education Department's commencement ceremony. Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_2106" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/08/teacher_grads.02-08-05.224.jpg"><img class="size-full wp-image-2106" src="http://localhost/mysite/wp-content/uploads/2002/08/teacher_grads.02-08-05.224.jpg" alt="Alyssa Cardenas, left, and Feliz Guarino are all smiles before the Education Department's commencement ceremony. Photo: Jennifer McNulty" width="224" height="168" /></a>Alyssa Cardenas, left, and Feliz Guarino are all smiles before the Education Department's commencement ceremony. Photo: Jennifer McNulty[/caption]
+[caption id="attachment_2106" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/08/teacher_grads.02-08-05.224.jpg"><img class="size-full wp-image-2106" src="http://localhost/mysite/wp-content/uploads/2002/08/teacher_grads.02-08-05.224.jpg" alt="Alyssa Cardenas, left, and Feliz Guarino are all smiles before the Education Department's commencement ceremony. Photo: Jennifer McNulty" width="224" height="168" /></a>Alyssa Cardenas, left, and Feliz Guarino are all smiles before the Education Department's commencement ceremony. Photo: Jennifer McNulty[/caption]
 <p>
   After 15 months of hard work, students in UCSC's teacher education program gathered with friends and family on July 19 for the final rite of passage before they step to the front of their own classrooms this fall.
 </p>

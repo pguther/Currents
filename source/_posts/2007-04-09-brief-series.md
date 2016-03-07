@@ -9,7 +9,7 @@ images:
     caption: "Eun-Ah Kwak will perform on the 12-string Korean Gayageum (zither)."
 ---
 
-[caption id="attachment_6043" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/eun_ah_kwak.200.jpg"><img class="size-full wp-image-6043" src="http://localhost/mysite/wp-content/uploads/2007/04/eun_ah_kwak.200.jpg" alt="Eun-Ah Kwak will perform on the 12-string Korean Gayageum (zither)." width="200" height="212" /></a>Eun-Ah Kwak will perform on the 12-string Korean Gayageum (zither).[/caption]
+[caption id="attachment_6043" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/eun_ah_kwak.200.jpg"><img class="size-full wp-image-6043" src="http://localhost/mysite/wp-content/uploads/2007/04/eun_ah_kwak.200.jpg" alt="Eun-Ah Kwak will perform on the 12-string Korean Gayageum (zither)." width="200" height="212" /></a>Eun-Ah Kwak will perform on the 12-string Korean Gayageum (zither).[/caption]
 <a name="content" id="content"></a>
 <p>
   The UCSC Music Department presents its annual "April in Santa Cruz" festival of new music, a monthlong concert series that runs through April 29 at the Music Center Recital Hall.

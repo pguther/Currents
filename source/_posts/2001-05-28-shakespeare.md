@@ -9,7 +9,7 @@ images:
     caption: "Paul Whitworth played Kean in Jean-Paul Sartre's 'Kean' during the 2000 Festival Season. Photo: R. R. Jones"
 ---
 
-[caption id="attachment_407" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/shakespeare.01-05-28.224.jpg"><img class="size-full wp-image-407" src="http://localhost/mysite/wp-content/uploads/2001/05/shakespeare.01-05-28.224.jpg" alt="Paul Whitworth played Kean in Jean-Paul Sartre's 'Kean' during the 2000 Festival Season. Photo: R. R. Jones" width="224" height="294" /></a>Paul Whitworth played Kean in Jean-Paul Sartre's 'Kean' during the 2000 Festival Season. Photo: R. R. Jones[/caption]
+[caption id="attachment_407" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/shakespeare.01-05-28.224.jpg"><img class="size-full wp-image-407" src="http://localhost/mysite/wp-content/uploads/2001/05/shakespeare.01-05-28.224.jpg" alt="Paul Whitworth played Kean in Jean-Paul Sartre's 'Kean' during the 2000 Festival Season. Photo: R. R. Jones" width="224" height="294" /></a>Paul Whitworth played Kean in Jean-Paul Sartre's 'Kean' during the 2000 Festival Season. Photo: R. R. Jones[/caption]
 <p>
   May 28, 2001<br>
   <br>

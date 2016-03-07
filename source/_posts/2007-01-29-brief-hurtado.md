@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5853" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/hurtadobook.jpg"><img class="size-full wp-image-5853" src="http://localhost/mysite/wp-content/uploads/2007/01/hurtadobook.jpg" alt="" width="200" height="301" /></a>[/caption]
+[caption id="attachment_5853" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/hurtadobook.jpg"><img class="size-full wp-image-5853" src="http://localhost/mysite/wp-content/uploads/2007/01/hurtadobook.jpg" alt="" width="200" height="301" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Aida Hurtado will read from her new book, <i>Chicana/o Identity in a Changing U.S. Society,</i> (University of Arizona Press), at noon on Thursday, February 1, at the Bay Tree Bookstore.

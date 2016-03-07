@@ -9,7 +9,7 @@ images:
     caption: "Jeff Corwin stands atop Ms. Blue's skull during taping of an episode of Corwin's Quest in August 2004. Photo courtesy of the Seymour Center"
 ---
 
-[caption id="attachment_5465" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/whale.05-10-03.jpg"><img class="size-full wp-image-5465" src="http://localhost/mysite/wp-content/uploads/2005/10/whale.05-10-03.jpg" alt="Jeff Corwin stands atop Ms. Blue's skull during taping of an episode of Corwin's Quest in August 2004. Photo courtesy of the Seymour Center" width="230" height="132" /></a>Jeff Corwin stands atop Ms. Blue's skull during taping of an episode of Corwin's Quest in August 2004. Photo courtesy of the Seymour Center[/caption]
+[caption id="attachment_5465" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/whale.05-10-03.jpg"><img class="size-full wp-image-5465" src="http://localhost/mysite/wp-content/uploads/2005/10/whale.05-10-03.jpg" alt="Jeff Corwin stands atop Ms. Blue's skull during taping of an episode of Corwin's Quest in August 2004. Photo courtesy of the Seymour Center" width="230" height="132" /></a>Jeff Corwin stands atop Ms. Blue's skull during taping of an episode of Corwin's Quest in August 2004. Photo courtesy of the Seymour Center[/caption]
 <a name="content" id="content"></a><br>
 <p>
   Ms. Blue, the 87-foot blue whale skeleton on display at the Seymour Marine Discovery Center, will be featured next week in an episode of <i>Corwin's Quest</i> on Animal Planet TV.

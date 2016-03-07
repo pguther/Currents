@@ -9,7 +9,7 @@ images:
     caption: "Waters receding from the tsunami Photo courtesy of Digital Globe"
 ---
 
-[caption id="attachment_3318" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/tsunami.220.05-01-10.jpg"><img class="size-full wp-image-3318" src="http://localhost/mysite/wp-content/uploads/2005/01/tsunami.220.05-01-10.jpg" alt="Waters receding from the tsunami Photo courtesy of Digital Globe" width="220" height="175" /></a>Waters receding from the tsunami Photo courtesy of Digital Globe[/caption]
+[caption id="attachment_3318" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/tsunami.220.05-01-10.jpg"><img class="size-full wp-image-3318" src="http://localhost/mysite/wp-content/uploads/2005/01/tsunami.220.05-01-10.jpg" alt="Waters receding from the tsunami Photo courtesy of Digital Globe" width="220" height="175" /></a>Waters receding from the tsunami Photo courtesy of Digital Globe[/caption]
 <p>
   The Department of Earth Sciences invites the campus community to a discussion of the recent earthquake and tsunami in South Asia on Wednesday, January 12, at 12:30 in Room 152, Baskin Engineering Building.
 </p>

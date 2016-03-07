@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_4091" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/dupuis.04-08-09.jpg"><img class="size-full wp-image-4091" src="http://localhost/mysite/wp-content/uploads/2004/08/dupuis.04-08-09.jpg" alt="" width="180" height="225" /></a>[/caption]
+[caption id="attachment_4091" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/dupuis.04-08-09.jpg"><img class="size-full wp-image-4091" src="http://localhost/mysite/wp-content/uploads/2004/08/dupuis.04-08-09.jpg" alt="" width="180" height="225" /></a>[/caption]
 <p>
   It's been more than a century since women donned dark dresses to hide the black soot of coal fires and architects streamlined building designs because corrosive air pollution was eating away at ornately carved stone details.
 </p>

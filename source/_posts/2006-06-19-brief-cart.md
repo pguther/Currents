@@ -9,7 +9,7 @@ images:
     caption: "The popular market cart at the base of campus returns this week. Photo: Jon Kersey"
 ---
 
-[caption id="attachment_5154" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/farm_cart.340.jpg"><img class="size-full wp-image-5154" src="http://localhost/mysite/wp-content/uploads/2006/06/farm_cart.340.jpg" alt="The popular market cart at the base of campus returns this week. Photo: Jon Kersey" width="340" height="236" /></a>The popular market cart at the base of campus returns this week. Photo: Jon Kersey[/caption]
+[caption id="attachment_5154" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/farm_cart.340.jpg"><img class="size-full wp-image-5154" src="http://localhost/mysite/wp-content/uploads/2006/06/farm_cart.340.jpg" alt="The popular market cart at the base of campus returns this week. Photo: Jon Kersey" width="340" height="236" /></a>The popular market cart at the base of campus returns this week. Photo: Jon Kersey[/caption]
 <a name="content" id="content"></a>
 <p>
   Fresh organic produce and flowers will be available at the base of campus twice a week beginning Tuesday, June 20.

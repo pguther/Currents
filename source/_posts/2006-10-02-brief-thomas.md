@@ -9,7 +9,7 @@ images:
     caption: "'Signifying Blackness,' an exhibit of the work of Hank Willis Thomas"
 ---
 
-[caption id="attachment_6267" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/thomas_image.200.jpg"><img class="size-full wp-image-6267" src="http://localhost/mysite/wp-content/uploads/2006/10/thomas_image.200.jpg" alt=""Signifying Blackness," an exhibit of the work of Hank Willis Thomas" width="200" height="424" /></a>"Signifying Blackness," an exhibit of the work of Hank Willis Thomas[/caption]
+[caption id="attachment_6267" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/thomas_image.200.jpg"><img class="size-full wp-image-6267" src="http://localhost/mysite/wp-content/uploads/2006/10/thomas_image.200.jpg" alt=""Signifying Blackness," an exhibit of the work of Hank Willis Thomas" width="200" height="424" /></a>"Signifying Blackness," an exhibit of the work of Hank Willis Thomas[/caption]
 <a name="content" id="content"></a>
 <p>
   The work of Hank Willis Thomas will be exhibited at the Sesnon Gallery October 2 through November 18. The show, titled "Signifying Blackness," includes photos from his B(r)ANDED and Unbranded series as well as from his recent body of work, "Winter in America."

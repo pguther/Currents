@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5569" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/newposter.05-10-24.jpg"><img class="size-full wp-image-5569" src="http://localhost/mysite/wp-content/uploads/2005/10/newposter.05-10-24.jpg" alt="" width="170" height="263" /></a>[/caption]
+[caption id="attachment_5569" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/newposter.05-10-24.jpg"><img class="size-full wp-image-5569" src="http://localhost/mysite/wp-content/uploads/2005/10/newposter.05-10-24.jpg" alt="" width="170" height="263" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   By Scott Rappaport

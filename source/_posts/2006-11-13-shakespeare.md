@@ -9,7 +9,7 @@ images:
     caption: "Nate Jensen (Courtier) and Ashley Kirkland (Gretel) work through a dance routine during a Sleeping Beauty rehearsal."
 ---
 
-[caption id="attachment_6404" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/sleeping.06-11-13.jpg"><img class="size-full wp-image-6404" src="http://localhost/mysite/wp-content/uploads/2006/11/sleeping.06-11-13.jpg" alt="Nate Jensen (Courtier) and Ashley Kirkland (Gretel) work through a dance routine during a Sleeping Beauty rehearsal." width="230" height="200" /></a>Nate Jensen (Courtier) and Ashley Kirkland (Gretel) work through a dance routine during a Sleeping Beauty rehearsal.[/caption]
+[caption id="attachment_6404" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/sleeping.06-11-13.jpg"><img class="size-full wp-image-6404" src="http://localhost/mysite/wp-content/uploads/2006/11/sleeping.06-11-13.jpg" alt="Nate Jensen (Courtier) and Ashley Kirkland (Gretel) work through a dance routine during a Sleeping Beauty rehearsal." width="230" height="200" /></a>Nate Jensen (Courtier) and Ashley Kirkland (Gretel) work through a dance routine during a Sleeping Beauty rehearsal.[/caption]
 <a name="content" id="content"></a>
 <p>
   Shakespeare Santa Cruz will celebrate the holiday season with the world premiere of a dazzling musical version of <i>Sleeping Beauty,</i> November 17 through December 17, at the UCSC Theater Arts Mainstage.

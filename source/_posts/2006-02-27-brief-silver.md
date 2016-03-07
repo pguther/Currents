@@ -9,7 +9,7 @@ images:
     caption: "Mary Silver"
 ---
 
-[caption id="attachment_4690" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/silver_mary.140.jpg"><img class="size-full wp-image-4690" src="http://localhost/mysite/wp-content/uploads/2006/02/silver_mary.140.jpg" alt="Mary Silver" width="140" height="195" /></a>Mary Silver[/caption]
+[caption id="attachment_4690" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/silver_mary.140.jpg"><img class="size-full wp-image-4690" src="http://localhost/mysite/wp-content/uploads/2006/02/silver_mary.140.jpg" alt="Mary Silver" width="140" height="195" /></a>Mary Silver[/caption]
 <a name="content" id="content"></a>
 <p>
   "Red Tides, Shellfish, and Cultural Dietary Traditions" is the title of the Winter 2006 Synergy Lecture featuring Mary Silver, professor of ocean sciences. The talk will take place at 4 p.m. on Thursday, March 2, in the Current Periodicals Room of the Science &amp; Engineering Library.

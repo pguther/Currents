@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2665" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/varma2.04-04-05.180.jpg"><img class="size-full wp-image-2665" src="http://localhost/mysite/wp-content/uploads/2004/04/varma2.04-04-05.180.jpg" alt="" width="180" height="242" /></a>[/caption]
+[caption id="attachment_2665" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/varma2.04-04-05.180.jpg"><img class="size-full wp-image-2665" src="http://localhost/mysite/wp-content/uploads/2004/04/varma2.04-04-05.180.jpg" alt="" width="180" height="242" /></a>[/caption]
 <p>
   While fiberoptic cables carry data at the speed of light over the Internet backbone, the equipment that directs Internet traffic--the switches and routers that get data to the right places--still requires inefficient conversions of optical signals to electrical signals and back again.<br>
 </p>

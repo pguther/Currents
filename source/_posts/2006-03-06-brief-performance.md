@@ -9,7 +9,7 @@ images:
     caption: "Senior Blaise Hamel, a cellist with the UCSC Orchestra, will be performing."
 ---
 
-[caption id="attachment_4719" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/cellist.220.jpg"><img class="size-full wp-image-4719" src="http://localhost/mysite/wp-content/uploads/2006/03/cellist.220.jpg" alt="Senior Blaise Hamel, a cellist with the UCSC Orchestra, will be performing." width="220" height="319" /></a>Senior Blaise Hamel, a cellist with the UCSC Orchestra, will be performing.[/caption]
+[caption id="attachment_4719" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/cellist.220.jpg"><img class="size-full wp-image-4719" src="http://localhost/mysite/wp-content/uploads/2006/03/cellist.220.jpg" alt="Senior Blaise Hamel, a cellist with the UCSC Orchestra, will be performing." width="220" height="319" /></a>Senior Blaise Hamel, a cellist with the UCSC Orchestra, will be performing.[/caption]
 <a name="content" id="content"></a>
 <p>
   A diverse mix of cultures and languages will be on display at An Evening of Music and Dance, presented by the Language Program and Cowell College.

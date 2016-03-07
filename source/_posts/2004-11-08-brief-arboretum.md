@@ -9,7 +9,7 @@ images:
     caption: "Living succulent wreaths are among the many beautiful items on sale at the Arboretum this weekend. Stephen McCabe photo"
 ---
 
-[caption id="attachment_4329" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/wreath.160.jpg"><img class="size-full wp-image-4329" src="http://localhost/mysite/wp-content/uploads/2004/11/wreath.160.jpg" alt="Living succulent wreaths are among the many beautiful items on sale at the Arboretum this weekend. Stephen McCabe photo" width="160" height="159" /></a>Living succulent wreaths are among the many beautiful items on sale at the Arboretum this weekend. Stephen McCabe photo[/caption]
+[caption id="attachment_4329" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/wreath.160.jpg"><img class="size-full wp-image-4329" src="http://localhost/mysite/wp-content/uploads/2004/11/wreath.160.jpg" alt="Living succulent wreaths are among the many beautiful items on sale at the Arboretum this weekend. Stephen McCabe photo" width="160" height="159" /></a>Living succulent wreaths are among the many beautiful items on sale at the Arboretum this weekend. Stephen McCabe photo[/caption]
 <a name="content" id="content"></a>
 <p>
   Wonderful holiday decorations and gifts will be available from the UCSC Arboretum at the annual Dried Flower and Succulent Wreath Sale on Saturday and Sunday, November 13 and 14. Exotic dried flower arrangements, living succulent wreaths, rare and unusual succulent plants, and materials for making your own gifts are among the offerings at this year's sale.

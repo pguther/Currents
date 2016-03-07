@@ -10,7 +10,7 @@ images:
     caption: "David Haussler is codirector of the new institute."
 ---
 
-[caption id="attachment_790" align="alignnone" width="155"]<a href="http://localhost/mysite/wp-content/uploads/2000/12/haussler_david.00-12-11.jpg"><img class="size-full wp-image-790" src="http://localhost/mysite/wp-content/uploads/2000/12/haussler_david.00-12-11.jpg" alt="David Haussler is codirector of the new institute." width="155" height="211" /></a>David Haussler is codirector of the new institute.[/caption]
+[caption id="attachment_790" align="alignright" width="155"]<a href="http://localhost/mysite/wp-content/uploads/2000/12/haussler_david.00-12-11.jpg"><img class="size-full wp-image-790" src="http://localhost/mysite/wp-content/uploads/2000/12/haussler_david.00-12-11.jpg" alt="David Haussler is codirector of the new institute." width="155" height="211" /></a>David Haussler is codirector of the new institute.[/caption]
 <p>
   , UCSC;Bill Gordon, UCSF; and Catherine Zandonella, UCB
 </p>UC Santa Cruz will play a key role in one of three new <a href="http://www.ucop.edu/california-institutes/">California Institutes for Science and Innovation</a> established today (December 7) by Governor Gray Davis. The Institute for Bioengineering, Biotechnology and Quantitative Biomedical Research (QB3) will be centered at UC San Francisco with major research components at UC Santa Cruz and UC Berkeley.<br>

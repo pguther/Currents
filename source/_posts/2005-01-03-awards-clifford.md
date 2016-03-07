@@ -9,7 +9,7 @@ images:
     caption: "James Clifford"
 ---
 
-[caption id="attachment_3275" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/clifford_james.120.jpg"><img class="size-full wp-image-3275" src="http://localhost/mysite/wp-content/uploads/2005/01/clifford_james.120.jpg" alt="James Clifford" width="120" height="145" /></a>James Clifford[/caption]
+[caption id="attachment_3275" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/clifford_james.120.jpg"><img class="size-full wp-image-3275" src="http://localhost/mysite/wp-content/uploads/2005/01/clifford_james.120.jpg" alt="James Clifford" width="120" height="145" /></a>James Clifford[/caption]
 <a name="content" id="content"></a>
 <p>
   James Clifford, chair of the History of Consciousness Department, was awarded an honorary degree, Doctor of Letters Honoris Causa, by Haverford College at a special academic convocation held on December 4.

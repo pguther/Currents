@@ -9,7 +9,7 @@ images:
     caption: "Treating a neck injury in the Wilderness First Aid class"
 ---
 
-[caption id="attachment_6013" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/neck_injury.200.jpg"><img class="size-full wp-image-6013" src="http://localhost/mysite/wp-content/uploads/2007/04/neck_injury.200.jpg" alt="Treating a neck injury in the Wilderness First Aid class" width="200" height="267" /></a>Treating a neck injury in the Wilderness First Aid class[/caption]
+[caption id="attachment_6013" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/neck_injury.200.jpg"><img class="size-full wp-image-6013" src="http://localhost/mysite/wp-content/uploads/2007/04/neck_injury.200.jpg" alt="Treating a neck injury in the Wilderness First Aid class" width="200" height="267" /></a>Treating a neck injury in the Wilderness First Aid class[/caption]
 <a name="content" id="content"></a>
 <p>
   The <a href="http://ucscrecreation.com/">Recreation Department</a> is offering a weekend Wilderness First Aid class April 14-15. Instruction and certification will be provided by the Wilderness Medicine Institute (WMI) of the National Outdoor Leadership School (NOLS).

@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5980" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/aids_walk.jpg"><img class="size-full wp-image-5980" src="http://localhost/mysite/wp-content/uploads/2007/03/aids_walk.jpg" alt="" width="230" height="121" /></a>[/caption]
+[caption id="attachment_5980" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/aids_walk.jpg"><img class="size-full wp-image-5980" src="http://localhost/mysite/wp-content/uploads/2007/03/aids_walk.jpg" alt="" width="230" height="121" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC's <a href="http://www2.ucsc.edu/healthcenter/shop/">Student Health Outreach and Promotion</a> program (SHOP) is joining with the Santa Cruz AIDS Project to promote the 17th Annual AIDS Walk on Saturday, April 14.

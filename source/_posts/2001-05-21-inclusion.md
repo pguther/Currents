@@ -9,7 +9,7 @@ images:
     caption: "See larger image."
 ---
 
-[caption id="attachment_381" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/inclu_area_d.01-03-26.224.gif"><img class="size-full wp-image-381" src="http://localhost/mysite/wp-content/uploads/2001/05/inclu_area_d.01-03-26.224.gif" alt="See larger image." width="224" height="212" /></a>See larger image.[/caption]
+[caption id="attachment_381" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/inclu_area_d.01-03-26.224.gif"><img class="size-full wp-image-381" src="http://localhost/mysite/wp-content/uploads/2001/05/inclu_area_d.01-03-26.224.gif" alt="See larger image." width="224" height="212" /></a>See larger image.[/caption]
 <p>
   A public workshop will take place on Thursday, May 24, to discuss a master plan that the campus is preparing in order to build faculty and staff housing on campus land known as "Inclusion Area D."<br>
   <br>

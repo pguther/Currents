@@ -9,7 +9,7 @@ images:
     caption: "The Hagar Court Apartments will soon be remodeled and sold as condominiums. Photo: Chris Myers"
 ---
 
-[caption id="attachment_2031" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2003/06/hagar_court.03-06-23.200.jpg"><img class="size-full wp-image-2031" src="http://localhost/mysite/wp-content/uploads/2003/06/hagar_court.03-06-23.200.jpg" alt="The Hagar Court Apartments will soon be remodeled and sold as condominiums. Photo: Chris Myers" width="200" height="150" /></a>The Hagar Court Apartments will soon be remodeled and sold as condominiums. Photo: Chris Myers[/caption]
+[caption id="attachment_2031" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2003/06/hagar_court.03-06-23.200.jpg"><img class="size-full wp-image-2031" src="http://localhost/mysite/wp-content/uploads/2003/06/hagar_court.03-06-23.200.jpg" alt="The Hagar Court Apartments will soon be remodeled and sold as condominiums. Photo: Chris Myers" width="200" height="150" /></a>The Hagar Court Apartments will soon be remodeled and sold as condominiums. Photo: Chris Myers[/caption]
 <p>
   Those looking for housing on campus may want to mark their calendars for several key dates in July.
 </p>

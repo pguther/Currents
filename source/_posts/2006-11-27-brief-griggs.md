@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6410" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/griggs_cover.200.jpg"><img class="size-full wp-image-6410" src="http://localhost/mysite/wp-content/uploads/2006/11/griggs_cover.200.jpg" alt="" width="200" height="284" /></a>[/caption]
+[caption id="attachment_6410" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/griggs_cover.200.jpg"><img class="size-full wp-image-6410" src="http://localhost/mysite/wp-content/uploads/2006/11/griggs_cover.200.jpg" alt="" width="200" height="284" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The Bay Tree Bookstore will host a book signing by Gary Griggs, professor of Earth and planetary sciences, and Deepika Shrestha Ross, the authors of the new book <i>Then &amp; Now: Santa Cruz Coast</i> (Arcadia, 2006). The event will take place on Thursday, November 30, at 2 p.m.

@@ -9,7 +9,7 @@ images:
     caption: "Michael Milligan as Feste in Shakespeare's Twelfth Night Photo: Steve DiBartolomeo"
 ---
 
-[caption id="attachment_5190" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/twelfth_night.180.jpg"><img class="size-full wp-image-5190" src="http://localhost/mysite/wp-content/uploads/2005/07/twelfth_night.180.jpg" alt="Michael Milligan as Feste in Shakespeare's Twelfth Night Photo: Steve DiBartolomeo" width="180" height="239" /></a>Michael Milligan as Feste in Shakespeare's Twelfth Night Photo: Steve DiBartolomeo[/caption]
+[caption id="attachment_5190" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/twelfth_night.180.jpg"><img class="size-full wp-image-5190" src="http://localhost/mysite/wp-content/uploads/2005/07/twelfth_night.180.jpg" alt="Michael Milligan as Feste in Shakespeare's Twelfth Night Photo: Steve DiBartolomeo" width="180" height="239" /></a>Michael Milligan as Feste in Shakespeare's Twelfth Night Photo: Steve DiBartolomeo[/caption]
 <a name="content" id="content"></a>
 <p>
   Tickets are still available for the 24th summer season of <a href="http://shakespearesantacruz.org/">Shakespeare Santa Cruz</a> (SSC), running July 20 to August 28 at the UCSC Mainstage Theater and Festival Glen.

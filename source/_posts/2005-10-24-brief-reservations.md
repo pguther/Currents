@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5552" align="alignnone" width="205"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg"><img class="size-full wp-image-5552" src="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg" alt="" width="205" height="115" /></a>[/caption]
+[caption id="attachment_5552" align="alignright" width="205"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg"><img class="size-full wp-image-5552" src="http://localhost/mysite/wp-content/uploads/2005/10/AchExcel-logo.205.jpg" alt="" width="205" height="115" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Those planning to attend Chancellor Denice Denton's investiture November 4 and the academic symposium November 3-4, "Achieving Excellence Through Diversity," are being asked to register online.

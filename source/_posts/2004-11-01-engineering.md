@@ -9,7 +9,7 @@ images:
     caption: "Engineering 2 provides 150,000 square feet of new office, laboratory, and classroom space. Photo: Jim MacKenzie"
 ---
 
-[caption id="attachment_4319" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/engineering.04-11-01.jpg"><img class="size-full wp-image-4319" src="http://localhost/mysite/wp-content/uploads/2004/11/engineering.04-11-01.jpg" alt="Engineering 2 provides 150,000 square feet of new office, laboratory, and classroom space. Photo: Jim MacKenzie" width="340" height="261" /></a>Engineering 2 provides 150,000 square feet of new office, laboratory, and classroom space. Photo: Jim MacKenzie[/caption]
+[caption id="attachment_4319" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/engineering.04-11-01.jpg"><img class="size-full wp-image-4319" src="http://localhost/mysite/wp-content/uploads/2004/11/engineering.04-11-01.jpg" alt="Engineering 2 provides 150,000 square feet of new office, laboratory, and classroom space. Photo: Jim MacKenzie" width="340" height="261" /></a>Engineering 2 provides 150,000 square feet of new office, laboratory, and classroom space. Photo: Jim MacKenzie[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC will dedicate the new Engineering 2 Building and the Jack Baskin Engineering Auditorium on Friday, November 5, in ceremonies that will include UC President Robert C. Dynes, State Senator Bruce McPherson, Assemblyman John Laird, and other distinguished guests.

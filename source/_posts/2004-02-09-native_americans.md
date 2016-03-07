@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2523" align="alignnone" width="249"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/landscape.04-02-09.250.jpg"><img class="size-full wp-image-2523" src="http://localhost/mysite/wp-content/uploads/2004/02/landscape.04-02-09.250.jpg" alt="" width="249" height="316" /></a>[/caption]
+[caption id="attachment_2523" align="alignright" width="249"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/landscape.04-02-09.250.jpg"><img class="size-full wp-image-2523" src="http://localhost/mysite/wp-content/uploads/2004/02/landscape.04-02-09.250.jpg" alt="" width="249" height="316" /></a>[/caption]
 <p>
   Merrill College is hosting the Merrill American Indian Colloquium Series 2004 during the month of February, and the public is invited to attend a series of free events that highlight this year's theme, "Service to Native American Communities."
 </p>

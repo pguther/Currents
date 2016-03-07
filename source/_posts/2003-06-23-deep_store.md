@@ -9,7 +9,7 @@ images:
     caption: "Darrell Long, professor of computer science, is lead investigator on the Deep Store project."
 ---
 
-[caption id="attachment_2026" align="alignnone" width="157"]<a href="http://localhost/mysite/wp-content/uploads/2003/06/d_long.03-06-23.155.jpg"><img class="size-full wp-image-2026" src="http://localhost/mysite/wp-content/uploads/2003/06/d_long.03-06-23.155.jpg" alt="Darrell Long, professor of computer science, is lead investigator on the Deep Store project." width="157" height="228" /></a>Darrell Long, professor of computer science, is lead investigator on the Deep Store project.[/caption]
+[caption id="attachment_2026" align="alignright" width="157"]<a href="http://localhost/mysite/wp-content/uploads/2003/06/d_long.03-06-23.155.jpg"><img class="size-full wp-image-2026" src="http://localhost/mysite/wp-content/uploads/2003/06/d_long.03-06-23.155.jpg" alt="Darrell Long, professor of computer science, is lead investigator on the Deep Store project." width="157" height="228" /></a>Darrell Long, professor of computer science, is lead investigator on the Deep Store project.[/caption]
 <p>
   UCSC computer scientists are developing a new approach to online "deep storage" of digital data that promises to have many advantages over traditional backup and archival storage methods. The Deep Store project has been awarded a $205,000 grant from the National Science Foundation, and has received significant gift support from the research divisions of Hewlett-Packard and Microsoft.
 </p>

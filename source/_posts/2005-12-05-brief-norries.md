@@ -9,7 +9,7 @@ images:
     caption: "Arboretum volunteer Mary Jo Goddard (above) with a display of seasonal decorations and (below) books, bags, and colorful stones at Norrie's Gift Shop Photos: Susie Bower"
 ---
 
-[caption id="attachment_5733" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/12/norries_maryjo.200.jpg"><img class="size-full wp-image-5733" src="http://localhost/mysite/wp-content/uploads/2005/12/norries_maryjo.200.jpg" alt="Arboretum volunteer Mary Jo Goddard (above) with a display of seasonal decorations and (below) books, bags, and colorful stones at Norrie's Gift Shop Photos: Susie Bower" width="200" height="193" /></a>Arboretum volunteer Mary Jo Goddard (above) with a display of seasonal decorations and (below) books, bags, and colorful stones at Norrie's Gift Shop Photos: Susie Bower[/caption]
+[caption id="attachment_5733" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/12/norries_maryjo.200.jpg"><img class="size-full wp-image-5733" src="http://localhost/mysite/wp-content/uploads/2005/12/norries_maryjo.200.jpg" alt="Arboretum volunteer Mary Jo Goddard (above) with a display of seasonal decorations and (below) books, bags, and colorful stones at Norrie's Gift Shop Photos: Susie Bower" width="200" height="193" /></a>Arboretum volunteer Mary Jo Goddard (above) with a display of seasonal decorations and (below) books, bags, and colorful stones at Norrie's Gift Shop Photos: Susie Bower[/caption]
 <a name="content" id="content"></a>
 <p>
   It's time for the Annual Staff and Faculty Holiday Sale at Norrie's Gift Shop at the Arboretum. Staff and faculty may enjoy a 10 percent discount through December 24.

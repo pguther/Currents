@@ -9,7 +9,7 @@ images:
     caption: "Norman Solomon Photo: Jennifer Warburg"
 ---
 
-[caption id="attachment_5866" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/solomon_n.150.jpg"><img class="size-full wp-image-5866" src="http://localhost/mysite/wp-content/uploads/2007/02/solomon_n.150.jpg" alt="Norman Solomon Photo: Jennifer Warburg" width="150" height="218" /></a>Norman Solomon Photo: Jennifer Warburg[/caption]
+[caption id="attachment_5866" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/solomon_n.150.jpg"><img class="size-full wp-image-5866" src="http://localhost/mysite/wp-content/uploads/2007/02/solomon_n.150.jpg" alt="Norman Solomon Photo: Jennifer Warburg" width="150" height="218" /></a>Norman Solomon Photo: Jennifer Warburg[/caption]
 <a name="content" id="content"></a>
 <p>
   Author and media critic <a href="http://www.normansolomon.com/">Norman Solomon</a> will receive the third annual Ruben Salazar Journalism Award at 7 p.m. on Wednesday, February 7, in the College Nine/College Ten Multipurpose Room.

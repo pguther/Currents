@@ -9,7 +9,7 @@ images:
     caption: "Lawrence Ferlinghetti is still the proprietor of City Lights Bookstore in San Francisco and continues to write poetry."
 ---
 
-[caption id="attachment_340" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/ferlinghetti.01-05-07.180.jpg"><img class="size-full wp-image-340" src="http://localhost/mysite/wp-content/uploads/2001/05/ferlinghetti.01-05-07.180.jpg" alt="Lawrence Ferlinghetti is still the proprietor of City Lights Bookstore in San Francisco and continues to write poetry." width="180" height="226" /></a>Lawrence Ferlinghetti is still the proprietor of City Lights Bookstore in San Francisco and continues to write poetry.[/caption]
+[caption id="attachment_340" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/ferlinghetti.01-05-07.180.jpg"><img class="size-full wp-image-340" src="http://localhost/mysite/wp-content/uploads/2001/05/ferlinghetti.01-05-07.180.jpg" alt="Lawrence Ferlinghetti is still the proprietor of City Lights Bookstore in San Francisco and continues to write poetry." width="180" height="226" /></a>Lawrence Ferlinghetti is still the proprietor of City Lights Bookstore in San Francisco and continues to write poetry.[/caption]
 <p>
   America is a fragmented society. A multitude of contradictory agendas. A dizzy kaleidoscope of protean demographics. World War II may have been the last war that will ever have anything resembling popular support, but even then, when those clean-cut soldiers came marching home with every confidence they had set the world right, there were those who were troubled by the insistent rhythm of the drumbeat.<br>
   <br>

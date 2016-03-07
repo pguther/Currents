@@ -9,7 +9,7 @@ images:
     caption: "Alma Martinez Photo: Susan Rothchild"
 ---
 
-[caption id="attachment_5453" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/martinez_alma.140.jpg"><img class="size-full wp-image-5453" src="http://localhost/mysite/wp-content/uploads/2005/10/martinez_alma.140.jpg" alt="Alma Martinez Photo: Susan Rothchild" width="140" height="177" /></a>Alma Martinez Photo: Susan Rothchild[/caption]
+[caption id="attachment_5453" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/martinez_alma.140.jpg"><img class="size-full wp-image-5453" src="http://localhost/mysite/wp-content/uploads/2005/10/martinez_alma.140.jpg" alt="Alma Martinez Photo: Susan Rothchild" width="140" height="177" /></a>Alma Martinez Photo: Susan Rothchild[/caption]
 <a name="content" id="content"></a>
 <p>
   Assistant theater arts professor Alma Martinez has been awarded a Fulbright Scholar grant to conduct research and lecture at La Pontificia Universidad Catolica del Peru in Lima during the 2006-07 academic year. Martinez will work with Grupo Cultural Yuyachkani, one of the oldest and most important popular theater companies in Latin America. She will also lecture on the subject of the interconnectivity of Teatro Chicano in the U.S. and the New Popular Theatre (Nuevo Teatro Popular) in Latin America.

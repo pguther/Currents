@@ -9,7 +9,7 @@ images:
     caption: "Acting Chancellor George Blumenthal talks with IT service manager Julie Goldstein at 2300 Delaware."
 ---
 
-[caption id="attachment_6146" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/08/blumenthal_chat.jpg"><img class="size-full wp-image-6146" src="http://localhost/mysite/wp-content/uploads/2006/08/blumenthal_chat.jpg" alt="Acting Chancellor George Blumenthal talks with IT service manager Julie Goldstein at 2300 Delaware." width="230" height="166" /></a>Acting Chancellor George Blumenthal talks with IT service manager Julie Goldstein at 2300 Delaware.[/caption]
+[caption id="attachment_6146" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/08/blumenthal_chat.jpg"><img class="size-full wp-image-6146" src="http://localhost/mysite/wp-content/uploads/2006/08/blumenthal_chat.jpg" alt="Acting Chancellor George Blumenthal talks with IT service manager Julie Goldstein at 2300 Delaware." width="230" height="166" /></a>Acting Chancellor George Blumenthal talks with IT service manager Julie Goldstein at 2300 Delaware.[/caption]
 <a name="content" id="content"></a>
 <p>
   Staff and faculty crowded the cafeteria at UCSC's 2300 Delaware satellite office Tuesday to get acquainted with <a href="http://chancellor.ucsc.edu/">Acting Chancellor George Blumenthal.</a>

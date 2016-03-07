@@ -9,7 +9,7 @@ images:
     caption: "Lawrence Goodwyn, a professor of history at Duke University, specializes in comparative social movements, populism, and the American South."
 ---
 
-[caption id="attachment_874" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/Goodwyn.02-02-04.160.jpg"><img class="size-full wp-image-874" src="http://localhost/mysite/wp-content/uploads/2002/02/Goodwyn.02-02-04.160.jpg" alt="Lawrence Goodwyn, a professor of history at Duke University, specializes in comparative social movements, populism, and the American South." width="160" height="240" /></a>Lawrence Goodwyn, a professor of history at Duke University, specializes in comparative social movements, populism, and the American South.[/caption]
+[caption id="attachment_874" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/Goodwyn.02-02-04.160.jpg"><img class="size-full wp-image-874" src="http://localhost/mysite/wp-content/uploads/2002/02/Goodwyn.02-02-04.160.jpg" alt="Lawrence Goodwyn, a professor of history at Duke University, specializes in comparative social movements, populism, and the American South." width="160" height="240" /></a>Lawrence Goodwyn, a professor of history at Duke University, specializes in comparative social movements, populism, and the American South.[/caption]
 <p>
   Noted historian Lawrence Goodwyn will give a free public talk about democracy in America on Wednesday, February 6, from noon to 1:30 p.m. in the College Eight Red Room at UCSC.
 </p>During his talk, entitled "Reorganizing Democracy in America," Goodwyn will outline his vision of what's needed to create a movement to reconstruct democracy in the United States.

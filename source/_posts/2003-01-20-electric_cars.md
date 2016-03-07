@@ -9,7 +9,7 @@ images:
     caption: "TAPS director Wes Scott, above, has been impressed with the usefulness and low cost of the GEM electric cars. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_1642" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2003/01/electric_car.03-01-20.224.jpg"><img class="size-full wp-image-1642" src="http://localhost/mysite/wp-content/uploads/2003/01/electric_car.03-01-20.224.jpg" alt="TAPS director Wes Scott, above, has been impressed with the usefulness and low cost of the GEM electric cars. Photo: Louise Donahue" width="240" height="180" /></a>TAPS director Wes Scott, above, has been impressed with the usefulness and low cost of the GEM electric cars. Photo: Louise Donahue[/caption]
+[caption id="attachment_1642" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2003/01/electric_car.03-01-20.224.jpg"><img class="size-full wp-image-1642" src="http://localhost/mysite/wp-content/uploads/2003/01/electric_car.03-01-20.224.jpg" alt="TAPS director Wes Scott, above, has been impressed with the usefulness and low cost of the GEM electric cars. Photo: Louise Donahue" width="240" height="180" /></a>TAPS director Wes Scott, above, has been impressed with the usefulness and low cost of the GEM electric cars. Photo: Louise Donahue[/caption]
 <p>
   There are some new cars cruising through campus these days, and they're real gems. To be more specific, they are GEMs, vehicles made by Global Electric Motorcars, a DaimlerChrysler company.
 </p>

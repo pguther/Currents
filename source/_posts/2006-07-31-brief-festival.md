@@ -9,7 +9,7 @@ images:
     caption: "NO! by Aishah Shahidah Simmons, is one of the films being shown at the festival."
 ---
 
-[caption id="attachment_6112" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/movie.06-07-3.jpg"><img class="size-full wp-image-6112" src="http://localhost/mysite/wp-content/uploads/2006/07/movie.06-07-3.jpg" alt="NO! by Aishah Shahidah Simmons, is one of the films being shown at the festival." width="230" height="197" /></a>NO! by Aishah Shahidah Simmons, is one of the films being shown at the festival.[/caption]
+[caption id="attachment_6112" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/movie.06-07-3.jpg"><img class="size-full wp-image-6112" src="http://localhost/mysite/wp-content/uploads/2006/07/movie.06-07-3.jpg" alt="NO! by Aishah Shahidah Simmons, is one of the films being shown at the festival." width="230" height="197" /></a>NO! by Aishah Shahidah Simmons, is one of the films being shown at the festival.[/caption]
 <a name="content" id="content"></a>
 <p>
   More than two dozen films by directors from the United States and abroad will be shown at the 13th annual Women of Color Film and Video Festival August 5-6 at Porter College.

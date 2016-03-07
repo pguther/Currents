@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6077" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/yung_book.150.jpg"><img class="size-full wp-image-6077" src="http://localhost/mysite/wp-content/uploads/2006/07/yung_book.150.jpg" alt="" width="150" height="225" /></a>[/caption]
+[caption id="attachment_6077" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/yung_book.150.jpg"><img class="size-full wp-image-6077" src="http://localhost/mysite/wp-content/uploads/2006/07/yung_book.150.jpg" alt="" width="150" height="225" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Professor emerita of American studies Judy Yung will discuss her new book <i>Chinese American Voices: From the Gold Rush to the Present,</i> at the Capitola Book Cafe (1475 41st Avenue) on Wednesday, July 12, at 7:30 p.m. Admission is free.

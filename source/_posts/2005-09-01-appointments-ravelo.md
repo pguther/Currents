@@ -9,7 +9,7 @@ images:
     caption: "Christina Ravelo"
 ---
 
-[caption id="attachment_5280" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/ravelo_christina.05-08-22.jpg"><img class="size-full wp-image-5280" src="http://localhost/mysite/wp-content/uploads/2005/09/ravelo_christina.05-08-22.jpg" alt="Christina Ravelo" width="140" height="173" /></a>Christina Ravelo[/caption]
+[caption id="attachment_5280" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/ravelo_christina.05-08-22.jpg"><img class="size-full wp-image-5280" src="http://localhost/mysite/wp-content/uploads/2005/09/ravelo_christina.05-08-22.jpg" alt="Christina Ravelo" width="140" height="173" /></a>Christina Ravelo[/caption]
 <a name="content" id="content"></a>
 <p align="left">
   Christina Ravelo, professor of ocean sciences, has been named director of the Santa Cruz branch of the Institute of Geophysics and Planetary Physics (IGPP). Ravelo's five-year appointment begins September 1, 2005.<br>

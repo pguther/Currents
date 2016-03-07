@@ -12,8 +12,8 @@ images:
     caption: "Lisa Sloan"
 ---
 
-[caption id="attachment_5286" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/walsh_carl.05-08-22.jpg"><img class="size-full wp-image-5286" src="http://localhost/mysite/wp-content/uploads/2005/08/walsh_carl.05-08-22.jpg" alt="Carl Walsh" width="140" height="185" /></a>Carl Walsh[/caption]
-[caption id="attachment_5285" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/sloan_lisa.05-08-22.jpg"><img class="size-full wp-image-5285" src="http://localhost/mysite/wp-content/uploads/2005/08/sloan_lisa.05-08-22.jpg" alt="Lisa Sloan" width="140" height="166" /></a>Lisa Sloan[/caption]
+[caption id="attachment_5286" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/walsh_carl.05-08-22.jpg"><img class="size-full wp-image-5286" src="http://localhost/mysite/wp-content/uploads/2005/08/walsh_carl.05-08-22.jpg" alt="Carl Walsh" width="140" height="185" /></a>Carl Walsh[/caption]
+[caption id="attachment_5285" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/sloan_lisa.05-08-22.jpg"><img class="size-full wp-image-5285" src="http://localhost/mysite/wp-content/uploads/2005/08/sloan_lisa.05-08-22.jpg" alt="Lisa Sloan" width="140" height="166" /></a>Lisa Sloan[/caption]
 <a name="content" id="content"></a>
 <p align="left">
   Lisa Sloan has been named vice provost and dean of Graduate Studies and Carl Walsh has been named vice provost for Silicon Valley initiatives.

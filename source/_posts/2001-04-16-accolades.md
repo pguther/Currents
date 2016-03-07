@@ -9,7 +9,7 @@ images:
     caption: "Gary Griggs photo: r. r. jones"
 ---
 
-[caption id="attachment_276" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/griggs._gary.150.jpg"><img class="size-full wp-image-276" src="http://localhost/mysite/wp-content/uploads/2001/04/griggs._gary.150.jpg" alt="Gary Griggs photo: r. r. jones" width="150" height="204" /></a>Gary Griggs photo: r. r. jones[/caption]
+[caption id="attachment_276" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/griggs._gary.150.jpg"><img class="size-full wp-image-276" src="http://localhost/mysite/wp-content/uploads/2001/04/griggs._gary.150.jpg" alt="Gary Griggs photo: r. r. jones" width="150" height="204" /></a>Gary Griggs photo: r. r. jones[/caption]
 <h4>
   <font color="#003399"><b>Gary Griggs</b></font>
 </h4>Gary Griggs, professor of Earth sciences and director of the Institute of Marine Sciences, was recently honored as an alumnus by both of the institutions where he received his degrees: UC Santa Barbara and Oregon State University.<br>

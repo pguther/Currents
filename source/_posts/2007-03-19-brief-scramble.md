@@ -9,7 +9,7 @@ images:
     caption: "UCSC women have had a remarkable year of achievement in NCAA Division III sports."
 ---
 
-[caption id="attachment_6000" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/women_athletes.340.jpg"><img class="size-full wp-image-6000" src="http://localhost/mysite/wp-content/uploads/2007/03/women_athletes.340.jpg" alt="UCSC women have had a remarkable year of achievement in NCAA Division III sports." width="340" height="260" /></a>UCSC women have had a remarkable year of achievement in NCAA Division III sports.[/caption]
+[caption id="attachment_6000" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/women_athletes.340.jpg"><img class="size-full wp-image-6000" src="http://localhost/mysite/wp-content/uploads/2007/03/women_athletes.340.jpg" alt="UCSC women have had a remarkable year of achievement in NCAA Division III sports." width="340" height="260" /></a>UCSC women have had a remarkable year of achievement in NCAA Division III sports.[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC is hosting the fourth annual Rita Walker Golf Scramble to raise funds for women's athletics. The golf tournament is on Friday, April 27, at De Laveaga Golf Course. Registration is taking place now.

@@ -9,7 +9,7 @@ images:
     caption: "Renovations to the historic Granary building were made to retain its architectural integrity. Photo: Chris Banks"
 ---
 
-[caption id="attachment_6250" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/granary.200.jpg"><img class="size-full wp-image-6250" src="http://localhost/mysite/wp-content/uploads/2006/09/granary.200.jpg" alt="Renovations to the historic Granary building were made to retain its architectural integrity. Photo: Chris Banks" width="200" height="150" /></a>Renovations to the historic Granary building were made to retain its architectural integrity. Photo: Chris Banks[/caption]
+[caption id="attachment_6250" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/granary.200.jpg"><img class="size-full wp-image-6250" src="http://localhost/mysite/wp-content/uploads/2006/09/granary.200.jpg" alt="Renovations to the historic Granary building were made to retain its architectural integrity. Photo: Chris Banks" width="200" height="150" /></a>Renovations to the historic Granary building were made to retain its architectural integrity. Photo: Chris Banks[/caption]
 <a name="content" id="content"></a>
 <p>
   Facilities staff of the Colleges and University Housing Services (CUHS) had a busy summer working on two renovation projects. The historic Granary building near the campus main entrance received extensive refurbishment inside and out, and 14 buildings at College Eight underwent major maintenance as part of a 10-year cycle for the colleges.

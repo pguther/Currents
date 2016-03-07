@@ -9,7 +9,7 @@ images:
     caption: "Joe and Georgette Hammana, who run Joe's Pizza and Subs on Water Street in Santa Cruz, plan to open their new restaurant at UCSC within a month. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_1694" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/joes.03-02-03.180.jpg"><img class="size-full wp-image-1694" src="http://localhost/mysite/wp-content/uploads/2003/02/joes.03-02-03.180.jpg" alt="Joe and Georgette Hammana, who run Joe's Pizza and Subs on Water Street in Santa Cruz, plan to open their new restaurant at UCSC within a month. Photo: Louise Donahue" width="180" height="268" /></a>Joe and Georgette Hammana, who run Joe's Pizza and Subs on Water Street in Santa Cruz, plan to open their new restaurant at UCSC within a month. Photo: Louise Donahue[/caption]
+[caption id="attachment_1694" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/joes.03-02-03.180.jpg"><img class="size-full wp-image-1694" src="http://localhost/mysite/wp-content/uploads/2003/02/joes.03-02-03.180.jpg" alt="Joe and Georgette Hammana, who run Joe's Pizza and Subs on Water Street in Santa Cruz, plan to open their new restaurant at UCSC within a month. Photo: Louise Donahue" width="180" height="268" /></a>Joe and Georgette Hammana, who run Joe's Pizza and Subs on Water Street in Santa Cruz, plan to open their new restaurant at UCSC within a month. Photo: Louise Donahue[/caption]
 <p>
   The search for a new restaurant for Quarry Plaza at UCSC is over, and the winner is Joe's Pizza and Subs.
 </p>

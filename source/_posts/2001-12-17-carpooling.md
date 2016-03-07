@@ -9,7 +9,7 @@ images:
     caption: "This is the second of two parts. Last week's story focused on bicycling and riding the bus."
 ---
 
-[caption id="attachment_1594" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/12/vanpool.01-12-17.224.jpg"><img class="size-full wp-image-1594" src="http://localhost/mysite/wp-content/uploads/2001/12/vanpool.01-12-17.224.jpg" alt="This is the second of two parts. Last week's story focused on bicycling and riding the bus." width="224" height="158" /></a>This is the second of two parts. Last week's story focused on bicycling and riding the bus.[/caption]
+[caption id="attachment_1594" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/12/vanpool.01-12-17.224.jpg"><img class="size-full wp-image-1594" src="http://localhost/mysite/wp-content/uploads/2001/12/vanpool.01-12-17.224.jpg" alt="This is the second of two parts. Last week's story focused on bicycling and riding the bus." width="224" height="158" /></a>This is the second of two parts. Last week's story focused on bicycling and riding the bus.[/caption]
 <p>
   Commuting to work can be a solitary experience, but not for those who take carpools or vanpools. In fact, camaraderie--and a big break on parking costs--are often cited as key benefits for those who share the ride at UCSC.
 </p>"We had a party. We all went out to dinner together," said vanpooler Jenny Anderson, a lecturer in environmental studies and program development person for that department. Anderson lives between Santa Cruz and Felton, and takes the Boulder Creek vanpool. "If you have any question you want answered or any problem you want solved, take it to the van," she joked of her group of riders.<br>

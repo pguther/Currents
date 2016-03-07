@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2689" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/shakespeare.04-04-12.220.jpg"><img class="size-full wp-image-2689" src="http://localhost/mysite/wp-content/uploads/2004/04/shakespeare.04-04-12.220.jpg" alt="" width="220" height="341" /></a>[/caption]
+[caption id="attachment_2689" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/shakespeare.04-04-12.220.jpg"><img class="size-full wp-image-2689" src="http://localhost/mysite/wp-content/uploads/2004/04/shakespeare.04-04-12.220.jpg" alt="" width="220" height="341" /></a>[/caption]
 <p>
   Comedy is the operative word for the new summer season just announced by Shakespeare Santa Cruz (SSC).<br>
 </p>

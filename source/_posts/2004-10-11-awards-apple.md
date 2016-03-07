@@ -12,8 +12,8 @@ images:
     caption: "Vanita Seth Photo by Jon Kersey"
 ---
 
-[caption id="attachment_4215" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/haney_craig.120.jpg"><img class="size-full wp-image-4215" src="http://localhost/mysite/wp-content/uploads/2004/10/haney_craig.120.jpg" alt="Craig Haney UCSC Photo Services" width="120" height="167" /></a>Craig Haney UCSC Photo Services[/caption]
-[caption id="attachment_4216" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/seth_vanita.120.jpg"><img class="size-full wp-image-4216" src="http://localhost/mysite/wp-content/uploads/2004/10/seth_vanita.120.jpg" alt="Vanita Seth Photo by Jon Kersey" width="120" height="158" /></a>Vanita Seth Photo by Jon Kersey[/caption]
+[caption id="attachment_4215" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/haney_craig.120.jpg"><img class="size-full wp-image-4215" src="http://localhost/mysite/wp-content/uploads/2004/10/haney_craig.120.jpg" alt="Craig Haney UCSC Photo Services" width="120" height="167" /></a>Craig Haney UCSC Photo Services[/caption]
+[caption id="attachment_4216" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/seth_vanita.120.jpg"><img class="size-full wp-image-4216" src="http://localhost/mysite/wp-content/uploads/2004/10/seth_vanita.120.jpg" alt="Vanita Seth Photo by Jon Kersey" width="120" height="158" /></a>Vanita Seth Photo by Jon Kersey[/caption]
 <a name="content" id="content"></a>
 <p>
   An expert on the psychological effects of incarceration and a political theorist were honored last week for their teaching by the Division of Social Sciences.

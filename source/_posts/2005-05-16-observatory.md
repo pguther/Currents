@@ -9,7 +9,7 @@ images:
     caption: "Audience members will take turns at the historic Lick Telescope, weather permitting. Photo: Laurie Hatch"
 ---
 
-[caption id="attachment_3817" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/lick.05-05-16.jpg"><img class="size-full wp-image-3817" src="http://localhost/mysite/wp-content/uploads/2005/05/lick.05-05-16.jpg" alt="Audience members will take turns at the historic Lick Telescope, weather permitting. Photo: Laurie Hatch" width="230" height="347" /></a>Audience members will take turns at the historic Lick Telescope, weather permitting. Photo: Laurie Hatch[/caption]
+[caption id="attachment_3817" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/lick.05-05-16.jpg"><img class="size-full wp-image-3817" src="http://localhost/mysite/wp-content/uploads/2005/05/lick.05-05-16.jpg" alt="Audience members will take turns at the historic Lick Telescope, weather permitting. Photo: Laurie Hatch" width="230" height="347" /></a>Audience members will take turns at the historic Lick Telescope, weather permitting. Photo: Laurie Hatch[/caption]
 <a name="content" id="content"></a>
 <p>
   UC's Lick Observatory offers its 25th season of evening programs for music lovers and astronomy buffs this summer, featuring concerts, lectures, and opportunities to view the night sky through the observatory's history-making telescopes atop Mt. Hamilton.

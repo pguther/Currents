@@ -9,7 +9,7 @@ images:
     caption: "Poster designed by Richard Wolhfeiler; central image by Ben Shahn"
 ---
 
-[caption id="attachment_5805" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/jewish_exhibit.200.jpg"><img class="size-full wp-image-5805" src="http://localhost/mysite/wp-content/uploads/2007/01/jewish_exhibit.200.jpg" alt="Poster designed by Richard Wolhfeiler; central image by Ben Shahn" width="200" height="296" /></a>Poster designed by Richard Wolhfeiler; central image by Ben Shahn[/caption]
+[caption id="attachment_5805" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/jewish_exhibit.200.jpg"><img class="size-full wp-image-5805" src="http://localhost/mysite/wp-content/uploads/2007/01/jewish_exhibit.200.jpg" alt="Poster designed by Richard Wolhfeiler; central image by Ben Shahn" width="200" height="296" /></a>Poster designed by Richard Wolhfeiler; central image by Ben Shahn[/caption]
 <a name="content" id="content"></a>
 <p>
   McHenry Library will be hosting a new exhibit featuring materials supporting Jewish studies through the 2007 winter quarter titled "From Torah to Diaspora: Highlights of the UCSC Library's Jewish Studies Collection."

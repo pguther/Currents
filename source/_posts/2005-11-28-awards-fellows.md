@@ -9,7 +9,7 @@ images:
     caption: "J. J. Garcia-Luna-Aceves (above) and Darrell Long"
 ---
 
-[caption id="attachment_5699" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/garcia_luna_aceves.140.jpg"><img class="size-full wp-image-5699" src="http://localhost/mysite/wp-content/uploads/2005/11/garcia_luna_aceves.140.jpg" alt="J. J. Garcia-Luna-Aceves (above) and Darrell Long" width="140" height="191" /></a>J. J. Garcia-Luna-Aceves (above) and Darrell Long[/caption]
+[caption id="attachment_5699" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/garcia_luna_aceves.140.jpg"><img class="size-full wp-image-5699" src="http://localhost/mysite/wp-content/uploads/2005/11/garcia_luna_aceves.140.jpg" alt="J. J. Garcia-Luna-Aceves (above) and Darrell Long" width="140" height="191" /></a>J. J. Garcia-Luna-Aceves (above) and Darrell Long[/caption]
 <a name="content" id="content"></a>
 <p>
   Two faculty members of the Baskin School of Engineering have been elected Fellows of the Institute of Electrical and Electronics Engineers (IEEE). They are J. J. Garcia-Luna-Aceves, Baskin Professor of Computer Engineering, and Darrell Long, Malavalli Professor of Storage Systems.

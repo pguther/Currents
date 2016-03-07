@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2352" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/11/sc_book.02-11-11.224.jpg"><img class="size-full wp-image-2352" src="http://localhost/mysite/wp-content/uploads/2002/11/sc_book.02-11-11.224.jpg" alt="" width="224" height="316" /></a>[/caption]
+[caption id="attachment_2352" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/11/sc_book.02-11-11.224.jpg"><img class="size-full wp-image-2352" src="http://localhost/mysite/wp-content/uploads/2002/11/sc_book.02-11-11.224.jpg" alt="" width="224" height="316" /></a>[/caption]
 <p>
   The town of Santa Cruz has a legacy that goes far beyond its modest population and limited geographical area. Since its earliest days, Santa Cruz has drawn countless tourists, entrepreneurs, and visionaries to spend time at the beach, the Boardwalk, or their family cabin in the woods.
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "COMMENTARY"
 ---
 
-[caption id="attachment_2164" align="alignnone" width="102"]<a href="http://localhost/mysite/wp-content/uploads/2002/09/lipschutz_ron.02-09-09.102.jpg"><img class="size-full wp-image-2164" src="http://localhost/mysite/wp-content/uploads/2002/09/lipschutz_ron.02-09-09.102.jpg" alt="COMMENTARY" width="102" height="154" /></a>COMMENTARY[/caption]
+[caption id="attachment_2164" align="alignright" width="102"]<a href="http://localhost/mysite/wp-content/uploads/2002/09/lipschutz_ron.02-09-09.102.jpg"><img class="size-full wp-image-2164" src="http://localhost/mysite/wp-content/uploads/2002/09/lipschutz_ron.02-09-09.102.jpg" alt="COMMENTARY" width="102" height="154" /></a>COMMENTARY[/caption]
 <p>
   For months prior to the September 11 attacks on New York and Washington, D.C., strategists and policy planners in the Bush administration were already set on asserting U.S. hegemony in world affairs.
 </p>

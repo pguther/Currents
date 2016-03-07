@@ -9,7 +9,7 @@ images:
     caption: "Profiles of other outstanding UCSC students are available online."
 ---
 
-[caption id="attachment_2594" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/simons.04-03-08.240.jpg"><img class="size-full wp-image-2594" src="http://localhost/mysite/wp-content/uploads/2004/03/simons.04-03-08.240.jpg" alt="Profiles of other outstanding UCSC students are available online." width="240" height="256" /></a>Profiles of other outstanding UCSC students are available online.[/caption]
+[caption id="attachment_2594" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/03/simons.04-03-08.240.jpg"><img class="size-full wp-image-2594" src="http://localhost/mysite/wp-content/uploads/2004/03/simons.04-03-08.240.jpg" alt="Profiles of other outstanding UCSC students are available online." width="240" height="256" /></a>Profiles of other outstanding UCSC students are available online.[/caption]
 <p>
   Over the past three years, Bahia Simons-Morton has gained quite a bit of production experience studying theater arts at UCSC.
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "Edmund Burke III"
 ---
 
-[caption id="attachment_6137" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/burke_terry.140.jpg"><img class="size-full wp-image-6137" src="http://localhost/mysite/wp-content/uploads/2006/07/burke_terry.140.jpg" alt="Edmund Burke III" width="140" height="192" /></a>Edmund Burke III[/caption]
+[caption id="attachment_6137" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/burke_terry.140.jpg"><img class="size-full wp-image-6137" src="http://localhost/mysite/wp-content/uploads/2006/07/burke_terry.140.jpg" alt="Edmund Burke III" width="140" height="192" /></a>Edmund Burke III[/caption]
 <a name="content" id="content"></a>
 <p>
   Is the current operation in Lebanon a joint U.S./Israeli operation, with the latter playing the role of American mercenaries? Or was the Bush administration caught by surprise by the kidnapping of two Israeli soldiers at the beginning of the month and the rapid escalation of hostilities? Why, after initial concerns about the destabilization of the Lebanese government, has the United States been willing to countenance the wholesale destruction of Lebanon (and not just the destruction of Hizbullah's bases in southern Lebanon)? Why, when a political solution to Middle East problems seemed so close weeks ago, is this happening now?

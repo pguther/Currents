@@ -9,7 +9,7 @@ images:
     caption: "Stephen Schwartz will discuss the history and importance of each weapons installation."
 ---
 
-[caption id="attachment_6339" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/schwartz_stephen.180.jpg"><img class="size-full wp-image-6339" src="http://localhost/mysite/wp-content/uploads/2006/10/schwartz_stephen.180.jpg" alt="Stephen Schwartz will discuss the history and importance of each weapons installation." width="180" height="263" /></a>Stephen Schwartz will discuss the history and importance of each weapons installation.[/caption]
+[caption id="attachment_6339" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/schwartz_stephen.180.jpg"><img class="size-full wp-image-6339" src="http://localhost/mysite/wp-content/uploads/2006/10/schwartz_stephen.180.jpg" alt="Stephen Schwartz will discuss the history and importance of each weapons installation." width="180" height="263" /></a>Stephen Schwartz will discuss the history and importance of each weapons installation.[/caption]
 <a name="content" id="content"></a>
 <p>
   Join a leading expert on nuclear weapons policy for a virtual tour of past and present nuclear weapons installations around the world on Thursday, November 2, at 7 p.m. in the Cowell College Conference Room.

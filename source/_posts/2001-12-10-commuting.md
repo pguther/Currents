@@ -9,7 +9,7 @@ images:
     caption: "This story is the first of two parts. Next week: carpool combinations."
 ---
 
-[caption id="attachment_1581" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/12/bikes.01-12-10.224.jpg"><img class="size-full wp-image-1581" src="http://localhost/mysite/wp-content/uploads/2001/12/bikes.01-12-10.224.jpg" alt="This story is the first of two parts. Next week: carpool combinations." width="224" height="189" /></a>This story is the first of two parts. Next week: carpool combinations.[/caption]
+[caption id="attachment_1581" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/12/bikes.01-12-10.224.jpg"><img class="size-full wp-image-1581" src="http://localhost/mysite/wp-content/uploads/2001/12/bikes.01-12-10.224.jpg" alt="This story is the first of two parts. Next week: carpool combinations." width="224" height="189" /></a>This story is the first of two parts. Next week: carpool combinations.[/caption]
 <p>
   <font size="5"><b>Traffic drives commuters to try something different</b></font>
 </p>

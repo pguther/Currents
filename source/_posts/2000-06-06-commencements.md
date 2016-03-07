@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_6868" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2000/06/commencement.00-06-05.240.jpg"><img class="size-full wp-image-6868" src="http://localhost/mysite/wp-content/uploads/2000/06/commencement.00-06-05.240.jpg" alt="" width="240" height="167" /></a>[/caption]
+[caption id="attachment_6868" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2000/06/commencement.00-06-05.240.jpg"><img class="size-full wp-image-6868" src="http://localhost/mysite/wp-content/uploads/2000/06/commencement.00-06-05.240.jpg" alt="" width="240" height="167" /></a>[/caption]
 <p>
   <b>6/9 Friday</b>
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "The Banksia spinulosa, or Schnapper Point, is one of the plants developed by Australian growers to be available at the Arboretum. Photo: Ray Collett"
 ---
 
-[caption id="attachment_1443" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/arboretum_sale.01-10-08.224.jpg"><img class="size-full wp-image-1443" src="http://localhost/mysite/wp-content/uploads/2001/10/arboretum_sale.01-10-08.224.jpg" alt="The Banksia spinulosa, or Schnapper Point, is one of the plants developed by Australian growers to be available at the Arboretum. Photo: Ray Collett" width="224" height="168" /></a>The Banksia spinulosa, or Schnapper Point, is one of the plants developed by Australian growers to be available at the Arboretum. Photo: Ray Collett[/caption]
+[caption id="attachment_1443" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/arboretum_sale.01-10-08.224.jpg"><img class="size-full wp-image-1443" src="http://localhost/mysite/wp-content/uploads/2001/10/arboretum_sale.01-10-08.224.jpg" alt="The Banksia spinulosa, or Schnapper Point, is one of the plants developed by Australian growers to be available at the Arboretum. Photo: Ray Collett" width="224" height="168" /></a>The Banksia spinulosa, or Schnapper Point, is one of the plants developed by Australian growers to be available at the Arboretum. Photo: Ray Collett[/caption]
 <p>
   <font size="5"><b>Arboretum sale featuring Australian plant introductions</b></font>
 </p>

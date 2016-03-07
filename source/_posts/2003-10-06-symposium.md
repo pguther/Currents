@@ -9,7 +9,7 @@ images:
     caption: "College Nine"
 ---
 
-[caption id="attachment_3085" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/10/college_nine.jpg"><img class="size-full wp-image-3085" src="http://localhost/mysite/wp-content/uploads/2003/10/college_nine.jpg" alt="College Nine" width="180" height="196" /></a>College Nine[/caption]
+[caption id="attachment_3085" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/10/college_nine.jpg"><img class="size-full wp-image-3085" src="http://localhost/mysite/wp-content/uploads/2003/10/college_nine.jpg" alt="College Nine" width="180" height="196" /></a>College Nine[/caption]
 <p>
   UCSC will celebrate the student experience this weekend with a major academic symposium, the dedication of College Nine and College Ten, a fundraising dinner, a reunion of scholarship recipients, and more.
 </p>

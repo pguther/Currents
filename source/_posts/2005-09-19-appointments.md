@@ -9,7 +9,7 @@ images:
     caption: "Micah Perks Photo: Scott Rappaport Juan Poblete Photo: Dana Rohlf Lourdes Martinez-Echazabal Photo: Susan Jessen Pedro Castillo Photo: Susan Jessen"
 ---
 
-[caption id="attachment_5362" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/perks_micah.140.jpg"><img class="size-full wp-image-5362" src="http://localhost/mysite/wp-content/uploads/2005/09/perks_micah.140.jpg" alt="Micah Perks Photo: Scott Rappaport Juan Poblete Photo: Dana Rohlf Lourdes Martinez-Echazabal Photo: Susan Jessen Pedro Castillo Photo: Susan Jessen" width="140" height="187" /></a>Micah Perks Photo: Scott Rappaport Juan Poblete Photo: Dana Rohlf Lourdes Martinez-Echazabal Photo: Susan Jessen Pedro Castillo Photo: Susan Jessen[/caption]
+[caption id="attachment_5362" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/perks_micah.140.jpg"><img class="size-full wp-image-5362" src="http://localhost/mysite/wp-content/uploads/2005/09/perks_micah.140.jpg" alt="Micah Perks Photo: Scott Rappaport Juan Poblete Photo: Dana Rohlf Lourdes Martinez-Echazabal Photo: Susan Jessen Pedro Castillo Photo: Susan Jessen" width="140" height="187" /></a>Micah Perks Photo: Scott Rappaport Juan Poblete Photo: Dana Rohlf Lourdes Martinez-Echazabal Photo: Susan Jessen Pedro Castillo Photo: Susan Jessen[/caption]
 <a name="content" id="content"></a>
 <p>
   New provosts have been named for Kresge College and Merrill College, and the provost at Oakes College has been reappointed for another three-year term.

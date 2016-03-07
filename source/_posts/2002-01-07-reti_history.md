@@ -9,7 +9,7 @@ images:
     caption: "Irene Reti founded Herbooks in 1984. Photo: D'vora Tirschwell"
 ---
 
-[caption id="attachment_807" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/01/ireneinside.01-02-07.180.jpg"><img class="size-full wp-image-807" src="http://localhost/mysite/wp-content/uploads/2002/01/ireneinside.01-02-07.180.jpg" alt="Irene Reti founded Herbooks in 1984. Photo: D'vora Tirschwell" width="180" height="276" /></a>Irene Reti founded Herbooks in 1984. Photo: D'vora Tirschwell[/caption]
+[caption id="attachment_807" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/01/ireneinside.01-02-07.180.jpg"><img class="size-full wp-image-807" src="http://localhost/mysite/wp-content/uploads/2002/01/ireneinside.01-02-07.180.jpg" alt="Irene Reti founded Herbooks in 1984. Photo: D'vora Tirschwell" width="180" height="276" /></a>Irene Reti founded Herbooks in 1984. Photo: D'vora Tirschwell[/caption]
 The University Library's Regional History Project announces the publication of <i>Irene Reti and HerBooks Feminist Press,</i> the last in a trio of oral histories documenting archives on deposit in Special Collections, which are a part of the UC/Stanford Women's Studies Consortium California Feminist Presses Project.
 <p>
   UCSC Women's Studies Librarian emerita Jacquelyn Marie interviewed Reti, and UCSC Regional History Project director Randall Jarrell edited the manuscript.<br>

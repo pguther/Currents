@@ -9,7 +9,7 @@ images:
     caption: "Costa Spur in Antarctica is named after UCSC professor Daniel Costa."
 ---
 
-[caption id="attachment_5076" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/costa_spur.06-05-29.jpg"><img class="size-full wp-image-5076" src="http://localhost/mysite/wp-content/uploads/2006/05/costa_spur.06-05-29.jpg" alt="Costa Spur in Antarctica is named after UCSC professor Daniel Costa." width="345" height="203" /></a>Costa Spur in Antarctica is named after UCSC professor Daniel Costa.[/caption]
+[caption id="attachment_5076" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/costa_spur.06-05-29.jpg"><img class="size-full wp-image-5076" src="http://localhost/mysite/wp-content/uploads/2006/05/costa_spur.06-05-29.jpg" alt="Costa Spur in Antarctica is named after UCSC professor Daniel Costa." width="345" height="203" /></a>Costa Spur in Antarctica is named after UCSC professor Daniel Costa.[/caption]
 <a name="content" id="content"></a>
 <p>
   Costa Spur and Terrie Bluff, once nameless features of the austere Antarctic landscape, have now been officially named in honor of Daniel Costa and Terrie Williams, professors of ecology and evolutionary biology at UCSC.

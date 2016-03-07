@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6092" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/lanting_life.340.jpg"><img class="size-full wp-image-6092" src="http://localhost/mysite/wp-content/uploads/2006/07/lanting_life.340.jpg" alt="" width="340" height="110" /></a>[/caption]
+[caption id="attachment_6092" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/lanting_life.340.jpg"><img class="size-full wp-image-6092" src="http://localhost/mysite/wp-content/uploads/2006/07/lanting_life.340.jpg" alt="" width="340" height="110" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   A scientific forum exploring advances in the understanding of life on Earth will take place on Monday, July 31, at 7 p.m. at the Santa Cruz Civic Auditorium. The forum is being held in conjunction with <i>Life: A Journey through Time</i>, a multimedia presentation by photographer Frans Lanting, which has its world premiere this month as part of the Cabrillo Festival of Contemporary Music.

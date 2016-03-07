@@ -9,7 +9,7 @@ images:
     caption: "The Arboretum offers a wide range of plant selections, including California natives and drought-tolerant plants from Australia and South Africa."
 ---
 
-[caption id="attachment_2221" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/09/columbine.02-09-30.180.jpg"><img class="size-full wp-image-2221" src="http://localhost/mysite/wp-content/uploads/2002/09/columbine.02-09-30.180.jpg" alt="The Arboretum offers a wide range of plant selections, including California natives and drought-tolerant plants from Australia and South Africa." width="180" height="304" /></a>The Arboretum offers a wide range of plant selections, including California natives and drought-tolerant plants from Australia and South Africa.[/caption]
+[caption id="attachment_2221" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/09/columbine.02-09-30.180.jpg"><img class="size-full wp-image-2221" src="http://localhost/mysite/wp-content/uploads/2002/09/columbine.02-09-30.180.jpg" alt="The Arboretum offers a wide range of plant selections, including California natives and drought-tolerant plants from Australia and South Africa." width="180" height="304" /></a>The Arboretum offers a wide range of plant selections, including California natives and drought-tolerant plants from Australia and South Africa.[/caption]
 <p>
   The UCSC Arboretum is holding its annual Fall Plant Sale on Saturday, October 12, from 11 a.m. to 3 p.m. As in previous years, it is a joint sale with the California Native Plant Society (CNPS).
 </p>

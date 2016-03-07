@@ -9,7 +9,7 @@ images:
     caption: "George Blumenthal UCSC Photo Services"
 ---
 
-[caption id="attachment_2937" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2003/07/blumenthal_george.140.jpg"><img class="size-full wp-image-2937" src="http://localhost/mysite/wp-content/uploads/2003/07/blumenthal_george.140.jpg" alt="George Blumenthal UCSC Photo Services" width="140" height="210" /></a>George Blumenthal UCSC Photo Services[/caption]
+[caption id="attachment_2937" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2003/07/blumenthal_george.140.jpg"><img class="size-full wp-image-2937" src="http://localhost/mysite/wp-content/uploads/2003/07/blumenthal_george.140.jpg" alt="George Blumenthal UCSC Photo Services" width="140" height="210" /></a>George Blumenthal UCSC Photo Services[/caption]
 <p class="pagehead">
   Appointments
 </p>

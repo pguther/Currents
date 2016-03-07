@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_3792" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/irwin_scholars.340.jpg"><img class="size-full wp-image-3792" src="http://localhost/mysite/wp-content/uploads/2005/05/irwin_scholars.340.jpg" alt="" width="340" height="152" /></a>[/caption]
+[caption id="attachment_3792" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/irwin_scholars.340.jpg"><img class="size-full wp-image-3792" src="http://localhost/mysite/wp-content/uploads/2005/05/irwin_scholars.340.jpg" alt="" width="340" height="152" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Eleven students have been selected to receive the 2005 William Hyde Irwin and Susan Benteen Irwin Scholarships, given annually by the Art Department to outstanding young artists at UCSC.

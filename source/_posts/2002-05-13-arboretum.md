@@ -9,7 +9,7 @@ images:
     caption: "The free event at the Arboretum highlights a wide array of the arts at UCSC."
 ---
 
-[caption id="attachment_1142" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/flower.02-05-13.180.jpg"><img class="size-full wp-image-1142" src="http://localhost/mysite/wp-content/uploads/2002/05/flower.02-05-13.180.jpg" alt="The free event at the Arboretum highlights a wide array of the arts at UCSC." width="180" height="235" /></a>The free event at the Arboretum highlights a wide array of the arts at UCSC.[/caption]
+[caption id="attachment_1142" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/flower.02-05-13.180.jpg"><img class="size-full wp-image-1142" src="http://localhost/mysite/wp-content/uploads/2002/05/flower.02-05-13.180.jpg" alt="The free event at the Arboretum highlights a wide array of the arts at UCSC." width="180" height="235" /></a>The free event at the Arboretum highlights a wide array of the arts at UCSC.[/caption]
 <p>
   If spring is here, can Art in the Arboretum be far behind? This annual event--to be held May 19 from 10 a.m. to 4 p.m.--showcases the literary, visual, and performing arts talent of UC Santa Cruz students and faculty.
 </p>The world-renowned gardens of the UCSC Arboretum, showing their full spring colors, are the venue for six hours of free theater, dance, music, readings, and more.<br>

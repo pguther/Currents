@@ -9,7 +9,7 @@ images:
     caption: "Renee Tajima-Pena"
 ---
 
-[caption id="attachment_3278" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/tajima_pena.120.jpg"><img class="size-full wp-image-3278" src="http://localhost/mysite/wp-content/uploads/2005/01/tajima_pena.120.jpg" alt="Renee Tajima-Pena" width="120" height="162" /></a>Renee Tajima-Pena[/caption]
+[caption id="attachment_3278" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/tajima_pena.120.jpg"><img class="size-full wp-image-3278" src="http://localhost/mysite/wp-content/uploads/2005/01/tajima_pena.120.jpg" alt="Renee Tajima-Pena" width="120" height="162" /></a>Renee Tajima-Pena[/caption]
 <a name="content" id="content"></a>
 <p>
   A documentary film by Renee Tajima-Pena, associate professor of community studies, has been recognized by the International Documentary Association.

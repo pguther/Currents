@@ -9,7 +9,7 @@ images:
     caption: "During spring break 2004, UCSC students built a house in Tecate, Mexico. Photo: Maria Mazzenga"
 ---
 
-[caption id="attachment_3378" align="alignnone" width="177"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/spring_break.177.jpg"><img class="size-full wp-image-3378" src="http://localhost/mysite/wp-content/uploads/2005/01/spring_break.177.jpg" alt="During spring break 2004, UCSC students built a house in Tecate, Mexico. Photo: Maria Mazzenga" width="177" height="202" /></a>During spring break 2004, UCSC students built a house in Tecate, Mexico. Photo: Maria Mazzenga[/caption]
+[caption id="attachment_3378" align="alignright" width="177"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/spring_break.177.jpg"><img class="size-full wp-image-3378" src="http://localhost/mysite/wp-content/uploads/2005/01/spring_break.177.jpg" alt="During spring break 2004, UCSC students built a house in Tecate, Mexico. Photo: Maria Mazzenga" width="177" height="202" /></a>During spring break 2004, UCSC students built a house in Tecate, Mexico. Photo: Maria Mazzenga[/caption]
 <a name="content" id="content"></a>
 <p>
   If you could use some extra help around the house, Alternative Spring Break students are hoping you'll give them a call.

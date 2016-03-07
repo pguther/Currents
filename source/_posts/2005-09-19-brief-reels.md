@@ -9,7 +9,7 @@ images:
     caption: "From the film African Flyby (France, 2003), produced by Dominique Janiszewski"
 ---
 
-[caption id="attachment_5373" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/radical_reel.180.jpg"><img class="size-full wp-image-5373" src="http://localhost/mysite/wp-content/uploads/2005/09/radical_reel.180.jpg" alt="From the film African Flyby (France, 2003), produced by Dominique Janiszewski" width="180" height="272" /></a>From the film African Flyby (France, 2003), produced by Dominique Janiszewski[/caption]
+[caption id="attachment_5373" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/radical_reel.180.jpg"><img class="size-full wp-image-5373" src="http://localhost/mysite/wp-content/uploads/2005/09/radical_reel.180.jpg" alt="From the film African Flyby (France, 2003), produced by Dominique Janiszewski" width="180" height="272" /></a>From the film African Flyby (France, 2003), produced by Dominique Janiszewski[/caption]
 <a name="content" id="content"></a>
 <p>
   The Radical Reels Film Festival comes to Santa Cruz this month with an inspiring collection of high-adrenaline films. The event, which will benefit the UCSC Recreation Outings Scholarship Program, will take place on Saturday, September 24, beginning at 7 p.m. at the Rio Theatre.

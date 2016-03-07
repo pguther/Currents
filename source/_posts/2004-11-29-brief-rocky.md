@@ -9,7 +9,7 @@ images:
     caption: "Rocky the sea lion gave researchers new insights and delighted visitors to Long Marine Lab. Photo courtesy of Colleen Kastak"
 ---
 
-[caption id="attachment_4400" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/rocky.04-11-29.jpg"><img class="size-full wp-image-4400" src="http://localhost/mysite/wp-content/uploads/2004/11/rocky.04-11-29.jpg" alt="Rocky the sea lion gave researchers new insights and delighted visitors to Long Marine Lab. Photo courtesy of Colleen Kastak" width="340" height="255" /></a>Rocky the sea lion gave researchers new insights and delighted visitors to Long Marine Lab. Photo courtesy of Colleen Kastak[/caption]
+[caption id="attachment_4400" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/rocky.04-11-29.jpg"><img class="size-full wp-image-4400" src="http://localhost/mysite/wp-content/uploads/2004/11/rocky.04-11-29.jpg" alt="Rocky the sea lion gave researchers new insights and delighted visitors to Long Marine Lab. Photo courtesy of Colleen Kastak" width="340" height="255" /></a>Rocky the sea lion gave researchers new insights and delighted visitors to Long Marine Lab. Photo courtesy of Colleen Kastak[/caption]
 <a name="content" id="content"></a>
 <p>
   Rocky the sea lion, a resident of Long Marine Laboratory for almost 20 years, died peacefully on November 9. She was about 28 years old, a ripe old age by sea lion standards.<br>

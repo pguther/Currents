@@ -9,7 +9,7 @@ images:
     caption: "Brent Haddad will direct the $2.6 million project. Photo: r.r. jones"
 ---
 
-[caption id="attachment_5195" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/haddad.05-07-11.jpg"><img class="size-full wp-image-5195" src="http://localhost/mysite/wp-content/uploads/2005/07/haddad.05-07-11.jpg" alt="Brent Haddad will direct the $2.6 million project. Photo: r.r. jones" width="230" height="236" /></a>Brent Haddad will direct the $2.6 million project. Photo: r.r. jones[/caption]
+[caption id="attachment_5195" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/haddad.05-07-11.jpg"><img class="size-full wp-image-5195" src="http://localhost/mysite/wp-content/uploads/2005/07/haddad.05-07-11.jpg" alt="Brent Haddad will direct the $2.6 million project. Photo: r.r. jones" width="230" height="236" /></a>Brent Haddad will direct the $2.6 million project. Photo: r.r. jones[/caption]
 <a name="content" id="content"></a>
 <p>
   As California's population and economy grow, it's just a matter of time until cities are forced to seriously consider desalination to extend their water supplies.

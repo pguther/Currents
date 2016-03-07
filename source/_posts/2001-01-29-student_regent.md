@@ -9,7 +9,7 @@ images:
     caption: "Justin Fong"
 ---
 
-[caption id="attachment_82" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2001/01/fong_justin.01-01-29.jpg"><img class="size-full wp-image-82" src="http://localhost/mysite/wp-content/uploads/2001/01/fong_justin.01-01-29.jpg" alt="Justin Fong" width="160" height="224" /></a>Justin Fong[/caption]
+[caption id="attachment_82" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2001/01/fong_justin.01-01-29.jpg"><img class="size-full wp-image-82" src="http://localhost/mysite/wp-content/uploads/2001/01/fong_justin.01-01-29.jpg" alt="Justin Fong" width="160" height="224" /></a>Justin Fong[/caption]
 <p>
   By Jessica Brice<br>
   <br>

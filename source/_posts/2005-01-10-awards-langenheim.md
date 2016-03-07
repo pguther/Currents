@@ -9,7 +9,7 @@ images:
     caption: "Jean Langenheim"
 ---
 
-[caption id="attachment_3300" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/langenheim-jean.140.jpg"><img class="size-full wp-image-3300" src="http://localhost/mysite/wp-content/uploads/2005/01/langenheim-jean.140.jpg" alt="Jean Langenheim" width="140" height="175" /></a>Jean Langenheim[/caption]
+[caption id="attachment_3300" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/langenheim-jean.140.jpg"><img class="size-full wp-image-3300" src="http://localhost/mysite/wp-content/uploads/2005/01/langenheim-jean.140.jpg" alt="Jean Langenheim" width="140" height="175" /></a>Jean Langenheim[/caption]
 <a name="content" id="content"></a>
 <p>
   The California Botanical Society has honored Jean Langenheim, professor emerita of ecology and evolutionary biology, by dedicating to her the latest volume of its journal, <i>Madrono</i>. This volume includes the four issues of the journal published in 2004, the most recent of which includes an essay on Langenheim's contributions to the field by botanist Thomas Hofstra.

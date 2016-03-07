@@ -9,7 +9,7 @@ images:
     caption: "Louis Owens Photo: Don Harris, UCSC Photo Services"
 ---
 
-[caption id="attachment_2108" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/08/owens_l.02-08-05.160.jpg"><img class="size-full wp-image-2108" src="http://localhost/mysite/wp-content/uploads/2002/08/owens_l.02-08-05.160.jpg" alt="Louis Owens Photo: Don Harris, UCSC Photo Services" width="160" height="233" /></a>Louis Owens Photo: Don Harris, UCSC Photo Services[/caption]
+[caption id="attachment_2108" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/08/owens_l.02-08-05.160.jpg"><img class="size-full wp-image-2108" src="http://localhost/mysite/wp-content/uploads/2002/08/owens_l.02-08-05.160.jpg" alt="Louis Owens Photo: Don Harris, UCSC Photo Services" width="160" height="233" /></a>Louis Owens Photo: Don Harris, UCSC Photo Services[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

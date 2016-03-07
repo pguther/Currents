@@ -9,7 +9,7 @@ images:
     caption: "Kitty Woldow, UCSC Safety Programs manager, evaluates Acting Chancellor George Blumenthal's workspace. Photo: Guy Lasnier"
 ---
 
-[caption id="attachment_5842" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/ergonomics1.230.jpg"><img class="size-full wp-image-5842" src="http://localhost/mysite/wp-content/uploads/2007/01/ergonomics1.230.jpg" alt="Kitty Woldow, UCSC Safety Programs manager, evaluates Acting Chancellor George Blumenthal's workspace. Photo: Guy Lasnier" width="230" height="153" /></a>Kitty Woldow, UCSC Safety Programs manager, evaluates Acting Chancellor George Blumenthal's workspace. Photo: Guy Lasnier[/caption]
+[caption id="attachment_5842" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/ergonomics1.230.jpg"><img class="size-full wp-image-5842" src="http://localhost/mysite/wp-content/uploads/2007/01/ergonomics1.230.jpg" alt="Kitty Woldow, UCSC Safety Programs manager, evaluates Acting Chancellor George Blumenthal's workspace. Photo: Guy Lasnier" width="230" height="153" /></a>Kitty Woldow, UCSC Safety Programs manager, evaluates Acting Chancellor George Blumenthal's workspace. Photo: Guy Lasnier[/caption]
 <a name="content" id="content"></a>
 <p>
   The chair is too small. The keyboard's too narrow and the keyboard tray too high. Other than that, Acting Chancellor George Blumenthal's computer workstation seemed OK.

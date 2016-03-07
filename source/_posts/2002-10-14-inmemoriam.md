@@ -9,7 +9,7 @@ images:
     caption: "Frank X. Barron Photo: UCSC Photo Services"
 ---
 
-[caption id="attachment_2272" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/barron_frank.160.jpg"><img class="size-full wp-image-2272" src="http://localhost/mysite/wp-content/uploads/2002/10/barron_frank.160.jpg" alt="Frank X. Barron Photo: UCSC Photo Services" width="160" height="211" /></a>Frank X. Barron Photo: UCSC Photo Services[/caption]
+[caption id="attachment_2272" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/barron_frank.160.jpg"><img class="size-full wp-image-2272" src="http://localhost/mysite/wp-content/uploads/2002/10/barron_frank.160.jpg" alt="Frank X. Barron Photo: UCSC Photo Services" width="160" height="211" /></a>Frank X. Barron Photo: UCSC Photo Services[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

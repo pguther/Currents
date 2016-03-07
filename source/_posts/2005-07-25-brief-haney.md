@@ -9,7 +9,7 @@ images:
     caption: "Craig Haney"
 ---
 
-[caption id="attachment_5216" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/haney_craig.120.jpg"><img class="size-full wp-image-5216" src="http://localhost/mysite/wp-content/uploads/2005/07/haney_craig.120.jpg" alt="Craig Haney" width="120" height="167" /></a>Craig Haney[/caption]
+[caption id="attachment_5216" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/haney_craig.120.jpg"><img class="size-full wp-image-5216" src="http://localhost/mysite/wp-content/uploads/2005/07/haney_craig.120.jpg" alt="Craig Haney" width="120" height="167" /></a>Craig Haney[/caption]
 <p>
   <a name="content" id="content"></a> BEGIN STORY
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "Geoffrey Pullum Photo: Barbara Scholz"
 ---
 
-[caption id="attachment_5365" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/pullum_geoffrey.160.jpg"><img class="size-full wp-image-5365" src="http://localhost/mysite/wp-content/uploads/2005/09/pullum_geoffrey.160.jpg" alt="Geoffrey Pullum Photo: Barbara Scholz" width="160" height="176" /></a>Geoffrey Pullum Photo: Barbara Scholz[/caption]
+[caption id="attachment_5365" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/pullum_geoffrey.160.jpg"><img class="size-full wp-image-5365" src="http://localhost/mysite/wp-content/uploads/2005/09/pullum_geoffrey.160.jpg" alt="Geoffrey Pullum Photo: Barbara Scholz" width="160" height="176" /></a>Geoffrey Pullum Photo: Barbara Scholz[/caption]
 <a name="content" id="content"></a>
 <p>
   Linguistics professor Geoffrey Pullum has been selected as a 2005-06 fellow by the Radcliffe Institute for Advanced Study. He is one of 51 people selected for the yearlong fellowship. While at Radcliffe, the fellows--among them 10 creative artists, 16 humanists, 13 social scientists, and 12 scientists working on projects ranging from issues in higher education, to cancer treatments, to installation art on the theme of loss--will work individually and across disciplines on projects chosen both for quality and long-term impact.

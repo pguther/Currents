@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2537" align="alignnone" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/nanopore1.04-02-16.250.jpg"><img class="size-full wp-image-2537" src="http://localhost/mysite/wp-content/uploads/2004/02/nanopore1.04-02-16.250.jpg" alt="" width="250" height="238" /></a>[/caption]
+[caption id="attachment_2537" align="alignright" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/nanopore1.04-02-16.250.jpg"><img class="size-full wp-image-2537" src="http://localhost/mysite/wp-content/uploads/2004/02/nanopore1.04-02-16.250.jpg" alt="" width="250" height="238" /></a>[/caption]
 <p>
   UCSC has established a new Department of Biomolecular Engineering within the Baskin School of Engineering. The department is the new home for UCSC's renowned programs in bioinformatics, and includes faculty and researchers with interests in nanotechnology, protein engineering, and DNA microarrays (also known as "gene chips").<br>
 </p>

@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_7062" align="alignnone" width="125"]<a href="http://localhost/mysite/wp-content/uploads/1999/11/oechel_forehand.180.JPG"><img class="size-full wp-image-7062" src="http://localhost/mysite/wp-content/uploads/1999/11/oechel_forehand.180.JPG" alt="" width="125" height="285" /></a>[/caption]
+[caption id="attachment_7062" align="alignright" width="125"]<a href="http://localhost/mysite/wp-content/uploads/1999/11/oechel_forehand.180.JPG"><img class="size-full wp-image-7062" src="http://localhost/mysite/wp-content/uploads/1999/11/oechel_forehand.180.JPG" alt="" width="125" height="285" /></a>[/caption]
 <h4>
   <font color="#003399">Murray Baumgarten</font>
 </h4>

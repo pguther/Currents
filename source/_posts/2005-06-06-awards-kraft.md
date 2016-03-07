@@ -9,7 +9,7 @@ images:
     caption: "Robert Kraft UCSC Photo Services"
 ---
 
-[caption id="attachment_3907" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/kraft_robert.150.jpg"><img class="size-full wp-image-3907" src="http://localhost/mysite/wp-content/uploads/2005/06/kraft_robert.150.jpg" alt="Robert Kraft UCSC Photo Services" width="150" height="217" /></a>Robert Kraft UCSC Photo Services[/caption]
+[caption id="attachment_3907" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/kraft_robert.150.jpg"><img class="size-full wp-image-3907" src="http://localhost/mysite/wp-content/uploads/2005/06/kraft_robert.150.jpg" alt="Robert Kraft UCSC Photo Services" width="150" height="217" /></a>Robert Kraft UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   The Astronomical Society of the Pacific has awarded the 2005 Catherine Wolfe Bruce Gold Medal to Robert P. Kraft, professor emeritus of astronomy and astrophysics and former director of the UC Observatories/Lick Observatory (UCO/Lick). Kraft is the sixth astronomer associated with the Lick Observatory to receive this award, and the fourth associated with UCSC.

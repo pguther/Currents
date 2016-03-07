@@ -9,7 +9,7 @@ images:
     caption: "Paul Whitworth as Henry Higgins and Julia Coffey as Eliza Doolittle in SSC's 2006 production of Pygmalion Photo courtesy of Shakespeare Santa Cruz"
 ---
 
-[caption id="attachment_5974" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/shakespeare.promo.jpg"><img class="size-full wp-image-5974" src="http://localhost/mysite/wp-content/uploads/2007/03/shakespeare.promo.jpg" alt="Paul Whitworth as Henry Higgins and Julia Coffey as Eliza Doolittle in SSC's 2006 production of Pygmalion Photo courtesy of Shakespeare Santa Cruz" width="230" height="184" /></a>Paul Whitworth as Henry Higgins and Julia Coffey as Eliza Doolittle in SSC's 2006 production of Pygmalion Photo courtesy of Shakespeare Santa Cruz[/caption]
+[caption id="attachment_5974" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/03/shakespeare.promo.jpg"><img class="size-full wp-image-5974" src="http://localhost/mysite/wp-content/uploads/2007/03/shakespeare.promo.jpg" alt="Paul Whitworth as Henry Higgins and Julia Coffey as Eliza Doolittle in SSC's 2006 production of Pygmalion Photo courtesy of Shakespeare Santa Cruz" width="230" height="184" /></a>Paul Whitworth as Henry Higgins and Julia Coffey as Eliza Doolittle in SSC's 2006 production of Pygmalion Photo courtesy of Shakespeare Santa Cruz[/caption]
 <a name="content" id="content"></a>
 <p>
   Shakespeare Santa Cruz (SSC) has announced a sterling lineup of serious comedy as it heads into its 26th season beginning this July.

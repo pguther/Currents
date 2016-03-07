@@ -9,7 +9,7 @@ images:
     caption: "A truck owned by Azzie's Storage rolled downhill Friday, flattening one of the small historic sheds but turning and stopping before reaching Coolidge Drive. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_3677" align="alignnone" width="360"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/accident.05-04-21.jpg"><img class="size-full wp-image-3677" src="http://localhost/mysite/wp-content/uploads/2005/04/accident.05-04-21.jpg" alt="A truck owned by Azzie's Storage rolled downhill Friday, flattening one of the small historic sheds but turning and stopping before reaching Coolidge Drive. Photo: Louise Donahue" width="360" height="249" /></a>A truck owned by Azzie's Storage rolled downhill Friday, flattening one of the small historic sheds but turning and stopping before reaching Coolidge Drive. Photo: Louise Donahue[/caption]
+[caption id="attachment_3677" align="alignright" width="360"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/accident.05-04-21.jpg"><img class="size-full wp-image-3677" src="http://localhost/mysite/wp-content/uploads/2005/04/accident.05-04-21.jpg" alt="A truck owned by Azzie's Storage rolled downhill Friday, flattening one of the small historic sheds but turning and stopping before reaching Coolidge Drive. Photo: Louise Donahue" width="360" height="249" /></a>A truck owned by Azzie's Storage rolled downhill Friday, flattening one of the small historic sheds but turning and stopping before reaching Coolidge Drive. Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a><br>
 <p>
   An effort to move a storage container behind the police station went badly awry on Friday morning when the truck rolled down a steep incline near the main entrance to campus.

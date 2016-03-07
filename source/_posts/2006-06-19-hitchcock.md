@@ -9,7 +9,7 @@ images:
     caption: "This broadside is included in the first issue of Viz., made from a poem and painting by George Hitchcock."
 ---
 
-[caption id="attachment_5173" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/broadside.06-06-19.jpg"><img class="size-full wp-image-5173" src="http://localhost/mysite/wp-content/uploads/2006/06/broadside.06-06-19.jpg" alt="This broadside is included in the first issue of Viz., made from a poem and painting by George Hitchcock." width="200" height="259" /></a>This broadside is included in the first issue of Viz., made from a poem and painting by George Hitchcock.[/caption]
+[caption id="attachment_5173" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/broadside.06-06-19.jpg"><img class="size-full wp-image-5173" src="http://localhost/mysite/wp-content/uploads/2006/06/broadside.06-06-19.jpg" alt="This broadside is included in the first issue of Viz., made from a poem and painting by George Hitchcock." width="200" height="259" /></a>This broadside is included in the first issue of Viz., made from a poem and painting by George Hitchcock.[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC's Kinetic Poetics Project, a student poetry collective, has been awarded $6,000 from the Porter College Hitchcock Poetry Fund for the 2006-07 academic year.

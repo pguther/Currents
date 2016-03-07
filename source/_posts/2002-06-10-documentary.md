@@ -9,7 +9,7 @@ images:
     caption: "El Zocalo, a documentary about the great plaza in Mexico City, was produced by Chip Lord and Gustavo Vazquez."
 ---
 
-[caption id="attachment_1250" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/06/zocalo.02-06-10.224.jpg"><img class="size-full wp-image-1250" src="http://localhost/mysite/wp-content/uploads/2002/06/zocalo.02-06-10.224.jpg" alt="El Zocalo, a documentary about the great plaza in Mexico City, was produced by Chip Lord and Gustavo Vazquez." width="224" height="130" /></a>El Zocalo, a documentary about the great plaza in Mexico City, was produced by Chip Lord and Gustavo Vazquez.[/caption]
+[caption id="attachment_1250" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/06/zocalo.02-06-10.224.jpg"><img class="size-full wp-image-1250" src="http://localhost/mysite/wp-content/uploads/2002/06/zocalo.02-06-10.224.jpg" alt="El Zocalo, a documentary about the great plaza in Mexico City, was produced by Chip Lord and Gustavo Vazquez." width="224" height="130" /></a>El Zocalo, a documentary about the great plaza in Mexico City, was produced by Chip Lord and Gustavo Vazquez.[/caption]
 <p>
   A Mexican flag so huge 12 soldiers are needed to carry it to shelter on a rain-soaked day. An elderly man making music with a hand-cranked calliope. The green-and-white Volkswagen Beetle taxi, appearing again and again throughout the day.
 </p>These are moments in the ebb and flow of life on the Zocalo, the great open square at the heart of Mexico City, whose past and present is captured in a new video entitled <i>El Zocalo.</i>

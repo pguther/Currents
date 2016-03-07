@@ -9,7 +9,7 @@ images:
     caption: "Pacific white-sided dolphins are common in Monterey Bay. Photo: Captain Budd Christman, NOAA Corps"
 ---
 
-[caption id="attachment_830" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/01/dolphins.02-01-14.224.jpg"><img class="size-full wp-image-830" src="http://localhost/mysite/wp-content/uploads/2002/01/dolphins.02-01-14.224.jpg" alt="Pacific white-sided dolphins are common in Monterey Bay. Photo: Captain Budd Christman, NOAA Corps" width="224" height="160" /></a>Pacific white-sided dolphins are common in Monterey Bay. Photo: Captain Budd Christman, NOAA Corps[/caption]
+[caption id="attachment_830" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/01/dolphins.02-01-14.224.jpg"><img class="size-full wp-image-830" src="http://localhost/mysite/wp-content/uploads/2002/01/dolphins.02-01-14.224.jpg" alt="Pacific white-sided dolphins are common in Monterey Bay. Photo: Captain Budd Christman, NOAA Corps" width="224" height="160" /></a>Pacific white-sided dolphins are common in Monterey Bay. Photo: Captain Budd Christman, NOAA Corps[/caption]
 <p>
   Local marine mammals are starring in the Seymour Center's winter program at Long Marine Laboratory. From January through March, the center presents "Marvelous Marine Mammals," a series of events focused on Monterey Bay's sea lions, sea otters, dolphins, whales, and elephant seals, and the scientists who study them.
 </p>Events include three science lectures, a whale-watching trip, and ongoing activities and presentations inside the exhibit hall at the Seymour Center.<br>

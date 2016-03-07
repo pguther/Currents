@@ -9,7 +9,7 @@ images:
     caption: "Lisa Sloan"
 ---
 
-[caption id="attachment_4054" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/07/sloan_lisa.140.jpg"><img class="size-full wp-image-4054" src="http://localhost/mysite/wp-content/uploads/2004/07/sloan_lisa.140.jpg" alt="Lisa Sloan" width="140" height="177" /></a>Lisa Sloan[/caption]
+[caption id="attachment_4054" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/07/sloan_lisa.140.jpg"><img class="size-full wp-image-4054" src="http://localhost/mysite/wp-content/uploads/2004/07/sloan_lisa.140.jpg" alt="Lisa Sloan" width="140" height="177" /></a>Lisa Sloan[/caption]
 <p class="pagehead">
   Appointments
 </p>

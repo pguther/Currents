@@ -1,0 +1,7 @@
+perl -p -i -e 's/END PAGE CONTENT\s*//g' *.md
+perl -p -i -e 's/.*>Return to Front Page<.*//g' *.md
+perl -p -i -e 's/.*>Printer-friendly version<.*//g' *.md
+perl -p -i -e 's/.*>Email this story<.*//g' *.md
+perl -p -i -e 's/.*value="Email this story to a friend".*//g' *.md
+
+http://localhost/mysite/wp-content/uploads/1999/09/car.99-09-20.jpg

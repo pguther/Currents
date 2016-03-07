@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2501" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/seal.04-02-02.160.gif"><img class="size-full wp-image-2501" src="http://localhost/mysite/wp-content/uploads/2004/02/seal.04-02-02.160.gif" alt="" width="160" height="176" /></a>[/caption]
+[caption id="attachment_2501" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2004/02/seal.04-02-02.160.gif"><img class="size-full wp-image-2501" src="http://localhost/mysite/wp-content/uploads/2004/02/seal.04-02-02.160.gif" alt="" width="160" height="176" /></a>[/caption]
 <p>
   <i>This fact sheet has been prepared by the office of Government &amp; CommunIty Relations at UCSC.</i><br>
 </p>

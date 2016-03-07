@@ -9,7 +9,7 @@ images:
     caption: "Jonathan Fox will chair the new Latin American and Latino Studies Department. Photo: Jon Kersey"
 ---
 
-[caption id="attachment_151" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/02/fox_jonathan.01-02-26.224.jpg"><img class="size-full wp-image-151" src="http://localhost/mysite/wp-content/uploads/2001/02/fox_jonathan.01-02-26.224.jpg" alt="Jonathan Fox will chair the new Latin American and Latino Studies Department. Photo: Jon Kersey" width="224" height="252" /></a>Jonathan Fox will chair the new Latin American and Latino Studies Department. Photo: Jon Kersey[/caption]
+[caption id="attachment_151" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/02/fox_jonathan.01-02-26.224.jpg"><img class="size-full wp-image-151" src="http://localhost/mysite/wp-content/uploads/2001/02/fox_jonathan.01-02-26.224.jpg" alt="Jonathan Fox will chair the new Latin American and Latino Studies Department. Photo: Jon Kersey" width="224" height="252" /></a>Jonathan Fox will chair the new Latin American and Latino Studies Department. Photo: Jon Kersey[/caption]
 <p>
   In a move that underscores UCSC's role on the cutting edge of intellectual pursuit, Campus Provost John Simpson has approved the establishment of the Latin American and Latino Studies (LALS) Department.
 </p><br>

@@ -10,7 +10,7 @@ images:
     caption: "Mel Wong UCSC Photo Services"
 ---
 
-[caption id="attachment_2952" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2003/07/wong_mel.200.03-07-21.jpg"><img class="size-full wp-image-2952" src="http://localhost/mysite/wp-content/uploads/2003/07/wong_mel.200.03-07-21.jpg" alt="Mel Wong UCSC Photo Services" width="200" height="271" /></a>Mel Wong UCSC Photo Services[/caption]
+[caption id="attachment_2952" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2003/07/wong_mel.200.03-07-21.jpg"><img class="size-full wp-image-2952" src="http://localhost/mysite/wp-content/uploads/2003/07/wong_mel.200.03-07-21.jpg" alt="Mel Wong UCSC Photo Services" width="200" height="271" /></a>Mel Wong UCSC Photo Services[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

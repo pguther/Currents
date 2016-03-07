@@ -9,7 +9,7 @@ images:
     caption: "Nancy Vail picks apples at the Farm. Photo courtesy of the Farm & Garden"
 ---
 
-[caption id="attachment_4195" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/fruitharvest.180.jpg"><img class="size-full wp-image-4195" src="http://localhost/mysite/wp-content/uploads/2004/10/fruitharvest.180.jpg" alt="Nancy Vail picks apples at the Farm. Photo courtesy of the Farm & Garden" width="180" height="222" /></a>Nancy Vail picks apples at the Farm. Photo courtesy of the Farm & Garden[/caption]
+[caption id="attachment_4195" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/fruitharvest.180.jpg"><img class="size-full wp-image-4195" src="http://localhost/mysite/wp-content/uploads/2004/10/fruitharvest.180.jpg" alt="Nancy Vail picks apples at the Farm. Photo courtesy of the Farm & Garden" width="180" height="222" /></a>Nancy Vail picks apples at the Farm. Photo courtesy of the Farm & Garden[/caption]
 <a name="content" id="content"></a>
 <p>
   Whether you like yours fresh off the tree or baked in a tasty pie, apples will be a star attraction at the annual UCSC Harvest Festival on Saturday, October 9, from 11 a.m. to 5 p.m.

@@ -10,7 +10,7 @@ images:
     caption: "Adam Ludwig, left, Susannah Schulman, and Matthew Orduna perform in Cymbeline in the 2000 festival. Photo: R. R. Jones"
 ---
 
-[caption id="attachment_194" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/03/play.01-03-12.224.jpg"><img class="size-full wp-image-194" src="http://localhost/mysite/wp-content/uploads/2001/03/play.01-03-12.224.jpg" alt="Adam Ludwig, left, Susannah Schulman, and Matthew Orduna perform in Cymbeline in the 2000 festival. Photo: R. R. Jones" width="224" height="156" /></a>Adam Ludwig, left, Susannah Schulman, and Matthew Orduna perform in Cymbeline in the 2000 festival. Photo: R. R. Jones[/caption]
+[caption id="attachment_194" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/03/play.01-03-12.224.jpg"><img class="size-full wp-image-194" src="http://localhost/mysite/wp-content/uploads/2001/03/play.01-03-12.224.jpg" alt="Adam Ludwig, left, Susannah Schulman, and Matthew Orduna perform in Cymbeline in the 2000 festival. Photo: R. R. Jones" width="224" height="156" /></a>Adam Ludwig, left, Susannah Schulman, and Matthew Orduna perform in Cymbeline in the 2000 festival. Photo: R. R. Jones[/caption]
 <p>
   Shakespeare Santa Cruz will bring its summer audiences tales of love, magic, and tragedy as it celebrates its 20th anniversary season
 </p>The summer festival selections are Shakespeare's <i>Macbeth</i> and <i>A Midsummer Night's Dream</i> and Anglo-Irish author Oliver Goldsmith's <i>She Stoops to Conquer.<br>

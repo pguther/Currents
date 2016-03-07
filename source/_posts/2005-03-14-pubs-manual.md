@@ -9,7 +9,7 @@ images:
     caption: "A new publication by CASFS offers marketing ideas and strategies for small-scale farming."
 ---
 
-[caption id="attachment_3538" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/farm_manual.180.jpg"><img class="size-full wp-image-3538" src="http://localhost/mysite/wp-content/uploads/2005/03/farm_manual.180.jpg" alt="A new publication by CASFS offers marketing ideas and strategies for small-scale farming." width="180" height="231" /></a>A new publication by CASFS offers marketing ideas and strategies for small-scale farming.[/caption]
+[caption id="attachment_3538" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/farm_manual.180.jpg"><img class="size-full wp-image-3538" src="http://localhost/mysite/wp-content/uploads/2005/03/farm_manual.180.jpg" alt="A new publication by CASFS offers marketing ideas and strategies for small-scale farming." width="180" height="231" /></a>A new publication by CASFS offers marketing ideas and strategies for small-scale farming.[/caption]
 <a name="content" id="content"></a>
 <p>
   The economics of corporate-dominated food production today make it tough for small-scale farmers to make ends meet. Despite long hours and backbreaking work, they often have little money in the bank.

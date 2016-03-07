@@ -9,7 +9,7 @@ images:
     caption: "Paul Rangell in his studio Photo: Rafael Rangell"
 ---
 
-[caption id="attachment_4552" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/rangell_paul.200.jpg"><img class="size-full wp-image-4552" src="http://localhost/mysite/wp-content/uploads/2006/01/rangell_paul.200.jpg" alt="Paul Rangell in his studio Photo: Rafael Rangell" width="200" height="196" /></a>Paul Rangell in his studio Photo: Rafael Rangell[/caption]
+[caption id="attachment_4552" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/rangell_paul.200.jpg"><img class="size-full wp-image-4552" src="http://localhost/mysite/wp-content/uploads/2006/01/rangell_paul.200.jpg" alt="Paul Rangell in his studio Photo: Rafael Rangell" width="200" height="196" /></a>Paul Rangell in his studio Photo: Rafael Rangell[/caption]
 <a name="content" id="content"></a>
 <p>
   Art lecturer Paul Rangell will travel to Hawaii in February to serve as juror and visiting artist for the annual invitational show of the Honolulu Printmakers, a private association of artists. The exhibition is open to all print artists in Hawaii. Rangell will present two lectures and a three-day workshop on transfer lithography at the event.

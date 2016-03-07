@@ -9,7 +9,7 @@ images:
     caption: "Caption text here. Photo by XXXXXX"
 ---
 
-[caption id="attachment_4211" align="alignnone" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/amsterdam.04-05-03.250.jpg"><img class="size-full wp-image-4211" src="http://localhost/mysite/wp-content/uploads/2004/10/amsterdam.04-05-03.250.jpg" alt="Caption text here. Photo by XXXXXX" width="250" height="352" /></a>Caption text here. Photo by XXXXXX[/caption]
+[caption id="attachment_4211" align="alignright" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/10/amsterdam.04-05-03.250.jpg"><img class="size-full wp-image-4211" src="http://localhost/mysite/wp-content/uploads/2004/10/amsterdam.04-05-03.250.jpg" alt="Caption text here. Photo by XXXXXX" width="250" height="352" /></a>Caption text here. Photo by XXXXXX[/caption]
 <a name="content" id="content"></a>
 <p>
   Date

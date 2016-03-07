@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5251" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/hark.08-08-05.jpg"><img class="size-full wp-image-5251" src="http://localhost/mysite/wp-content/uploads/2005/08/hark.08-08-05.jpg" alt="" width="230" height="153" /></a>[/caption]
+[caption id="attachment_5251" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/08/hark.08-08-05.jpg"><img class="size-full wp-image-5251" src="http://localhost/mysite/wp-content/uploads/2005/08/hark.08-08-05.jpg" alt="" width="230" height="153" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The collaborative ensemble Cmd-Z--directed by UCSC associate professor of art E. G. Crichton and Santa Cruz performance artist Lauren Crux--will present a tableau vivant performance piece titled <i>Hark and Woe</i> on Sunday, August 21. The free event will take place at 5 p.m, on the lawn in front of the Surfing Museum on West Cliff Drive at Lighthouse Point in Santa Cruz.

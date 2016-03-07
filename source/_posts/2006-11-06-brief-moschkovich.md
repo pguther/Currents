@@ -9,7 +9,7 @@ images:
     caption: "Judit Moschkovich Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_6367" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/moschkovich_judit.150.jpg"><img class="size-full wp-image-6367" src="http://localhost/mysite/wp-content/uploads/2006/11/moschkovich_judit.150.jpg" alt="Judit Moschkovich Photo: Jennifer McNulty" width="150" height="200" /></a>Judit Moschkovich Photo: Jennifer McNulty[/caption]
+[caption id="attachment_6367" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/11/moschkovich_judit.150.jpg"><img class="size-full wp-image-6367" src="http://localhost/mysite/wp-content/uploads/2006/11/moschkovich_judit.150.jpg" alt="Judit Moschkovich Photo: Jennifer McNulty" width="150" height="200" /></a>Judit Moschkovich Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   Judit Moschkovich, associate professor of education, submitted a statement to the National Mathematics Advisory Panel during the group's Nov. 5-6 meeting in Palo Alto.

@@ -9,7 +9,7 @@ images:
     caption: "A recent UC report estimates that demand for child care far outstrips supply. Illustration: Martha McNulty"
 ---
 
-[caption id="attachment_259" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/child.01-04-09.180.jpg"><img class="size-full wp-image-259" src="http://localhost/mysite/wp-content/uploads/2001/04/child.01-04-09.180.jpg" alt="A recent UC report estimates that demand for child care far outstrips supply. Illustration: Martha McNulty" width="180" height="190" /></a>A recent UC report estimates that demand for child care far outstrips supply. Illustration: Martha McNulty[/caption]
+[caption id="attachment_259" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/04/child.01-04-09.180.jpg"><img class="size-full wp-image-259" src="http://localhost/mysite/wp-content/uploads/2001/04/child.01-04-09.180.jpg" alt="A recent UC report estimates that demand for child care far outstrips supply. Illustration: Martha McNulty" width="180" height="190" /></a>A recent UC report estimates that demand for child care far outstrips supply. Illustration: Martha McNulty[/caption]
 <p>
   <a href="mailto:mary.spletter@ucop.edu">Office of the President</a><br>
   <br>

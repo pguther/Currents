@@ -125,6 +125,10 @@ class CurrentsArticleParser(object):
     """
 
     def __init__(self):
+        """
+        Pre-compiles all the regexes used for scraping in order to save time during execution
+        :return:
+        """
         self.date_regex = re.compile(r"[A-Za-z]+\s*\d{1,2}\,\s*\d{4}")
         self.end_story_regex = re.compile(r"\s*END\s*STORY\s*")
         self.word_regex = re.compile(r"([^\s\n\r\t]+)")
@@ -137,10 +141,19 @@ class CurrentsArticleParser(object):
         self.object_index = 0
 
     def get_next_index(self):
+        """
+        Used as a counter to give each item (posts, images, and videos) a unique ID
+        :return: the next unique id
+        """
         self.object_index += 1
         return self.object_index
 
     def get_image_dimens(self, image_url):
+        """
+        Uses the PIL Pillow fork to get the width and height of an image from a url
+        :param image_url: the url of the image to get the dimensions for
+        :return: height, width
+        """
         url_connection = urllib.urlopen(image_url)
         image_file = cStringIO.StringIO(url_connection.read())
         im = Image.open(image_file)
@@ -196,6 +209,12 @@ class CurrentsArticleParser(object):
             raise Exception("unable to find slug for article: " + page_url + "\n")
 
     def get_url_ending(self, page_url):
+        """
+        Gets the url slug plus the file ending eg:
+        www.example.com/example.html -> example.html
+        :param page_url: the url to get the ending from
+        :return: the url ending
+        """
         slug_match = self.article_ending_regex.findall(page_url)
         if slug_match and len(slug_match) == 1:
             return slug_match[0]
@@ -258,22 +277,22 @@ class CurrentsArticleParser(object):
 
         return r.text
 
-    def parse_story_text(self, story_text, article_url):
+    def get_images_storytext(self, story_text, article_url):
         """
-        Parses a story_text div class and finds the
-            - title
-            - author
-            - date
-            - and the html of the story body
-        and returns it in dictionary form
-        :param story_text: an HTML div of class story_text
-        :return:
+        Extracts image information from the tables and returns a dictionary dictionaries of said information
+        of the form:
+        - image url:
+            - image description
+            - image width
+            - image height
+            - image id
+        works for articles without a 'storytext' div, but not articles with one, as image descriptions
+        are in the same cell for tables in the 'storytext' div, and in separate cells for tables that aren't.
+        Removes the tables from the BeautifulSoup object representing the article body when done
+        :param story_text: the BeautifulSoup object representing the article body
+        :param article_url: the url of the article that images are being extracted from
+        :return: article body without image tables, images_dictionary
         """
-
-        title = None
-        author = None
-        date = None
-        story_string = None
         images_dictionary = dict()
         gremlin_zapper = GremlinZapper()
 
@@ -320,135 +339,26 @@ class CurrentsArticleParser(object):
                                                                 "image_id": str(self.get_next_index())}
 
             table.extract()
+        return images_dictionary
 
-        for item in story_text.contents:
-            # print type(item)
-            add_to_story = True
-
-            if isinstance(item, bs4.element.Tag):
-                # print item
-                if 'class' in item.attrs:
-                    classes = item['class']
-                    for the_class in classes:
-                        if the_class == 'storyhead':
-                            title = item.get_text()
-                            matches = self.word_regex.findall(title)
-                            title = ' '.join(matches)
-                            title = gremlin_zapper.zap_string(title)
-                            add_to_story = False
-                        if the_class == 'subhead' and title is None:
-                            title = item.get_text()
-                            matches = self.word_regex.findall(title)
-                            title = ' '.join(matches)
-                            title = gremlin_zapper.zap_string(title)
-                            add_to_story = False
-                elif item.string:
-                    match = self.date_regex.match(item.string)
-                    if match:
-                        # Convert date from Month, Day Year to Year-Month-Day
-                        try:
-                            raw_date = item.string
-                            raw_date = raw_date.rstrip()
-                            raw_date = raw_date.lstrip()
-                            date = datetime.datetime.strptime(raw_date, "%B %d, %Y").strftime("%Y-%m-%d")
-                            add_to_story = False
-                        except ValueError:
-                            add_to_story = True
-
-                else:
-                    story_end = False
-
-                    """
-                    images = item.find_all('img')
-                    if images:
-                        add_to_story = False
-
-                        for image in images:
-                            print image
-                            image_src = image['src']
-                            image_text = image.get_text()
-                            matches = self.word_regex.findall(image_text)
-                            image_text = ' '.join(matches)
-                            image_text = gremlin_zapper.zap_string(image_text)
-                            print "IMAGE TEXT"
-                            print image_text
-                            images_dictionary[image_src] = image_text
-                    """
-                    if item.contents:
-                        if len(item.contents) >= 1 and isinstance(item.contents[0], bs4.element.NavigableString):
-
-                            author_matches = self.author_regex.findall(item.contents[0])
-                            if author_matches:
-                                author = author_matches[0]
-
-                        if len(item.contents) >= 2:
-
-                            if isinstance(item.contents[0], bs4.element.NavigableString) \
-                                    and isinstance(item.contents[1], bs4.element.Tag) \
-                                    and item.contents[1].name == 'a':
-                                stripped = item.contents[0].rstrip().lstrip().lower()
-                                if stripped == 'by':
-                                    try:
-                                        author = item.contents[1].string
-                                        author = gremlin_zapper.zap_string(author)
-                                    except TypeError:
-                                        author = str(item.contents[1])
-                                        matches = self.word_regex.findall(author)
-                                        author = ' '.join(matches)
-                                        author = gremlin_zapper.zap_string(author)
-                                        soup = BeautifulSoup(author, 'lxml')
-                                        author = soup.a.get_text()
-                                    add_to_story = False
-
-                        for cont in item.contents:
-                            if isinstance(cont, bs4.element.Comment):
-                                match = self.end_story_regex.match(cont.string)
-                                if match:
-                                    story_end = True
-                            if isinstance(cont, bs4.element.NavigableString):
-                                match = self.date_regex.findall(cont.string)
-                                if match:
-                                    # Convert date from Month, Day Year to Year-Month-Day
-                                    try:
-                                        raw_date = match[0]
-                                        raw_date = raw_date.rstrip()
-                                        raw_date = raw_date.lstrip()
-                                        if date is None:
-                                            date = datetime.datetime.strptime(raw_date, "%B %d, %Y")\
-                                                .strftime("%Y-%m-%d")
-                                    except ValueError:
-                                        raw_date = None
-                    if story_end:
-                        break
-            else:
-                add_to_story = False
-
-            if add_to_story:
-                self.zap_tag_contents(item)
-
-                if story_string is None:
-                    story_string = str(item)
-                else:
-                    story_string += str(item)
-
-        if author is None:
-            author = "Public Information Department"
-
-        return {'title': title,
-                'author': author,
-                'images_dictionary': images_dictionary,
-                'article_body': story_string,
-                'date': date,
-                "post_id": str(self.get_next_index())}
-
-    def parse_no_storytext_div(self, article_body, article_url):
-
+    def get_images_no_storytext(self, article_body, article_url):
+        """
+        Extracts image information from the tables and returns a dictionary dictionaries of said information
+        of the form:
+        - image url:
+            - image description
+            - image width
+            - image height
+            - image id
+        works for articles without a 'storytext' div, but not articles with one, as image descriptions
+        are in the same cell for tables in the 'storytext' div, and in seperate cells for tables that aren't.
+        Removes the tables from the BeautifulSoup object representing the article body when done
+        :param article_body: the BeautifulSoup object representing the article body
+        :param article_url: the url of the article that images are being extracted from
+        :return: article body without image tables, images_dictionary
+        """
         images_dictionary = dict()
         gremlin_zapper = GremlinZapper()
-        title = None
-        date = None
-        author = None
-        story_string = None
 
         tables = article_body.findAll('table')
 
@@ -527,7 +437,177 @@ class CurrentsArticleParser(object):
                                                     "image_width": str(image_width),
                                                     "image_id": str(self.get_next_index())}
             table.extract()
+        return images_dictionary
 
+    def parse_story_text(self, story_text, article_url):
+        """
+        Parses an article from when content was not contained within a 'storytext' div.
+        Used for ucsc news articles from roughly 1998-2002.  Takes a BeautifulSoup object
+        representing the 'storytext' div and scrapes it for article content
+        :param story_text: A beautifulSoup object representing the storytext div
+        :param article_url: The url of the article that is currently being scraped
+        :return: A dictionary containing information about the article
+                    - title
+                    - author
+                    - date
+                    - post id
+                    - a dictionary of information about any images in the article:
+                        for each image url it contains
+                            - height of the image
+                            - width of the image
+                            - the id of the image
+                            - the description of the image
+                    - and the html of the story body
+                and returns it in dictionary form
+        """
+
+        title = None
+        author = None
+        date = None
+        story_string = None
+        gremlin_zapper = GremlinZapper()
+
+        images_dictionary = self.get_images_storytext(story_text, article_url)
+
+        for item in story_text.contents:
+            # print type(item)
+            add_to_story = True
+
+            if isinstance(item, bs4.element.Tag):
+                # print item
+                if 'class' in item.attrs:
+                    classes = item['class']
+                    for the_class in classes:
+                        if the_class == 'storyhead':
+                            title = item.get_text()
+                            matches = self.word_regex.findall(title)
+                            title = ' '.join(matches)
+                            title = gremlin_zapper.zap_string(title)
+                            add_to_story = False
+                        if the_class == 'subhead' and title is None:
+                            title = item.get_text()
+                            matches = self.word_regex.findall(title)
+                            title = ' '.join(matches)
+                            title = gremlin_zapper.zap_string(title)
+                            add_to_story = False
+                elif item.string:
+                    match = self.date_regex.match(item.string)
+                    if match:
+                        # Convert date from Month, Day Year to Year-Month-Day
+                        try:
+                            raw_date = item.string
+                            raw_date = raw_date.rstrip()
+                            raw_date = raw_date.lstrip()
+                            date = datetime.datetime.strptime(raw_date, "%B %d, %Y").strftime("%Y-%m-%d")
+                            add_to_story = False
+                        except ValueError:
+                            add_to_story = True
+
+                else:
+                    story_end = False
+
+                    if item.contents:
+                        if len(item.contents) >= 1 and isinstance(item.contents[0], bs4.element.NavigableString):
+
+                            author_matches = self.author_regex.findall(item.contents[0])
+                            if author_matches:
+                                author = author_matches[0]
+
+                        if len(item.contents) >= 2:
+
+                            if isinstance(item.contents[0], bs4.element.NavigableString) \
+                                    and isinstance(item.contents[1], bs4.element.Tag) \
+                                    and item.contents[1].name == 'a':
+                                stripped = item.contents[0].rstrip().lstrip().lower()
+                                if stripped == 'by':
+                                    try:
+                                        author = item.contents[1].string
+                                        author = gremlin_zapper.zap_string(author)
+                                    except TypeError:
+                                        author = str(item.contents[1])
+                                        matches = self.word_regex.findall(author)
+                                        author = ' '.join(matches)
+                                        author = gremlin_zapper.zap_string(author)
+                                        soup = BeautifulSoup(author, 'lxml')
+                                        author = soup.a.get_text()
+                                    add_to_story = False
+
+                        for cont in item.contents:
+                            if isinstance(cont, bs4.element.Comment):
+                                match = self.end_story_regex.match(cont.string)
+                                if match:
+                                    story_end = True
+                            if isinstance(cont, bs4.element.NavigableString):
+                                match = self.date_regex.findall(cont.string)
+                                if match:
+                                    # Convert date from Month, Day Year to Year-Month-Day
+                                    try:
+                                        raw_date = match[0]
+                                        raw_date = raw_date.rstrip()
+                                        raw_date = raw_date.lstrip()
+                                        if date is None:
+                                            date = datetime.datetime.strptime(raw_date, "%B %d, %Y")\
+                                                .strftime("%Y-%m-%d")
+                                    except ValueError:
+                                        raw_date = None
+                    if story_end:
+                        break
+            else:
+                add_to_story = False
+
+            if add_to_story:
+                self.zap_tag_contents(item)
+
+                if story_string is None:
+                    story_string = str(item)
+                else:
+                    story_string += str(item)
+
+        if author is None:
+            author = "Public Information Department"
+
+        return {'title': title,
+                'author': author,
+                'images_dictionary': images_dictionary,
+                'article_body': story_string,
+                'date': date,
+                "post_id": str(self.get_next_index())}
+
+    def parse_no_storytext_div(self, article_body, article_url):
+        """
+        Parses an article from before page content was contained within a 'storytext' div.
+        Used for ucsc news articles from roughly 1998-2002.  These articles used tables,
+        and page content was contained within a specific cell in the table.  Takes this cell
+        as input instead of a div, and scrapes content from it
+        :param article_body: A beautifulSoup object representing a cell in the page content table
+                                containing the article content
+        :param article_url: The url of the article that is currently being scraped
+        :return: A dictionary containing information about the article
+                    - title
+                    - author
+                    - date
+                    - post id
+                    - a dictionary of information about any images in the article:
+                        for each image url it contains
+                            - height of the image
+                            - width of the image
+                            - the id of the image
+                            - the description of the image
+                    - and the html of the story body
+                and returns it in dictionary form
+        """
+
+        gremlin_zapper = GremlinZapper()
+        title = None
+        date = None
+        author = None
+        story_string = None
+
+        # Extract all image information from the article before parsing it further
+        # image information is contained within a table in the article
+        images_dictionary = self.get_images_no_storytext(article_body, article_url)
+
+        # now process the article for the rest of the information
         for item in article_body.contents:
 
             add_to_story = True
@@ -648,6 +728,8 @@ class CurrentsArticleParser(object):
         then returns a dictionary of the above values
 
         :param article_url: the url to a UCSC Currents online magazine article
+        :param diagnostic: Boolean value where if true, some cleanup work is skipped in
+                            favor of faster run times
         :return: a dictionary of scraped values
         """
 
@@ -662,6 +744,9 @@ class CurrentsArticleParser(object):
 
         article_dict = dict()
 
+        # if there is no storytext div, then we either have a page that is an article
+        # from 1998-2002 or a page that isn't scrapeable.  Attempt to find the correct cell
+        # in the table layout for 1998-2002 news pages and use it to scrape the article.
         if story_text is None:
             table = soup.find('table')
             article_body = None
@@ -698,43 +783,12 @@ class CurrentsArticleParser(object):
         article_dict['date'] = date
         article_dict['file_name'] = date + '-' + slug + ".md"
         article_dict['source_permalink'] = "[source](" + article_url + " \"Permalink to " + slug + "\")"
+
         if diagnostic is False:
-            # article_dict['article_body'] = self.html_to_markdown(article_body)
             document, errors = tidy_fragment(article_body, options={'numeric-entities': 1})
             article_dict['article_body'] = document
-            # tree = BeautifulSoup(article_body)
-            # good_html = tree.prettify()
-            # article_dict['article_body'] = good_html
 
         return article_dict
-
-    def temp_driver(self, article_url):
-        soup = self.get_soup_from_url(article_url)
-        story_text = soup.find('div', class_='storytext')
-        article_body = None
-        article_dict = dict()
-
-        if story_text is None:
-            table = soup.find('table')
-            article_body = None
-            if table:
-                tr = table.find('tr', align='LEFT', valign='TOP')
-                if tr:
-                    tds = tr.findAll('td')
-                    if tds and len(tds) > 1:
-                        article_body = tds[1]
-                    else:
-                        raise NoArticleBodyException()
-                else:
-                    raise NoArticleBodyException()
-            else:
-                raise NoArticleBodyException()
-
-        vals_dict = self.scrape_article(article_url, diagnostic=False)
-        # print(pprint.pformat(vals_dict, indent=4))
-        self.write_article(vals_dict)
-        # print article_body
-        # print article_body
 
     def write_article(self, article_dict):
         """
@@ -754,6 +808,11 @@ class CurrentsArticleParser(object):
         author = article_dict['author'] or ''
         post_id = article_dict['post_id']
         raw_date = article_dict['date']
+
+        # Attempts to format the date correctly in order to predict urls for media urls uploaded to
+        # a locally hosted wordpress site.  If this can't be done, it means that the parser was
+        # unable to find an exact date for the article.  This means that the article will be
+        # ignored by Jekyll's import process, and it is therefore pointless to write it to a file
         try:
             formatted_date = datetime.datetime.strptime(raw_date, "%Y-%m-%d").strftime("%Y/%m/")
         except ValueError:
@@ -793,23 +852,14 @@ class CurrentsArticleParser(object):
             url_ending = self.get_url_ending(image_url)
 
             fo.write("[caption id=\"attachment_" +
-                     image_id +
-                     "\" align=\"alignnone\" width=\"" +
-                     image_width +
+                     image_id + "\" align=\"alignright\" width=\"" + image_width +
                      "\"]<a href=\"http://localhost/mysite/wp-content/uploads/" +
-                     formatted_date + url_ending +
-                     "\">"
+                     formatted_date + url_ending + "\">"
                      "<img class=\"size-full wp-image-" + image_id + "\" "
                      "src=\"http://localhost/mysite/wp-content/uploads/" +
                      formatted_date + url_ending +
-                     "\" alt=\"" +
-                     image_text +
-                     "\" width=\"" +
-                     image_width +
-                     "\" height=\"" +
-                     image_height +
-                     "\" /></a>" +
-                     image_text +
+                     "\" alt=\"" + image_text + "\" width=\"" + image_width +
+                     "\" height=\"" + image_height + "\" /></a>" + image_text +
                      "[/caption]\n")
 
         fo.write(article_dict['article_body'])
@@ -819,9 +869,11 @@ class CurrentsArticleParser(object):
 
     def report_progress(self, stdscr, url, progress_percent):
         """
-        Updates progress bar for url_list_diagnostics
-        :param progress_percent:
-        :param message:
+        Updates progress bar for parse_articles
+
+        :param stdscr: the terminal screen object to write to
+        :param url: the url currently being processed
+        :param progress_percent: the percentage of articles that has been processed
         :return:
         """
         stdscr.addstr(0, 0, "Total progress: [{1:50}] {0}%".format(progress_percent, "#" * (progress_percent / 2)))
@@ -831,27 +883,18 @@ class CurrentsArticleParser(object):
         stdscr.addstr(1, 0, "Analyzing URL: {0}".format(url))
         stdscr.addstr(2, 0, "")
         stdscr.refresh()
-        # print "url " + str(url)
-        # print "progress percent " + str(progress_percent)
 
-    # noinspection PyBroadException
-    def url_list_diagnostics(self, article_url_list):
+    def parse_articles(self, article_url_list):
         """
-        Provides a diagnostic report of the scrapability of a list of articles
-        including:
-            - The number of completeley scrapable articles
-            - The number of completeley unscrapable articles
-            - The number of articles missing authors
-            - The number of articles missing dates
-            - The number of articles missing titles
+        Scrapes and writes each article in the given list, and collects and returns
+        information about the scrapeability of each article in the list
         :param article_url_list:
-        :return: a dictionary of lists, where each dictionary is a list of
-                 the articles missing the attributes from each key
-                    - title
-                    - author
-                    - date
+        :return: a dictionary containing the number of articles and several lists
+                    of articles that correspond in to the category described by
+                    the list name
         """
 
+        # initiate the command line for the parsing visualization
         stdscr = curses.initscr()
         curses.noecho()
         curses.cbreak()
@@ -875,7 +918,6 @@ class CurrentsArticleParser(object):
         scrapable_urls = []
         unscrapable_urls = []
         partially_scrapable_urls = []
-
 
         for article_url in article_url_list:
             article_url = article_url.rstrip()
@@ -946,7 +988,46 @@ class CurrentsArticleParser(object):
         curses.nocbreak()
         curses.endwin()
 
-        print 'Generating Scrapeability Report...'
+        return {
+            'num_urls': num_urls,
+            'missing_title': missing_title,
+            'missing_author': missing_author,
+            'missing_date': missing_date,
+            'missing_author_title': missing_author_title,
+            'missing_author_date': missing_author_date,
+            'missing_title_date': missing_title_date,
+            'missing_title_author_date': missing_title_author_date,
+            'not_article': not_article,
+            'scrapable_urls': scrapable_urls,
+            'unscrapable_urls': unscrapable_urls,
+            'partially_scrapable_urls': partially_scrapable_urls,
+        }
+
+    def generate_scrapeability_report(self, scrapeability_dictionary):
+        """
+        Uses the information in the scrapeability dictionary created by the function
+        'parse_articles' to calculate scrapeability statistics and write a report to a file
+        called 'scrapeability_report.txt'
+
+        :param scrapeability_dictionary: The dictionary returned by 'parse_articles'
+        :return:
+        """
+        num_urls = scrapeability_dictionary['num_urls']
+        missing_title = scrapeability_dictionary['missing_title']
+        missing_author = scrapeability_dictionary['missing_author']
+        missing_date = scrapeability_dictionary['missing_date']
+
+        missing_author_title = scrapeability_dictionary['missing_author_title']
+        missing_author_date = scrapeability_dictionary['missing_author_date']
+        missing_title_date = scrapeability_dictionary['missing_title_date']
+
+        missing_title_author_date = scrapeability_dictionary['missing_title_author_date']
+
+        not_article = scrapeability_dictionary['not_article']
+
+        scrapable_urls = scrapeability_dictionary['scrapable_urls']
+        unscrapable_urls = scrapeability_dictionary['unscrapable_urls']
+        partially_scrapable_urls = scrapeability_dictionary['partially_scrapable_urls']
 
         fo = open('scrapeability_report.txt', "w")
 
@@ -994,7 +1075,8 @@ class CurrentsArticleParser(object):
             fo.write('\t' + str(num_one_missing) + ' (' + str(percent_one_missing) + '%) were missing one attribute,\n')
             fo.write('\t' + str(num_two_missing) + ' (' + str(percent_two_missing) + '%) were missing two attributes, '
                                                                                      'and\n')
-            fo.write('\t' + str(num_three_missing) + ' (' + str(percent_three_missing) + '%) were missing three attributes')
+            fo.write('\t' + str(num_three_missing) + ' (' + str(percent_three_missing) +
+                     '%) were missing three attributes')
 
             # categories for one_missing
             if num_one_missing > 0:
@@ -1051,4 +1133,52 @@ class CurrentsArticleParser(object):
 
         fo.close()
 
+    def run_parser(self, article_url_list):
+        """
+        Takes a list of urls, attempts to scrape and write them, keeps track of the whether each
+        article was scraped succesfully, and if it was how successful the scrape was,
+        then writes this diagnostic information to a file called 'scrapeability_report.txt'
+
+        :param article_url_list: The list of pages to attempt to parse
+        :return:
+        """
+
+        scrapeability_dict = self.parse_articles(article_url_list)
+
+        print 'Generating Scrapeability Report...'
+
+        self.generate_scrapeability_report(scrapeability_dict)
+
         print 'Done'
+
+    def temp_driver(self, article_url):
+        """
+        Used for testing the parser on individual articles without the
+        command line visualization
+        :param article_url: the url of the article to scrape
+        :return:
+        """
+        soup = self.get_soup_from_url(article_url)
+        story_text = soup.find('div', class_='storytext')
+        article_body = None
+        article_dict = dict()
+
+        if story_text is None:
+            table = soup.find('table')
+            article_body = None
+            if table:
+                tr = table.find('tr', align='LEFT', valign='TOP')
+                if tr:
+                    tds = tr.findAll('td')
+                    if tds and len(tds) > 1:
+                        article_body = tds[1]
+                    else:
+                        raise NoArticleBodyException()
+                else:
+                    raise NoArticleBodyException()
+            else:
+                raise NoArticleBodyException()
+
+        vals_dict = self.scrape_article(article_url, diagnostic=False)
+
+        self.write_article(vals_dict)

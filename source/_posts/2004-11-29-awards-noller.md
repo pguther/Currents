@@ -9,7 +9,7 @@ images:
     caption: "Harry Noller"
 ---
 
-[caption id="attachment_4385" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/noller_harry.140.jpg"><img class="size-full wp-image-4385" src="http://localhost/mysite/wp-content/uploads/2004/11/noller_harry.140.jpg" alt="Harry Noller" width="140" height="179" /></a>Harry Noller[/caption]
+[caption id="attachment_4385" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/noller_harry.140.jpg"><img class="size-full wp-image-4385" src="http://localhost/mysite/wp-content/uploads/2004/11/noller_harry.140.jpg" alt="Harry Noller" width="140" height="179" /></a>Harry Noller[/caption]
 <a name="content" id="content"></a>
 <p>
   By Tim Stephens

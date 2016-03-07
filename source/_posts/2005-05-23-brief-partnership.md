@@ -9,7 +9,7 @@ images:
     caption: "CfAO's Claire Max with Hartnell College president Edward Valeau"
 ---
 
-[caption id="attachment_3834" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/hartnell_partnership.200.jpg"><img class="size-full wp-image-3834" src="http://localhost/mysite/wp-content/uploads/2005/05/hartnell_partnership.200.jpg" alt="CfAO's Claire Max with Hartnell College president Edward Valeau" width="200" height="180" /></a>CfAO's Claire Max with Hartnell College president Edward Valeau[/caption]
+[caption id="attachment_3834" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/hartnell_partnership.200.jpg"><img class="size-full wp-image-3834" src="http://localhost/mysite/wp-content/uploads/2005/05/hartnell_partnership.200.jpg" alt="CfAO's Claire Max with Hartnell College president Edward Valeau" width="200" height="180" /></a>CfAO's Claire Max with Hartnell College president Edward Valeau[/caption]
 <p>
   <a name="content" id="content"></a> BEGIN STORY
 </p>

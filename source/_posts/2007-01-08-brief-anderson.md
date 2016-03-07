@@ -9,7 +9,7 @@ images:
     caption: "Niagara by Elliot Anderson"
 ---
 
-[caption id="attachment_5802" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/niagara.anderson.345.jpg"><img class="size-full wp-image-5802" src="http://localhost/mysite/wp-content/uploads/2007/01/niagara.anderson.345.jpg" alt="Niagara by Elliot Anderson" width="345" height="265" /></a>Niagara by Elliot Anderson[/caption]
+[caption id="attachment_5802" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/01/niagara.anderson.345.jpg"><img class="size-full wp-image-5802" src="http://localhost/mysite/wp-content/uploads/2007/01/niagara.anderson.345.jpg" alt="Niagara by Elliot Anderson" width="345" height="265" /></a>Niagara by Elliot Anderson[/caption]
 <a name="content" id="content"></a>
 <p>
   Assistant professor of art and electronic media Elliot Anderson will have a solo exhibition at the <a href="http://www.thinker.org/deyoung/index.asp">de Young Museum</a> in San Francisco, opening on January 13 and running to May 15. Titled "Average Landscapes," the show is part of the de Young's Connections Gallery series.

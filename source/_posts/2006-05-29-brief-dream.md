@@ -9,7 +9,7 @@ images:
     caption: "Jessamine Delancey as Tytania with Bottom (who has been transformed into an ass) played by Jesse Avshalomov and Aleksey Bogdanov. Photo: Steve DiBartolomeo"
 ---
 
-[caption id="attachment_5080" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/midsummer.200.jpg"><img class="size-full wp-image-5080" src="http://localhost/mysite/wp-content/uploads/2006/05/midsummer.200.jpg" alt="Jessamine Delancey as Tytania with Bottom (who has been transformed into an ass) played by Jesse Avshalomov and Aleksey Bogdanov. Photo: Steve DiBartolomeo" width="200" height="185" /></a>Jessamine Delancey as Tytania with Bottom (who has been transformed into an ass) played by Jesse Avshalomov and Aleksey Bogdanov. Photo: Steve DiBartolomeo[/caption]
+[caption id="attachment_5080" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/midsummer.200.jpg"><img class="size-full wp-image-5080" src="http://localhost/mysite/wp-content/uploads/2006/05/midsummer.200.jpg" alt="Jessamine Delancey as Tytania with Bottom (who has been transformed into an ass) played by Jesse Avshalomov and Aleksey Bogdanov. Photo: Steve DiBartolomeo" width="200" height="185" /></a>Jessamine Delancey as Tytania with Bottom (who has been transformed into an ass) played by Jesse Avshalomov and Aleksey Bogdanov. Photo: Steve DiBartolomeo[/caption]
 <a name="content" id="content"></a>
 <p>
   <i><b>Benjamin Britten's Opera Finds New Setting in Dali-esque Dreamscape</b></i>

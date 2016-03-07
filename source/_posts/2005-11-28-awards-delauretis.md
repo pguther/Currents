@@ -9,7 +9,7 @@ images:
     caption: "Teresa de Lauretis on the campus of the University of Lund"
 ---
 
-[caption id="attachment_5697" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/delauretis_teresa.200.jpg"><img class="size-full wp-image-5697" src="http://localhost/mysite/wp-content/uploads/2005/11/delauretis_teresa.200.jpg" alt="Teresa de Lauretis on the campus of the University of Lund" width="200" height="260" /></a>Teresa de Lauretis on the campus of the University of Lund[/caption]
+[caption id="attachment_5697" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/delauretis_teresa.200.jpg"><img class="size-full wp-image-5697" src="http://localhost/mysite/wp-content/uploads/2005/11/delauretis_teresa.200.jpg" alt="Teresa de Lauretis on the campus of the University of Lund" width="200" height="260" /></a>Teresa de Lauretis on the campus of the University of Lund[/caption]
 <a name="content" id="content"></a>
 <p>
   History of consciousness professor Teresa de Lauretis has been awarded a doctorate <i>honoris causa</i> from the University of Lund, one of Sweden's oldest and most prestigious universities.

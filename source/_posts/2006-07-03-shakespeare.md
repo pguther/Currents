@@ -9,7 +9,7 @@ images:
     caption: "Shakespeare Santa Cruz artistic director Paul Whitworth will play Henry Higgins in this summer's production of Pygmalion. Photo courtesy of Shakespeare Santa Cruz"
 ---
 
-[caption id="attachment_6084" align="alignnone" width="228"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/whitworth.06-07-03.jpg"><img class="size-full wp-image-6084" src="http://localhost/mysite/wp-content/uploads/2006/07/whitworth.06-07-03.jpg" alt="Shakespeare Santa Cruz artistic director Paul Whitworth will play Henry Higgins in this summer's production of Pygmalion. Photo courtesy of Shakespeare Santa Cruz" width="228" height="163" /></a>Shakespeare Santa Cruz artistic director Paul Whitworth will play Henry Higgins in this summer's production of Pygmalion. Photo courtesy of Shakespeare Santa Cruz[/caption]
+[caption id="attachment_6084" align="alignright" width="228"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/whitworth.06-07-03.jpg"><img class="size-full wp-image-6084" src="http://localhost/mysite/wp-content/uploads/2006/07/whitworth.06-07-03.jpg" alt="Shakespeare Santa Cruz artistic director Paul Whitworth will play Henry Higgins in this summer's production of Pygmalion. Photo courtesy of Shakespeare Santa Cruz" width="228" height="163" /></a>Shakespeare Santa Cruz artistic director Paul Whitworth will play Henry Higgins in this summer's production of Pygmalion. Photo courtesy of Shakespeare Santa Cruz[/caption]
 <a name="content" id="content"></a>
 <p>
   The play's the thing, but Shakespeare Santa Cruz's 25th anniversary summer festival offers up more than just great performances.

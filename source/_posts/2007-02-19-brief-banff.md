@@ -9,7 +9,7 @@ images:
     caption: "From the film Mountains Without Barriers, (c) Serac Adventure Films Photo courtesy of The Banff Centre"
 ---
 
-[caption id="attachment_5913" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/climber.345.jpg"><img class="size-full wp-image-5913" src="http://localhost/mysite/wp-content/uploads/2007/02/climber.345.jpg" alt="From the film Mountains Without Barriers, (c) Serac Adventure Films Photo courtesy of The Banff Centre" width="345" height="184" /></a>From the film Mountains Without Barriers, (c) Serac Adventure Films Photo courtesy of The Banff Centre[/caption]
+[caption id="attachment_5913" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/climber.345.jpg"><img class="size-full wp-image-5913" src="http://localhost/mysite/wp-content/uploads/2007/02/climber.345.jpg" alt="From the film Mountains Without Barriers, (c) Serac Adventure Films Photo courtesy of The Banff Centre" width="345" height="184" /></a>From the film Mountains Without Barriers, (c) Serac Adventure Films Photo courtesy of The Banff Centre[/caption]
 <a name="content" id="content"></a>
 <p>
   Join UC Santa Cruz Recreation when the Banff Mountain Film Festival World Tour brings the spirit of outdoor adventure to Santa Cruz, at the Rio Theatre February 23 and 24 at 7 p.m. and February 25 at 2 p.m. for a family matinee. A portion of the proceeds support UCSC Recreation programs.

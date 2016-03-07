@@ -9,7 +9,7 @@ images:
     caption: "Gary Love"
 ---
 
-[caption id="attachment_3292" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/love_gary.120.jpg"><img class="size-full wp-image-3292" src="http://localhost/mysite/wp-content/uploads/2005/01/love_gary.120.jpg" alt="Gary Love" width="120" height="162" /></a>Gary Love[/caption]
+[caption id="attachment_3292" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/love_gary.120.jpg"><img class="size-full wp-image-3292" src="http://localhost/mysite/wp-content/uploads/2005/01/love_gary.120.jpg" alt="Gary Love" width="120" height="162" /></a>Gary Love[/caption]
 <a name="content" id="content"></a>
 <p>
   Charles Gary Love, a longtime staff member and UCSC alumnus, died in his Santa Cruz home on Christmas day after a courageous struggle to overcome non-Hodgkins lymphoma. He was 60.

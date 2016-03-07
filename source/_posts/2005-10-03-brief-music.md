@@ -9,7 +9,7 @@ images:
     caption: "Award-winning musician Rajeev Taranath will perform on sarod October 15 at the Music Center Recital Hall. Photo: Anthony Peres"
 ---
 
-[caption id="attachment_5461" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/taranath_rajeev.220.jpg"><img class="size-full wp-image-5461" src="http://localhost/mysite/wp-content/uploads/2005/10/taranath_rajeev.220.jpg" alt="Award-winning musician Rajeev Taranath will perform on sarod October 15 at the Music Center Recital Hall. Photo: Anthony Peres" width="220" height="165" /></a>Award-winning musician Rajeev Taranath will perform on sarod October 15 at the Music Center Recital Hall. Photo: Anthony Peres[/caption]
+[caption id="attachment_5461" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/taranath_rajeev.220.jpg"><img class="size-full wp-image-5461" src="http://localhost/mysite/wp-content/uploads/2005/10/taranath_rajeev.220.jpg" alt="Award-winning musician Rajeev Taranath will perform on sarod October 15 at the Music Center Recital Hall. Photo: Anthony Peres" width="220" height="165" /></a>Award-winning musician Rajeev Taranath will perform on sarod October 15 at the Music Center Recital Hall. Photo: Anthony Peres[/caption]
 <a name="content" id="content"></a><br>
 <br>
 <p>

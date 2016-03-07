@@ -9,7 +9,7 @@ images:
     caption: "Sriram Shastry's interview covers a wide range of topics from physics to Jane Austen. Photo: Tim Stephens"
 ---
 
-[caption id="attachment_4975" align="alignnone" width="100"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/shastry_sriram.100.jpg"><img class="size-full wp-image-4975" src="http://localhost/mysite/wp-content/uploads/2006/05/shastry_sriram.100.jpg" alt="Sriram Shastry's interview covers a wide range of topics from physics to Jane Austen. Photo: Tim Stephens" width="100" height="132" /></a>Sriram Shastry's interview covers a wide range of topics from physics to Jane Austen. Photo: Tim Stephens[/caption]
+[caption id="attachment_4975" align="alignright" width="100"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/shastry_sriram.100.jpg"><img class="size-full wp-image-4975" src="http://localhost/mysite/wp-content/uploads/2006/05/shastry_sriram.100.jpg" alt="Sriram Shastry's interview covers a wide range of topics from physics to Jane Austen. Photo: Tim Stephens" width="100" height="132" /></a>Sriram Shastry's interview covers a wide range of topics from physics to Jane Austen. Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   Sriram Shastry, professor of physics, is <a href="http://www.iop.org/EJ/journal/-page=featauth/-author=492/0305-4470/8">featured on a web site</a> of the Institute of Physics (IOP) called "60 Seconds with... Author's Edition." The site showcases interviews with authors who have published papers in IOP journals that were key to the advancement of physics research in their particular subject area.

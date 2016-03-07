@@ -9,7 +9,7 @@ images:
     caption: "Norman O. Brown Photo: Thomas Brown"
 ---
 
-[caption id="attachment_2251" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/brown_norman.160.jpg"><img class="size-full wp-image-2251" src="http://localhost/mysite/wp-content/uploads/2002/10/brown_norman.160.jpg" alt="Norman O. Brown Photo: Thomas Brown" width="160" height="209" /></a>Norman O. Brown Photo: Thomas Brown[/caption]
+[caption id="attachment_2251" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/brown_norman.160.jpg"><img class="size-full wp-image-2251" src="http://localhost/mysite/wp-content/uploads/2002/10/brown_norman.160.jpg" alt="Norman O. Brown Photo: Thomas Brown" width="160" height="209" /></a>Norman O. Brown Photo: Thomas Brown[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6243" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/cover_rec.fall06.200.jpg"><img class="size-full wp-image-6243" src="http://localhost/mysite/wp-content/uploads/2006/09/cover_rec.fall06.200.jpg" alt="" width="200" height="253" /></a>[/caption]
+[caption id="attachment_6243" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/09/cover_rec.fall06.200.jpg"><img class="size-full wp-image-6243" src="http://localhost/mysite/wp-content/uploads/2006/09/cover_rec.fall06.200.jpg" alt="" width="200" height="253" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Join a moonlight kayaking paddle, a day hike from Big Basin State Park to Waddell Creek beach on the north coast, a wine tasting trip in Monterey County, or a backpacking trip to Yosemite. The Recreation Department is offering these and many other outdoor adventures this fall. There are also classes in a wide variety of interest areas, including surfing, backpacking, kayaking, rock climbing, holistic health classes, cooking, music, dance, wilderness first aid and first responder, survival skills, wine tasting, and day hikes,. The fall 2006 <i>Recreation, Intramural &amp; Sports Guide</i>, available all over campus, describes the offerings in detail.

@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_3478" align="alignnone" width="110"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/tajima_pena.110.jpg"><img class="size-full wp-image-3478" src="http://localhost/mysite/wp-content/uploads/2005/02/tajima_pena.110.jpg" alt="" width="110" height="149" /></a>[/caption]
+[caption id="attachment_3478" align="alignright" width="110"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/tajima_pena.110.jpg"><img class="size-full wp-image-3478" src="http://localhost/mysite/wp-content/uploads/2005/02/tajima_pena.110.jpg" alt="" width="110" height="149" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Documentary filmmaker and activist Renee Tajima-Pena will talk about her efforts to document social change and social justice issues in a free lecture for the campus community at noon on March 3 in Room D at the Bay Tree Conference Center.

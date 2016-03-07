@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6108" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/bardwithblue.180.jpg"><img class="size-full wp-image-6108" src="http://localhost/mysite/wp-content/uploads/2006/07/bardwithblue.180.jpg" alt="" width="180" height="217" /></a>[/caption]
+[caption id="attachment_6108" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/bardwithblue.180.jpg"><img class="size-full wp-image-6108" src="http://localhost/mysite/wp-content/uploads/2006/07/bardwithblue.180.jpg" alt="" width="180" height="217" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Join UC Santa Cruz Professor Emeritus John Dizikes for a behind-the-scenes experience at <a href="http://www.shakespearesantacruz.org/">Shakespeare Santa Cruz</a>. Meet performers and technical crew from this season's productions of <i>As You Like It,</i> <i>Pygmalion</i>, and <i>King Lear</i>; get backstage tours of the Mainstage Theater and Festival Glen; and enjoy talks and panel discussions featuring Dizikes, Shakespeare Santa Cruz Artistic Director Paul Whitworth, and Stanford Professor of Humanities Stephen Orgel. The event, titled a Weekend with Shakespeare and Shaw, will take place on campus Friday through Sunday, August 11-13 (see detailed schedule below).

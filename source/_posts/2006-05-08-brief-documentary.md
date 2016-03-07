@@ -9,7 +9,7 @@ images:
     caption: "Maquilapolis looks at globalization through the eyes of workers."
 ---
 
-[caption id="attachment_4967" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/malquilapolis.220.jpg"><img class="size-full wp-image-4967" src="http://localhost/mysite/wp-content/uploads/2006/05/malquilapolis.220.jpg" alt="Maquilapolis looks at globalization through the eyes of workers." width="220" height="290" /></a>Maquilapolis looks at globalization through the eyes of workers.[/caption]
+[caption id="attachment_4967" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/malquilapolis.220.jpg"><img class="size-full wp-image-4967" src="http://localhost/mysite/wp-content/uploads/2006/05/malquilapolis.220.jpg" alt="Maquilapolis looks at globalization through the eyes of workers." width="220" height="290" /></a>Maquilapolis looks at globalization through the eyes of workers.[/caption]
 <a name="content" id="content"></a>
 <p>
   A new documentary about Tijuana's factory workers and their struggle for social change will screen Thursday, May 11, at 7:30 p.m. in Earth &amp; Marine Building Room B206.

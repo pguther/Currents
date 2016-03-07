@@ -9,7 +9,7 @@ images:
     caption: "Katie Walsh Photo: Scott Rappaport"
 ---
 
-[caption id="attachment_3964" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/walsh_katie2.06-06-13.jpg"><img class="size-full wp-image-3964" src="http://localhost/mysite/wp-content/uploads/2005/06/walsh_katie2.06-06-13.jpg" alt="Katie Walsh Photo: Scott Rappaport" width="230" height="199" /></a>Katie Walsh Photo: Scott Rappaport[/caption]
+[caption id="attachment_3964" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/walsh_katie2.06-06-13.jpg"><img class="size-full wp-image-3964" src="http://localhost/mysite/wp-content/uploads/2005/06/walsh_katie2.06-06-13.jpg" alt="Katie Walsh Photo: Scott Rappaport" width="230" height="199" /></a>Katie Walsh Photo: Scott Rappaport[/caption]
 <a name="content" id="content"></a>
 <p>
   In two weeks, Katie Walsh will touch down in Taiwan to begin an 11-month adventure--teaching English and American culture to elementary schoolchildren as a Fulbright Scholar.

@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_4095" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/zehr_jon.04-08-09.jpg"><img class="size-full wp-image-4095" src="http://localhost/mysite/wp-content/uploads/2004/08/zehr_jon.04-08-09.jpg" alt="" width="240" height="253" /></a>[/caption]
+[caption id="attachment_4095" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/zehr_jon.04-08-09.jpg"><img class="size-full wp-image-4095" src="http://localhost/mysite/wp-content/uploads/2004/08/zehr_jon.04-08-09.jpg" alt="" width="240" height="253" /></a>[/caption]
 <p>
   The Gordon and Betty Moore Foundation has selected Jonathan Zehr, professor of ocean sciences at UCSC, to receive more than $4 million over the next five years as a Gordon and Betty Moore Foundation Investigator in marine science. The award will support Zehr's groundbreaking research on microorganisms that "fertilize" the oceans by converting nitrogen gas into a form that other organisms can use (a process called nitrogen fixation).
 </p>

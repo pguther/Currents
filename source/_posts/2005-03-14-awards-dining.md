@@ -9,7 +9,7 @@ images:
     caption: "Julie Mitravich of University Catering posing with her bronze medal"
 ---
 
-[caption id="attachment_3521" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/mitravich_julie.180.jpg"><img class="size-full wp-image-3521" src="http://localhost/mysite/wp-content/uploads/2005/03/mitravich_julie.180.jpg" alt="Julie Mitravich of University Catering posing with her bronze medal" width="200" height="254" /></a>Julie Mitravich of University Catering posing with her bronze medal[/caption]
+[caption id="attachment_3521" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/mitravich_julie.180.jpg"><img class="size-full wp-image-3521" src="http://localhost/mysite/wp-content/uploads/2005/03/mitravich_julie.180.jpg" alt="Julie Mitravich of University Catering posing with her bronze medal" width="200" height="254" /></a>Julie Mitravich of University Catering posing with her bronze medal[/caption]
 <a name="content" id="content"></a>
 <p>
   Staff of campus Dining Services garnered awards in local and regional culinary competitions this winter.

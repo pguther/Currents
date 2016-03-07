@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5728" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/12/tsing_bookcover.200.jpg"><img class="size-full wp-image-5728" src="http://localhost/mysite/wp-content/uploads/2005/12/tsing_bookcover.200.jpg" alt="" width="200" height="303" /></a>[/caption]
+[caption id="attachment_5728" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/12/tsing_bookcover.200.jpg"><img class="size-full wp-image-5728" src="http://localhost/mysite/wp-content/uploads/2005/12/tsing_bookcover.200.jpg" alt="" width="200" height="303" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Anna Tsing, professor of anthropology, has received the 2005 Senior Book Prize from the American Ethnological Association (AEA) for her book, <i>Friction: An Ethnography of Global Connection</i> (Princeton University Press, 2004). Tsing shares the prize with Michael Fischer, professor of anthropology and science and technology studies at MIT, who was honored for his book <i>Emergent Forms of Life and the Anthropological Voice</i>. The recipients were announced at the association's business meeting on December 1.

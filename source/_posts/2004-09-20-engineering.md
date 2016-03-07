@@ -9,7 +9,7 @@ images:
     caption: "Engineering Dean Steve Kang called the Engineering 2 Building 'a huge plus, not only for the engineering school but for the whole campus.' Photo: Jim MacKenzie"
 ---
 
-[caption id="attachment_4153" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/09/engineering2.04-09-20.180.jpg"><img class="size-full wp-image-4153" src="http://localhost/mysite/wp-content/uploads/2004/09/engineering2.04-09-20.180.jpg" alt="Engineering Dean Steve Kang called the Engineering 2 Building "a huge plus, not only for the engineering school but for the whole campus." Photo: Jim MacKenzie" width="180" height="257" /></a>Engineering Dean Steve Kang called the Engineering 2 Building "a huge plus, not only for the engineering school but for the whole campus." Photo: Jim MacKenzie[/caption]
+[caption id="attachment_4153" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/09/engineering2.04-09-20.180.jpg"><img class="size-full wp-image-4153" src="http://localhost/mysite/wp-content/uploads/2004/09/engineering2.04-09-20.180.jpg" alt="Engineering Dean Steve Kang called the Engineering 2 Building "a huge plus, not only for the engineering school but for the whole campus." Photo: Jim MacKenzie" width="180" height="257" /></a>Engineering Dean Steve Kang called the Engineering 2 Building "a huge plus, not only for the engineering school but for the whole campus." Photo: Jim MacKenzie[/caption]
 <a name="content" id="content"></a>
 <p>
   Completion of the Engineering 2 Building this summer has added 150,000 square feet of new office, laboratory, and classroom space on campus, primarily for the Baskin School of Engineering.

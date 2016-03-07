@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5917" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/dontgetgodstarted.200.jpg"><img class="size-full wp-image-5917" src="http://localhost/mysite/wp-content/uploads/2007/02/dontgetgodstarted.200.jpg" alt="" width="200" height="207" /></a>[/caption]
+[caption id="attachment_5917" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/dontgetgodstarted.200.jpg"><img class="size-full wp-image-5917" src="http://localhost/mysite/wp-content/uploads/2007/02/dontgetgodstarted.200.jpg" alt="" width="200" height="207" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The African American Theater Arts Troupe will present <i>Don't Get God Started</i> by Ron Milner at the UCSC Second Stage Theater February 23-25 and in March at two other locations in the community. The play is produced and directed by Don Williams, who founded the troupe.

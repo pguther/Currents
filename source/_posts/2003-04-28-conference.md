@@ -9,7 +9,7 @@ images:
     caption: "This stamp, which includes the names of some World War II concentration camps, was issued in Czechoslovakia as a remembrance of the Holocaust."
 ---
 
-[caption id="attachment_1888" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/04/stamp.03-04-28.160.jpg"><img class="size-full wp-image-1888" src="http://localhost/mysite/wp-content/uploads/2003/04/stamp.03-04-28.160.jpg" alt="This stamp, which includes the names of some World War II concentration camps, was issued in Czechoslovakia as a remembrance of the Holocaust." width="160" height="258" /></a>This stamp, which includes the names of some World War II concentration camps, was issued in Czechoslovakia as a remembrance of the Holocaust.[/caption]
+[caption id="attachment_1888" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/04/stamp.03-04-28.160.jpg"><img class="size-full wp-image-1888" src="http://localhost/mysite/wp-content/uploads/2003/04/stamp.03-04-28.160.jpg" alt="This stamp, which includes the names of some World War II concentration camps, was issued in Czechoslovakia as a remembrance of the Holocaust." width="160" height="258" /></a>This stamp, which includes the names of some World War II concentration camps, was issued in Czechoslovakia as a remembrance of the Holocaust.[/caption]
 <p>
   The UCSC Jewish Studies Program and the Holocaust Center of Northern California will present a three-day conference titled "Rethinking Anti-Semitism: The Holocaust and the Contemporary World," May 3-5, at Stevenson College.
 </p>

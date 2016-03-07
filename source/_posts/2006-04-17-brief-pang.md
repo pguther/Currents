@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_4856" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/end_of_cyberspace.200.jpg"><img class="size-full wp-image-4856" src="http://localhost/mysite/wp-content/uploads/2006/04/end_of_cyberspace.200.jpg" alt="" width="200" height="97" /></a>[/caption]
+[caption id="attachment_4856" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/end_of_cyberspace.200.jpg"><img class="size-full wp-image-4856" src="http://localhost/mysite/wp-content/uploads/2006/04/end_of_cyberspace.200.jpg" alt="" width="200" height="97" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Alex Soojung-Kim Pang, research director of the Institute for the Future, will give a talk on the "End of Cyberspace" on Tuesday, April 25, at 4 p.m. at McHenry Library Special Collections. Light refreshments will be served

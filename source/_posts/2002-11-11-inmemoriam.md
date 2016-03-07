@@ -9,7 +9,7 @@ images:
     caption: "Raymond Dasmann Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_2342" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/11/dasmann_ray.160.jpg"><img class="size-full wp-image-2342" src="http://localhost/mysite/wp-content/uploads/2002/11/dasmann_ray.160.jpg" alt="Raymond Dasmann Photo: Jennifer McNulty" width="160" height="216" /></a>Raymond Dasmann Photo: Jennifer McNulty[/caption]
+[caption id="attachment_2342" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/11/dasmann_ray.160.jpg"><img class="size-full wp-image-2342" src="http://localhost/mysite/wp-content/uploads/2002/11/dasmann_ray.160.jpg" alt="Raymond Dasmann Photo: Jennifer McNulty" width="160" height="216" /></a>Raymond Dasmann Photo: Jennifer McNulty[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

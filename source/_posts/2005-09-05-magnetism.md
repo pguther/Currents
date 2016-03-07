@@ -9,7 +9,7 @@ images:
     caption: "Sriram Shastry"
 ---
 
-[caption id="attachment_5345" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/shastry.05-09-05.jpg"><img class="size-full wp-image-5345" src="http://localhost/mysite/wp-content/uploads/2005/09/shastry.05-09-05.jpg" alt="Sriram Shastry" width="170" height="228" /></a>Sriram Shastry[/caption]
+[caption id="attachment_5345" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/shastry.05-09-05.jpg"><img class="size-full wp-image-5345" src="http://localhost/mysite/wp-content/uploads/2005/09/shastry.05-09-05.jpg" alt="Sriram Shastry" width="170" height="228" /></a>Sriram Shastry[/caption]
 <a name="content" id="content"></a>
 <p>
   Predicting the magnetic behavior of metallic compounds is a surprisingly difficult problem for theoretical physicists.

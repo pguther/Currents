@@ -9,7 +9,7 @@ images:
     caption: "Marc Rohde on a recent visit to Filoli Gardens Photo: Gary Cunningham"
 ---
 
-[caption id="attachment_5204" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/rohde_marc.220.jpg"><img class="size-full wp-image-5204" src="http://localhost/mysite/wp-content/uploads/2005/07/rohde_marc.220.jpg" alt="Marc Rohde on a recent visit to Filoli Gardens Photo: Gary Cunningham" width="220" height="243" /></a>Marc Rohde on a recent visit to Filoli Gardens Photo: Gary Cunningham[/caption]
+[caption id="attachment_5204" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/07/rohde_marc.220.jpg"><img class="size-full wp-image-5204" src="http://localhost/mysite/wp-content/uploads/2005/07/rohde_marc.220.jpg" alt="Marc Rohde on a recent visit to Filoli Gardens Photo: Gary Cunningham" width="220" height="243" /></a>Marc Rohde on a recent visit to Filoli Gardens Photo: Gary Cunningham[/caption]
 <a name="content" id="content"></a>
 <p>
   Marc Rohde, a groundskeeper at UCSC for a number of years, died at his home in Prunedale on July 7. He was 51.

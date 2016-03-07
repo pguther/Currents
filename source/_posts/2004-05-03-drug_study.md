@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2745" align="alignnone" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/amsterdam.04-05-03.250.jpg"><img class="size-full wp-image-2745" src="http://localhost/mysite/wp-content/uploads/2004/05/amsterdam.04-05-03.250.jpg" alt="" width="250" height="352" /></a>[/caption]
+[caption id="attachment_2745" align="alignright" width="250"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/amsterdam.04-05-03.250.jpg"><img class="size-full wp-image-2745" src="http://localhost/mysite/wp-content/uploads/2004/05/amsterdam.04-05-03.250.jpg" alt="" width="250" height="352" /></a>[/caption]
 <p>
   In the first rigorous study comparing marijuana use in the Netherlands and the United States, researchers have found no evidence that decriminalization of marijuana leads to increased drug use. The results suggest that drug policies may have less impact on marijuana use than is currently thought.<br>
 </p>

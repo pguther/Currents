@@ -9,7 +9,7 @@ images:
     caption: "Learn beginning Swedish massage this summer."
 ---
 
-[caption id="attachment_5159" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/hands.200.jpg"><img class="size-full wp-image-5159" src="http://localhost/mysite/wp-content/uploads/2006/06/hands.200.jpg" alt="Learn beginning Swedish massage this summer." width="200" height="162" /></a>Learn beginning Swedish massage this summer.[/caption]
+[caption id="attachment_5159" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/hands.200.jpg"><img class="size-full wp-image-5159" src="http://localhost/mysite/wp-content/uploads/2006/06/hands.200.jpg" alt="Learn beginning Swedish massage this summer." width="200" height="162" /></a>Learn beginning Swedish massage this summer.[/caption]
 <a name="content" id="content"></a>
 <p>
   The Holistic Health Program is designed to address concerns of the whole person, including the mind, body, spirit, and environment. The program offers courses leading to Massage Practitioner Certification (CMP). A detailed <a href="http://ucscrecreation.com/?link_id=22">program description</a>, and <a href="http://ucscrecreation.com/?link_id=22#requirements">course requirements</a> are provided on the program's web site.

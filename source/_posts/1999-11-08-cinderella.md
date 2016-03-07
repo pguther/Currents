@@ -9,7 +9,7 @@ images:
     caption: "Image: Mott Jordan"
 ---
 
-[caption id="attachment_7034" align="alignnone" width="247"]<a href="http://localhost/mysite/wp-content/uploads/1999/11/cinderella.99-11-08.247.jpg"><img class="size-full wp-image-7034" src="http://localhost/mysite/wp-content/uploads/1999/11/cinderella.99-11-08.247.jpg" alt="Image: Mott Jordan" width="247" height="246" /></a>Image: Mott Jordan[/caption]
+[caption id="attachment_7034" align="alignright" width="247"]<a href="http://localhost/mysite/wp-content/uploads/1999/11/cinderella.99-11-08.247.jpg"><img class="size-full wp-image-7034" src="http://localhost/mysite/wp-content/uploads/1999/11/cinderella.99-11-08.247.jpg" alt="Image: Mott Jordan" width="247" height="246" /></a>Image: Mott Jordan[/caption]
 For the third year in a row, Shakespeare Santa Cruz invites audiences to launch the holiday season with a festive family-oriented theater experience. This year the critically acclaimed theater company presents an original adaptation of the fairy tale classic, <i>Cinderella.</i>
 <p>
   This original version is written by local playwright and Shakespeare Santa Cruz (SSC) veteran actress Kate Hawley.

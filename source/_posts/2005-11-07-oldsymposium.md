@@ -9,7 +9,7 @@ images:
     caption: "UC President Robert C. Dynes and Lisa Sloan, vice provost and dean of graduate studies, provided an update Friday on the UC President's Task Force on Diversity. Photo: Jim MacKenzie"
 ---
 
-[caption id="attachment_5613" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/dynes_sloan.05-11-07.jpg"><img class="size-full wp-image-5613" src="http://localhost/mysite/wp-content/uploads/2005/11/dynes_sloan.05-11-07.jpg" alt="UC President Robert C. Dynes and Lisa Sloan, vice provost and dean of graduate studies, provided an update Friday on the UC President's Task Force on Diversity. Photo: Jim MacKenzie" width="230" height="159" /></a>UC President Robert C. Dynes and Lisa Sloan, vice provost and dean of graduate studies, provided an update Friday on the UC President's Task Force on Diversity. Photo: Jim MacKenzie[/caption]
+[caption id="attachment_5613" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/dynes_sloan.05-11-07.jpg"><img class="size-full wp-image-5613" src="http://localhost/mysite/wp-content/uploads/2005/11/dynes_sloan.05-11-07.jpg" alt="UC President Robert C. Dynes and Lisa Sloan, vice provost and dean of graduate studies, provided an update Friday on the UC President's Task Force on Diversity. Photo: Jim MacKenzie" width="230" height="159" /></a>UC President Robert C. Dynes and Lisa Sloan, vice provost and dean of graduate studies, provided an update Friday on the UC President's Task Force on Diversity. Photo: Jim MacKenzie[/caption]
 <a name="content" id="content"></a>
 <p>
   To Shirley Ann Jackson, nothing less than the future of the nation is at stake as campuses and the nation grapple with issues of diversity and excellence.

@@ -9,7 +9,7 @@ images:
     caption: "Move-in day was doubly demanding Friday for the father of twin students Nathan and Megan Childress. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_1394" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/09/move_in.01-09-17.200.jpg"><img class="size-full wp-image-1394" src="http://localhost/mysite/wp-content/uploads/2001/09/move_in.01-09-17.200.jpg" alt="Move-in day was doubly demanding Friday for the father of twin students Nathan and Megan Childress. Photo: Louise Donahue" width="200" height="292" /></a>Move-in day was doubly demanding Friday for the father of twin students Nathan and Megan Childress. Photo: Louise Donahue[/caption]
+[caption id="attachment_1394" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/09/move_in.01-09-17.200.jpg"><img class="size-full wp-image-1394" src="http://localhost/mysite/wp-content/uploads/2001/09/move_in.01-09-17.200.jpg" alt="Move-in day was doubly demanding Friday for the father of twin students Nathan and Megan Childress. Photo: Louise Donahue" width="200" height="292" /></a>Move-in day was doubly demanding Friday for the father of twin students Nathan and Megan Childress. Photo: Louise Donahue[/caption]
 <p>
   The first day of classes in the 2001-02 school year at UCSC is Wednesday, September 19. Students began moving into university housing on Thursday, September 13, and were scheduled to continue doing so through Sunday, September 16.
 </p>Here are some facts and figures about this year's student body, what the campus is doing to house students, and the new academic programs the campus is offering:<br>

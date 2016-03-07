@@ -9,7 +9,7 @@ images:
     caption: "David Haussler directs UCSC's Center for Biomolecular Science and Engineering."
 ---
 
-[caption id="attachment_5655" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/haussler_david.150.jpg"><img class="size-full wp-image-5655" src="http://localhost/mysite/wp-content/uploads/2005/11/haussler_david.150.jpg" alt="David Haussler directs UCSC's Center for Biomolecular Science and Engineering." width="150" height="196" /></a>David Haussler directs UCSC's Center for Biomolecular Science and Engineering.[/caption]
+[caption id="attachment_5655" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/haussler_david.150.jpg"><img class="size-full wp-image-5655" src="http://localhost/mysite/wp-content/uploads/2005/11/haussler_david.150.jpg" alt="David Haussler directs UCSC's Center for Biomolecular Science and Engineering." width="150" height="196" /></a>David Haussler directs UCSC's Center for Biomolecular Science and Engineering.[/caption]
 <a name="content" id="content"></a>
 <p>
   David Haussler, professor of biomolecular engineering and director of the Center for Biomolecular Science and Engineering (CBSE), will speak at the opening session of the 2005 World Technology Summit this week in San Francisco.

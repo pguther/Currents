@@ -9,7 +9,7 @@ images:
     caption: "Community Crawls, 2000-03, by William Pope.L, part of an ongoing project of group crawls in collaboration with host communities."
 ---
 
-[caption id="attachment_3481" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/pope_art.200.jpg"><img class="size-full wp-image-3481" src="http://localhost/mysite/wp-content/uploads/2005/02/pope_art.200.jpg" alt="Community Crawls, 2000-03, by William Pope.L, part of an ongoing project of group crawls in collaboration with host communities." width="200" height="132" /></a>Community Crawls, 2000-03, by William Pope.L, part of an ongoing project of group crawls in collaboration with host communities.[/caption]
+[caption id="attachment_3481" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/pope_art.200.jpg"><img class="size-full wp-image-3481" src="http://localhost/mysite/wp-content/uploads/2005/02/pope_art.200.jpg" alt="Community Crawls, 2000-03, by William Pope.L, part of an ongoing project of group crawls in collaboration with host communities." width="200" height="132" /></a>Community Crawls, 2000-03, by William Pope.L, part of an ongoing project of group crawls in collaboration with host communities.[/caption]
 <a name="content" id="content"></a>
 <p>
   The UCSC Arts Research Institute will present a lecture by visual and performance artist William Pope.L on Monday March 7, at 7 p.m. in Classroom Unit I. The event is part of the institute's Visiting Artist Lecture Series and is free and open to the public.

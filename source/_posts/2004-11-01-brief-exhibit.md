@@ -9,7 +9,7 @@ images:
     caption: "Photo by Sara Walsh from a group show at College Eight"
 ---
 
-[caption id="attachment_4311" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/china_trip.180.jpg"><img class="size-full wp-image-4311" src="http://localhost/mysite/wp-content/uploads/2004/11/china_trip.180.jpg" alt="Photo by Sara Walsh from a group show at College Eight" width="180" height="279" /></a>Photo by Sara Walsh from a group show at College Eight[/caption]
+[caption id="attachment_4311" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/china_trip.180.jpg"><img class="size-full wp-image-4311" src="http://localhost/mysite/wp-content/uploads/2004/11/china_trip.180.jpg" alt="Photo by Sara Walsh from a group show at College Eight" width="180" height="279" /></a>Photo by Sara Walsh from a group show at College Eight[/caption]
 <a name="content" id="content"></a>
 <p>
   "Focus on China," a group photography show, will be on display at the College Eight Cafe for the month of November. The photographers include UCSC staff, students, and alumni who participated in a tour sponsored by Legends of China in summer 2004.<br>

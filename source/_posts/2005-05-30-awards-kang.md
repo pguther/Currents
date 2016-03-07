@@ -9,7 +9,7 @@ images:
     caption: "The CAS society recognized Steve Kang for outstanding technical contributions and leadership in the field. UCSC Photo Services"
 ---
 
-[caption id="attachment_3863" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/kang_steve.130.jpg"><img class="size-full wp-image-3863" src="http://localhost/mysite/wp-content/uploads/2005/05/kang_steve.130.jpg" alt="The CAS society recognized Steve Kang for outstanding technical contributions and leadership in the field. UCSC Photo Services" width="130" height="183" /></a>The CAS society recognized Steve Kang for outstanding technical contributions and leadership in the field. UCSC Photo Services[/caption]
+[caption id="attachment_3863" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/kang_steve.130.jpg"><img class="size-full wp-image-3863" src="http://localhost/mysite/wp-content/uploads/2005/05/kang_steve.130.jpg" alt="The CAS society recognized Steve Kang for outstanding technical contributions and leadership in the field. UCSC Photo Services" width="130" height="183" /></a>The CAS society recognized Steve Kang for outstanding technical contributions and leadership in the field. UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   Steve Kang, dean of UCSC's Baskin School of Engineering, has been awarded the 2005 Mac Van Valkenburg Award from the Institute for Electrical and Electronics Engineers (IEEE) Circuits and Systems Society (CAS).

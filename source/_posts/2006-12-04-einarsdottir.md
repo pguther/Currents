@@ -9,7 +9,7 @@ images:
     caption: "Olof Einarsdottir"
 ---
 
-[caption id="attachment_6448" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/einarsdottir_olof.180.jpg"><img class="size-full wp-image-6448" src="http://localhost/mysite/wp-content/uploads/2006/12/einarsdottir_olof.180.jpg" alt="Olof Einarsdottir" width="180" height="208" /></a>Olof Einarsdottir[/caption]
+[caption id="attachment_6448" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/einarsdottir_olof.180.jpg"><img class="size-full wp-image-6448" src="http://localhost/mysite/wp-content/uploads/2006/12/einarsdottir_olof.180.jpg" alt="Olof Einarsdottir" width="180" height="208" /></a>Olof Einarsdottir[/caption]
 <a name="content" id="content"></a>
 <p>
   Olof Einarsdottir, professor and chair of chemistry and biochemistry, has been awarded the distinction of AAAS Fellow by the American Association for the Advancement of Science (AAAS). Election as a fellow is an honor bestowed upon members of AAAS by their peers.

@@ -9,7 +9,7 @@ images:
     caption: "Gary Lease Photo by Don Fukuda"
 ---
 
-[caption id="attachment_4137" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/09/lease_gary.04-09-20.jpg"><img class="size-full wp-image-4137" src="http://localhost/mysite/wp-content/uploads/2004/09/lease_gary.04-09-20.jpg" alt="Gary Lease Photo by Don Fukuda" width="180" height="221" /></a>Gary Lease Photo by Don Fukuda[/caption]
+[caption id="attachment_4137" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/09/lease_gary.04-09-20.jpg"><img class="size-full wp-image-4137" src="http://localhost/mysite/wp-content/uploads/2004/09/lease_gary.04-09-20.jpg" alt="Gary Lease Photo by Don Fukuda" width="180" height="221" /></a>Gary Lease Photo by Don Fukuda[/caption]
 <a name="content" id="content"></a>
 <p>
   Acting Chancellor Martin M. Chemers has appointed Professor Gary Lease as interim dean of the UCSC Humanities Division.

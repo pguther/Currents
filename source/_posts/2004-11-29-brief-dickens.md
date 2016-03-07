@@ -9,7 +9,7 @@ images:
     caption: "Illustration by John Leech from A Christmas Carol"
 ---
 
-[caption id="attachment_4393" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/dickens_dancing.200.jpg"><img class="size-full wp-image-4393" src="http://localhost/mysite/wp-content/uploads/2004/11/dickens_dancing.200.jpg" alt="Illustration by John Leech from A Christmas Carol" width="200" height="231" /></a>Illustration by John Leech from A Christmas Carol[/caption]
+[caption id="attachment_4393" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/dickens_dancing.200.jpg"><img class="size-full wp-image-4393" src="http://localhost/mysite/wp-content/uploads/2004/11/dickens_dancing.200.jpg" alt="Illustration by John Leech from A Christmas Carol" width="200" height="231" /></a>Illustration by John Leech from A Christmas Carol[/caption]
 <a name="content" id="content"></a>
 <p>
   The Friends of the UCSC Library and the UCSC Dickens Project will present the annual Dickens Holiday Evening on Friday, December 3, from 4:30 to 6 p.m. at UCSC's McHenry Library Foyer. Admission is free and everyone is welcome.

@@ -9,7 +9,7 @@ images:
     caption: "New Philosophy Department chair Paul Roth Photo: Scott Rappaport"
 ---
 
-[caption id="attachment_3496" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/roth.05-03-07.jpg"><img class="size-full wp-image-3496" src="http://localhost/mysite/wp-content/uploads/2005/03/roth.05-03-07.jpg" alt="New Philosophy Department chair Paul Roth Photo: Scott Rappaport" width="170" height="241" /></a>New Philosophy Department chair Paul Roth Photo: Scott Rappaport[/caption]
+[caption id="attachment_3496" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/03/roth.05-03-07.jpg"><img class="size-full wp-image-3496" src="http://localhost/mysite/wp-content/uploads/2005/03/roth.05-03-07.jpg" alt="New Philosophy Department chair Paul Roth Photo: Scott Rappaport" width="170" height="241" /></a>New Philosophy Department chair Paul Roth Photo: Scott Rappaport[/caption]
 <a name="content" id="content"></a>
 <p>
   While teaching at the University of Missouri-St. Louis in the late 1990s, Paul Roth cofounded an annual roundtable on the philosophy of social science that reflects his avid interest in the interrelationships of social science and philosophy.

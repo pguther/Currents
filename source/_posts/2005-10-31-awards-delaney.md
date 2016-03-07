@@ -9,7 +9,7 @@ images:
     caption: "Margaret Delaney Photo: Tim Stephens"
 ---
 
-[caption id="attachment_5573" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/delaney_margaret.130.jpg"><img class="size-full wp-image-5573" src="http://localhost/mysite/wp-content/uploads/2005/10/delaney_margaret.130.jpg" alt="Margaret Delaney Photo: Tim Stephens" width="130" height="162" /></a>Margaret Delaney Photo: Tim Stephens[/caption]
+[caption id="attachment_5573" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/delaney_margaret.130.jpg"><img class="size-full wp-image-5573" src="http://localhost/mysite/wp-content/uploads/2005/10/delaney_margaret.130.jpg" alt="Margaret Delaney Photo: Tim Stephens" width="130" height="162" /></a>Margaret Delaney Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   Margaret Delaney, professor of ocean sciences, has been named editor of <i>Earth and Planetary Science Letters</i>, a major journal in the field of Earth sciences.

@@ -9,7 +9,7 @@ images:
     caption: "Ronald Ruby Photo: Carol Foote"
 ---
 
-[caption id="attachment_3168" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2003/11/ruby_ron.150.jpg"><img class="size-full wp-image-3168" src="http://localhost/mysite/wp-content/uploads/2003/11/ruby_ron.150.jpg" alt="Ronald Ruby Photo: Carol Foote" width="150" height="207" /></a>Ronald Ruby Photo: Carol Foote[/caption]
+[caption id="attachment_3168" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2003/11/ruby_ron.150.jpg"><img class="size-full wp-image-3168" src="http://localhost/mysite/wp-content/uploads/2003/11/ruby_ron.150.jpg" alt="Ronald Ruby Photo: Carol Foote" width="150" height="207" /></a>Ronald Ruby Photo: Carol Foote[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

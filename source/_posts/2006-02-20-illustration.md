@@ -12,8 +12,8 @@ images:
     caption: "Vernanimalcula, by Amadeo Bachar"
 ---
 
-[caption id="attachment_4637" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/owls.340.jpg"><img class="size-full wp-image-4637" src="http://localhost/mysite/wp-content/uploads/2006/02/owls.340.jpg" alt="Owls, Science Notes, by Lucy Reading '03" width="340" height="205" /></a>Owls, Science Notes, by Lucy Reading '03[/caption]
-[caption id="attachment_4638" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/lavern_opener.200.jpg"><img class="size-full wp-image-4638" src="http://localhost/mysite/wp-content/uploads/2006/02/lavern_opener.200.jpg" alt="Vernanimalcula, by Amadeo Bachar" width="200" height="200" /></a>Vernanimalcula, by Amadeo Bachar[/caption]
+[caption id="attachment_4637" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/owls.340.jpg"><img class="size-full wp-image-4637" src="http://localhost/mysite/wp-content/uploads/2006/02/owls.340.jpg" alt="Owls, Science Notes, by Lucy Reading '03" width="340" height="205" /></a>Owls, Science Notes, by Lucy Reading '03[/caption]
+[caption id="attachment_4638" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/lavern_opener.200.jpg"><img class="size-full wp-image-4638" src="http://localhost/mysite/wp-content/uploads/2006/02/lavern_opener.200.jpg" alt="Vernanimalcula, by Amadeo Bachar" width="200" height="200" /></a>Vernanimalcula, by Amadeo Bachar[/caption]
 <a name="content" id="content"></a>
 <p>
   Febuary 20, 2006

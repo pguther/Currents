@@ -9,7 +9,7 @@ images:
     caption: "The workshops conducted by Judith Nichols are open to all faculty and staff."
 ---
 
-[caption id="attachment_3249" align="alignnone" width="138"]<a href="http://localhost/mysite/wp-content/uploads/2003/12/nichols_judy.03-12-15.138.jpg"><img class="size-full wp-image-3249" src="http://localhost/mysite/wp-content/uploads/2003/12/nichols_judy.03-12-15.138.jpg" alt="The workshops conducted by Judith Nichols are open to all faculty and staff." width="138" height="192" /></a>The workshops conducted by Judith Nichols are open to all faculty and staff.[/caption]
+[caption id="attachment_3249" align="alignright" width="138"]<a href="http://localhost/mysite/wp-content/uploads/2003/12/nichols_judy.03-12-15.138.jpg"><img class="size-full wp-image-3249" src="http://localhost/mysite/wp-content/uploads/2003/12/nichols_judy.03-12-15.138.jpg" alt="The workshops conducted by Judith Nichols are open to all faculty and staff." width="138" height="192" /></a>The workshops conducted by Judith Nichols are open to all faculty and staff.[/caption]
 <p>
   America's shifting demographics will have a profound impact on philanthropy, according to Judith Nichols, a fundraising practitioner and researcher who will lead a series of workshops on "<a href="http://urelations.ucsc.edu/nichols-agenda.html">Building the Individual Donor Base for UC Santa Cruz</a>" on January 13.
 </p>

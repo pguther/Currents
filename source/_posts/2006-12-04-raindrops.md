@@ -9,7 +9,7 @@ images:
     caption: "Graduate student Jennifer Small uses a new instrument, seen here attached to the wing of an airplane, to gather data on raindrop formation in clouds. Photo courtesy of J. Small"
 ---
 
-[caption id="attachment_6451" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/small_jennifer.230.jpg"><img class="size-full wp-image-6451" src="http://localhost/mysite/wp-content/uploads/2006/12/small_jennifer.230.jpg" alt="Graduate student Jennifer Small uses a new instrument, seen here attached to the wing of an airplane, to gather data on raindrop formation in clouds. Photo courtesy of J. Small" width="230" height="316" /></a>Graduate student Jennifer Small uses a new instrument, seen here attached to the wing of an airplane, to gather data on raindrop formation in clouds. Photo courtesy of J. Small[/caption]
+[caption id="attachment_6451" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/small_jennifer.230.jpg"><img class="size-full wp-image-6451" src="http://localhost/mysite/wp-content/uploads/2006/12/small_jennifer.230.jpg" alt="Graduate student Jennifer Small uses a new instrument, seen here attached to the wing of an airplane, to gather data on raindrop formation in clouds. Photo courtesy of J. Small" width="230" height="316" /></a>Graduate student Jennifer Small uses a new instrument, seen here attached to the wing of an airplane, to gather data on raindrop formation in clouds. Photo courtesy of J. Small[/caption]
 <a name="content" id="content"></a>
 <p>
   How do raindrops form? It's a simple question, but the answer is far from elementary. Tiny water droplets somehow merge to become full-sized raindrops, but the details remain a mystery.

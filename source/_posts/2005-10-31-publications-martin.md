@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5593" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/rose_primer.200.jpg"><img class="size-full wp-image-5593" src="http://localhost/mysite/wp-content/uploads/2005/10/rose_primer.200.jpg" alt="" width="200" height="193" /></a>[/caption]
+[caption id="attachment_5593" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/rose_primer.200.jpg"><img class="size-full wp-image-5593" src="http://localhost/mysite/wp-content/uploads/2005/10/rose_primer.200.jpg" alt="" width="200" height="193" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Master gardener Orin Martin cuts a lush bouquet of fresh, organically grown garden roses for his eldest daughter each year on her birthday. What's unusual is that she was born November 9. Better yet, when Martin sits down to Thanksgiving dinner, a rose-based bouquet often adorns his table.

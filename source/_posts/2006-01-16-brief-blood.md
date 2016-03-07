@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_4528" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/re_cross2.jpg"><img class="size-full wp-image-4528" src="http://localhost/mysite/wp-content/uploads/2006/01/re_cross2.jpg" alt="" width="180" height="94" /></a>[/caption]
+[caption id="attachment_4528" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/re_cross2.jpg"><img class="size-full wp-image-4528" src="http://localhost/mysite/wp-content/uploads/2006/01/re_cross2.jpg" alt="" width="180" height="94" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The UCSC Fire Department is sponsoring a Red Cross blood drive on Thursday, January 19, from 10:30 a.m. to 3:30 p.m. at the campus fire station.

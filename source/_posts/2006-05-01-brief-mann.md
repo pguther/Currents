@@ -9,7 +9,7 @@ images:
     caption: "Michael Mann's research has been central to establishing the growing human influence on climate."
 ---
 
-[caption id="attachment_4928" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/mann_michael.200.jpg"><img class="size-full wp-image-4928" src="http://localhost/mysite/wp-content/uploads/2006/05/mann_michael.200.jpg" alt="Michael Mann's research has been central to establishing the growing human influence on climate." width="200" height="249" /></a>Michael Mann's research has been central to establishing the growing human influence on climate.[/caption]
+[caption id="attachment_4928" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/mann_michael.200.jpg"><img class="size-full wp-image-4928" src="http://localhost/mysite/wp-content/uploads/2006/05/mann_michael.200.jpg" alt="Michael Mann's research has been central to establishing the growing human influence on climate." width="200" height="249" /></a>Michael Mann's research has been central to establishing the growing human influence on climate.[/caption]
 <a name="content" id="content"></a>
 <p>
   Michael Mann, director of the Earth System Science Center at Pennsylvania State University, will give a lecture on global climate change on Wednesday, May 10, at UC Santa Cruz. His talk--"Global Climate Change: Past and Future"--will take place at 7 p.m. at the Seymour Center at UCSC's Long Marine Laboratory. The event is free and open to the public.

@@ -9,7 +9,7 @@ images:
     caption: "Tharp proposes alternatives to the traditional system of teacher-led instruction."
 ---
 
-[caption id="attachment_1336" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/08/teach.01-08-20.180.jpg"><img class="size-full wp-image-1336" src="http://localhost/mysite/wp-content/uploads/2001/08/teach.01-08-20.180.jpg" alt="Tharp proposes alternatives to the traditional system of teacher-led instruction." width="180" height="282" /></a>Tharp proposes alternatives to the traditional system of teacher-led instruction.[/caption]
+[caption id="attachment_1336" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/08/teach.01-08-20.180.jpg"><img class="size-full wp-image-1336" src="http://localhost/mysite/wp-content/uploads/2001/08/teach.01-08-20.180.jpg" alt="Tharp proposes alternatives to the traditional system of teacher-led instruction." width="180" height="282" /></a>Tharp proposes alternatives to the traditional system of teacher-led instruction.[/caption]
 <p>
   <font size="5"><b>Transforming the classroom is key to educational reform, author says</b></font>
 </p>

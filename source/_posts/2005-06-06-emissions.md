@@ -9,7 +9,7 @@ images:
     caption: "Researchers are looking at new ways to solve the problem of carbon emissions at power plants. A major Central Coast power plant is this one at Moss Landing. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_3916" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/powerplant.05-06-02.jpg"><img class="size-full wp-image-3916" src="http://localhost/mysite/wp-content/uploads/2005/06/powerplant.05-06-02.jpg" alt="Researchers are looking at new ways to solve the problem of carbon emissions at power plants. A major Central Coast power plant is this one at Moss Landing. Photo: Louise Donahue" width="230" height="308" /></a>Researchers are looking at new ways to solve the problem of carbon emissions at power plants. A major Central Coast power plant is this one at Moss Landing. Photo: Louise Donahue[/caption]
+[caption id="attachment_3916" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/powerplant.05-06-02.jpg"><img class="size-full wp-image-3916" src="http://localhost/mysite/wp-content/uploads/2005/06/powerplant.05-06-02.jpg" alt="Researchers are looking at new ways to solve the problem of carbon emissions at power plants. A major Central Coast power plant is this one at Moss Landing. Photo: Louise Donahue" width="230" height="308" /></a>Researchers are looking at new ways to solve the problem of carbon emissions at power plants. A major Central Coast power plant is this one at Moss Landing. Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   Researchers from UCSC and Lawrence Livermore National Laboratory (LLNL) have invented a new method for controlling the emission of carbon dioxide from power plants.

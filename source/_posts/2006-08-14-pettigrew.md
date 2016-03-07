@@ -9,7 +9,7 @@ images:
     caption: "Thomas Pettigrew"
 ---
 
-[caption id="attachment_6157" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/08/pettigrew.06-08-14.180.jpg"><img class="size-full wp-image-6157" src="http://localhost/mysite/wp-content/uploads/2006/08/pettigrew.06-08-14.180.jpg" alt="Thomas Pettigrew" width="180" height="206" /></a>Thomas Pettigrew[/caption]
+[caption id="attachment_6157" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2006/08/pettigrew.06-08-14.180.jpg"><img class="size-full wp-image-6157" src="http://localhost/mysite/wp-content/uploads/2006/08/pettigrew.06-08-14.180.jpg" alt="Thomas Pettigrew" width="180" height="206" /></a>Thomas Pettigrew[/caption]
 <a name="content" id="content"></a>
 <p>
   An expert on intergroup relations could find the world a disheartening place lately, but research professor Thomas Pettigrew reports that South Africa has made great progress since apartheid ended in 1994.

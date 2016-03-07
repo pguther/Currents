@@ -9,7 +9,7 @@ images:
     caption: "Friday buffet lunches are just one of the new features at Terra Fresca. Photo: Chris Banks"
 ---
 
-[caption id="attachment_5375" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/buffet_lunch.180.jpg"><img class="size-full wp-image-5375" src="http://localhost/mysite/wp-content/uploads/2005/09/buffet_lunch.180.jpg" alt="Friday buffet lunches are just one of the new features at Terra Fresca. Photo: Chris Banks" width="180" height="145" /></a>Friday buffet lunches are just one of the new features at Terra Fresca. Photo: Chris Banks[/caption]
+[caption id="attachment_5375" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/buffet_lunch.180.jpg"><img class="size-full wp-image-5375" src="http://localhost/mysite/wp-content/uploads/2005/09/buffet_lunch.180.jpg" alt="Friday buffet lunches are just one of the new features at Terra Fresca. Photo: Chris Banks" width="180" height="145" /></a>Friday buffet lunches are just one of the new features at Terra Fresca. Photo: Chris Banks[/caption]
 <a name="content" id="content"></a>
 <p>
   The restaurant at the University Center has a new name and new management. UC Dining Services took over management from Sodexho in June and renamed the restaurant Terra Fresca to reflect the new emphasis on fresh local foods.

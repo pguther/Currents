@@ -12,8 +12,8 @@ images:
     caption: 
 ---
 
-[caption id="attachment_1525" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/11/newseal.01-11-12.224.jpg"><img class="size-full wp-image-1525" src="http://localhost/mysite/wp-content/uploads/2001/11/newseal.01-11-12.224.jpg" alt="Studying Weddell seals, above, requires researchers such as Terrie Williams, below, to contend with icebergs and bitterly cold weather. Photos: Terrie Williams, above, Randall Davis, below." width="224" height="168" /></a>Studying Weddell seals, above, requires researchers such as Terrie Williams, below, to contend with icebergs and bitterly cold weather. Photos: Terrie Williams, above, Randall Davis, below.[/caption]
-[caption id="attachment_1526" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/11/williams.01-11-12.224.jpg"><img class="size-full wp-image-1526" src="http://localhost/mysite/wp-content/uploads/2001/11/williams.01-11-12.224.jpg" alt="" width="224" height="211" /></a>[/caption]
+[caption id="attachment_1525" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/11/newseal.01-11-12.224.jpg"><img class="size-full wp-image-1525" src="http://localhost/mysite/wp-content/uploads/2001/11/newseal.01-11-12.224.jpg" alt="Studying Weddell seals, above, requires researchers such as Terrie Williams, below, to contend with icebergs and bitterly cold weather. Photos: Terrie Williams, above, Randall Davis, below." width="224" height="168" /></a>Studying Weddell seals, above, requires researchers such as Terrie Williams, below, to contend with icebergs and bitterly cold weather. Photos: Terrie Williams, above, Randall Davis, below.[/caption]
+[caption id="attachment_1526" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/11/williams.01-11-12.224.jpg"><img class="size-full wp-image-1526" src="http://localhost/mysite/wp-content/uploads/2001/11/williams.01-11-12.224.jpg" alt="" width="224" height="211" /></a>[/caption]
 <p>
   <b>UCSC professor observing seal behavior from camp in Antarctica</b>
 </p>

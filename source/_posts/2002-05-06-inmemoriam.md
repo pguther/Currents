@@ -9,7 +9,7 @@ images:
     caption: "Photo: Lee Jaffe"
 ---
 
-[caption id="attachment_1125" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/ortiz_tom.jpg"><img class="size-full wp-image-1125" src="http://localhost/mysite/wp-content/uploads/2002/05/ortiz_tom.jpg" alt="Photo: Lee Jaffe" width="150" height="206" /></a>Photo: Lee Jaffe[/caption]
+[caption id="attachment_1125" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/05/ortiz_tom.jpg"><img class="size-full wp-image-1125" src="http://localhost/mysite/wp-content/uploads/2002/05/ortiz_tom.jpg" alt="Photo: Lee Jaffe" width="150" height="206" /></a>Photo: Lee Jaffe[/caption]
 <h3>
   <font color="#003399">Thomas Ortiz</font>
 </h3>Thomas Ortiz, a longtime member of the staff at McHenry Library, died unexpectedly in his sleep May 1; he was 59.<br>

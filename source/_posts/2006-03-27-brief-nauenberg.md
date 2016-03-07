@@ -9,7 +9,7 @@ images:
     caption: "Michael Nauenberg Photo: Josette Nauenberg"
 ---
 
-[caption id="attachment_4781" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/nauenberg_michael.200.jpg"><img class="size-full wp-image-4781" src="http://localhost/mysite/wp-content/uploads/2006/03/nauenberg_michael.200.jpg" alt="Michael Nauenberg Photo: Josette Nauenberg" width="200" height="206" /></a>Michael Nauenberg Photo: Josette Nauenberg[/caption]
+[caption id="attachment_4781" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/nauenberg_michael.200.jpg"><img class="size-full wp-image-4781" src="http://localhost/mysite/wp-content/uploads/2006/03/nauenberg_michael.200.jpg" alt="Michael Nauenberg Photo: Josette Nauenberg" width="200" height="206" /></a>Michael Nauenberg Photo: Josette Nauenberg[/caption]
 <a name="content" id="content"></a>
 <p>
   Michael Nauenberg, professor emeritus of physics, will deliver an Emeriti Lecture on Thursday, April 6, entitled "The Nature of Science and the Science of Nature: An Historical Perspective." The lecture will begin at 8 p.m. in the Media Theater and will be followed by light refreshments.

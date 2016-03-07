@@ -9,7 +9,7 @@ images:
     caption: "Chancellor Denton, left, and Kathryn Sullivan, right, join Jennifer Lehman, the first recipient of the Kathryn D. Sullivan Scholarship in Earth and Marine Sciences."
 ---
 
-[caption id="attachment_4933" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/sullivan.06-05-01.jpg"><img class="size-full wp-image-4933" src="http://localhost/mysite/wp-content/uploads/2006/05/sullivan.06-05-01.jpg" alt="Chancellor Denton, left, and Kathryn Sullivan, right, join Jennifer Lehman, the first recipient of the Kathryn D. Sullivan Scholarship in Earth and Marine Sciences." width="230" height="139" /></a>Chancellor Denton, left, and Kathryn Sullivan, right, join Jennifer Lehman, the first recipient of the Kathryn D. Sullivan Scholarship in Earth and Marine Sciences.[/caption]
+[caption id="attachment_4933" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/sullivan.06-05-01.jpg"><img class="size-full wp-image-4933" src="http://localhost/mysite/wp-content/uploads/2006/05/sullivan.06-05-01.jpg" alt="Chancellor Denton, left, and Kathryn Sullivan, right, join Jennifer Lehman, the first recipient of the Kathryn D. Sullivan Scholarship in Earth and Marine Sciences." width="230" height="139" /></a>Chancellor Denton, left, and Kathryn Sullivan, right, join Jennifer Lehman, the first recipient of the Kathryn D. Sullivan Scholarship in Earth and Marine Sciences.[/caption]
 <a name="content" id="content"></a>
 <p>
   Family, fellow alumni, and distinguished guests gathered on April 21 to celebrate the career and achievements of Kathryn Sullivan (B.S. Earth sciences, Cowell College, '73) as the atrium in the Earth and Marine Sciences Building was named in her honor.

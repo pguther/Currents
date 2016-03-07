@@ -9,7 +9,7 @@ images:
     caption: "Sammy Slug joins Second Harvest organizers at an earlier drive. Sammy will be promoting contributions throughout this week."
 ---
 
-[caption id="attachment_4395" align="alignnone" width="360"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/food_drive.360.jpg"><img class="size-full wp-image-4395" src="http://localhost/mysite/wp-content/uploads/2004/11/food_drive.360.jpg" alt="Sammy Slug joins Second Harvest organizers at an earlier drive. Sammy will be promoting contributions throughout this week." width="360" height="222" /></a>Sammy Slug joins Second Harvest organizers at an earlier drive. Sammy will be promoting contributions throughout this week.[/caption]
+[caption id="attachment_4395" align="alignright" width="360"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/food_drive.360.jpg"><img class="size-full wp-image-4395" src="http://localhost/mysite/wp-content/uploads/2004/11/food_drive.360.jpg" alt="Sammy Slug joins Second Harvest organizers at an earlier drive. Sammy will be promoting contributions throughout this week." width="360" height="222" /></a>Sammy Slug joins Second Harvest organizers at an earlier drive. Sammy will be promoting contributions throughout this week.[/caption]
 <a name="content" id="content"></a>
 <p>
   Sammy Slug will be at the main entrance to campus today through Friday, December 3, urging contributions to the Second Harvest Food Drive.

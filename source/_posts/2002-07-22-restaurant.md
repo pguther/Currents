@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Whole Earth Restaurant closes; new vendor sought for site"
-author: Louise Donahue
+author: Louise 
+Donahue
 post_id: 2098
 images:
   - file: http://www1.ucsc.edu/currents/02-03/art/whole_earth.01-07-09.224.jpg
@@ -9,7 +10,7 @@ images:
     caption: "Bob Pallares at the Whole Earth Restaurant in the summer of 2001. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_2097" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/07/whole_earth.01-07-09.224.jpg"><img class="size-full wp-image-2097" src="http://localhost/mysite/wp-content/uploads/2002/07/whole_earth.01-07-09.224.jpg" alt="Bob Pallares at the Whole Earth Restaurant in the summer of 2001. Photo: Louise Donahue" width="224" height="163" /></a>Bob Pallares at the Whole Earth Restaurant in the summer of 2001. Photo: Louise Donahue[/caption]
+[caption id="attachment_2097" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2002/07/whole_earth.01-07-09.224.jpg"><img class="size-full wp-image-2097" src="http://localhost/mysite/wp-content/uploads/2002/07/whole_earth.01-07-09.224.jpg" alt="Bob Pallares at the Whole Earth Restaurant in the summer of 2001. Photo: Louise Donahue" width="224" height="163" /></a>Bob Pallares at the Whole Earth Restaurant in the summer of 2001. Photo: Louise Donahue[/caption]
 <p>
   The Whole Earth Restaurant, a fixture at UCSC since its beginnings as a cooperative in the 1970s, has closed. Bids for a new restaurant will be solicited and reviewed by the Graduate Student Governance Board--the restaurant is part of the Graduate Student Commons--as soon as possible.
 </p>

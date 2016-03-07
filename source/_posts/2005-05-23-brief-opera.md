@@ -9,7 +9,7 @@ images:
     caption: "Student performers Aleksey Bogdanov (Don Giovanni) and Sheila Willey (Donna Anna) Photo: Steve DiBartolomeo"
 ---
 
-[caption id="attachment_3832" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/don_giovanni.180.jpg"><img class="size-full wp-image-3832" src="http://localhost/mysite/wp-content/uploads/2005/05/don_giovanni.180.jpg" alt="Student performers Aleksey Bogdanov (Don Giovanni) and Sheila Willey (Donna Anna) Photo: Steve DiBartolomeo" width="180" height="225" /></a>Student performers Aleksey Bogdanov (Don Giovanni) and Sheila Willey (Donna Anna) Photo: Steve DiBartolomeo[/caption]
+[caption id="attachment_3832" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/don_giovanni.180.jpg"><img class="size-full wp-image-3832" src="http://localhost/mysite/wp-content/uploads/2005/05/don_giovanni.180.jpg" alt="Student performers Aleksey Bogdanov (Don Giovanni) and Sheila Willey (Donna Anna) Photo: Steve DiBartolomeo" width="180" height="225" /></a>Student performers Aleksey Bogdanov (Don Giovanni) and Sheila Willey (Donna Anna) Photo: Steve DiBartolomeo[/caption]
 <a name="content" id="content"></a>
 <p>
   Don Juan, the legendary Spanish rogue and seducer, did get around in his day. Now the Don is coming to UCSC when the Music Department presents Mozart's Italian-language opera <i>Don Giovanni</i>, beginning on June 2 in the Music Center Recital Hall.

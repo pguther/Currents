@@ -9,7 +9,7 @@ images:
     caption: "Bettina Aptheker will discuss women's oral histories and memoirs. Photo: UCSC Photo Services"
 ---
 
-[caption id="attachment_1690" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/aptheker_b.03-02-03.160.jpg"><img class="size-full wp-image-1690" src="http://localhost/mysite/wp-content/uploads/2003/02/aptheker_b.03-02-03.160.jpg" alt="Bettina Aptheker will discuss women's oral histories and memoirs. Photo: UCSC Photo Services" width="160" height="206" /></a>Bettina Aptheker will discuss women's oral histories and memoirs. Photo: UCSC Photo Services[/caption]
+[caption id="attachment_1690" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/aptheker_b.03-02-03.160.jpg"><img class="size-full wp-image-1690" src="http://localhost/mysite/wp-content/uploads/2003/02/aptheker_b.03-02-03.160.jpg" alt="Bettina Aptheker will discuss women's oral histories and memoirs. Photo: UCSC Photo Services" width="160" height="206" /></a>Bettina Aptheker will discuss women's oral histories and memoirs. Photo: UCSC Photo Services[/caption]
 <p>
   Diversity and social justice will be the themes of a new campus lecture series for staff and faculty that opens with a talk by women's studies professor Bettina Aptheker on February 18.
 </p>

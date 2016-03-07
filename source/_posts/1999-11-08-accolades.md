@@ -9,7 +9,7 @@ images:
     caption: "Slugs (left-right in white jerseys) Erin Cunniffe, Gail Readdie, and Jenny Vasil on the attack in a 3-2 win over Cal Lutheran earlier this season"
 ---
 
-[caption id="attachment_7031" align="alignnone" width="400"]<a href="http://localhost/mysite/wp-content/uploads/1999/11/cunniffe_pass.400.JPG"><img class="size-full wp-image-7031" src="http://localhost/mysite/wp-content/uploads/1999/11/cunniffe_pass.400.JPG" alt="Slugs (left-right in white jerseys) Erin Cunniffe, Gail Readdie, and Jenny Vasil on the attack in a 3-2 win over Cal Lutheran earlier this season" width="400" height="251" /></a>Slugs (left-right in white jerseys) Erin Cunniffe, Gail Readdie, and Jenny Vasil on the attack in a 3-2 win over Cal Lutheran earlier this season[/caption]
+[caption id="attachment_7031" align="alignright" width="400"]<a href="http://localhost/mysite/wp-content/uploads/1999/11/cunniffe_pass.400.JPG"><img class="size-full wp-image-7031" src="http://localhost/mysite/wp-content/uploads/1999/11/cunniffe_pass.400.JPG" alt="Slugs (left-right in white jerseys) Erin Cunniffe, Gail Readdie, and Jenny Vasil on the attack in a 3-2 win over Cal Lutheran earlier this season" width="400" height="251" /></a>Slugs (left-right in white jerseys) Erin Cunniffe, Gail Readdie, and Jenny Vasil on the attack in a 3-2 win over Cal Lutheran earlier this season[/caption]
 <h4>
   <font color="#003399">Margaret Gibson</font>
 </h4>

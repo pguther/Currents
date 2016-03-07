@@ -9,7 +9,7 @@ images:
     caption: "UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman"
 ---
 
-[caption id="attachment_6015" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/dynes_visit.jpg"><img class="size-full wp-image-6015" src="http://localhost/mysite/wp-content/uploads/2007/04/dynes_visit.jpg" alt="UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman" width="230" height="190" /></a>UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman[/caption]
+[caption id="attachment_6015" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/dynes_visit.jpg"><img class="size-full wp-image-6015" src="http://localhost/mysite/wp-content/uploads/2007/04/dynes_visit.jpg" alt="UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman" width="230" height="190" /></a>UC President Dynes met with Watsonville High students on his trip to the Central Coast. Photo: Scott Trugman[/caption]
 <a name="content" id="content"></a>
 <p>
   UC President Robert C. Dynes visited Santa Cruz and Monterey Counties March 22 and 23 as part of a series of tours around the state.

@@ -9,7 +9,7 @@ images:
     caption: "Junko Ito"
 ---
 
-[caption id="attachment_4546" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/ito_junko.140.jpg"><img class="size-full wp-image-4546" src="http://localhost/mysite/wp-content/uploads/2006/01/ito_junko.140.jpg" alt="Junko Ito" width="140" height="172" /></a>Junko Ito[/caption]
+[caption id="attachment_4546" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/ito_junko.140.jpg"><img class="size-full wp-image-4546" src="http://localhost/mysite/wp-content/uploads/2006/01/ito_junko.140.jpg" alt="Junko Ito" width="140" height="172" /></a>Junko Ito[/caption]
 <a name="content" id="content"></a>
 <p>
   Junko Ito, professor and chair of the Linguistics Department, has been awarded a prestigious 2006-07 Invitation Fellowship by the Japan Society for the Promotion of Science (JSPS), the Japanese counterpart to the National Science Foundation.

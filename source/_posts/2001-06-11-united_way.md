@@ -9,7 +9,7 @@ images:
     caption: "From left, Dick Solari, John Burroughs and John Hurd join Chancellor Greenwood, center. Photo: Elizabeth Irwin. More photos."
 ---
 
-[caption id="attachment_455" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/06/Hurd.01-06-11.180.jpg"><img class="size-full wp-image-455" src="http://localhost/mysite/wp-content/uploads/2001/06/Hurd.01-06-11.180.jpg" alt="From left, Dick Solari, John Burroughs and John Hurd join Chancellor Greenwood, center. Photo: Elizabeth Irwin. More photos." width="180" height="135" /></a>From left, Dick Solari, John Burroughs and John Hurd join Chancellor Greenwood, center. Photo: Elizabeth Irwin. More photos.[/caption]
+[caption id="attachment_455" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2001/06/Hurd.01-06-11.180.jpg"><img class="size-full wp-image-455" src="http://localhost/mysite/wp-content/uploads/2001/06/Hurd.01-06-11.180.jpg" alt="From left, Dick Solari, John Burroughs and John Hurd join Chancellor Greenwood, center. Photo: Elizabeth Irwin. More photos." width="180" height="135" /></a>From left, Dick Solari, John Burroughs and John Hurd join Chancellor Greenwood, center. Photo: Elizabeth Irwin. More photos.[/caption]
 Chancellor M.R.C. Greenwood hosted a reception Thursday, June 7, at University House for this year's "community leadership" donors, those who contributed between $500 and $10,000 to United Way.
 <p>
   Greenwood, a member of the United Way Board of Directors, hosted a number of UC Santa Cruz faculty and staff plus approximately 50 community members at the event.<br>

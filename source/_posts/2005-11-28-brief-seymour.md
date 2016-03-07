@@ -9,7 +9,7 @@ images:
     caption: "Ms. Blue will once again be lit up for the holidays. Whale lighting festivities will be at 5:30 p.m. on December 3."
 ---
 
-[caption id="attachment_5709" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/xmas_whale.340.jpg"><img class="size-full wp-image-5709" src="http://localhost/mysite/wp-content/uploads/2005/11/xmas_whale.340.jpg" alt="Ms. Blue will once again be lit up for the holidays. Whale lighting festivities will be at 5:30 p.m. on December 3." width="340" height="181" /></a>Ms. Blue will once again be lit up for the holidays. Whale lighting festivities will be at 5:30 p.m. on December 3.[/caption]
+[caption id="attachment_5709" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/xmas_whale.340.jpg"><img class="size-full wp-image-5709" src="http://localhost/mysite/wp-content/uploads/2005/11/xmas_whale.340.jpg" alt="Ms. Blue will once again be lit up for the holidays. Whale lighting festivities will be at 5:30 p.m. on December 3." width="340" height="181" /></a>Ms. Blue will once again be lit up for the holidays. Whale lighting festivities will be at 5:30 p.m. on December 3.[/caption]
 <a name="content" id="content"></a><br>
 <p>
   The 87-foot blue whale skeleton at Long Marine Laboratory will again brighten the holiday season this year. Fondly known as Ms. Blue, the massive whale skeleton will glow each evening in December at the lab's <a href="http://seymourcenter.ucsc.edu">Seymour Center</a>. It is believed to be the world's largest assembled whale skeleton on public display.

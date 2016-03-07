@@ -9,7 +9,7 @@ images:
     caption: "Pipa virtuoso Wu Man will perform Friday evening."
 ---
 
-[caption id="attachment_3680" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/wu_man.180.jpg"><img class="size-full wp-image-3680" src="http://localhost/mysite/wp-content/uploads/2005/04/wu_man.180.jpg" alt="Pipa virtuoso Wu Man will perform Friday evening." width="180" height="114" /></a>Pipa virtuoso Wu Man will perform Friday evening.[/caption]
+[caption id="attachment_3680" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/wu_man.180.jpg"><img class="size-full wp-image-3680" src="http://localhost/mysite/wp-content/uploads/2005/04/wu_man.180.jpg" alt="Pipa virtuoso Wu Man will perform Friday evening." width="180" height="114" /></a>Pipa virtuoso Wu Man will perform Friday evening.[/caption]
 <a name="content" id="content"></a>
 <p>
   The 2005 Pacific Rim Music Festival--a nine-day international celebration presented by the UCSC Music Department--kicks off on the afternoon of Friday, April 29.

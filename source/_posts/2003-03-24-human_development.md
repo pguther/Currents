@@ -9,7 +9,7 @@ images:
     caption: "Although there is more variation in child development than psychologists have written about, the variation is not random, notes Barbara Rogoff."
 ---
 
-[caption id="attachment_1804" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/03/rogoff.book.180.jpg"><img class="size-full wp-image-1804" src="http://localhost/mysite/wp-content/uploads/2003/03/rogoff.book.180.jpg" alt="Although there is more variation in child development than psychologists have written about, the variation is not random, notes Barbara Rogoff." width="180" height="275" /></a>Although there is more variation in child development than psychologists have written about, the variation is not random, notes Barbara Rogoff.[/caption]
+[caption id="attachment_1804" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2003/03/rogoff.book.180.jpg"><img class="size-full wp-image-1804" src="http://localhost/mysite/wp-content/uploads/2003/03/rogoff.book.180.jpg" alt="Although there is more variation in child development than psychologists have written about, the variation is not random, notes Barbara Rogoff." width="180" height="275" /></a>Although there is more variation in child development than psychologists have written about, the variation is not random, notes Barbara Rogoff.[/caption]
 <p>
   The thought of young children handling knives makes many American parents shudder, yet toddlers in parts of Africa safely use machetes. Similarly, infants in middle-class communities in the United States are often expected to sleep alone by the time they're only a few months old, while Mayan children typically share their mother's bed through their toddler years.
 </p>

@@ -12,8 +12,8 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2767" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/poster.04-05-10.200.jpg"><img class="size-full wp-image-2767" src="http://localhost/mysite/wp-content/uploads/2004/05/poster.04-05-10.200.jpg" alt="" width="200" height="305" /></a>[/caption]
-[caption id="attachment_2768" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/chautauqua.old.04-05.10.200.jpg"><img class="size-full wp-image-2768" src="http://localhost/mysite/wp-content/uploads/2004/05/chautauqua.old.04-05.10.200.jpg" alt="" width="200" height="143" /></a>[/caption]
+[caption id="attachment_2767" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/poster.04-05-10.200.jpg"><img class="size-full wp-image-2767" src="http://localhost/mysite/wp-content/uploads/2004/05/poster.04-05-10.200.jpg" alt="" width="200" height="305" /></a>[/caption]
+[caption id="attachment_2768" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/05/chautauqua.old.04-05.10.200.jpg"><img class="size-full wp-image-2768" src="http://localhost/mysite/wp-content/uploads/2004/05/chautauqua.old.04-05.10.200.jpg" alt="" width="200" height="143" /></a>[/caption]
 <p>
   In 1979, the UCSC Chautauqua Festival made its debut at the Barn Theater, just inside the main entrance of the fledgling 14-year-old campus.<br>
 </p>

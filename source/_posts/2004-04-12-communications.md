@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2677" align="alignnone" width="280"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/communications.04-04-12.280.jpg"><img class="size-full wp-image-2677" src="http://localhost/mysite/wp-content/uploads/2004/04/communications.04-04-12.280.jpg" alt="" width="280" height="210" /></a>[/caption]
+[caption id="attachment_2677" align="alignright" width="280"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/communications.04-04-12.280.jpg"><img class="size-full wp-image-2677" src="http://localhost/mysite/wp-content/uploads/2004/04/communications.04-04-12.280.jpg" alt="" width="280" height="210" /></a>[/caption]
 <p class="sectionheadblack">
   Film and Digital Media Department to celebrate new home with Open House and Film Screening
 </p>

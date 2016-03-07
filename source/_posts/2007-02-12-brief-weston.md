@@ -9,7 +9,7 @@ images:
     caption: "'Doorway, Mexico,' a 1970 photo, is part of the Brett Weston collection. (Photo courtesy of UCSC's Special Collections)"
 ---
 
-[caption id="attachment_5898" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/weston_library.jpg"><img class="size-full wp-image-5898" src="http://localhost/mysite/wp-content/uploads/2007/02/weston_library.jpg" alt=""Doorway, Mexico," a 1970 photo, is part of the Brett Weston collection. (Photo courtesy of UCSC's Special Collections)" width="345" height="274" /></a>"Doorway, Mexico," a 1970 photo, is part of the Brett Weston collection. (Photo courtesy of UCSC's Special Collections)[/caption]
+[caption id="attachment_5898" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/weston_library.jpg"><img class="size-full wp-image-5898" src="http://localhost/mysite/wp-content/uploads/2007/02/weston_library.jpg" alt=""Doorway, Mexico," a 1970 photo, is part of the Brett Weston collection. (Photo courtesy of UCSC's Special Collections)" width="345" height="274" /></a>"Doorway, Mexico," a 1970 photo, is part of the Brett Weston collection. (Photo courtesy of UCSC's Special Collections)[/caption]
 <a name="content" id="content"></a>
 <p>
   The University Library will present an exhibit of photos by acclaimed American photographer Brett Weston through March 30 in Special Collections.

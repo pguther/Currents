@@ -9,7 +9,7 @@ images:
     caption: "The Harvest Festival has something for all ages. Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_6262" align="alignnone" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/harvest_art.06-10-02.jpg"><img class="size-full wp-image-6262" src="http://localhost/mysite/wp-content/uploads/2006/10/harvest_art.06-10-02.jpg" alt="The Harvest Festival has something for all ages. Photo: Jennifer McNulty" width="345" height="211" /></a>The Harvest Festival has something for all ages. Photo: Jennifer McNulty[/caption]
+[caption id="attachment_6262" align="alignright" width="345"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/harvest_art.06-10-02.jpg"><img class="size-full wp-image-6262" src="http://localhost/mysite/wp-content/uploads/2006/10/harvest_art.06-10-02.jpg" alt="The Harvest Festival has something for all ages. Photo: Jennifer McNulty" width="345" height="211" /></a>The Harvest Festival has something for all ages. Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   Whether you're an apple aficionado or a pumpkin devotee, the annual Harvest Festival at UCSC is a fun and festive way to celebrate the changing of the seasons.

@@ -9,7 +9,7 @@ images:
     caption: "Bernie McCoy (left) and Belle Demner McCoy"
 ---
 
-[caption id="attachment_868" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/my_yiddishe_momme.150.gif"><img class="size-full wp-image-868" src="http://localhost/mysite/wp-content/uploads/2002/02/my_yiddishe_momme.150.gif" alt="Bernie McCoy (left) and Belle Demner McCoy" width="150" height="270" /></a>Bernie McCoy (left) and Belle Demner McCoy[/caption]
+[caption id="attachment_868" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/my_yiddishe_momme.150.gif"><img class="size-full wp-image-868" src="http://localhost/mysite/wp-content/uploads/2002/02/my_yiddishe_momme.150.gif" alt="Bernie McCoy (left) and Belle Demner McCoy" width="150" height="270" /></a>Bernie McCoy (left) and Belle Demner McCoy[/caption]
 <h3>
   <font color="#003399"><b>Bob Giges</b></font>
 </h3><a href="http://www.homestead.com/zootsuit/mccoy.html"><i>My Yiddishe Momme McCoy</i>,</a> a film by lecturer/staff member Bob Giges, will be showcased at the 12th San Diego Jewish Film Festival on Sunday, February 17. The 20-minute film, produced in 1991 at UCSC, was broadcast last year on <a href="http://www.uctv.tv/library.asp">University of California Television</a> and is now part of its video-on-demand collection.<br>

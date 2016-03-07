@@ -9,7 +9,7 @@ images:
     caption: "Illustration by Lawrence Ferlinghetti"
 ---
 
-[caption id="attachment_3784" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/ferlinghetti_graphic.200.jpg"><img class="size-full wp-image-3784" src="http://localhost/mysite/wp-content/uploads/2005/05/ferlinghetti_graphic.200.jpg" alt="Illustration by Lawrence Ferlinghetti" width="200" height="208" /></a>Illustration by Lawrence Ferlinghetti[/caption]
+[caption id="attachment_3784" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/ferlinghetti_graphic.200.jpg"><img class="size-full wp-image-3784" src="http://localhost/mysite/wp-content/uploads/2005/05/ferlinghetti_graphic.200.jpg" alt="Illustration by Lawrence Ferlinghetti" width="200" height="208" /></a>Illustration by Lawrence Ferlinghetti[/caption]
 <a name="content" id="content"></a>
 <p>
   The Regional History Project at the University Library announces the publication of <i>Rita Bottoms, Polyartist Librarian, UC Santa Cruz: 1965-2003</i>. Project director Irene Reti conducted 14 hours of interviews with Rita Bottoms, former head of Special Collections at UCSC, shortly before Bottoms' retirement in March 2003. This oral history provides a vivid and intimate look at 37 years "behind the scenes" in the library's Special Collections.

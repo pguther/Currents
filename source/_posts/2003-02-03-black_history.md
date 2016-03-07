@@ -9,7 +9,7 @@ images:
     caption: "The African American Theater Arts Troupe is performing Seven Guitars, a play set in Pittsburgh, Pa., in 1948."
 ---
 
-[caption id="attachment_1683" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/poster.03-02-03.224.jpg"><img class="size-full wp-image-1683" src="http://localhost/mysite/wp-content/uploads/2003/02/poster.03-02-03.224.jpg" alt="The African American Theater Arts Troupe is performing Seven Guitars, a play set in Pittsburgh, Pa., in 1948." width="224" height="200" /></a>The African American Theater Arts Troupe is performing Seven Guitars, a play set in Pittsburgh, Pa., in 1948.[/caption]
+[caption id="attachment_1683" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/02/poster.03-02-03.224.jpg"><img class="size-full wp-image-1683" src="http://localhost/mysite/wp-content/uploads/2003/02/poster.03-02-03.224.jpg" alt="The African American Theater Arts Troupe is performing Seven Guitars, a play set in Pittsburgh, Pa., in 1948." width="224" height="200" /></a>The African American Theater Arts Troupe is performing Seven Guitars, a play set in Pittsburgh, Pa., in 1948.[/caption]
 <p>
   February is Black History Month, and UCSC is celebrating with a variety of special events.
 </p>

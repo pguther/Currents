@@ -9,7 +9,7 @@ images:
     caption: "Theodore Sarbin"
 ---
 
-[caption id="attachment_5342" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/sarbin_theodore.05-09-05.jpg"><img class="size-full wp-image-5342" src="http://localhost/mysite/wp-content/uploads/2005/09/sarbin_theodore.05-09-05.jpg" alt="Theodore Sarbin" width="170" height="213" /></a>Theodore Sarbin[/caption]
+[caption id="attachment_5342" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2005/09/sarbin_theodore.05-09-05.jpg"><img class="size-full wp-image-5342" src="http://localhost/mysite/wp-content/uploads/2005/09/sarbin_theodore.05-09-05.jpg" alt="Theodore Sarbin" width="170" height="213" /></a>Theodore Sarbin[/caption]
 <a name="content" id="content"></a>
 <p>
   <i>The following obituary was submitted to</i> Currents <i>on behalf of the family of Theodore R. Sarbin.</i>

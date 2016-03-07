@@ -9,7 +9,7 @@ images:
     caption: "Yishi Jin UCSC Photo Services"
 ---
 
-[caption id="attachment_4001" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/jin_yishi.140.jpg"><img class="size-full wp-image-4001" src="http://localhost/mysite/wp-content/uploads/2005/06/jin_yishi.140.jpg" alt="Yishi Jin UCSC Photo Services" width="140" height="176" /></a>Yishi Jin UCSC Photo Services[/caption]
+[caption id="attachment_4001" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/jin_yishi.140.jpg"><img class="size-full wp-image-4001" src="http://localhost/mysite/wp-content/uploads/2005/06/jin_yishi.140.jpg" alt="Yishi Jin UCSC Photo Services" width="140" height="176" /></a>Yishi Jin UCSC Photo Services[/caption]
 <a name="content" id="content"></a>
 <p>
   The Howard Hughes Medical Institute (HHMI) has extended the appointment of biologist Yishi Jin as an HHMI investigator. Jin, a professor of molecular, cell, and developmental biology, was appointed to an initial five-year term as a HHMI investigator in 2000. After a successful review earlier this year, her appointment will continue through August 2010.

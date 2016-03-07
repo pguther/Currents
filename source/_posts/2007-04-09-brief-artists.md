@@ -9,7 +9,7 @@ images:
     caption: "Fred Wilson is among the visiting artists who will be at UCSC this spring."
 ---
 
-[caption id="attachment_6035" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/wilson_fred.200.jpg"><img class="size-full wp-image-6035" src="http://localhost/mysite/wp-content/uploads/2007/04/wilson_fred.200.jpg" alt="Fred Wilson is among the visiting artists who will be at UCSC this spring." width="200" height="115" /></a>Fred Wilson is among the visiting artists who will be at UCSC this spring.[/caption]
+[caption id="attachment_6035" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/wilson_fred.200.jpg"><img class="size-full wp-image-6035" src="http://localhost/mysite/wp-content/uploads/2007/04/wilson_fred.200.jpg" alt="Fred Wilson is among the visiting artists who will be at UCSC this spring." width="200" height="115" /></a>Fred Wilson is among the visiting artists who will be at UCSC this spring.[/caption]
 <a name="content" id="content"></a>
 <p>
   The UCSC Art Department has announced a new Visiting Artist Program that will include a lecture series course titled <i>Issues and Artists</i> (80V) this spring quarter.

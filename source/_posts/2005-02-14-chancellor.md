@@ -9,7 +9,7 @@ images:
     caption: "Chancellor Denice D. Denton Photo: Paul Schraub"
 ---
 
-[caption id="attachment_3431" align="alignnone" width="190"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/denton2.05-02-14.jpg"><img class="size-full wp-image-3431" src="http://localhost/mysite/wp-content/uploads/2005/02/denton2.05-02-14.jpg" alt="Chancellor Denice D. Denton Photo: Paul Schraub" width="190" height="238" /></a>Chancellor Denice D. Denton Photo: Paul Schraub[/caption]
+[caption id="attachment_3431" align="alignright" width="190"]<a href="http://localhost/mysite/wp-content/uploads/2005/02/denton2.05-02-14.jpg"><img class="size-full wp-image-3431" src="http://localhost/mysite/wp-content/uploads/2005/02/denton2.05-02-14.jpg" alt="Chancellor Denice D. Denton Photo: Paul Schraub" width="190" height="238" /></a>Chancellor Denice D. Denton Photo: Paul Schraub[/caption]
 <a name="content" id="content"></a>
 <p>
   Denice D. Denton's tenure as chancellor of UC Santa Cruz began today (February 14).

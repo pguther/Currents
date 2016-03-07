@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2236" align="alignnone" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2002/09/ntc.02-09-30.gif"><img class="size-full wp-image-2236" src="http://localhost/mysite/wp-content/uploads/2002/09/ntc.02-09-30.gif" alt="" width="170" height="83" /></a>[/caption]
+[caption id="attachment_2236" align="alignright" width="170"]<a href="http://localhost/mysite/wp-content/uploads/2002/09/ntc.02-09-30.gif"><img class="size-full wp-image-2236" src="http://localhost/mysite/wp-content/uploads/2002/09/ntc.02-09-30.gif" alt="" width="170" height="83" /></a>[/caption]
 <p>
   Several hundred new teachers will be the guests of honor Monday, October 21, when the UCSC New Teacher Center teams up with the Children's Discovery Museum of San Jose to honor and encourage them at a festive reception at the museum.
 </p>

@@ -9,7 +9,7 @@ images:
     caption: "Diane Gifford-Gonzalez"
 ---
 
-[caption id="attachment_4540" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/gifford-gonzalez_diane.130.jpg"><img class="size-full wp-image-4540" src="http://localhost/mysite/wp-content/uploads/2006/01/gifford-gonzalez_diane.130.jpg" alt="Diane Gifford-Gonzalez" width="130" height="173" /></a>Diane Gifford-Gonzalez[/caption]
+[caption id="attachment_4540" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/gifford-gonzalez_diane.130.jpg"><img class="size-full wp-image-4540" src="http://localhost/mysite/wp-content/uploads/2006/01/gifford-gonzalez_diane.130.jpg" alt="Diane Gifford-Gonzalez" width="130" height="173" /></a>Diane Gifford-Gonzalez[/caption]
 <a name="content" id="content"></a>
 <p>
   Professor of anthropology Diane Gifford-Gonzalez has been named a <a href="http://www.sigmaxi.org/programs/lectureships/0607.shtml">Sigma Xi Distinguished Lecturer</a> for 2006-07.

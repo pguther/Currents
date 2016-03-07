@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_6045" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/rec_guide.spring.200.jpg"><img class="size-full wp-image-6045" src="http://localhost/mysite/wp-content/uploads/2007/04/rec_guide.spring.200.jpg" alt="" width="200" height="268" /></a>[/caption]
+[caption id="attachment_6045" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/rec_guide.spring.200.jpg"><img class="size-full wp-image-6045" src="http://localhost/mysite/wp-content/uploads/2007/04/rec_guide.spring.200.jpg" alt="" width="200" height="268" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   The <a href="http://ucscrecreation.com/">Recreation Department</a> has a wide variety of classes and adventure outings to get you going this spring: bellydance, birdwatching, triathlon training, camping at Arroyo Seco, backpacking in Yosemite, and many more.

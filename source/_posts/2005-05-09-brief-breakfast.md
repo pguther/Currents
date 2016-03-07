@@ -9,7 +9,7 @@ images:
     caption: "Scott Burgess and Alex Belisario at last year's staff breakfast Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_3761" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/breakfast_duo04.220.jpg"><img class="size-full wp-image-3761" src="http://localhost/mysite/wp-content/uploads/2005/05/breakfast_duo04.220.jpg" alt="Scott Burgess and Alex Belisario at last year's staff breakfast Photo: Jennifer McNulty" width="220" height="223" /></a>Scott Burgess and Alex Belisario at last year's staff breakfast Photo: Jennifer McNulty[/caption]
+[caption id="attachment_3761" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/breakfast_duo04.220.jpg"><img class="size-full wp-image-3761" src="http://localhost/mysite/wp-content/uploads/2005/05/breakfast_duo04.220.jpg" alt="Scott Burgess and Alex Belisario at last year's staff breakfast Photo: Jennifer McNulty" width="220" height="223" /></a>Scott Burgess and Alex Belisario at last year's staff breakfast Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   All UCSC staff employees are invited to the annual Staff Appreciation Breakfast from 7:30 a.m. to 9:30 a.m. on Thursday, May 12, at the Stevenson Event Center.

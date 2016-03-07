@@ -9,7 +9,7 @@ images:
     caption: "Mark Cioc photo: r. r. jones"
 ---
 
-[caption id="attachment_3366" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/cioc_mark.130.jpg"><img class="size-full wp-image-3366" src="http://localhost/mysite/wp-content/uploads/2006/01/cioc_mark.130.jpg" alt="Mark Cioc photo: r. r. jones" width="130" height="186" /></a>Mark Cioc photo: r. r. jones[/caption]
+[caption id="attachment_3366" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/cioc_mark.130.jpg"><img class="size-full wp-image-3366" src="http://localhost/mysite/wp-content/uploads/2006/01/cioc_mark.130.jpg" alt="Mark Cioc photo: r. r. jones" width="130" height="186" /></a>Mark Cioc photo: r. r. jones[/caption]
 <a name="content" id="content"></a>
 <p>
   The Forest History Society and the American Society for Environmental History have named history professor Mark Cioc as the new editor of their jointly published journal, <i>Environmental History</i> (EH). Cioc assumed the editor-elect's duties on January 1 and will become editor on January 1, 2006, when Adam Rome of Pennsylvania State University steps down. Cioc's first journal issue will be January 2006.

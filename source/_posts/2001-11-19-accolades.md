@@ -9,7 +9,7 @@ images:
     caption: "'The Core Accretion Theory of Planet Formation' by Meg Stalcup"
 ---
 
-[caption id="attachment_1540" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/11/stalcup_illus.200.jpg"><img class="size-full wp-image-1540" src="http://localhost/mysite/wp-content/uploads/2001/11/stalcup_illus.200.jpg" alt=""The Core Accretion Theory of Planet Formation" by Meg Stalcup" width="200" height="150" /></a>"The Core Accretion Theory of Planet Formation" by Meg Stalcup[/caption]
+[caption id="attachment_1540" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/11/stalcup_illus.200.jpg"><img class="size-full wp-image-1540" src="http://localhost/mysite/wp-content/uploads/2001/11/stalcup_illus.200.jpg" alt=""The Core Accretion Theory of Planet Formation" by Meg Stalcup" width="200" height="150" /></a>"The Core Accretion Theory of Planet Formation" by Meg Stalcup[/caption]
 <h3>
   <a name="Carrol" id="Carrol"></a><font color="#003399">Carrol Moran named United Way Community Hero</font>
 </h3>

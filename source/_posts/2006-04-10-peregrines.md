@@ -9,7 +9,7 @@ images:
     caption: "At five weeks old (above), the chicks are ready for the simulated nest at Long Marine Laboratory. Soon they are ready to fledge (below). Photos: Shauna Potocky"
 ---
 
-[caption id="attachment_4843" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/falconchicks.06-04-10.jpg"><img class="size-full wp-image-4843" src="http://localhost/mysite/wp-content/uploads/2006/04/falconchicks.06-04-10.jpg" alt="At five weeks old (above), the chicks are ready for the simulated nest at Long Marine Laboratory. Soon they are ready to fledge (below). Photos: Shauna Potocky" width="230" height="242" /></a>At five weeks old (above), the chicks are ready for the simulated nest at Long Marine Laboratory. Soon they are ready to fledge (below). Photos: Shauna Potocky[/caption]
+[caption id="attachment_4843" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/04/falconchicks.06-04-10.jpg"><img class="size-full wp-image-4843" src="http://localhost/mysite/wp-content/uploads/2006/04/falconchicks.06-04-10.jpg" alt="At five weeks old (above), the chicks are ready for the simulated nest at Long Marine Laboratory. Soon they are ready to fledge (below). Photos: Shauna Potocky" width="230" height="242" /></a>At five weeks old (above), the chicks are ready for the simulated nest at Long Marine Laboratory. Soon they are ready to fledge (below). Photos: Shauna Potocky[/caption]
 <a name="content" id="content"></a>
 <p>
   A pair of endangered peregrine falcons, named George and Gracie by their legions of fans, have returned to nest in downtown San Francisco.

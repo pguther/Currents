@@ -9,7 +9,7 @@ images:
     caption: "Aida Hurtado"
 ---
 
-[caption id="attachment_3905" align="alignnone" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/hurtado_aida2.130.jpg"><img class="size-full wp-image-3905" src="http://localhost/mysite/wp-content/uploads/2005/06/hurtado_aida2.130.jpg" alt="Aida Hurtado" width="130" height="171" /></a>Aida Hurtado[/caption]
+[caption id="attachment_3905" align="alignright" width="130"]<a href="http://localhost/mysite/wp-content/uploads/2005/06/hurtado_aida2.130.jpg"><img class="size-full wp-image-3905" src="http://localhost/mysite/wp-content/uploads/2005/06/hurtado_aida2.130.jpg" alt="Aida Hurtado" width="130" height="171" /></a>Aida Hurtado[/caption]
 <a name="content" id="content"></a>
 <p>
   Aida Hurtado, professor of psychology, has been named the new director of the <a href="http://www.lals.ucsc.edu/clrc/about.html">Chicano/Latino Research Center</a> (CLRC). Her three-year term begins July 1.

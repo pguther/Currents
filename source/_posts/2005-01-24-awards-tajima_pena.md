@@ -9,7 +9,7 @@ images:
     caption: "Renee Tajima-Pena"
 ---
 
-[caption id="attachment_3348" align="alignnone" width="110"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/tajima_pena.110.jpg"><img class="size-full wp-image-3348" src="http://localhost/mysite/wp-content/uploads/2005/01/tajima_pena.110.jpg" alt="Renee Tajima-Pena" width="110" height="149" /></a>Renee Tajima-Pena[/caption]
+[caption id="attachment_3348" align="alignright" width="110"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/tajima_pena.110.jpg"><img class="size-full wp-image-3348" src="http://localhost/mysite/wp-content/uploads/2005/01/tajima_pena.110.jpg" alt="Renee Tajima-Pena" width="110" height="149" /></a>Renee Tajima-Pena[/caption]
 <a name="content" id="content"></a>
 <p>
   A film by Renee Tajima-Pena, associate professor of community studies, has won a CINE Golden Eagle Award in the people and places category of the Professional Telecast Non-Fiction Division. The award will be presented during the 46th annual awards ceremony on April 14.

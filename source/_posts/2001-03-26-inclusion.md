@@ -10,7 +10,7 @@ images:
     caption: "See larger image."
 ---
 
-[caption id="attachment_217" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/03/inclu_area_d.01-03-26.224.gif"><img class="size-full wp-image-217" src="http://localhost/mysite/wp-content/uploads/2001/03/inclu_area_d.01-03-26.224.gif" alt="See larger image." width="224" height="212" /></a>See larger image.[/caption]
+[caption id="attachment_217" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/03/inclu_area_d.01-03-26.224.gif"><img class="size-full wp-image-217" src="http://localhost/mysite/wp-content/uploads/2001/03/inclu_area_d.01-03-26.224.gif" alt="See larger image." width="224" height="212" /></a>See larger image.[/caption]
 <p>
   <br>
 </p>

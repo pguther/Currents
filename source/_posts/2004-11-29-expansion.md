@@ -9,7 +9,7 @@ images:
     caption: "Undergraduates Chandra Turpen and Tim McKnew align a spectrometer to study negative thermal expansion in Zack Schlesinger's lab. Photo: Kim Albano"
 ---
 
-[caption id="attachment_4410" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/lab.04-11-29.jpg"><img class="size-full wp-image-4410" src="http://localhost/mysite/wp-content/uploads/2004/11/lab.04-11-29.jpg" alt="Undergraduates Chandra Turpen and Tim McKnew align a spectrometer to study negative thermal expansion in Zack Schlesinger's lab. Photo: Kim Albano" width="340" height="219" /></a>Undergraduates Chandra Turpen and Tim McKnew align a spectrometer to study negative thermal expansion in Zack Schlesinger's lab. Photo: Kim Albano[/caption]
+[caption id="attachment_4410" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/lab.04-11-29.jpg"><img class="size-full wp-image-4410" src="http://localhost/mysite/wp-content/uploads/2004/11/lab.04-11-29.jpg" alt="Undergraduates Chandra Turpen and Tim McKnew align a spectrometer to study negative thermal expansion in Zack Schlesinger's lab. Photo: Kim Albano" width="340" height="219" /></a>Undergraduates Chandra Turpen and Tim McKnew align a spectrometer to study negative thermal expansion in Zack Schlesinger's lab. Photo: Kim Albano[/caption]
 <a name="content" id="content"></a>
 <p>
   <br>

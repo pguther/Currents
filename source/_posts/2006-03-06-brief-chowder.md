@@ -9,7 +9,7 @@ images:
     caption: "Wade Garza (left) and Dwight Collins of UCSC Dining prepare their New England clam chowder at the Santa Cruz Chowder Cook-Off"
 ---
 
-[caption id="attachment_4715" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/chowder_slugs.340.jpg"><img class="size-full wp-image-4715" src="http://localhost/mysite/wp-content/uploads/2006/03/chowder_slugs.340.jpg" alt="Wade Garza (left) and Dwight Collins of UCSC Dining prepare their New England clam chowder at the Santa Cruz Chowder Cook-Off" width="340" height="255" /></a>Wade Garza (left) and Dwight Collins of UCSC Dining prepare their New England clam chowder at the Santa Cruz Chowder Cook-Off[/caption]
+[caption id="attachment_4715" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/03/chowder_slugs.340.jpg"><img class="size-full wp-image-4715" src="http://localhost/mysite/wp-content/uploads/2006/03/chowder_slugs.340.jpg" alt="Wade Garza (left) and Dwight Collins of UCSC Dining prepare their New England clam chowder at the Santa Cruz Chowder Cook-Off" width="340" height="255" /></a>Wade Garza (left) and Dwight Collins of UCSC Dining prepare their New England clam chowder at the Santa Cruz Chowder Cook-Off[/caption]
 <a name="content" id="content"></a><br>
 <p>
   Cooks from UCSC Dining were among the top winners at the Santa Cruz Clam Chowder Cook-Off and Festival last month at the Beach Boardwalk.

@@ -9,7 +9,7 @@ images:
     caption: "Laurie R. King, a UCSC graduate, often uses Central Coast and San Francisco Bay Area settings in her novels."
 ---
 
-[caption id="attachment_876" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/king.02-02-04.160.jpg"><img class="size-full wp-image-876" src="http://localhost/mysite/wp-content/uploads/2002/02/king.02-02-04.160.jpg" alt="Laurie R. King, a UCSC graduate, often uses Central Coast and San Francisco Bay Area settings in her novels." width="160" height="182" /></a>Laurie R. King, a UCSC graduate, often uses Central Coast and San Francisco Bay Area settings in her novels.[/caption]
+[caption id="attachment_876" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/02/king.02-02-04.160.jpg"><img class="size-full wp-image-876" src="http://localhost/mysite/wp-content/uploads/2002/02/king.02-02-04.160.jpg" alt="Laurie R. King, a UCSC graduate, often uses Central Coast and San Francisco Bay Area settings in her novels." width="160" height="182" /></a>Laurie R. King, a UCSC graduate, often uses Central Coast and San Francisco Bay Area settings in her novels.[/caption]
 <p>
   "I often feel like I'm picking my way through a dark labyrinth, with very small candles." This could be a quote from one of Laurie R. King's mystery novels, but it's actually the author herself reflecting on "The Mystery of Writing."
 </p>At 7 p.m. on February 11, at the Santa Cruz Central Branch Library, 224 Church St., King will talk about the mysterious writing process, writing mysteries, and her forthcoming novel, <i>Justice Hall.</i>

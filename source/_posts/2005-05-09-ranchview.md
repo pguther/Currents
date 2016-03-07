@@ -9,7 +9,7 @@ images:
     caption: "Completion of Ranch View Terrace in 2006 is expected to free up other on-campus housing as people in those units move to the new development."
 ---
 
-[caption id="attachment_3786" align="alignnone" width="235"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/ranchview.05-05-09.jpg"><img class="size-full wp-image-3786" src="http://localhost/mysite/wp-content/uploads/2005/05/ranchview.05-05-09.jpg" alt="Completion of Ranch View Terrace in 2006 is expected to free up other on-campus housing as people in those units move to the new development." width="235" height="196" /></a>Completion of Ranch View Terrace in 2006 is expected to free up other on-campus housing as people in those units move to the new development.[/caption]
+[caption id="attachment_3786" align="alignright" width="235"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/ranchview.05-05-09.jpg"><img class="size-full wp-image-3786" src="http://localhost/mysite/wp-content/uploads/2005/05/ranchview.05-05-09.jpg" alt="Completion of Ranch View Terrace in 2006 is expected to free up other on-campus housing as people in those units move to the new development." width="235" height="196" /></a>Completion of Ranch View Terrace in 2006 is expected to free up other on-campus housing as people in those units move to the new development.[/caption]
 <a name="content" id="content"></a>
 <p>
   Despite rising costs, interest remains strong for homes in the Ranch View Terrace development on campus.

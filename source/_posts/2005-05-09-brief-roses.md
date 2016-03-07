@@ -9,7 +9,7 @@ images:
     caption: "One of the many beautiful roses grown at the UCSC Garden Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_3771" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/rose_apricot.150.jpg"><img class="size-full wp-image-3771" src="http://localhost/mysite/wp-content/uploads/2005/05/rose_apricot.150.jpg" alt="One of the many beautiful roses grown at the UCSC Garden Photo: Jennifer McNulty" width="150" height="146" /></a>One of the many beautiful roses grown at the UCSC Garden Photo: Jennifer McNulty[/caption]
+[caption id="attachment_3771" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/rose_apricot.150.jpg"><img class="size-full wp-image-3771" src="http://localhost/mysite/wp-content/uploads/2005/05/rose_apricot.150.jpg" alt="One of the many beautiful roses grown at the UCSC Garden Photo: Jennifer McNulty" width="150" height="146" /></a>One of the many beautiful roses grown at the UCSC Garden Photo: Jennifer McNulty[/caption]
 <a name="content" id="content"></a>
 <p>
   Winter and spring rains have produced both an abundant rose crop and challenging conditions for growers who want to avoid spraying fungicides and other chemicals on their plants. Alan Chadwick Garden manager and rose expert Orin Martin will share his techniques for choosing and growing roses without chemical inputs at a workshop on Saturday, May 14, from 10 am to 12 noon at the Alan Chadwick Garden.

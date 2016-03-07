@@ -9,7 +9,7 @@ images:
     caption: "Cathy Sandeen, vice provost and dean of UCSC Extension"
 ---
 
-[caption id="attachment_6301" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/sandeen_cathy.150.jpg"><img class="size-full wp-image-6301" src="http://localhost/mysite/wp-content/uploads/2006/10/sandeen_cathy.150.jpg" alt="Cathy Sandeen, vice provost and dean of UCSC Extension" width="150" height="221" /></a>Cathy Sandeen, vice provost and dean of UCSC Extension[/caption]
+[caption id="attachment_6301" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/10/sandeen_cathy.150.jpg"><img class="size-full wp-image-6301" src="http://localhost/mysite/wp-content/uploads/2006/10/sandeen_cathy.150.jpg" alt="Cathy Sandeen, vice provost and dean of UCSC Extension" width="150" height="221" /></a>Cathy Sandeen, vice provost and dean of UCSC Extension[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC Extension has received an award for "Outstanding Administrative Service or Process" from the University Continuing Education Association (UCEA). The award recognizes UCSC Extension for innovation in organizational design in the complete restructuring of its program support team. Cathy Sandeen, vice provost and dean of extension, accepted the award at the annual UCEA Region West conference on September 28.

@@ -9,7 +9,7 @@ images:
     caption: "Steve and Rebecca Sooy Photo: Sandor Nagyszalanczy"
 ---
 
-[caption id="attachment_3286" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/sooys.05-01-03.jpg"><img class="size-full wp-image-3286" src="http://localhost/mysite/wp-content/uploads/2005/01/sooys.05-01-03.jpg" alt="Steve and Rebecca Sooy Photo: Sandor Nagyszalanczy" width="200" height="208" /></a>Steve and Rebecca Sooy Photo: Sandor Nagyszalanczy[/caption]
+[caption id="attachment_3286" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/sooys.05-01-03.jpg"><img class="size-full wp-image-3286" src="http://localhost/mysite/wp-content/uploads/2005/01/sooys.05-01-03.jpg" alt="Steve and Rebecca Sooy Photo: Sandor Nagyszalanczy" width="200" height="208" /></a>Steve and Rebecca Sooy Photo: Sandor Nagyszalanczy[/caption]
 <a name="content" id="content"></a>
 <p>
   A gift of $200,000 from Rebecca and Steve Sooy of Foster City has established an endowed fellowship fund to support graduate students studying marine mammals at UCSC.<br>

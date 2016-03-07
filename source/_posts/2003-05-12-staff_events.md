@@ -9,7 +9,7 @@ images:
     caption: "Chancellor Greenwood chats with staff members at 'Pancakes and Jazz with M.R.C.' in 2002. Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_1938" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/05/bfast.mrc.03-05-12.224.jpg"><img class="size-full wp-image-1938" src="http://localhost/mysite/wp-content/uploads/2003/05/bfast.mrc.03-05-12.224.jpg" alt="Chancellor Greenwood chats with staff members at "Pancakes and Jazz with M.R.C." in 2002. Photo: Jennifer McNulty" width="224" height="151" /></a>Chancellor Greenwood chats with staff members at "Pancakes and Jazz with M.R.C." in 2002. Photo: Jennifer McNulty[/caption]
+[caption id="attachment_1938" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2003/05/bfast.mrc.03-05-12.224.jpg"><img class="size-full wp-image-1938" src="http://localhost/mysite/wp-content/uploads/2003/05/bfast.mrc.03-05-12.224.jpg" alt="Chancellor Greenwood chats with staff members at "Pancakes and Jazz with M.R.C." in 2002. Photo: Jennifer McNulty" width="224" height="151" /></a>Chancellor Greenwood chats with staff members at "Pancakes and Jazz with M.R.C." in 2002. Photo: Jennifer McNulty[/caption]
 <p>
   Chancellor Greenwood will hold two campuswide staff events next week, the staff forum on Monday, May 19, and the annual staff appreciation breakfast on Wednesday, May 21.
 </p>

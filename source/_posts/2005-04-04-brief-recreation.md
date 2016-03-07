@@ -9,7 +9,7 @@ images:
     caption: "Beginning surfing classes are among the spring offerings from the Recreation Department."
 ---
 
-[caption id="attachment_3595" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/surfing.180.jpg"><img class="size-full wp-image-3595" src="http://localhost/mysite/wp-content/uploads/2005/04/surfing.180.jpg" alt="Beginning surfing classes are among the spring offerings from the Recreation Department." width="180" height="213" /></a>Beginning surfing classes are among the spring offerings from the Recreation Department.[/caption]
+[caption id="attachment_3595" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/surfing.180.jpg"><img class="size-full wp-image-3595" src="http://localhost/mysite/wp-content/uploads/2005/04/surfing.180.jpg" alt="Beginning surfing classes are among the spring offerings from the Recreation Department." width="180" height="213" /></a>Beginning surfing classes are among the spring offerings from the Recreation Department.[/caption]
 <a name="content" id="content"></a>
 <p>
   The spring 2005 <i>Recreation, Intramural and Sports Guide</i> has classes and trips for every interest. Register this week for surfing, kayaking, rockclimbing, backpacking, ski trips, massage and other holistic health classes, music, dance, knitting, cooking, survival skills, wilderness first aid, CPR and much more. A complete list of classes is at <a href="http://www.ucsc.edu/opers/rec">www.ucsc.edu/opers/rec</a> or pick up a copy of the guide.

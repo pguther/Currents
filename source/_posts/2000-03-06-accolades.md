@@ -9,7 +9,7 @@ images:
     caption: "Photo: Don Harris"
 ---
 
-[caption id="attachment_6650" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2000/03/tanner_michael.120.jpg"><img class="size-full wp-image-6650" src="http://localhost/mysite/wp-content/uploads/2000/03/tanner_michael.120.jpg" alt="Photo: Don Harris" width="120" height="161" /></a>Photo: Don Harris[/caption]
+[caption id="attachment_6650" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2000/03/tanner_michael.120.jpg"><img class="size-full wp-image-6650" src="http://localhost/mysite/wp-content/uploads/2000/03/tanner_michael.120.jpg" alt="Photo: Don Harris" width="120" height="161" /></a>Photo: Don Harris[/caption]
 <p>
   <font color="#003399"><b>R. Michael Tanner</b></font>
 </p>

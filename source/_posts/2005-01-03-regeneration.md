@@ -9,7 +9,7 @@ images:
     caption: "This nerve axon was cut using femtosecond laser nanosurgery. Photo: Yanik et al."
 ---
 
-[caption id="attachment_3295" align="alignnone" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/nerve.05-01-03.jpg"><img class="size-full wp-image-3295" src="http://localhost/mysite/wp-content/uploads/2005/01/nerve.05-01-03.jpg" alt="This nerve axon was cut using femtosecond laser nanosurgery. Photo: Yanik et al." width="220" height="230" /></a>This nerve axon was cut using femtosecond laser nanosurgery. Photo: Yanik et al.[/caption]
+[caption id="attachment_3295" align="alignright" width="220"]<a href="http://localhost/mysite/wp-content/uploads/2005/01/nerve.05-01-03.jpg"><img class="size-full wp-image-3295" src="http://localhost/mysite/wp-content/uploads/2005/01/nerve.05-01-03.jpg" alt="This nerve axon was cut using femtosecond laser nanosurgery. Photo: Yanik et al." width="220" height="230" /></a>This nerve axon was cut using femtosecond laser nanosurgery. Photo: Yanik et al.[/caption]
 <a name="content" id="content"></a>
 <p>
   In a breakthrough for research on nerve regeneration, a team of UCSC and Stanford scientists has reported using femtosecond laser pulses to precisely cut individual axons of nerves in the roundworm <i>Caenorhabditis elegans,</i> one of the most versatile and widely used experimental organisms for genetic and biomedical research.

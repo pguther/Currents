@@ -9,7 +9,7 @@ images:
     caption: "Postdoctoral researcher Alexander Sher received a career award from the Burroughs Wellcome Fund to support his research on neural networks in the retina. Photo: Tim Stephens"
 ---
 
-[caption id="attachment_5908" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/sher.230.jpg"><img class="size-full wp-image-5908" src="http://localhost/mysite/wp-content/uploads/2007/02/sher.230.jpg" alt="Postdoctoral researcher Alexander Sher received a career award from the Burroughs Wellcome Fund to support his research on neural networks in the retina. Photo: Tim Stephens" width="230" height="174" /></a>Postdoctoral researcher Alexander Sher received a career award from the Burroughs Wellcome Fund to support his research on neural networks in the retina. Photo: Tim Stephens[/caption]
+[caption id="attachment_5908" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2007/02/sher.230.jpg"><img class="size-full wp-image-5908" src="http://localhost/mysite/wp-content/uploads/2007/02/sher.230.jpg" alt="Postdoctoral researcher Alexander Sher received a career award from the Burroughs Wellcome Fund to support his research on neural networks in the retina. Photo: Tim Stephens" width="230" height="174" /></a>Postdoctoral researcher Alexander Sher received a career award from the Burroughs Wellcome Fund to support his research on neural networks in the retina. Photo: Tim Stephens[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC physicists are using technology and expertise gleaned from the field of high-energy physics to address challenging problems in neurobiology.

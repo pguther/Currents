@@ -9,7 +9,7 @@ images:
     caption: "The Farm & Garden cart will feature an array of organic vegetables and fruits throughout the summer."
 ---
 
-[caption id="attachment_3866" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/carrots_beets.180.jpg"><img class="size-full wp-image-3866" src="http://localhost/mysite/wp-content/uploads/2005/05/carrots_beets.180.jpg" alt="The Farm & Garden cart will feature an array of organic vegetables and fruits throughout the summer." width="180" height="262" /></a>The Farm & Garden cart will feature an array of organic vegetables and fruits throughout the summer.[/caption]
+[caption id="attachment_3866" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/carrots_beets.180.jpg"><img class="size-full wp-image-3866" src="http://localhost/mysite/wp-content/uploads/2005/05/carrots_beets.180.jpg" alt="The Farm & Garden cart will feature an array of organic vegetables and fruits throughout the summer." width="180" height="262" /></a>The Farm & Garden cart will feature an array of organic vegetables and fruits throughout the summer.[/caption]
 <a name="content" id="content"></a>
 <p>
   It's easy to grab a bag of fresh organic salad mix or a sumptuous bouquet at the UCSC Farm &amp; Garden market cart, which opens for the summer on Friday, June 3.

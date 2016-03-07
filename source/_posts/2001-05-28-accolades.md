@@ -9,7 +9,7 @@ images:
     caption: "Donald Potts Photo: UCSC Photo Services"
 ---
 
-[caption id="attachment_398" align="alignnone" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/potts_donald.bw.jpg"><img class="size-full wp-image-398" src="http://localhost/mysite/wp-content/uploads/2001/05/potts_donald.bw.jpg" alt="Donald Potts Photo: UCSC Photo Services" width="140" height="193" /></a>Donald Potts Photo: UCSC Photo Services[/caption]
+[caption id="attachment_398" align="alignright" width="140"]<a href="http://localhost/mysite/wp-content/uploads/2001/05/potts_donald.bw.jpg"><img class="size-full wp-image-398" src="http://localhost/mysite/wp-content/uploads/2001/05/potts_donald.bw.jpg" alt="Donald Potts Photo: UCSC Photo Services" width="140" height="193" /></a>Donald Potts Photo: UCSC Photo Services[/caption]
 <h4>
   <font color="#003399"><b>Donald Potts, Rebecca Jacobs</b></font>
 </h4>Donald Potts, professor of ecology and evolutionary biology, has been elected vice chair of the U.S. National Committee for the International Union of Biological Sciences (USNC/IUBS). This is a committee of the National Academy of Sciences concerned with integrating U.S. scientists and scientific organizations into international programs. The committee promotes collaboration and the exchange of information in the biological sciences. Many of the current activities and projects of the IUBS involve monitoring and conservation of biodiversity.<br>

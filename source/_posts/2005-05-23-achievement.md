@@ -9,7 +9,7 @@ images:
     caption: "This woodcut by student Mike Lee is one of the works available at the Print Sale."
 ---
 
-[caption id="attachment_3825" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/woodcut.05-05-30.jpg"><img class="size-full wp-image-3825" src="http://localhost/mysite/wp-content/uploads/2005/05/woodcut.05-05-30.jpg" alt="This woodcut by student Mike Lee is one of the works available at the Print Sale." width="230" height="317" /></a>This woodcut by student Mike Lee is one of the works available at the Print Sale.[/caption]
+[caption id="attachment_3825" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/woodcut.05-05-30.jpg"><img class="size-full wp-image-3825" src="http://localhost/mysite/wp-content/uploads/2005/05/woodcut.05-05-30.jpg" alt="This woodcut by student Mike Lee is one of the works available at the Print Sale." width="230" height="317" /></a>This woodcut by student Mike Lee is one of the works available at the Print Sale.[/caption]
 <a name="content" id="content"></a>
 <p>
   Everything from opera to environmental research will be on display as the campus celebrates Student Achievement Week May 30-June 5 with live performances, exhibitions, symposia, and an awards ceremony.

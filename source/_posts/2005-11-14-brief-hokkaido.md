@@ -9,7 +9,7 @@ images:
     caption: "Chancellor Denton displays a colorful gift from Hokkaido Information University, presented by Satoru Ino, president of the university. Photo: Louise Donahue"
 ---
 
-[caption id="attachment_5657" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/hokkaido.05-11-17.jpg"><img class="size-full wp-image-5657" src="http://localhost/mysite/wp-content/uploads/2005/11/hokkaido.05-11-17.jpg" alt="Chancellor Denton displays a colorful gift from Hokkaido Information University, presented by Satoru Ino, president of the university. Photo: Louise Donahue" width="230" height="274" /></a>Chancellor Denton displays a colorful gift from Hokkaido Information University, presented by Satoru Ino, president of the university. Photo: Louise Donahue[/caption]
+[caption id="attachment_5657" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/hokkaido.05-11-17.jpg"><img class="size-full wp-image-5657" src="http://localhost/mysite/wp-content/uploads/2005/11/hokkaido.05-11-17.jpg" alt="Chancellor Denton displays a colorful gift from Hokkaido Information University, presented by Satoru Ino, president of the university. Photo: Louise Donahue" width="230" height="274" /></a>Chancellor Denton displays a colorful gift from Hokkaido Information University, presented by Satoru Ino, president of the university. Photo: Louise Donahue[/caption]
 <a name="content" id="content"></a>
 <p>
   A delegation from Hokkaido Information University officially renewed its association with UCSC on November 7 at a formal signing ceremony at University House.

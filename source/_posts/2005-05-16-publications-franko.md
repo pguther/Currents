@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_3819" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/franko_bookcover.200.jpg"><img class="size-full wp-image-3819" src="http://localhost/mysite/wp-content/uploads/2005/05/franko_bookcover.200.jpg" alt="" width="200" height="286" /></a>[/caption]
+[caption id="attachment_3819" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/05/franko_bookcover.200.jpg"><img class="size-full wp-image-3819" src="http://localhost/mysite/wp-content/uploads/2005/05/franko_bookcover.200.jpg" alt="" width="200" height="286" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   In his new book, <i>Excursion for Miracles: Paul Sanasardo, Donya Feuer, and Studio for Dance,</i> theater arts professor Mark Franko reexamines the overlooked early choreographic achievements of Sanasardo and Feuer, whose Studio for Dance in New York City was a bastion of early postmodern dance in the 1950s and a precursor for the radical changes in art and thought of the 1960s.

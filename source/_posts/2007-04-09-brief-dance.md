@@ -9,7 +9,7 @@ images:
     caption: "The Ben Munisteri Dance Projects performing Terra Nova"
 ---
 
-[caption id="attachment_6039" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/munisteri.200.jpg"><img class="size-full wp-image-6039" src="http://localhost/mysite/wp-content/uploads/2007/04/munisteri.200.jpg" alt="The Ben Munisteri Dance Projects performing Terra Nova" width="200" height="170" /></a>The Ben Munisteri Dance Projects performing Terra Nova[/caption]
+[caption id="attachment_6039" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2007/04/munisteri.200.jpg"><img class="size-full wp-image-6039" src="http://localhost/mysite/wp-content/uploads/2007/04/munisteri.200.jpg" alt="The Ben Munisteri Dance Projects performing Terra Nova" width="200" height="170" /></a>The Ben Munisteri Dance Projects performing Terra Nova[/caption]
 <a name="content" id="content"></a>
 <p>
   UCSC's Arts &amp; Lectures, in cooperation with the Theater Arts Department, will present the world premiere of Ben Munisteri Dance Projects' <i>Terra Nova</i>, this Friday and Saturday evening, April 13 and 14, at the UCSC Mainstage Theater. The shows begin at 8 p.m.

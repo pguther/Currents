@@ -9,7 +9,7 @@ images:
     caption: "Bert Kaplan"
 ---
 
-[caption id="attachment_6099" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/kaplan_bert.150.jpg"><img class="size-full wp-image-6099" src="http://localhost/mysite/wp-content/uploads/2006/07/kaplan_bert.150.jpg" alt="Bert Kaplan" width="150" height="190" /></a>Bert Kaplan[/caption]
+[caption id="attachment_6099" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/07/kaplan_bert.150.jpg"><img class="size-full wp-image-6099" src="http://localhost/mysite/wp-content/uploads/2006/07/kaplan_bert.150.jpg" alt="Bert Kaplan" width="150" height="190" /></a>Bert Kaplan[/caption]
 <a name="content" id="content"></a>
 <p>
   <i>The following obituary was submitted to</i> Currents <i>by the family of Bert Kaplan.</i>

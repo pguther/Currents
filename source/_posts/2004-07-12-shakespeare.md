@@ -12,8 +12,8 @@ images:
     caption: 
 ---
 
-[caption id="attachment_4051" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/07/noon_nick_04-07-12.jpg"><img class="size-full wp-image-4051" src="http://localhost/mysite/wp-content/uploads/2004/07/noon_nick_04-07-12.jpg" alt="" width="200" height="244" /></a>[/caption]
-[caption id="attachment_4050" align="alignnone" width="275"]<a href="http://localhost/mysite/wp-content/uploads/2004/07/shrew.04-07-12.jpg"><img class="size-full wp-image-4050" src="http://localhost/mysite/wp-content/uploads/2004/07/shrew.04-07-12.jpg" alt="" width="275" height="207" /></a>[/caption]
+[caption id="attachment_4051" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2004/07/noon_nick_04-07-12.jpg"><img class="size-full wp-image-4051" src="http://localhost/mysite/wp-content/uploads/2004/07/noon_nick_04-07-12.jpg" alt="" width="200" height="244" /></a>[/caption]
+[caption id="attachment_4050" align="alignright" width="275"]<a href="http://localhost/mysite/wp-content/uploads/2004/07/shrew.04-07-12.jpg"><img class="size-full wp-image-4050" src="http://localhost/mysite/wp-content/uploads/2004/07/shrew.04-07-12.jpg" alt="" width="275" height="207" /></a>[/caption]
 <p>
   Shakespeare Santa Cruz kicks off a summer season filled with live performances, lectures, backstage tours, and other special events this week.<br>
 </p>

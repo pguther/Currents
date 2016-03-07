@@ -9,7 +9,7 @@ images:
     caption: "Illustration by Glenda Lee, 2006"
 ---
 
-[caption id="attachment_5082" align="alignnone" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/lee_drawing.340.jpg"><img class="size-full wp-image-5082" src="http://localhost/mysite/wp-content/uploads/2006/05/lee_drawing.340.jpg" alt="Illustration by Glenda Lee, 2006" width="340" height="223" /></a>Illustration by Glenda Lee, 2006[/caption]
+[caption id="attachment_5082" align="alignright" width="340"]<a href="http://localhost/mysite/wp-content/uploads/2006/05/lee_drawing.340.jpg"><img class="size-full wp-image-5082" src="http://localhost/mysite/wp-content/uploads/2006/05/lee_drawing.340.jpg" alt="Illustration by Glenda Lee, 2006" width="340" height="223" /></a>Illustration by Glenda Lee, 2006[/caption]
 <a name="content" id="content"></a>
 <p>
   <a href="http://www.santacruzmuseums.org/">Illustrating Nature</a>, the annual exhibit of artwork by students in the <a href="http://www.scienceillustration.org/">UCSC Extension Science Illustration Program</a>, is on display at the Santa Cruz Museum of Natural History, 1305 East Cliff Drive, through June 11.

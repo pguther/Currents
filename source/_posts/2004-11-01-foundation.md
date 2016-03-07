@@ -9,7 +9,7 @@ images:
     caption: "Lee S. Ting will speak on 'Innovation Leadership in the Global Economy.'"
 ---
 
-[caption id="attachment_4323" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/ting_lee.04-11-01.jpg"><img class="size-full wp-image-4323" src="http://localhost/mysite/wp-content/uploads/2004/11/ting_lee.04-11-01.jpg" alt="Lee S. Ting will speak on "Innovation Leadership in the Global Economy."" width="180" height="242" /></a>Lee S. Ting will speak on "Innovation Leadership in the Global Economy."[/caption]
+[caption id="attachment_4323" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/11/ting_lee.04-11-01.jpg"><img class="size-full wp-image-4323" src="http://localhost/mysite/wp-content/uploads/2004/11/ting_lee.04-11-01.jpg" alt="Lee S. Ting will speak on "Innovation Leadership in the Global Economy."" width="180" height="242" /></a>Lee S. Ting will speak on "Innovation Leadership in the Global Economy."[/caption]
 <a name="content" id="content"></a>
 <p>
   Lee S. Ting, advisory director at W. R. Hambrecht and former vice president and managing director of geographic operations at Hewlett-Packard, will speak at UCSC on Friday, November 5.

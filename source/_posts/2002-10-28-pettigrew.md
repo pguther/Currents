@@ -9,7 +9,7 @@ images:
     caption: "Thomas F. Pettigrew has been at the forefront of research on racial prejudice for nearly 40 years. Photo: Jennifer McNulty"
 ---
 
-[caption id="attachment_2315" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/pettigrew.02-10-28.180.jpg"><img class="size-full wp-image-2315" src="http://localhost/mysite/wp-content/uploads/2002/10/pettigrew.02-10-28.180.jpg" alt="Thomas F. Pettigrew has been at the forefront of research on racial prejudice for nearly 40 years. Photo: Jennifer McNulty" width="180" height="206" /></a>Thomas F. Pettigrew has been at the forefront of research on racial prejudice for nearly 40 years. Photo: Jennifer McNulty[/caption]
+[caption id="attachment_2315" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/pettigrew.02-10-28.180.jpg"><img class="size-full wp-image-2315" src="http://localhost/mysite/wp-content/uploads/2002/10/pettigrew.02-10-28.180.jpg" alt="Thomas F. Pettigrew has been at the forefront of research on racial prejudice for nearly 40 years. Photo: Jennifer McNulty" width="180" height="206" /></a>Thomas F. Pettigrew has been at the forefront of research on racial prejudice for nearly 40 years. Photo: Jennifer McNulty[/caption]
 <p>
   Thomas F. Pettigrew, a research professor of social psychology at UCSC, laments the fact that "hate is in," even though he's getting more invitations than ever to discuss intergroup relations and the hate, prejudice, and hostility between races that underlies many of the world's conflicts.<br>
 </p>

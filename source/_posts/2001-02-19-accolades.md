@@ -9,7 +9,7 @@ images:
     caption: "UCSC senior and GLBT Resource Center staff member Jorge Bru is pictured above (far right) at a Project STRANGE beach party for local teens."
 ---
 
-[caption id="attachment_129" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/02/glbt_beachparty.jpg"><img class="size-full wp-image-129" src="http://localhost/mysite/wp-content/uploads/2001/02/glbt_beachparty.jpg" alt="UCSC senior and GLBT Resource Center staff member Jorge Bru is pictured above (far right) at a Project STRANGE beach party for local teens." width="200" height="157" /></a>UCSC senior and GLBT Resource Center staff member Jorge Bru is pictured above (far right) at a Project STRANGE beach party for local teens.[/caption]
+[caption id="attachment_129" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/02/glbt_beachparty.jpg"><img class="size-full wp-image-129" src="http://localhost/mysite/wp-content/uploads/2001/02/glbt_beachparty.jpg" alt="UCSC senior and GLBT Resource Center staff member Jorge Bru is pictured above (far right) at a Project STRANGE beach party for local teens." width="200" height="157" /></a>UCSC senior and GLBT Resource Center staff member Jorge Bru is pictured above (far right) at a Project STRANGE beach party for local teens.[/caption]
 <h4>
   <font color="#003399">Catherine Soussloff</font>
 </h4>

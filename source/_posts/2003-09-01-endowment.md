@@ -9,7 +9,7 @@ images:
     caption: "Founding UCSC chancellor Dean McHenry sits for a Time magazine publicity shot in 1962. Photo: Vester Dick."
 ---
 
-[caption id="attachment_3003" align="alignnone" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2003/09/mchenry.09-01-03.240.jpg"><img class="size-full wp-image-3003" src="http://localhost/mysite/wp-content/uploads/2003/09/mchenry.09-01-03.240.jpg" alt="Founding UCSC chancellor Dean McHenry sits for a Time magazine publicity shot in 1962. Photo: Vester Dick." width="240" height="317" /></a>Founding UCSC chancellor Dean McHenry sits for a Time magazine publicity shot in 1962. Photo: Vester Dick.[/caption]
+[caption id="attachment_3003" align="alignright" width="240"]<a href="http://localhost/mysite/wp-content/uploads/2003/09/mchenry.09-01-03.240.jpg"><img class="size-full wp-image-3003" src="http://localhost/mysite/wp-content/uploads/2003/09/mchenry.09-01-03.240.jpg" alt="Founding UCSC chancellor Dean McHenry sits for a Time magazine publicity shot in 1962. Photo: Vester Dick." width="240" height="317" /></a>Founding UCSC chancellor Dean McHenry sits for a Time magazine publicity shot in 1962. Photo: Vester Dick.[/caption]
 <p class="sectionheadblack">
   Donor worked with Dean McHenry from 1967 to 1998
 </p>

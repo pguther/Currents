@@ -9,7 +9,7 @@ images:
     caption: "Francisco Rosado-May Photo: Jose A. Granados"
 ---
 
-[caption id="attachment_6457" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/rosado_may.06-12-11.jpg"><img class="size-full wp-image-6457" src="http://localhost/mysite/wp-content/uploads/2006/12/rosado_may.06-12-11.jpg" alt="Francisco Rosado-May Photo: Jose A. Granados" width="200" height="208" /></a>Francisco Rosado-May Photo: Jose A. Granados[/caption]
+[caption id="attachment_6457" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2006/12/rosado_may.06-12-11.jpg"><img class="size-full wp-image-6457" src="http://localhost/mysite/wp-content/uploads/2006/12/rosado_may.06-12-11.jpg" alt="Francisco Rosado-May Photo: Jose A. Granados" width="200" height="208" /></a>Francisco Rosado-May Photo: Jose A. Granados[/caption]
 <a name="content" id="content"></a>
 <p>
   A cooperative agreement between UCSC and its renowned Agroecology program and Mexico's Federal Intercultural Universities system has helped propel a UCSC alumnus into the position of founding chancellor for a second public university in Quintana Roo state.

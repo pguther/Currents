@@ -9,7 +9,7 @@ images:
     caption: "UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering."
 ---
 
-[caption id="attachment_4554" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/soroptimists.06-01-23.jpg"><img class="size-full wp-image-4554" src="http://localhost/mysite/wp-content/uploads/2006/01/soroptimists.06-01-23.jpg" alt="UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering." width="230" height="198" /></a>UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering.[/caption]
+[caption id="attachment_4554" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2006/01/soroptimists.06-01-23.jpg"><img class="size-full wp-image-4554" src="http://localhost/mysite/wp-content/uploads/2006/01/soroptimists.06-01-23.jpg" alt="UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering." width="230" height="198" /></a>UCSC's Ronaldo Ramirez, center, joins a Soroptimist International gathering.[/caption]
 <a name="content" id="content"></a>
 <p>
   Local Soroptimists have been helping UCSC students for years, but now the organization has made sure its support will never waver.

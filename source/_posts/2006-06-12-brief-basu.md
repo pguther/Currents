@@ -9,7 +9,7 @@ images:
     caption: "Dilip Basu has established a world-class archive and study center on renowned Indian film director Satyajit Ray at UCSC."
 ---
 
-[caption id="attachment_5124" align="alignnone" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/basu_dilip.150.jpg"><img class="size-full wp-image-5124" src="http://localhost/mysite/wp-content/uploads/2006/06/basu_dilip.150.jpg" alt="Dilip Basu has established a world-class archive and study center on renowned Indian film director Satyajit Ray at UCSC." width="150" height="213" /></a>Dilip Basu has established a world-class archive and study center on renowned Indian film director Satyajit Ray at UCSC.[/caption]
+[caption id="attachment_5124" align="alignright" width="150"]<a href="http://localhost/mysite/wp-content/uploads/2006/06/basu_dilip.150.jpg"><img class="size-full wp-image-5124" src="http://localhost/mysite/wp-content/uploads/2006/06/basu_dilip.150.jpg" alt="Dilip Basu has established a world-class archive and study center on renowned Indian film director Satyajit Ray at UCSC." width="150" height="213" /></a>Dilip Basu has established a world-class archive and study center on renowned Indian film director Satyajit Ray at UCSC.[/caption]
 <a name="content" id="content"></a>
 <p>
   UC President Robert Dynes lauded UCSC's Satyajit Ray Film and Study Collection (Ray FASC) at a recent U.S.-India Summit on Education, Research and Technology that took place at the UC San Diego campus. The event was designed to celebrate the long-standing partnership between the University of California and the academia, industry, and government of India. Ray FASC is directed by UCSC associate professor of history Dilip Basu.

@@ -9,7 +9,7 @@ images:
     caption: "Astronomer Greg Laughlin is enlisting the help of experienced amateur astronomers to study extrasolar planets. Photo: Tim Stephens"
 ---
 
-[caption id="attachment_2261" align="alignnone" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/laughlin.02-10-07.160.jpg"><img class="size-full wp-image-2261" src="http://localhost/mysite/wp-content/uploads/2002/10/laughlin.02-10-07.160.jpg" alt="Astronomer Greg Laughlin is enlisting the help of experienced amateur astronomers to study extrasolar planets. Photo: Tim Stephens" width="160" height="196" /></a>Astronomer Greg Laughlin is enlisting the help of experienced amateur astronomers to study extrasolar planets. Photo: Tim Stephens[/caption]
+[caption id="attachment_2261" align="alignright" width="160"]<a href="http://localhost/mysite/wp-content/uploads/2002/10/laughlin.02-10-07.160.jpg"><img class="size-full wp-image-2261" src="http://localhost/mysite/wp-content/uploads/2002/10/laughlin.02-10-07.160.jpg" alt="Astronomer Greg Laughlin is enlisting the help of experienced amateur astronomers to study extrasolar planets. Photo: Tim Stephens" width="160" height="196" /></a>Astronomer Greg Laughlin is enlisting the help of experienced amateur astronomers to study extrasolar planets. Photo: Tim Stephens[/caption]
 <p>
   By Kathleen Burton<br>
   Public Affairs Office<br>

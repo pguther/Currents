@@ -9,7 +9,7 @@ images:
     caption: "Secretary of State Bruce McPherson will speak on the importance of voting."
 ---
 
-[caption id="attachment_5660" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/mcpherson_bruce.180.jpg"><img class="size-full wp-image-5660" src="http://localhost/mysite/wp-content/uploads/2005/11/mcpherson_bruce.180.jpg" alt="Secretary of State Bruce McPherson will speak on the importance of voting." width="180" height="245" /></a>Secretary of State Bruce McPherson will speak on the importance of voting.[/caption]
+[caption id="attachment_5660" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/11/mcpherson_bruce.180.jpg"><img class="size-full wp-image-5660" src="http://localhost/mysite/wp-content/uploads/2005/11/mcpherson_bruce.180.jpg" alt="Secretary of State Bruce McPherson will speak on the importance of voting." width="180" height="245" /></a>Secretary of State Bruce McPherson will speak on the importance of voting.[/caption]
 <a name="content" id="content"></a>
 <p>
   The community is invited to attend a free public talk by California Secretary of State Bruce McPherson at 4 p.m. on Thursday, November 17, in the Colleges Nine and Ten Multipurpose Room at the UCSC.

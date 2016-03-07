@@ -9,7 +9,7 @@ images:
     caption: "Juan Gonzalez Photo courtesy of Democracy Now!"
 ---
 
-[caption id="attachment_4614" align="alignnone" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/gonzalez_juan.120.jpg"><img class="size-full wp-image-4614" src="http://localhost/mysite/wp-content/uploads/2006/02/gonzalez_juan.120.jpg" alt="Juan Gonzalez Photo courtesy of Democracy Now!" width="120" height="138" /></a>Juan Gonzalez Photo courtesy of Democracy Now![/caption]
+[caption id="attachment_4614" align="alignright" width="120"]<a href="http://localhost/mysite/wp-content/uploads/2006/02/gonzalez_juan.120.jpg"><img class="size-full wp-image-4614" src="http://localhost/mysite/wp-content/uploads/2006/02/gonzalez_juan.120.jpg" alt="Juan Gonzalez Photo courtesy of Democracy Now!" width="120" height="138" /></a>Juan Gonzalez Photo courtesy of Democracy Now![/caption]
 <a name="content" id="content"></a>
 <p>
   Juan Gonzalez of <i>Democracy Now!</i> will receive the Ruben Salazar Journalism Award and deliver the Alumni Association's Distinguished Visiting Professor Lecture at 7 p.m. February 15 at the College Nine/College Ten Multipurpose Room.

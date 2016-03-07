@@ -9,7 +9,7 @@ images:
     caption: "Kennan Ward will show slides of his recent trip to Antarctica April 22."
 ---
 
-[caption id="attachment_3597" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/ward_iceberg.200.jpg"><img class="size-full wp-image-3597" src="http://localhost/mysite/wp-content/uploads/2005/04/ward_iceberg.200.jpg" alt="Kennan Ward will show slides of his recent trip to Antarctica April 22." width="200" height="291" /></a>Kennan Ward will show slides of his recent trip to Antarctica April 22.[/caption]
+[caption id="attachment_3597" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2005/04/ward_iceberg.200.jpg"><img class="size-full wp-image-3597" src="http://localhost/mysite/wp-content/uploads/2005/04/ward_iceberg.200.jpg" alt="Kennan Ward will show slides of his recent trip to Antarctica April 22." width="200" height="291" /></a>Kennan Ward will show slides of his recent trip to Antarctica April 22.[/caption]
 <a name="content" id="content"></a>
 <p>
   Adventure-naturalists Kennan and Karen Ward will show slides and share stories from their recent four-month trip to the Antarctic on April 22 at 7 p.m. at the Rio Theater. The slide show, titled "Antarctica: 100 days in the Wildest Place on Earth," focuses on the extraordinary wildlife and beauty of the Weddell Sea. The massive expanses of tabular ice in this region serve as a barometer to the world for the effects of global warming.

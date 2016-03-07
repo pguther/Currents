@@ -9,7 +9,7 @@ images:
     caption: "Robert L. Sinsheimer Photo: UC, Santa Barbara Photo Services"
 ---
 
-[caption id="attachment_1376" align="alignnone" width="500"]<a href="http://localhost/mysite/wp-content/uploads/2001/08/sinsheimer_robert.01-08-20.jpg"><img class="size-full wp-image-1376" src="http://localhost/mysite/wp-content/uploads/2001/08/sinsheimer_robert.01-08-20.jpg" alt="Robert L. Sinsheimer Photo: UC, Santa Barbara Photo Services" width="500" height="700" /></a>Robert L. Sinsheimer Photo: UC, Santa Barbara Photo Services[/caption]
+[caption id="attachment_1376" align="alignright" width="500"]<a href="http://localhost/mysite/wp-content/uploads/2001/08/sinsheimer_robert.01-08-20.jpg"><img class="size-full wp-image-1376" src="http://localhost/mysite/wp-content/uploads/2001/08/sinsheimer_robert.01-08-20.jpg" alt="Robert L. Sinsheimer Photo: UC, Santa Barbara Photo Services" width="500" height="700" /></a>Robert L. Sinsheimer Photo: UC, Santa Barbara Photo Services[/caption]
 <p>
   <font size="5"><b>Robert L. Sinsheimer awarded UC Presidential Medal</b></font>
 </p>Chancellor Emeritus Robert L. Sinsheimer, an internationally recognized biologist, has received the University of California's Presidential Medal for his contributions to knowledge and to higher education.<br>

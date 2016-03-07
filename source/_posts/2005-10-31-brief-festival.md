@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5578" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/telluride.180.jpg"><img class="size-full wp-image-5578" src="http://localhost/mysite/wp-content/uploads/2005/10/telluride.180.jpg" alt="" width="180" height="247" /></a>[/caption]
+[caption id="attachment_5578" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/telluride.180.jpg"><img class="size-full wp-image-5578" src="http://localhost/mysite/wp-content/uploads/2005/10/telluride.180.jpg" alt="" width="180" height="247" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   You'll laugh, you'll cry, you'll want to change the world, or at least go play in it for a while. The <a href="http://www.mountainfilm.org">Telluride's MOUNTAINFILM on Tour</a>, which features the best selections from America's premier festival of mountain, adventure, cultural, and environmental film and video, is coming to town on Saturday, November 12, for one night only at the Rio Theater.

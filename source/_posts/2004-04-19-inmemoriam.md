@@ -9,7 +9,7 @@ images:
     caption: 
 ---
 
-[caption id="attachment_2699" align="alignnone" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/beevers_h.04-04-19.180.jpg"><img class="size-full wp-image-2699" src="http://localhost/mysite/wp-content/uploads/2004/04/beevers_h.04-04-19.180.jpg" alt="" width="180" height="254" /></a>[/caption]
+[caption id="attachment_2699" align="alignright" width="180"]<a href="http://localhost/mysite/wp-content/uploads/2004/04/beevers_h.04-04-19.180.jpg"><img class="size-full wp-image-2699" src="http://localhost/mysite/wp-content/uploads/2004/04/beevers_h.04-04-19.180.jpg" alt="" width="180" height="254" /></a>[/caption]
 <p class="pagehead">
   In Memoriam
 </p>

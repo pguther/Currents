@@ -9,7 +9,7 @@ images:
     caption: "Five ancient marine terraces rise from the shoreline in the Santa Cruz area. Photo: Lesley Perg"
 ---
 
-[caption id="attachment_1460" align="alignnone" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/terraces.01-10-15.224.jpg"><img class="size-full wp-image-1460" src="http://localhost/mysite/wp-content/uploads/2001/10/terraces.01-10-15.224.jpg" alt="Five ancient marine terraces rise from the shoreline in the Santa Cruz area. Photo: Lesley Perg" width="224" height="162" /></a>Five ancient marine terraces rise from the shoreline in the Santa Cruz area. Photo: Lesley Perg[/caption]
+[caption id="attachment_1460" align="alignright" width="224"]<a href="http://localhost/mysite/wp-content/uploads/2001/10/terraces.01-10-15.224.jpg"><img class="size-full wp-image-1460" src="http://localhost/mysite/wp-content/uploads/2001/10/terraces.01-10-15.224.jpg" alt="Five ancient marine terraces rise from the shoreline in the Santa Cruz area. Photo: Lesley Perg" width="224" height="162" /></a>Five ancient marine terraces rise from the shoreline in the Santa Cruz area. Photo: Lesley Perg[/caption]
 <p>
   <font size="5"><b>Geologists increase estimates of earthquake frequency</b></font>
 </p>

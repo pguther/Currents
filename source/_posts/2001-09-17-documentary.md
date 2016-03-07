@@ -9,7 +9,7 @@ images:
     caption: "'The Laughing Club of India' tells of converts who embrace the healing powers of laughter."
 ---
 
-[caption id="attachment_1392" align="alignnone" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/09/documentary.01-09-17.200.jpg"><img class="size-full wp-image-1392" src="http://localhost/mysite/wp-content/uploads/2001/09/documentary.01-09-17.200.jpg" alt="'The Laughing Club of India' tells of converts who embrace the healing powers of laughter." width="200" height="133" /></a>'The Laughing Club of India' tells of converts who embrace the healing powers of laughter.[/caption]
+[caption id="attachment_1392" align="alignright" width="200"]<a href="http://localhost/mysite/wp-content/uploads/2001/09/documentary.01-09-17.200.jpg"><img class="size-full wp-image-1392" src="http://localhost/mysite/wp-content/uploads/2001/09/documentary.01-09-17.200.jpg" alt="'The Laughing Club of India' tells of converts who embrace the healing powers of laughter." width="200" height="133" /></a>'The Laughing Club of India' tells of converts who embrace the healing powers of laughter.[/caption]
 <p>
   A provocative documentary about efforts to unionize dancers at a San Francisco strip club is among the films being shown at the third annual Santa Cruz Documentary Film &amp; Video Festival, which takes place September 25-28.
 </p>All screenings start at 7 p.m. at the Louden Nelson Community Center, 301 Center Street, in Santa Cruz. Admission is $3, and advance tickets will be available at the Civic Auditorium. The festival is cosponsored by the UC Santa Cruz Anthropology Department, the UCSC Division of Social Sciences, KUSP Radio, and Sasquatch Computer.

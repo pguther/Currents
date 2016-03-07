@@ -9,7 +9,7 @@ images:
     caption: ""
 ---
 
-[caption id="attachment_5555" align="alignnone" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/united.gif"><img class="size-full wp-image-5555" src="http://localhost/mysite/wp-content/uploads/2005/10/united.gif" alt="" width="230" height="70" /></a>[/caption]
+[caption id="attachment_5555" align="alignright" width="230"]<a href="http://localhost/mysite/wp-content/uploads/2005/10/united.gif"><img class="size-full wp-image-5555" src="http://localhost/mysite/wp-content/uploads/2005/10/united.gif" alt="" width="230" height="70" /></a>[/caption]
 <a name="content" id="content"></a>
 <p>
   Programs and services as varied as Big Brothers/Big Sisters, Suicide Prevention Services, the "Transitions" Hospice Caring Project, Walnut Avenue Women's Center, and the Santa Cruz AIDS Project are funded by the Santa Cruz County United Way.

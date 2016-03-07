@@ -9,7 +9,7 @@ images:
     caption: "UCSC researchers will investigate possible changes in the diets of killer whales over the past 100 years. Photo: Graeme Ellis"
 ---
 
-[caption id="attachment_4109" align="alignnone" width="260"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/killers.estes.04-08-23.jpg"><img class="size-full wp-image-4109" src="http://localhost/mysite/wp-content/uploads/2004/08/killers.estes.04-08-23.jpg" alt="UCSC researchers will investigate possible changes in the diets of killer whales over the past 100 years. Photo: Graeme Ellis" width="260" height="164" /></a>UCSC researchers will investigate possible changes in the diets of killer whales over the past 100 years. Photo: Graeme Ellis[/caption]
+[caption id="attachment_4109" align="alignright" width="260"]<a href="http://localhost/mysite/wp-content/uploads/2004/08/killers.estes.04-08-23.jpg"><img class="size-full wp-image-4109" src="http://localhost/mysite/wp-content/uploads/2004/08/killers.estes.04-08-23.jpg" alt="UCSC researchers will investigate possible changes in the diets of killer whales over the past 100 years. Photo: Graeme Ellis" width="260" height="164" /></a>UCSC researchers will investigate possible changes in the diets of killer whales over the past 100 years. Photo: Graeme Ellis[/caption]
 <p>
   Two UC Santa Cruz graduate students are among the winners of the 2004 Mia J. Tegner Memorial Research Grants in Marine Environmental History and Historical Marine Ecology. Seth Newsome, a Ph.D. candidate in Earth sciences, and Daniel Monson, a Ph.D. candidate in ecology and evolutionary biology, will use their $5,500 grant to investigate historical changes in the diets of killer whales during the past century.
 </p>
