@@ -8,6 +8,11 @@ baseurl: /
 source: ./source
 destination: ./build
 exclude: ['./source/jekyll-metadata']
+markdown: redcarpet
+
+redcarpet:
+    extensions: ["no_intra_emphasis"]
+
 
 paginate_path: /page/:num
 paginate: 100

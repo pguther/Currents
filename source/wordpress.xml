@@ -20,9 +20,11 @@ layout: null
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <wp:post_id>{{ post.post_id }}</wp:post_id>
         <description></description> 
-        <content:encoded><![CDATA[{{ post.content | deleteNonAscii }}]]></content:encoded>
+        <content:encoded><![CDATA[{{ post.content | decode }}]]></content:encoded>
         <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-        <dc:creator><![CDATA[{{ post.author }}]]></dc:creator>
+        {% for author in post.author %}
+        <dc:creator><![CDATA[{{ author }}]]></dc:creator>
+        {% endfor %}
         <wp:post_date>{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</wp:post_date>
         <wp:post_date_gmt>{{ post.date | date: "%Y-%m-%d %H:%M:%S" }}</wp:post_date_gmt>
         <wp:comment_status>closed</wp:comment_status>
@@ -34,11 +36,17 @@ layout: null
         <wp:post_type>post</wp:post_type>
         <wp:post_password></wp:post_password>
         <wp:is_sticky>0</wp:is_sticky>
-        <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+        <category domain="category" nicename="{{ uncategorized }}"><![CDATA[{{ Uncategorized }}]]></category>
         <wp:postmeta>
             <wp:meta_key>_edit_last</wp:meta_key>
             <wp:meta_value><![CDATA[1]]></wp:meta_value>
         </wp:postmeta>
+
+        <wp:postmeta>
+            <wp:meta_key>article_author</wp:meta_key>
+            <wp:meta_value><![CDATA[{{ post.article_author }}]]></wp:meta_value>
+        </wp:postmeta>
+
       </item>
 
       {% for image in post.images %}
@@ -47,7 +55,9 @@ layout: null
           <title>{{ image.image_id }}</title>
           <link></link>
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-          <dc:creator><![CDATA[{{ post.author }}]]></dc:creator>
+          {% for author in post.author %}
+          <dc:creator><![CDATA[{{ author }}]]></dc:creator>
+          {% endfor %}
           <guid isPermaLink="false">{{ image.file }}</guid>
           <description/>
           <content:encoded><![CDATA[]]></content:encoded>

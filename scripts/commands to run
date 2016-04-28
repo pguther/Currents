@@ -5,3 +5,5 @@ perl -p -i -e 's/.*>Email this story<.*//g' *.md
 perl -p -i -e 's/.*value="Email this story to a friend".*//g' *.md
 
 http://localhost/mysite/wp-content/uploads/1999/09/car.99-09-20.jpg
+
+perl -p -i -e 's/.*author: UCSC Currents.*\s*/author: Public Information Office/g' *.md

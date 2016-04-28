@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Child care registration begins"
+author: Public Information Office
+article_author: 
+post_id: 5324
+images:
+---
+
+<a name="content" id="content"></a>
+<p>
+  Registration for summer- and fall-quarter child care is now under way at Child Care Services. Parents must fill out a one-page application to register.
+</p>
+<p>
+  It is expected that the programs for children ages 4 to 12 will have the most openings.<br>
+  <br>
+  Child Care Services has programs for children ages 3 months to 13 years. Details are available online at <a href="http://www.housing.ucsc.edu/housing/child1.html">www.housing.ucsc.edu/housing/child1.html</a>.<br>
+  <br>
+</p><br>
+<form>
+  <input name="t1" size="-1" type="hidden"><input name="SUBMIT" type="submit" value="E-mail this story to a friend">
+</form>
+<p>
+  <a href="http://currents.ucsc.edu/">Return to Front Page</a>
+</p>
+<p><a href="http://www1.ucsc.edu/currents/04-05/01-17/brief-care.asp" title="Permalink to brief-care">Source</a></p>
